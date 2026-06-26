@@ -318,19 +318,23 @@ Sources payantes utiles si accès actif :
 
 Si Hakim demande explicitement d'utiliser Kloow et confirme que l'accès est disponible :
 
-1. Ouvrir l'application Mac **Kloow**.
-2. Chercher l'outil voulu dans Kloow : Semrush, TrendTrack, Ahrefs, Similarweb, Minea, etc.
-3. Cliquer sur **Launch** sur la carte de l'outil. Kloow peut ouvrir soit Chrome, soit un navigateur
-   dédié nommé **Kloow Browser**. Dans les tests du 25/06/2026, Semrush s'est ouvert dans
-   `Kloow Browser`, pas dans Chrome classique.
-4. Si l'outil ne semble pas apparaître dans Chrome, vérifier aussi l'application **Kloow Browser**.
+1. Ouvrir l'application Mac **Kloow**. Ne pas ouvrir Kloow dans un navigateur web classique.
+2. Si l'ecran de connexion apparait, cliquer sur **Login**.
+3. Chercher l'outil voulu dans la recherche interne Kloow : Semrush, Ahrefs, TrendTrack, Similarweb,
+   Minea, etc.
+4. Cliquer sur **Launch** sur la carte de l'outil.
+5. Utiliser la fenetre dediee **Kloow Browser** qui s'ouvre. Dans les tests du 26/06/2026, Semrush
+   s'est ouvert dans `Kloow Browser`, pas dans Chrome classique.
+6. Si Semrush n'est pas disponible, en maintenance, ou ne se lance pas, revenir dans l'application
+   Mac Kloow, chercher **Ahrefs**, puis cliquer sur **Launch** comme fallback.
+7. Si l'outil ne semble pas apparaitre, verifier aussi l'application **Kloow Browser**.
    Le bouton Kloow peut passer à **Stop**, ce qui indique que la session outil est lancée.
-5. Utiliser l'outil dans cette session uniquement.
-6. Extraire les données utiles dans le livrable : volumes, CPC, intent, concurrents, keywords,
+8. Utiliser l'outil dans cette session uniquement.
+9. Extraire les données utiles dans le livrable : volumes, CPC, intent, concurrents, keywords,
    tendances, pages, ads, gaps, opportunités.
-7. Ne pas enregistrer, exporter ou réutiliser d'identifiants. Ne pas modifier les paramètres du
+10. Ne pas enregistrer, exporter ou réutiliser d'identifiants. Ne pas modifier les paramètres du
    compte. Ne pas acheter d'options ni changer d'abonnement.
-8. Si Kloow, Kloow Browser/Chrome ou l'outil payant bloque l'accès, revenir au workflow gratuit et
+11. Si Kloow, Kloow Browser/Chrome ou l'outil payant bloque l'accès, revenir au workflow gratuit et
    signaler clairement la limite.
 
 Utilisation recommandée par outil :

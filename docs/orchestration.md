@@ -22,7 +22,8 @@ Chaque rôle a 10 sections fixes :
 - Competitor Intelligence, Business Economics, Product Scorer, Creative Ads, rédaction de contenu.
 
 **Séquentiel obligatoire — un seul opérateur à la fois** :
-- **AliExpress** et **Semrush via Kloow** : GUI partagée + anti-bot. Plusieurs sessions en parallèle aggravent le blocage (CAPTCHA, comportement robotique). Un agent, rythme humain.
+- **AliExpress** et **Semrush/Ahrefs via l'application Mac Kloow** : GUI partagée + anti-bot. Plusieurs sessions en parallèle aggravent le blocage (CAPTCHA, comportement robotique). Un agent, rythme humain.
+- Kloow se lance par l'application Mac Kloow, jamais par un site web Kloow dans un navigateur classique. Chemin : app Mac Kloow → Login si necessaire → recherche interne Semrush → Launch → Kloow Browser. Si Semrush est indisponible, chercher Ahrefs dans Kloow et Launch.
 - **Écritures Shopify sur une même ressource** (produits, thème, pages, menus). Les tâches disjointes peuvent se paralléliser (ex. A = contenu, B = tracking, C = QA), mais jamais deux écritures sur la même ressource.
 
 Règle simple : deux agents ne partagent jamais la même fenêtre (Kloow, navigateur, AliExpress) ni le même fichier.
@@ -57,7 +58,8 @@ Si Hakim demande "lance une recherche produit", l'orchestrateur doit comprendre 
 - creer un run avec `scripts/new_research.py` ;
 - ne pas choisir un seul produit ;
 - creer/remplir le Google Sheet ou declarer le blocage ;
-- utiliser Kloow/Semrush France si acces disponible ;
+- utiliser l'application Mac Kloow pour lancer Semrush France si acces disponible ;
+- utiliser Ahrefs via Kloow si Semrush est indisponible ;
 - chercher 20 a 50 idees brutes ;
 - scorer 5 produits minimum sauf justification ;
 - tenter AliExpress en serie pour chaque produit score ;

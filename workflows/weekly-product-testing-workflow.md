@@ -30,7 +30,9 @@ Livrables : `researches/<run>/research-run.md`, Google Sheet, puis dossiers `pro
 ## Mardi — Google Demand (Google Demand)
 
 - Verifier Google Search, Shopping et Trends France.
-- Utiliser Semrush France via Kloow si acces disponible ou attendu (sequentiel, session GUI unique).
+- Utiliser Semrush France via **l'application Mac Kloow** si acces disponible ou attendu (sequentiel, session GUI unique).
+- Ne pas ouvrir Kloow dans un navigateur classique. Chemin obligatoire : app Mac Kloow → Login si necessaire → recherche interne `semrush` → carte Semrush → Launch → Kloow Browser.
+- Si Semrush est indisponible dans Kloow, chercher `ahrefs` dans l'application Mac Kloow et cliquer Launch comme fallback.
 - Appliquer le seuil 10 000 recherches mensuelles France.
 - Classer Shopping-first, Search-first ou Both.
 - Couper tout produit dont la demande France est sous le seuil. Ne pas le sauver avec marge, fournisseur ou intuition.
@@ -75,7 +77,7 @@ Livrables : `suppliers.md`, `competitors.md`, `business-economics.md`.
 
 ## Exécution (parallèle / séquentiel / gates)
 
-- **Séquentiel** — session GUI unique, anti-bot : AliExpress (mercredi) et Semrush via Kloow (mardi). Un produit / un mot-clé à la fois.
+- **Séquentiel** — session GUI unique, anti-bot : AliExpress (mercredi) et Semrush/Ahrefs via l'application Mac Kloow (mardi). Un produit / un mot-clé à la fois.
 - **Parallélisable** : analyse concurrents et calcul éco (mercredi), scoring (jeudi).
 - **Gate 0 (jeudi) bloque le vendredi** : pas de `new_boutique.py` ni de build tant que Gate 0 n'est pas `valide par Hakim` dans `project-state.md`.
 
@@ -85,7 +87,8 @@ Le run est invalide si l'une de ces erreurs arrive sans justification explicite 
 
 - un seul produit analyse alors que Hakim a demande une recherche ;
 - aucune tentative Google Sheet ;
-- aucune tentative Kloow/Semrush France alors que l'acces est disponible ou attendu ;
+- aucune tentative application Mac Kloow → Semrush France alors que l'acces est disponible ou attendu ;
+- aucun fallback Ahrefs via Kloow si Semrush est indisponible ;
 - moins de 5 produits scores sans documenter pourquoi ;
 - AliExpress non tente pour les produits scores ;
 - livraison finale sans weekly report.

@@ -52,6 +52,8 @@ Le decision brief doit contenir la table `Verrous GO`. Sans cette table, Gate 0 
 
 ## Exécution (parallèle / séquentiel / gates)
 
-- **Séquentiel obligatoire** — session GUI unique, anti-bot : **AliExpress** (Supplier Sourcing) et **Semrush via Kloow** (Google Demand, si accès confirmé). Ne jamais lancer plusieurs sessions en parallèle sur ces outils.
+- **Séquentiel obligatoire** — session GUI unique, anti-bot : **AliExpress** (Supplier Sourcing) et **Semrush/Ahrefs via l'application Mac Kloow** (Google Demand, si accès confirmé). Ne jamais lancer plusieurs sessions en parallèle sur ces outils.
+- Kloow doit etre ouvert comme application Mac : Login si necessaire → recherche interne Semrush → Launch → Kloow Browser. Ne pas ouvrir Kloow dans un navigateur classique.
+- Si Semrush est indisponible dans Kloow, lancer Ahrefs via Kloow comme fallback.
 - **Parallélisable** — une fois la demande collectée : **Competitor Intelligence** et **Business Economics** (raisonnement sur des données déjà réunies).
 - **Gate 0 bloquante** : tant que `decision-brief.md` n'a pas la table `Verrous GO` et que `project-state.md` n'indique pas Gate 0 `valide par Hakim` (date + décision), le passage à la boutique reste interdit.

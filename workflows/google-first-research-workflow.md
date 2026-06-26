@@ -12,10 +12,11 @@ Valider que le produit a une demande captable via Google Ads France, pas seuleme
 2. Ouvrir Google Search France.
 3. Ouvrir Google Shopping.
 4. Verifier Google Trends France sur 5 ans.
-5. Utiliser Semrush France via Kloow si acces confirme (session GUI unique, sequentiel).
-6. Identifier le canal : Shopping-first, Search-first ou Both.
-7. Noter les requetes a exclure.
-8. Rejeter si le cluster transactionnel France est sous 10 000 recherches mensuelles.
+5. Utiliser Semrush France via l'application Mac Kloow si acces confirme (session GUI unique, sequentiel).
+6. Si Semrush est indisponible dans Kloow, utiliser Ahrefs via Kloow comme fallback.
+7. Identifier le canal : Shopping-first, Search-first ou Both.
+8. Noter les requetes a exclure.
+9. Rejeter si le cluster transactionnel France est sous 10 000 recherches mensuelles.
 
 ## Decision canal
 
@@ -33,5 +34,6 @@ Verdict maximum si Semrush/Keyword Planner est inaccessible : MAYBE, sauf si Goo
 
 ## Exécution
 
-- **Séquentiel** : Semrush via Kloow, un mot-clé à la fois, jamais en parallèle (session GUI unique). Fallback si indisponible : Google Trends + SERP + Shopping (verdict plafonné selon la règle ci-dessus).
+- **Séquentiel** : Semrush via application Mac Kloow, un mot-clé à la fois, jamais en parallèle (session GUI unique). Ne pas ouvrir Kloow dans un navigateur classique.
+- **Fallback Kloow** : si Semrush est indisponible, chercher Ahrefs dans l'application Mac Kloow et cliquer Launch. Fallback final si Semrush/Ahrefs indisponibles : Google Trends + SERP + Shopping (verdict plafonné selon la règle ci-dessus).
 - **Parallélisable** : la lecture SERP et la classification canal peuvent se faire en parallèle entre plusieurs produits.

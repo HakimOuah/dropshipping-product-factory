@@ -27,16 +27,36 @@ Utiliser uniquement si Hakim confirme un acces actif :
 
 Pour Hakim, Kloow/Semrush est attendu pour valider une recherche Google-first France quand l'acces est disponible. Si l'assistant ne l'utilise pas, il doit expliquer pourquoi.
 
-Protocole :
+Regle critique : **Kloow se lance via l'application Mac Kloow, jamais en tapant Kloow dans un navigateur web classique**. Ouvrir `kloow.com` ou chercher Kloow dans Google est une mauvaise execution.
 
-1. Ouvrir Kloow.
-2. Lancer l'outil voulu.
-3. Verifier si la session s'ouvre dans Chrome ou Kloow Browser.
-4. Dans Semrush, regler la base/pays sur France avant de lire les chiffres.
-5. Extraire uniquement les donnees utiles : volume, CPC, intent, KD, variations, questions, tendance.
-6. Ne jamais utiliser United States pour valider la France.
-7. Ne pas stocker d'identifiants.
-8. Ne pas modifier abonnement ou parametres compte.
+### Protocole application Mac
+
+1. Ouvrir l'application Mac **Kloow**.
+2. Si l'ecran de connexion apparait, cliquer sur **Login**.
+3. Une fois dans Kloow, utiliser la barre de recherche interne et taper `semrush`.
+4. Ouvrir la carte **Semrush**.
+5. Cliquer sur **Launch**.
+6. Attendre l'ouverture de la fenetre dediee **Kloow Browser**. C'est dans cette fenetre qu'il faut utiliser Semrush.
+7. Dans Semrush, regler la base/pays sur **France** avant de lire les chiffres.
+8. Extraire uniquement les donnees utiles : volume, CPC, intent, KD, variations, questions, tendance.
+9. Ne jamais utiliser United States pour valider la France.
+10. Ne pas stocker d'identifiants.
+11. Ne pas modifier abonnement ou parametres compte.
+
+### Fallback Ahrefs via Kloow
+
+Si Semrush n'est pas disponible dans Kloow, est en maintenance, ne se lance pas, ou bloque l'acces :
+
+1. Revenir dans l'application Mac **Kloow**.
+2. Chercher `ahrefs` dans la barre de recherche interne.
+3. Ouvrir la carte **Ahrefs**.
+4. Cliquer sur **Launch**.
+5. Utiliser Ahrefs dans **Kloow Browser** si la fenetre s'ouvre.
+6. Regler le pays sur **France** quand l'outil le permet.
+7. Relever volume, difficulte, CPC si disponible, variations et pages concurrentes.
+8. Documenter dans le livrable : `Semrush indisponible -> fallback Ahrefs via Kloow`.
+
+Si Semrush et Ahrefs sont tous deux indisponibles, documenter le blocage et revenir au workflow gratuit Google Trends + SERP + Shopping. Le verdict reste plafonne par les regles Google Demand.
 
 ## Google Sheet
 
