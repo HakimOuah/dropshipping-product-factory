@@ -1,0 +1,41 @@
+{
+  "project": "",
+  "gate": "Gate 1 - a valider par Hakim",
+  "brand": {
+    "name": "",
+    "baseline": "",
+    "positioning": "",
+    "promise": "",
+    "tone": "",
+    "range_level": ""
+  },
+  "persona": {
+    "primary": "",
+    "problem_or_desire": "",
+    "objections": []
+  },
+  "colors": {
+    "primary": "",
+    "secondary": "",
+    "accent": "",
+    "background": "",
+    "text": ""
+  },
+  "typography": {
+    "heading": "",
+    "body": ""
+  },
+  "offer": {
+    "main_product": "",
+    "price_ttc": "",
+    "guarantee": "",
+    "bundle": "",
+    "cross_sell": ""
+  },
+  "compliance": {
+    "forbidden_claims": [],
+    "proofs_allowed": [],
+    "notes": ""
+  }
+}
+

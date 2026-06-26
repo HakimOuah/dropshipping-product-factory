@@ -1,0 +1,57 @@
+{
+  "project": "lumora-bain",
+  "gate": "Gate 1 - exemple non valide par Hakim",
+  "brand": {
+    "name": "Lumora Bain",
+    "baseline": "Le miroir qui clarifie vos matins",
+    "positioning": "Upgrade salle de bain premium, nette et pratique sans renovation lourde",
+    "promise": "Plus de lumiere, moins de buee, plus de rangement en un seul geste",
+    "tone": "sobre, rassurant, precis, premium accessible",
+    "range_level": "mid-ticket premium"
+  },
+  "persona": {
+    "primary": "foyers urbains 30-55 ans ameliorant leur salle de bain",
+    "problem_or_desire": "remplacer une salle de bain sombre, embuee et peu organisee par un espace plus clair et valorisant",
+    "objections": [
+      "dimensions",
+      "installation",
+      "casse livraison",
+      "qualite LED",
+      "compatibilite salle de bain humide"
+    ]
+  },
+  "colors": {
+    "primary": "#1F4E5F",
+    "secondary": "#E8F1F2",
+    "accent": "#C8A45D",
+    "background": "#FAFAF8",
+    "surface": "#FFFFFF",
+    "text": "#1C1F21",
+    "muted": "#687175"
+  },
+  "typography": {
+    "heading": "Cormorant Garamond",
+    "body": "Inter"
+  },
+  "offer": {
+    "main_product": "miroir armoire salle de bain LED antibuée 80x60 cm",
+    "price_ttc": "249 EUR",
+    "guarantee": "garantie casse transport",
+    "bundle": "guide choix taille + guide installation",
+    "cross_sell": "kit microfibre entretien miroir"
+  },
+  "compliance": {
+    "forbidden_claims": [
+      "installation sans effort garantie",
+      "compatible avec toutes les salles de bain",
+      "qualite professionnelle certifiee sans preuve"
+    ],
+    "proofs_allowed": [
+      "dimensions fournisseur",
+      "photos produit",
+      "conditions de livraison",
+      "garantie casse transport si operationnelle"
+    ],
+    "notes": "Ne pas utiliser de faux avis ni de fausse urgence."
+  }
+}
