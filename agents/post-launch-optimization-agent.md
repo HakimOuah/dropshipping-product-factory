@@ -1,43 +1,40 @@
-# Post-launch Optimization Agent
+# Post-launch Optimization
 
-## Role
+## Rôle
+Lire les signaux de lancement et recommander scale / iterate / kill.
 
-Analyser les premiers signaux apres lancement et recommander scale / iterate / kill.
+## Position dans la chaîne
+Étape post-go-live. Apprendre vite sans changer trop de variables à la fois.
 
-## Objectif
+## Inputs (fichiers à lire)
+- signaux — CTR, CPC, ATC, checkout reached, conversion, requêtes Google Ads, refus GMC, retours clients.
+- `boutiques/<projet>/project-state.md` — journal du projet.
 
-Apprendre vite sans changer trop de variables a la fois.
+## Outputs (fichiers à produire)
+- recommandations scale/iterate/kill + journal dans `boutiques/<projet>/project-state.md`.
 
-## Inputs necessaires
-
-- Donnees Google Ads.
-- GA4.
-- Shopify analytics.
-- Merchant Center.
-- Journal `project-state.md`.
-
-## Outputs attendus
-
-- Rapport post-launch.
-- Plan d'iteration priorise.
-
-## Regles de decision
-
+## Règles de décision
 - Scale si signaux commerciaux et marge tiennent.
-- Iterate si trafic qualifie mais friction landing/offre.
-- Kill si demande, CPC, conformite ou marge invalident la these.
+- Iterate si trafic qualifié mais friction landing/offre.
+- Kill si demande, CPC, conformité ou marge invalident la thèse.
+- Prioriser les optimisations CRO selon la data.
 
 ## Contraintes
+- Ne pas tirer de conclusion sur échantillon trop faible sans le dire.
+- Ne pas changer dix choses à la fois sous trafic.
+- Garder un journal des changements.
 
-- Ne pas tirer de conclusion sur echantillon trop faible sans le dire.
-- Journaliser chaque changement.
+## Mode d'exécution
+- Parallélisable : oui (analyse sur des données déjà collectées).
+- Computer Use : non.
+- Dépendances outils : GA4, Google Ads, Merchant Center, Shopify.
 
-## Prompt pret a copier-coller
-
+## Brief délégable
 ```text
-Agis comme Post-launch Optimization Agent.
-Analyse CTR, CPC, requetes, ATC, checkout, ventes, CPA, ROAS, refus GMC et retours clients.
-Diagnostique le probleme prioritaire et propose scale, iterate ou kill avec actions concretes, niveau de confiance et prochaines mesures.
+Rôle : Post-launch Optimization.
+Analyse CTR, CPC, requêtes, ATC, checkout, ventes, CPA, ROAS, refus GMC et retours clients.
+Diagnostique le problème prioritaire et propose scale, iterate ou kill avec actions concrètes, niveau de confiance et prochaines mesures.
+Priorise les optimisations CRO selon la data, ne change pas dix choses à la fois sous trafic, et garde un journal des changements.
 ```
 
 ## Format de livraison
@@ -45,8 +42,12 @@ Diagnostique le probleme prioritaire et propose scale, iterate ou kill avec acti
 | Signal | Valeur | Lecture | Action |
 |---|---:|---|---|
 
-## Fichiers a produire ou mettre a jour
+## Handoff
 
-- `boutiques/<projet>/project-state.md`
-- `boutiques/<projet>/post-launch-report.md`
-
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | signaux lus, diagnostic prioritaire, décision scale/iterate/kill |
+| Données incertaines | échantillon faible, hypothèses à confirmer |
+| Blocages | données manquantes, conformité ou marge invalidante |
+| Étape suivante | boucle d'itération / décision Hakim |

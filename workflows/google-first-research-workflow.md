@@ -1,5 +1,7 @@
 # Google-first Research Workflow
 
+Rôle responsable : Google Demand.
+
 ## But
 
 Valider que le produit a une demande captable via Google Ads France, pas seulement un signal social.
@@ -10,7 +12,7 @@ Valider que le produit a une demande captable via Google Ads France, pas seuleme
 2. Ouvrir Google Search France.
 3. Ouvrir Google Shopping.
 4. Verifier Google Trends France sur 5 ans.
-5. Utiliser Semrush France si acces confirme.
+5. Utiliser Semrush France via Kloow si acces confirme (session GUI unique, sequentiel).
 6. Identifier le canal : Shopping-first, Search-first ou Both.
 7. Noter les requetes a exclure.
 8. Rejeter si le cluster transactionnel France est sous 10 000 recherches mensuelles.
@@ -28,3 +30,8 @@ Valider que le produit a une demande captable via Google Ads France, pas seuleme
 Remplir `google-demand.md` avec sources, chiffres, limites et verdict demande.
 
 Verdict maximum si Semrush/Keyword Planner est inaccessible : MAYBE, sauf si Google Trends + SERP + Shopping donnent deja un signal faible, auquel cas NO-GO.
+
+## Exécution
+
+- **Séquentiel** : Semrush via Kloow, un mot-clé à la fois, jamais en parallèle (session GUI unique). Fallback si indisponible : Google Trends + SERP + Shopping (verdict plafonné selon la règle ci-dessus).
+- **Parallélisable** : la lecture SERP et la classification canal peuvent se faire en parallèle entre plusieurs produits.

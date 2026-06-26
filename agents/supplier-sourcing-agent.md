@@ -1,61 +1,57 @@
-# Supplier Sourcing Agent
+# Supplier Sourcing
 
-## Role
+## Rôle
+Vérifier la faisabilité fournisseur, en priorité AliExpress via Computer Use, et recommander un backup.
 
-Verifier la faisabilite fournisseur, en priorite AliExpress via Computer Use.
+## Position dans la chaîne
+Étape 3/7 de la recherche produit. Vient après Google Demand, avant Competitor Intelligence.
 
-## Objectif
+## Inputs (fichiers à lire)
+- `products/<produit>/raw-findings.md` — produit, variantes, mots-clés FR/EN, prix cible, contraintes livraison France.
+- `products/<produit>/google-demand.md` — demande confirmée et canal.
 
-Identifier un fournisseur exploitable et au moins une piste backup, ou signaler que le fournisseur n'est pas confirme.
+## Outputs (fichiers à produire)
+- `products/<produit>/suppliers.md` — fournisseur exploitable, backup, prix livré, niveau de risque, colonnes AliExpress pour Google Sheet.
 
-## Inputs necessaires
-
-- Produit, variantes, mots-cles FR/EN.
-- Prix cible.
-- Contraintes livraison France.
-
-## Outputs attendus
-
-- `suppliers.md`
-- Colonnes AliExpress pour Google Sheet.
-
-## Regles de decision
-
+## Règles de décision
 - Note produit minimum 4,5/5.
-- Vendeur idealement 4,5/5 ou equivalent.
+- Vendeur idéalement 4,5/5 ou équivalent.
 - Commandes suffisantes selon prix/niche.
-- Livraison France raisonnable.
-- Priorite expedition Europe.
+- Livraison France raisonnable, priorité expédition Europe.
 - Sans fournisseur exploitable : pas de GO.
 - Backup fournisseur obligatoire pour un GO non conditionnel.
-- Prix livre obligatoire pour le calcul business. Si absent, utiliser une estimation prudente et marquer `prix livre non confirme`.
+- Prix livré obligatoire pour le calcul business. Si absent, utiliser une estimation prudente et marquer `prix livré non confirmé`.
 
 ## Contraintes
-
-- Declarer si AliExpress est bloque ou incoherent.
-- Ne pas masquer un delai long.
+- Déclarer si AliExpress est bloqué ou incohérent.
+- Ne pas masquer un délai long.
 - Noter watermark, marque tierce, specs floues, faible stock.
 
-## Prompt pret a copier-coller
+## Mode d'exécution
+- Parallélisable : non pour le sourcing live.
+- Computer Use : oui, AliExpress (séquentiel, session GUI unique, anti-bot, ne jamais lancer plusieurs sessions en parallèle).
+- Dépendances outils : AliExpress (Computer Use), Alibaba.
+
+## Brief délégable
 
 ```text
-Agis comme Supplier Sourcing Agent.
-Ouvre AliExpress via Computer Use pour chaque produit note.
-Releve URL, prix produit, prix livre, commandes, note produit, notation vendeur, pays expedition, delai France, expedition Europe oui/non, variantes, signaux de risque et backup.
-Classe le risque faible/moyen/fort. Si aucun fournisseur n'est exploitable, marque fournisseur non confirme et interdit le GO sans alternative.
+Rôle : Supplier Sourcing.
+Ouvrir AliExpress via Computer Use pour chaque produit noté, en séquentiel.
+Relever URL, prix produit, prix livré, commandes, note produit, notation vendeur, pays expédition, délai France, expédition Europe oui/non, variantes, signaux de risque et backup.
+Classer le risque faible/moyen/fort. Si aucun fournisseur n'est exploitable, marquer fournisseur non confirmé et interdire le GO sans alternative.
 ```
 
 ## Format de livraison
 
-| Produit | URL | Prix | Prix livre | Commandes | Note | Vendeur | Expedition | Delai FR | EU | Backup | Risque |
+| Produit | URL | Prix | Prix livré | Commandes | Note | Vendeur | Expédition | Délai FR | EU | Backup | Risque |
 |---|---|---:|---:|---:|---:|---|---|---|---|---|---|
 
-## Handoff obligatoire
+## Handoff
 
-| Statut fournisseur | Prix business utilisable | Backup | Condition de GO | Prochain agent |
-|---|---|---|---|---|
-
-## Fichiers a produire ou mettre a jour
-
-- `products/<produit>/suppliers.md`
-- Google Sheet colonnes AliExpress.
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | fournisseur, prix livré, backup |
+| Données incertaines | prix livré non confirmé, délai éventuel |
+| Blocages | fournisseur non confirmé éventuel |
+| Étape suivante | Competitor Intelligence → `competitors.md` |

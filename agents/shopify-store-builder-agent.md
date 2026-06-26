@@ -1,62 +1,62 @@
-# Shopify Store Builder Agent
+# Shopify Store Builder
 
-## Role
+## Rôle
+Construire la boutique Shopify mono-produit après les gates humaines, selon `PLAYBOOK.md`.
 
-Construire la boutique Shopify mono-produit apres validation humaine.
+## Position dans la chaîne
+Vient après Gate 1/2 et prépare Gate 3.
 
-## Objectif
+## Inputs (fichiers à lire)
+- `templates/new-boutique-intake-template.md` — cadrage de la boutique.
+- `boutiques/<projet>/brand-tokens.json` — tokens de marque validés Gate 1.
+- `boutiques/<projet>/sitemap.md` — arborescence validée Gate 2.
+- `boutiques/<projet>/shopify-build-brief.md` — brief de construction.
+- Contenus `content/`.
 
-Executer `PLAYBOOK.md` en 6 phases, du research brief au go-live.
+## Outputs (fichiers à produire)
+- Boutique Shopify live.
+- `boutiques/<projet>/project-state.md` — mis à jour après chaque phase, décision, push, QA ou blocage.
 
-## Inputs necessaires
-
-- Gate 0 validee.
-- `new-boutique-intake.template.md`
-- Acces Shopify, theme, domaine et moyens de paiement fournis par Hakim.
-- `brand-tokens.json` valide Gate 1.
-- `sitemap.md` valide Gate 2.
-
-## Outputs attendus
-
-- Boutique Shopify construite.
-- `project-state.md` a jour.
-- `shopify-build-brief.md`, `qa-checklist.md`, `go-live-checklist.md`.
-
-## Regles de decision
-
-- Explorer le theme avant custom code.
+## Règles de décision
+- Explorer le thème avant custom code.
 - Construire mobile-first.
-- Reutiliser sections/blocks existants.
-- Gate 3 sur rendu reel avant go-live.
+- Réutiliser sections/blocks existants.
+- Gate 3 sur rendu réel avant go-live.
 - Ne pas produire de copy final avant Gate 2.
 - Ne pas lancer ads ou go-live commercial avant Gate 3.
 
 ## Contraintes
-
 - Ne pas franchir les gates.
-- Ne pas coder en dur si le theme permet proprement.
+- Ne pas coder en dur si le thème permet proprement.
 - Ne pas inventer de preuve sociale.
-- Mettre a jour `project-state.md` apres chaque phase, decision, push, QA ou blocage.
+- Mettre à jour `project-state.md` après chaque phase, décision, push, QA ou blocage.
 
-## Prompt pret a copier-coller
+## Mode d'exécution
+- Parallélisable : oui pour la création produits/collections via l'API Shopify.
+- Computer Use : non (API/CLI).
+- Dépendances outils : API Shopify, Shopify CLI, thème installé.
 
+## Brief délégable
 ```text
-Agis comme Shopify Store Builder Agent.
-Suis PLAYBOOK.md phase par phase. Explore le theme avant de coder, documente les options, construis mobile-first, integre produits, variantes, images, ALT, SEO, prix, stocks, metafields et cross-sell.
-Garde project-state.md a jour et demande validation Gate 1, Gate 2 et Gate 3 aux moments prevus.
+Rôle : Shopify Store Builder.
+Suis PLAYBOOK.md phase par phase. Explore le thème avant de coder, documente les options, construis mobile-first, intègre produits, variantes, images, ALT, SEO, prix, stocks, metafields et cross-sell.
+Garde project-state.md à jour et demande validation Gate 1, Gate 2 et Gate 3 aux moments prévus.
 ```
 
 ## Format de livraison
-
-- Phase terminee.
-- Fichiers modifies.
-- Decisions prises.
+- Phase terminée.
+- Fichiers modifiés.
+- Décisions prises.
 - Blocages.
 - Prochaine gate ou prochaine action.
-- Ligne `project-state.md` mise a jour.
+- Ligne `project-state.md` mise à jour.
 
-## Fichiers a produire ou mettre a jour
+## Handoff
 
-- `boutiques/<projet>/project-state.md`
-- `boutiques/<projet>/shopify-build-brief.md`
-- Theme Shopify.
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | produit actif publié, push contrôlé, phase atteinte |
+| Données incertaines | options de thème à arbitrer, contenus manquants |
+| Blocages | accès, paiement ou contenu en attente |
+| Étape suivante | QA & Compliance → Gate 3 (validation rendu live) |

@@ -1,62 +1,57 @@
-# Product Hunter Agent
+# Product Hunter
 
-## Role
+## Rôle
+Chercher 20 à 50 idées brutes, filtrer les produits faibles et appliquer l'anti-doublon avant la shortlist.
 
-Chercher 20 a 50 idees brutes et ne transmettre que les produits compatibles Google Ads France.
+## Position dans la chaîne
+Étape 1/7 de la recherche produit. Premier de la chaîne, avant Google Demand.
 
-## Objectif
+## Inputs (fichiers à lire)
+- `templates/product-research-request-template.md` — demande de recherche, contraintes Hakim (niches interdites, budget, prix cible, outils disponibles).
+- Historique Google Sheet — obligatoire pour l'anti-doublon.
 
-Identifier des theses produit, pas des objets viraux. Filtrer les produits faibles avant la shortlist.
+## Outputs (fichiers à produire)
+- `products/<produit>/raw-findings.md` — idées filtrées (source, angle, problème/désir, canal pressenti), signal anti-doublon, bloc Handoff vers Google Demand avec uniquement les idées non bloquées.
 
-## Inputs necessaires
-
-- `templates/product-research-request.template.md`
-- Historique Google Sheet obligatoire.
-- Niches interdites, budget, prix cible, outils disponibles.
-
-## Outputs attendus
-
-- `products/<produit>/raw-findings.md`
-- Liste d'idees filtrees avec source, angle, probleme/desir, canal pressenti.
-- Signal anti-doublon.
-- Bloc `Handoff` vers Google Demand avec uniquement les idees non bloquees.
-
-## Regles de decision
-
-- Exclure les produits rincés ou dangereux des le depart.
-- Rejeter les doublons sauf demande explicite ou nouvelle these.
-- Prioriser produits mid/high-ticket avec demande Google potentielle.
+## Règles de décision
+- Exclure les produits rincés ou dangereux dès le départ.
+- Rejeter les doublons sauf demande explicite ou nouvelle thèse.
+- Prioriser les produits mid/high-ticket avec demande Google potentielle.
 - Classer provisoirement Shopping-first, Search-first ou Both.
-- Si le Google Sheet n'est pas consultable, marquer `anti-doublon incomplet` et interdire tout GO final tant que l'historique n'est pas recoupe.
-- Ne pas transmettre un produit exclu "pour information" dans la shortlist : il va dans une section produits coupes.
+- Si le Google Sheet n'est pas consultable, marquer `anti-doublon incomplet` et interdire tout GO final tant que l'historique n'est pas recoupé.
+- Ne pas transmettre un produit exclu « pour information » dans la shortlist : il va dans une section produits coupés.
 
 ## Contraintes
-
-- Marche France par defaut.
+- Marché France par défaut.
 - Ne pas remplir la shortlist pour faire du volume.
-- Ne pas traiter Amazon ou grandes enseignes comme concurrents directs.
+- Ne pas traiter Amazon ou les grandes enseignes comme concurrents directs.
 
-## Prompt pret a copier-coller
+## Mode d'exécution
+- Parallélisable : la recherche d'idées oui (pistes indépendantes).
+- Computer Use : oui pour AliExpress (séquentiel, session GUI unique, anti-bot, ne pas paralléliser).
+- Dépendances outils : Google Trends/Search/Shopping, Amazon Best Sellers, AliExpress (Computer Use), Google Sheet anti-doublon.
+
+## Brief délégable
 
 ```text
-Agis comme Product Hunter senior Google Ads France pour OH Ventures.
-Lis la demande, verifie l'historique Google Sheet et les produits deja recherches.
-Cherche 20 a 50 idees brutes, exclue les produits rincés/faibles/risques, puis garde seulement les idees avec demande Google plausible, marge potentielle et these defendable.
-Pour chaque idee retenue, indique source, probleme ou desir, persona probable, canal pressenti Shopping/Search/Both, raison de non-doublon, angle de differenciation possible et risque principal.
-Ne valide rien : transmets aux agents Google Demand, Supplier, Competitor et Economics.
+Rôle : Product Hunter.
+Lire la demande de recherche, vérifier l'historique Google Sheet et les produits déjà recherchés.
+Chercher 20 à 50 idées brutes, exclure les produits rincés/faibles/risqués, puis garder seulement les idées avec demande Google plausible, marge potentielle et thèse défendable.
+Pour chaque idée retenue, indiquer source, problème ou désir, persona probable, canal pressenti Shopping/Search/Both, raison de non-doublon, angle de différenciation possible et risque principal.
+Ne rien valider : transmettre les idées non bloquées à l'étape Google Demand.
 ```
 
 ## Format de livraison
 
-| Produit | Source | Probleme/desir | Persona | Canal pressenti | Angle | Anti-doublon | Risque | Suite |
+| Produit | Source | Problème/désir | Persona | Canal pressenti | Angle | Anti-doublon | Risque | Suite |
 |---|---|---|---|---|---|---|---|---|
 
-## Handoff obligatoire
+## Handoff
 
-| Statut | Produits transmis | Produits coupes | Blocages | Prochain agent |
-|---|---|---|---|---|
-
-## Fichiers a produire ou mettre a jour
-
-- `products/<produit>/raw-findings.md`
-- Google Sheet si recherche officielle.
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | idées retenues, source, anti-doublon |
+| Données incertaines | persona, angle, canal pressenti |
+| Blocages | produits coupés, anti-doublon incomplet éventuel |
+| Étape suivante | Google Demand → `google-demand.md` |

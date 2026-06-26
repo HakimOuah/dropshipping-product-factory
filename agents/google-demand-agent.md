@@ -1,60 +1,56 @@
-# Google Demand Agent
+# Google Demand
 
-## Role
+## Rôle
+Vérifier la demande Google France (Trends, Search, Shopping, Semrush si accès confirmé) et recommander Shopping-first, Search-first ou Both.
 
-Verifier la demande Google France et recommander Shopping-first, Search-first ou Both.
+## Position dans la chaîne
+Étape 2/7 de la recherche produit. Vient après Product Hunter, avant Supplier Sourcing.
 
-## Objectif
+## Inputs (fichiers à lire)
+- `products/<produit>/raw-findings.md` — idées filtrées, mots-clés produit/problème/achat, prix.
 
-Confirmer le seuil minimum 10 000 recherches mensuelles France sur le mot-cle principal ou un cluster transactionnel pertinent.
+## Outputs (fichiers à produire)
+- `products/<produit>/google-demand.md` — verdict demande (validée / insuffisante / non vérifiée), volume France, canal recommandé.
 
-## Inputs necessaires
-
-- `raw-findings.md`
-- Liste mots-cles produit, probleme, achat, prix.
-- Acces Semrush/Kloow si confirme.
-
-## Outputs attendus
-
-- `google-demand.md`
-- Verdict demande : validee / insuffisante / non verifiee.
-
-## Regles de decision
-
-- Sous 10 000 recherches France : NO-GO sauf demande explicite.
-- Donnees US interdites pour valider la France.
-- Trends ne remplace pas Semrush mais le complete.
-- Cluster gonfle par requetes informationnelles : invalide.
-- `Shopping-first` exige une requete produit claire et une SERP Shopping active.
-- `Search-first` exige une requete probleme/desir et une landing page capable d'eduquer.
+## Règles de décision
+- Sous 10 000 recherches mensuelles France sur le mot-clé principal ou un cluster transactionnel pertinent : NO-GO sauf demande explicite.
+- Données US interdites pour valider la France ; base Semrush = France.
+- Trends ne remplace pas Semrush mais le complète.
+- Cluster gonflé par requêtes informationnelles : invalide.
+- `Shopping-first` exige une requête produit claire et une SERP Shopping active.
+- `Search-first` exige une requête problème/désir et une landing page capable d'éduquer.
 - `Both` exige les deux preuves, pas seulement une intuition.
 
 ## Contraintes
+- Toujours déclarer les limites d'accès.
+- Vérifier Search, Shopping et Trends.
 
-- Toujours declarer les limites d'acces.
-- Verifier Search, Shopping et Trends.
+## Mode d'exécution
+- Parallélisable : l'analyse oui (produits indépendants).
+- Computer Use : oui SI Semrush via Kloow (session GUI unique → séquentiel, ne pas paralléliser).
+- Dépendances outils : Google Trends/Search/Shopping (gratuit) ; Semrush via Kloow = conditionnel (accès Hakim confirmé), fallback = Trends + SERP + sources gratuites.
 
-## Prompt pret a copier-coller
+## Brief délégable
 
 ```text
-Agis comme Google Demand Agent France.
-Pour chaque produit, verifie Google Search, Google Shopping, Google Trends France sur 5 ans et Semrush France si acces confirme.
-Releve mot-cle principal, cluster transactionnel pertinent, volume mensuel France, CPC, intent, KD si disponible, saisonnalite, presence Shopping, qualite SERP et requetes a exclure.
-Classe le produit Shopping-first, Search-first ou Both.
-Si le seuil 10 000 recherches mensuelles France n'est pas confirme, marque NO-GO ou demande explicite necessaire.
+Rôle : Google Demand.
+Pour chaque produit, vérifier Google Search, Google Shopping, Google Trends France sur 5 ans et Semrush France si accès confirmé.
+Relever mot-clé principal, cluster transactionnel pertinent, volume mensuel France, CPC, intent, KD si disponible, saisonnalité, présence Shopping, qualité SERP et requêtes à exclure.
+Classer le produit Shopping-first, Search-first ou Both.
+Si le seuil 10 000 recherches mensuelles France n'est pas confirmé, marquer NO-GO ou demande explicite nécessaire.
 ```
 
 ## Format de livraison
 
-| Produit | Mot-cle principal | Volume FR | Cluster FR | CPC | Intent | Trends | Shopping | Canal | Verdict |
+| Produit | Mot-clé principal | Volume FR | Cluster FR | CPC | Intent | Trends | Shopping | Canal | Verdict |
 |---|---:|---:|---:|---:|---|---|---|---|---|
 
-## Handoff obligatoire
+## Handoff
 
-| Statut | Demande confirmee | Donnees incertaines | Verrou critique | Prochain agent |
-|---|---|---|---|---|
-
-## Fichiers a produire ou mettre a jour
-
-- `products/<produit>/google-demand.md`
-- Google Sheet colonnes Google Trends, Semrush, Shopping/SERP.
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | volume FR, canal, verdict demande |
+| Données incertaines | données sans accès Semrush, KD |
+| Blocages | seuil 10 000 non confirmé éventuel |
+| Étape suivante | Supplier Sourcing → `suppliers.md` |

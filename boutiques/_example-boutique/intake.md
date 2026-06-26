@@ -10,7 +10,7 @@
 | Moyens de paiement | non fait | Hakim |
 | Acces admin | non fourni | Hakim |
 | Validation produit Gate 0 | non validee | Hakim |
-| Validation fournisseur | non faite | Hakim/Codex |
+| Validation fournisseur | non faite | Hakim/assistant |
 | Commande echantillon | non faite | Hakim |
 | Logo final | non fait | Hakim |
 

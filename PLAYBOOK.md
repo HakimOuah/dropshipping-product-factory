@@ -1,7 +1,6 @@
 # PLAYBOOK — Création d'une boutique Shopify mono-produit
 
-Réf. design complet : `docs/superpowers/specs/2026-06-06-pipeline-creation-boutique-design.md`
-(dépôt Bien Brûlé). Suivre les 6 phases. 3 portes de validation humaine.
+Suivre les 6 phases. 3 portes de validation humaine.
 
 ## Principes obligatoires — mindset marketeur / développeur / e-commerçant
 
@@ -37,19 +36,19 @@ Réf. design complet : `docs/superpowers/specs/2026-06-06-pipeline-creation-bout
   mieux.
 - **Un site doit donner envie et rassurer** : design premium cohérent, hiérarchie claire, images
   utiles, CTA lisible, réassurance proche de la décision, FAQ orientée freins d'achat.
-- **Autonomie entre validations** : Codex agit comme marketeur, développeur et e-commerçant. Hakim
-  valide les portes majeures ; Codex propose et exécute les détails opérationnels.
+- **Autonomie entre validations** : l'assistant agit comme marketeur, développeur et e-commerçant. Hakim
+  valide les portes majeures ; l'assistant propose et exécute les détails opérationnels.
 
 ## Pré-requis manuels (avant de démarrer)
 - Boutique Shopify créée (pas d'API) + thème Self Made/Fullstack installé + Shopify CLI connecté.
-- Produit/fournisseur identifié ou piste produit fournie. Si des informations manquent, Codex les
+- Produit/fournisseur identifié ou piste produit fournie. Si des informations manquent, l'assistant les
   recherche ou les propose, puis les marque comme hypothèses à valider.
 
 ## Démarrage
 `python3 scripts/new_boutique.py <nom-projet>` → crée le dossier projet avec livrables vierges.
 
 Avant de démarrer, demander/remplir le brief d'entrée :
-`templates/new-boutique-intake.template.md`.
+`templates/new-boutique-intake-template.md`.
 
 Les champs peuvent rester vides quand ils doivent être déterminés par l'analyse
 (concurrents, angle marketing, prix, positionnement, etc.).
@@ -61,7 +60,7 @@ hypothèses, blocages, accès Shopify, IDs/handles, assets finaux et prochaine a
 - 1a Découverte concurrents : partir du/des concurrent(s) fourni(s), élargir par recherche web,
   shortlist 4-6 (PAS de gate de validation). Écarter les grandes marketplaces/enseignes généralistes
   du benchmark principal ; les lister séparément seulement comme contexte prix/SERP si utile.
-- 1b Analyse : recherche web + navigateur (Claude in Chrome). **Semrush désactivé** par défaut
+- 1b Analyse : recherche web + navigateur piloté. **Semrush désactivé** par défaut
   (n'activer que sur confirmation d'un essai actif).
 - 1c Extraction fournisseur : specs/images/variantes.
 - 1d Persona & psychologie d'achat : segmenter le client cible, contexte d'usage, douleurs,
@@ -87,7 +86,7 @@ hypothèses, blocages, accès Shopify, IDs/handles, assets finaux et prochaine a
 - Offre : définir la promesse d'achat, le prix psychologique, l'ancrage éventuel, les garanties,
   le bundle ou cross-sell, les bonus sobres et les raisons concrètes d'acheter chez nous plutôt que
   chez un concurrent.
-- Valider : `python3 scripts/validate_tokens.py <projet>/brand-tokens.json`
+- Valider `brand-tokens.json` : JSON bien formé, couleurs hex valides, champs requis remplis (nom, palette, typo, offre).
 - **PORTE 1** : l'utilisateur choisit le nom + valide palette/typo.
 - Manuel : logo.
 
@@ -107,7 +106,7 @@ hypothèses, blocages, accès Shopify, IDs/handles, assets finaux et prochaine a
 
 ## Phase 4 — Contenus → `content/` + `shot-list.md`
 - Copywriting (ton des tokens, 1 CTA/page), fiches produit conformes GMC, SEO on-page,
-  ALT + SKU (voir `reference/naming-conventions.md`).
+  ALT + SKU (voir `docs/naming-conventions.md`).
 - Copy e-commerce : partir du persona et de ses douleurs. Transformer chaque caractéristique en
   bénéfice client, traiter les objections, écrire des titres orientés transformation et garder une
   promesse claire, crédible et spécifique.
@@ -115,11 +114,11 @@ hypothèses, blocages, accès Shopify, IDs/handles, assets finaux et prochaine a
   specs utiles, livraison/retours/garantie, FAQ anti-objections et micro-copy de confiance.
 - Émotion + conformité : utiliser le désir, la projection et le soulagement des frustrations sans
   fausses preuves sociales, faux avis, fausse rareté ou allégations non vérifiables.
-- Visuels Option B : images fournisseur en placeholder, remplir `shot-list.md` avec prompts
-  (voir `reference/image-prompt-guide.md`).
+- Visuels Option B : images fournisseur en placeholder, remplir `shot-list.md` avec des prompts
+  d'images détaillés (rôle de vente, cadrage, ambiance, contraintes de marque).
 - Shot-list : chaque image doit avoir un rôle de vente clair (désir, compréhension, bénéfice,
   réassurance, comparaison, usage, détail produit). Éviter les visuels seulement décoratifs.
-- Images générées : Codex peut rédiger les prompts, générer les visuels, sélectionner les meilleurs
+- Images générées : l'assistant peut rédiger les prompts, générer les visuels, sélectionner les meilleurs
   rendus, les sauvegarder dans `assets/final/`, puis les intégrer. Éviter le texte incrusté dans
   les images ; garder les titres et arguments en HTML/CSS pour lisibilité, SEO et contrôle.
 - Qualité éditoriale : relire tout le contenu comme un acheteur sceptique. Si un titre pourrait
@@ -130,8 +129,8 @@ hypothèses, blocages, accès Shopify, IDs/handles, assets finaux et prochaine a
 - Avant tout build : explorer le thème installé (sections, blocks, snippets, templates, settings,
   schémas JSON, possibilités de cross-sell, FAQ, rich text, custom code, galerie, badges,
   accordéons, sticky ATC). Documenter les options utiles avant de coder en dur.
-- Appliquer la charte : `python3 scripts/tokens_to_theme.py <projet>/brand-tokens.json <theme>/config/settings_data.json`
-- Monter les pages (sections Phase 3 + contenus Phase 4), créer produits/collections via MCP.
+- Appliquer la charte : reporter les tokens (couleurs, typographies) de `brand-tokens.json` dans les settings du thème (`config/settings_data.json`), puis vérifier le rendu.
+- Monter les pages (sections Phase 3 + contenus Phase 4), créer produits/collections via l'API Shopify.
 - Implémenter avec les capacités natives du thème autant que possible. Garder le code custom scoped,
   maintenable, performant et cohérent avec le design system existant.
 - Vérifier mobile avant desktop : lisibilité, hiérarchie, CTA, sticky add-to-cart, vitesse perçue,
@@ -145,8 +144,8 @@ hypothèses, blocages, accès Shopify, IDs/handles, assets finaux et prochaine a
 - **PORTE 3** : validation sur le site live (rendu réel). C'est ici qu'on juge les contenus.
 
 ## Phase 6 — Conformité & livraison
-- Audit GMC : `reference/gmc-checklist.md` (corrections via MCP).
-- Livraison FR/BE/CH : `reference/delivery-fr-be-ch.md` (deliveryProfileUpdate).
+- Audit GMC : `checklists/gmc-compliance-checklist.md` (corrections via l'API Shopify).
+- Livraison FR/BE/CH : configurer les profils de livraison (deliveryProfileUpdate) pour France, Belgique, Suisse.
 - Réglages manuels listés : SEO homepage (Online Store → Preferences), GTIN/MPN (app Google),
   pages légales (rédigées à la main).
 - QA avant go-live : tester home, fiche produit, panier, checkout jusqu'à l'étape paiement, liens,

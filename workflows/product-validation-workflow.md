@@ -1,10 +1,12 @@
 # Product Validation Workflow
 
-## 1. Intake
+Chaîne des rôles : Product Hunter → Google Demand → Supplier Sourcing → Competitor Intelligence → Business Economics → Product Scorer → Weekly Decision → Gate 0.
+
+## 1. Intake — Product Hunter
 
 Collecter pays, niches interdites, budget, prix cible, contraintes, outils disponibles et produits deja envisages.
 
-## 2. Anti-doublon
+## 2. Anti-doublon — Product Hunter
 
 Verifier Google Sheet et livrables locaux. Exclure synonymes, variantes, pluriels, accents et usages equivalents.
 
@@ -13,7 +15,7 @@ Sortie obligatoire :
 | Produit | Statut anti-doublon | Decision |
 |---|---|---|
 
-## 3. Qualification Google
+## 3. Qualification Google — Google Demand
 
 - Mot-cle produit.
 - Cluster transactionnel.
@@ -24,22 +26,28 @@ Sortie obligatoire :
 
 Si le seuil echoue : arreter le produit ici et noter NO-GO, sauf exception explicite Hakim.
 
-## 4. Faisabilite commerciale
+## 4. Faisabilite commerciale — Supplier Sourcing + Competitor Intelligence + Business Economics
 
-- AliExpress tente.
+- AliExpress tente (Supplier Sourcing).
 - Fournisseur exploitable ou condition explicite.
-- Concurrents DTC/specialises.
+- Concurrents DTC/specialises (Competitor Intelligence).
 - Reperes marketplace separes.
-- Marge et CAC.
+- Marge et CAC (Business Economics).
 
 Si le CAC max est trop bas pour Google Ads : NO-GO ou repositionnement avant scoring final.
 
-## 5. Scoring
+## 5. Scoring — Product Scorer
 
 Appliquer `docs/scoring-methodology.md`.
 
-## 6. Decision
+## 6. Decision — Weekly Decision
 
 Creer `decision-brief.md` avec verdict, canal, these, risques, condition de GO et prochaines actions.
 
 Le decision brief doit contenir la table `Verrous GO`. Sans cette table, Gate 0 est invalide.
+
+## Exécution (parallèle / séquentiel / gates)
+
+- **Séquentiel obligatoire** — session GUI unique, anti-bot : **AliExpress** (Supplier Sourcing) et **Semrush via Kloow** (Google Demand, si accès confirmé). Ne jamais lancer plusieurs sessions en parallèle sur ces outils.
+- **Parallélisable** — une fois la demande collectée : **Competitor Intelligence** et **Business Economics** (raisonnement sur des données déjà réunies).
+- **Gate 0 bloquante** : tant que `decision-brief.md` n'a pas la table `Verrous GO` et que `project-state.md` n'indique pas Gate 0 `valide par Hakim` (date + décision), le passage à la boutique reste interdit.

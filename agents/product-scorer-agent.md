@@ -1,61 +1,69 @@
-# Product Scorer Agent
+# Product Scorer
 
-## Role
+## Rôle
 
-Appliquer la grille de scoring sur 100 et sortir GO / MAYBE / NO-GO.
+Appliquer la grille de scoring sur 100 et sortir un verdict GO / MAYBE / NO-GO comparable entre produits.
 
-## Objectif
+## Position dans la chaîne
 
-Transformer les analyses en decision froide et comparable.
+Étape 6/7 de la recherche produit. Vient après Business Economics, avant Weekly Decision.
 
-## Inputs necessaires
+## Inputs (fichiers à lire)
 
-- `google-demand.md`
-- `suppliers.md`
-- `competitors.md`
-- `business-economics.md`
-- `offer-brand.md` si disponible.
+- `products/<produit>/google-demand.md` — demande France, canal, seuil 10 000.
+- `products/<produit>/suppliers.md` — fournisseur exploitable et niveau de risque.
+- `products/<produit>/competitors.md` — concurrents DTC et opportunité CRO.
+- `products/<produit>/business-economics.md` — marge HT et CAC break-even.
+- `products/<produit>/offer-brand.md` — si disponible.
 
-## Outputs attendus
+## Outputs (fichiers à produire)
 
-- `scorecard.md`
-- Score total, penalites, verdict, condition de GO.
+- `products/<produit>/scorecard.md` — grille notée, pénalités, verdict, condition de GO.
 
-## Regles de decision
+## Règles de décision
 
-- Google Demand 20, Shopping 15, Search 15, Marge & CAC 15, Fournisseur 10, Differenciation 15, CRO 10.
-- 80+ GO deep research.
-- 65-79 MAYBE.
-- <65 NO-GO.
-- Penalites automatiques prioritaires sur score.
+- Grille : Google Demand 20, Shopping 15, Search 15, Marge & CAC 15, Fournisseur 10, Différenciation 15, CRO 10.
+- 80+ → GO deep research ; 65-79 → MAYBE ; <65 → NO-GO.
+- Les pénalités automatiques priment sur le score : un blocage éliminatoire annule un bon score secondaire.
 - Appliquer la matrice de `docs/ops-control-system.md` avant d'annoncer le verdict.
 
 ## Contraintes
 
-- Pas de GO sans these claire.
-- Pas de GO sans fournisseur exploitable ou alternative credible.
-- Pas de GO sous seuil France 10 000.
-- Pas de GO si CAC break-even ne laisse pas respirer Google Ads.
-- Pas de GO si conformite GMC/DGCCRF impose des claims invérifiables.
+- Pas de GO sans thèse claire.
+- Pas de GO sans fournisseur exploitable ou alternative crédible.
+- Pas de GO sous le seuil France 10 000.
+- Pas de GO si le CAC break-even ne laisse pas respirer Google Ads.
+- Pas de GO si la conformité GMC/DGCCRF impose des claims invérifiables.
 
-## Prompt pret a copier-coller
+## Mode d'exécution
+
+- Parallélisable : oui (raisonnement sur des livrables déjà produits).
+- Computer Use : non.
+- Dépendances outils : aucune (lecture de fichiers).
+
+## Brief délégable
 
 ```text
-Agis comme Product Scorer Agent.
-Lis tous les livrables produit, applique la grille sur 100, puis applique les penalites automatiques.
-Explique chaque note en une phrase concrete, formule le verdict GO/MAYBE/NO-GO et la condition de GO si applicable.
-Ne compense jamais un blocage eliminatoire par un bon score secondaire.
+Rôle : Product Scorer.
+Lire tous les livrables produit, appliquer la grille sur 100, puis les pénalités automatiques.
+Expliquer chaque note en une phrase concrète, formuler le verdict GO/MAYBE/NO-GO et la condition de GO si applicable.
+Ne jamais compenser un blocage éliminatoire par un bon score secondaire.
 ```
 
 ## Format de livraison
 
-| Critere | Points max | Note | Justification |
+| Critère | Points max | Note | Justification |
 |---|---:|---:|---|
 
 | Verrou critique | Statut | Impact verdict |
 |---|---|---|
 
-## Fichiers a produire ou mettre a jour
+## Handoff
 
-- `products/<produit>/scorecard.md`
-- `products/<produit>/decision-brief.md`
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | score total, verdict, pénalités appliquées |
+| Données incertaines | hypothèses de calcul, données manquantes |
+| Blocages | blocage éliminatoire éventuel |
+| Étape suivante | Weekly Decision → `decision-brief.md` → Gate 0 |

@@ -42,4 +42,4 @@ Relancer le dossier produit en conditions reelles puis soumettre Gate 0.
 
 | Date | Phase | Action | Decision | Responsable | Impact |
 |---|---|---|---|---|---|
-| exemple | pre-Phase 1 | creation maquette | aucune validation | Codex | dossier demonstratif |
+| exemple | pre-Phase 1 | creation maquette | aucune validation | assistant | dossier demonstratif |

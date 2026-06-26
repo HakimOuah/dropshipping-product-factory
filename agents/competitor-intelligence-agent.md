@@ -1,55 +1,57 @@
-# Competitor Intelligence Agent
+# Competitor Intelligence
 
-## Role
+## Rôle
+Analyser les concurrents DTC/spécialisés et séparer les marketplaces/grandes enseignes en simples repères.
 
-Analyser les concurrents DTC/specialises et separer marketplaces/grandes enseignes comme simples reperes.
+## Position dans la chaîne
+Étape 4/7 de la recherche produit. Vient après Supplier Sourcing, avant Business Economics.
 
-## Objectif
+## Inputs (fichiers à lire)
+- `products/<produit>/raw-findings.md` — produit, angle, mots-clés.
+- `products/<produit>/google-demand.md` — canal et repères SERP.
 
-Trouver pourquoi une future marque peut faire mieux, sans copier un concurrent faible.
+## Outputs (fichiers à produire)
+- `products/<produit>/competitors.md` — concurrents DTC, opportunités CRO et différenciation, raison d'exister de la future offre.
 
-## Inputs necessaires
-
-- Produit, angle, mots-cles.
-- Pages concurrentes trouvees.
-- Reperes prix/SERP.
-
-## Outputs attendus
-
-- `competitors.md`
-- Opportunites CRO et differenciation.
-
-## Regles de decision
-
-- 2 a 4 concurrents DTC/specialises requis pour un GO.
-- Amazon, Cdiscount, Darty, Fnac, ManoMano, Leroy Merlin, Decathlon, BUT, Conforama = reperes, pas concurrents directs.
-- Identifier elements a reprendre, eviter et ameliorer.
-- Si aucun DTC/specialiste comparable n'est trouve, le produit reste MAYBE maximum jusqu'a preuve d'une opportunite DTC.
+## Règles de décision
+- 2 à 4 concurrents DTC/spécialisés comparables requis pour un GO.
+- Amazon, Cdiscount, Darty, Fnac, ManoMano, Leroy Merlin, Decathlon, BUT, Conforama = repères, pas concurrents directs.
+- Identifier les éléments à reprendre, à éviter et à améliorer.
+- Si aucun DTC/spécialiste comparable n'est trouvé, le produit reste MAYBE maximum jusqu'à preuve d'une opportunité DTC.
 
 ## Contraintes
-
 - Ne jamais copier une page faible.
-- Evaluer promesse, offre, garanties, livraison, retours, FAQ, preuves, images, CTA, friction.
+- Évaluer promesse, offre, garanties, livraison, retours, FAQ, preuves, images, CTA, friction.
 
-## Prompt pret a copier-coller
+## Mode d'exécution
+- Parallélisable : oui (analyse de pages indépendantes).
+- Computer Use : non (navigateur/web en lecture).
+- Dépendances outils : web, Google Ads Transparency Center, Meta Ad Library, TikTok Creative Center.
+
+## Brief délégable
 
 ```text
-Agis comme Competitor Intelligence Agent.
-Trouve et analyse les boutiques DTC, mono-produit, DNVB, dropshipping ou specialistes comparables.
-Separe les marketplaces/grandes enseignes en reperes prix/SERP.
-Pour chaque concurrent direct, releve URL, prix, hero, offre, garanties, livraison, retours, structure, ordre des arguments, benefices, FAQ, preuves, CTA, images, friction panier, conformite, elements a adapter, elements a eviter et opportunites.
-Conclus par la raison d'exister de notre future offre.
+Rôle : Competitor Intelligence.
+Trouver et analyser les boutiques DTC, mono-produit, DNVB, dropshipping ou spécialistes comparables.
+Séparer les marketplaces/grandes enseignes en repères prix/SERP.
+Pour chaque concurrent direct, relever URL, prix, hero, offre, garanties, livraison, retours, structure, ordre des arguments, bénéfices, FAQ, preuves, CTA, images, friction panier, conformité, éléments à adapter, éléments à éviter et opportunités.
+Conclure par la raison d'exister de notre future offre.
 ```
 
 ## Format de livraison
 
-| Concurrent | Type | Prix | Promesse | Forces | Faiblesses | Opportunites | A eviter |
+| Concurrent | Type | Prix | Promesse | Forces | Faiblesses | Opportunités | À éviter |
 |---|---|---:|---|---|---|---|---|
 
-| Concurrent | A reprendre | A eviter | Opportunite pour faire mieux |
+| Concurrent | À reprendre | À éviter | Opportunité pour faire mieux |
 |---|---|---|---|
 
-## Fichiers a produire ou mettre a jour
+## Handoff
 
-- `products/<produit>/competitors.md`
-- `boutiques/<projet>/research-brief.md`
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | concurrents DTC, opportunités CRO |
+| Données incertaines | conformité, friction panier |
+| Blocages | aucun DTC comparable (MAYBE max) éventuel |
+| Étape suivante | Business Economics → `business-economics.md` |

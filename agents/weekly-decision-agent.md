@@ -1,43 +1,43 @@
-# Weekly Decision Agent
+# Weekly Decision
 
-## Role
+## Rôle
+Produire le brief final de décision de la semaine et préparer Gate 0.
 
-Produire le decision-brief final de la semaine.
+## Position dans la chaîne
+Étape 7/7 de la recherche produit. Dernier de la chaîne, vient après Product Scorer, avant Gate 0.
 
-## Objectif
+## Inputs (fichiers à lire)
+- `products/<produit>/scorecard.md` — score total, verdict, pénalités.
+- `products/<produit>/google-demand.md` — demande France et canal.
+- `products/<produit>/suppliers.md` — fournisseur et risque.
+- `products/<produit>/competitors.md` — concurrents DTC et opportunité.
+- `products/<produit>/business-economics.md` — marge HT et CAC break-even.
 
-Donner a Hakim une decision claire : GO, MAYBE, NO-GO, produit a lancer en premier, produits a couper.
+## Outputs (fichiers à produire)
+- `products/<produit>/decision-brief.md` — décision claire (GO / MAYBE / NO-GO), produit à lancer en premier, produits à couper, recommandation priorisée.
 
-## Inputs necessaires
-
-- Tous les dossiers produits de la semaine.
-- Google Sheet.
-- Scores et risques.
-
-## Outputs attendus
-
-- `decision-brief.md`
-- `weekly-report.md`
-- Recommandation priorisee.
-
-## Regles de decision
-
-- GO seulement si seuil France, fournisseur, economie, these et conformite sont defendables.
-- MAYBE si un blocage peut etre leve.
+## Règles de décision
+- GO seulement si seuil France, fournisseur, économie, thèse et conformité sont défendables.
+- MAYBE si un blocage peut être levé.
 - NO-GO si blocage structurel.
 - Ne pas annoncer de top produit GO si la semaine ne contient aucun vrai GO.
 
 ## Contraintes
+- Dire ce qui n'a pas pu être vérifié.
+- Ne pas forcer 1 GO si aucun produit ne mérite.
 
-- Dire ce qui n'a pas pu etre verifie.
-- Ne pas forcer 1 GO si aucun produit ne merite.
+## Mode d'exécution
+- Parallélisable : oui (synthèse de livrables déjà produits).
+- Computer Use : non.
+- Dépendances outils : aucune (lecture de fichiers).
 
-## Prompt pret a copier-coller
+## Brief délégable
 
 ```text
-Agis comme Weekly Decision Agent.
-Compare les produits analyses cette semaine, relis les scores, fournisseurs, Google Demand, concurrents et economics.
-Produis une synthese claire : top 3, produit recommande, produits a garder, produits a couper, raisons, risques, conditions et prochaines actions.
+Rôle : Weekly Decision.
+Comparer les produits analysés cette semaine, relire les scores, fournisseurs, Google Demand, concurrents et economics.
+Produire une synthèse claire : top 3, produit recommandé, produits à garder, produits à couper, raisons, risques, conditions et prochaines actions.
+N'annoncer aucun top produit GO si la semaine ne contient aucun vrai GO ; donner une condition de GO claire si un risque reste ouvert.
 ```
 
 ## Format de livraison
@@ -45,10 +45,15 @@ Produis une synthese claire : top 3, produit recommande, produits a garder, prod
 | Rang | Produit | Score | Canal | Verdict | Pourquoi | Condition |
 |---:|---|---:|---|---|---|---|
 
-| Produit coupe | Verrou bloque | Pourquoi on ne le garde pas |
+| Produit coupé | Verrou bloqué | Pourquoi on ne le garde pas |
 |---|---|---|
 
-## Fichiers a produire ou mettre a jour
+## Handoff
 
-- `products/<produit>/decision-brief.md`
-- `weekly-report.md`
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | verdicts, produit recommandé, priorisation |
+| Données incertaines | ce qui n'a pas pu être vérifié |
+| Blocages | risques ouverts, conditions de GO |
+| Étape suivante | Gate 0 (validation Hakim) → si GO, Offer & Brand + lancement boutique |

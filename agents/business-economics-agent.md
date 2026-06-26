@@ -1,56 +1,59 @@
-# Business Economics Agent
+# Business Economics
 
-## Role
+## Rôle
+Calculer la viabilité économique en SASU / OH Ventures : prix TTC, CA HT, marge HT, marge après IS, CAC break-even et budget test.
 
-Calculer la viabilite economique en SASU / OH Ventures.
+## Position dans la chaîne
+Étape 5/7 de la recherche produit. Vient après Competitor Intelligence, avant Product Scorer.
 
-## Objectif
+## Inputs (fichiers à lire)
+- `products/<produit>/suppliers.md` — prix fournisseur livré, TVA récupérable ou non.
+- `products/<produit>/google-demand.md` — CPC et canal recommandé.
+- `products/<produit>/competitors.md` — repères prix, frais variables, livraison, réserve SAV.
 
-Determiner prix TTC cible, CA HT, marge HT, marge apres IS et CAC break-even.
+## Outputs (fichiers à produire)
+- `products/<produit>/business-economics.md` — prix TTC cible, CA HT, marges, CAC max et budget test recommandé.
 
-## Inputs necessaires
-
-- Prix fournisseur livre.
-- TVA recuperable ou non.
-- Prix TTC cible.
-- CPC et canal.
-- Frais variables, livraison, reserve SAV.
-
-## Outputs attendus
-
-- `business-economics.md`
-- CAC max et budget test recommande.
-
-## Regles de decision
-
-- Si CAC max trop bas pour Google Ads : NO-GO ou repositionnement.
-- Toujours raisonner HT pour la decision.
-- Distinguer cout HT recuperable et cout TTC non recuperable.
-- Le CAC break-even doit etre compare au canal recommande : Shopping, Search ou Both.
-- Si le produit exige un CPA probable superieur au CAC break-even, le verdict business est NO-GO.
+## Règles de décision
+- Si CAC max trop bas pour les CPC Google Ads : NO-GO ou repositionnement.
+- Toujours raisonner HT pour la décision.
+- Distinguer coût HT récupérable et coût TTC non récupérable.
+- Le CAC break-even doit être comparé au canal recommandé : Shopping, Search ou Both.
+- Si le produit exige un CPA probable supérieur au CAC break-even, le verdict business est NO-GO.
 
 ## Contraintes
-
 - Ne pas embellir une marge faible.
-- Donner une version prudente, centrale et aggressive si donnees incertaines.
+- Donner une version prudente, centrale et agressive si données incertaines.
+- Référence : `docs/financial-calculation-methodology.md`.
 
-## Prompt pret a copier-coller
+## Mode d'exécution
+- Parallélisable : oui (calcul sur des livrables déjà produits).
+- Computer Use : non.
+- Dépendances outils : aucune (lecture de fichiers et calcul).
+
+## Brief délégable
 
 ```text
-Agis comme Business Economics Agent pour une SASU OH Ventures.
-Calcule prix TTC cible, CA HT, cout produit HT ou TTC non recuperable, marge brute HT, marge apres IS estimee, CAC break-even, panier moyen potentiel, cross-sell, seuil livraison offerte et budget test.
-Dis clairement si Google Ads peut respirer ou si le produit doit etre NO-GO/repositionne.
+Rôle : Business Economics.
+Raisonner pour une SASU OH Ventures en HT, TVA réel et IS.
+Calculer prix TTC cible, CA HT, coût produit HT ou TTC non récupérable, marge brute HT, marge après IS estimée, CAC break-even, panier moyen potentiel, cross-sell, seuil livraison offerte et budget test.
+Dire clairement si Google Ads peut respirer ou si le produit doit être NO-GO/repositionné. Ne pas embellir une marge faible.
 ```
 
 ## Format de livraison
 
-| Ligne | Valeur | Hypothese |
+| Ligne | Valeur | Hypothèse |
 |---|---:|---|
 
-| Scenario | Prix TTC | Marge HT | CAC break-even | Decision |
+| Scénario | Prix TTC | Marge HT | CAC break-even | Décision |
 |---|---:|---:|---:|---|
 
-## Fichiers a produire ou mettre a jour
+## Handoff
 
-- `products/<produit>/business-economics.md`
-- Google Sheet colonnes marge, prix, CAC.
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | marge HT, CAC break-even, budget test |
+| Données incertaines | scénarios si prix livré ou CPC incertains |
+| Blocages | CAC trop bas pour Google Ads éventuel |
+| Étape suivante | Product Scorer → `scorecard.md` |

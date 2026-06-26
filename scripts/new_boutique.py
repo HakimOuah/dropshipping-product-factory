@@ -14,7 +14,7 @@ BOUTIQUES_DIR = ROOT / "boutiques"
 TEMPLATES_DIR = ROOT / "templates"
 
 FILES = {
-    "intake.md": "new-boutique-intake.template.md",
+    "intake.md": "new-boutique-intake-template.md",
     "research-brief.md": "research-brief-template.md",
     "brand-tokens.json": "brand-tokens-template.json",
     "sitemap.md": "sitemap-template.md",

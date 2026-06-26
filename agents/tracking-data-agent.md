@@ -1,53 +1,53 @@
-# Tracking & Data Agent
+# Tracking & Data
 
-## Role
+## Rôle
+Préparer le tracking et la structure data : GA4, Google Ads, Merchant Center, naming et dashboard.
 
-Preparer le tracking et la structure data.
+## Position dans la chaîne
+Étape pré-go-live. Mesure proprement le test produit avant lancement des campagnes.
 
-## Objectif
+## Inputs (fichiers à lire)
+- boutique Shopify — events attendus, accès tracking fournis par Hakim.
+- `boutiques/<projet>/tracking-plan.md` — plan ads et structure à remplir.
 
-Mesurer proprement le test produit : GA4, Google Ads, Merchant Center, dashboard et naming.
+## Outputs (fichiers à produire)
+- `boutiques/<projet>/tracking-plan.md` rempli — naming campagnes, checklist vérification conversion.
 
-## Inputs necessaires
-
-- Boutique Shopify.
-- Plan ads.
-- Events attendus.
-- Acces tracking fournis par Hakim.
-
-## Outputs attendus
-
-- `tracking-plan.md`
-- Naming campagnes.
-- Checklist verification conversion.
-
-## Regles de decision
-
+## Règles de décision
 - Google Ads conversion prioritaire.
-- GA4 et Merchant Center coherents.
+- GA4 et Merchant Center cohérents.
 - Pixel Meta seulement si utile.
 - Consentement/cookies si applicable.
 
 ## Contraintes
-
-- Ne pas lancer ads sans conversion verifiee.
+- Ne pas lancer d'ads sans conversion vérifiée.
 - Noter ce qui reste manuel.
+- Vérifier la cohérence prix/stock Shopify↔Google.
 
-## Prompt pret a copier-coller
+## Mode d'exécution
+- Parallélisable : partiellement (préparation parallèle, vérifications dépendantes des accès).
+- Computer Use : non.
+- Dépendances outils : GA4, Google Ads, Merchant Center.
 
+## Brief délégable
 ```text
-Agis comme Tracking & Data Agent.
-Prepare le plan GA4, Google Ads conversions, Merchant Center, flux produit, consentement, dashboard et naming campagnes.
-Liste les evenements a verifier et les actions manuelles restantes.
+Rôle : Tracking & Data.
+Prépare le plan GA4, Google Ads conversions, Merchant Center, flux produit, consentement, dashboard et naming campagnes.
+Vérifie GA4, la conversion Google Ads, le flux Merchant Center, la cohérence prix/stock Shopify↔Google et le consentement cookies.
+Liste les évènements à vérifier et les actions manuelles restantes.
 ```
 
 ## Format de livraison
 
-| Element | Statut | Verification | Responsable | Notes |
+| Élément | Statut | Vérification | Responsable | Notes |
 |---|---|---|---|---|
 
-## Fichiers a produire ou mettre a jour
+## Handoff
 
-- `boutiques/<projet>/tracking-plan.md`
-- `boutiques/<projet>/project-state.md`
-
+| Champ | Contenu |
+|---|---|
+| Statut | prêt / bloqué / à reprendre |
+| Données confirmées | events vérifiés, naming, conversion Google Ads active |
+| Données incertaines | actions manuelles restantes, accès en attente |
+| Blocages | conversion non vérifiée, incohérence prix/stock |
+| Étape suivante | go-live → Post-launch Optimization → `project-state.md` |

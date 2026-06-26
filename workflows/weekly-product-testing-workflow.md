@@ -2,9 +2,9 @@
 
 Objectif : tester 1 a 2 produits par semaine sans recycler des idees faibles.
 
-## Lundi — Hunting
+## Lundi — Hunting (Product Hunter)
 
-- Remplir ou relire `templates/product-research-request.template.md`.
+- Remplir ou relire `templates/product-research-request-template.md`.
 - Verifier l'historique Google Sheet.
 - Chercher 20 a 50 idees brutes.
 - Exclure les produits rincés, risques ou trop faibles.
@@ -13,19 +13,19 @@ Objectif : tester 1 a 2 produits par semaine sans recycler des idees faibles.
 
 Livrable : `raw-findings.md`.
 
-## Mardi — Google Demand
+## Mardi — Google Demand (Google Demand)
 
 - Verifier Google Search, Shopping et Trends France.
-- Utiliser Semrush France si disponible.
+- Utiliser Semrush France via Kloow si disponible (sequentiel, session GUI unique).
 - Appliquer le seuil 10 000 recherches mensuelles France.
 - Classer Shopping-first, Search-first ou Both.
 - Couper tout produit dont la demande France est sous le seuil. Ne pas le sauver avec marge, fournisseur ou intuition.
 
 Livrable : `google-demand.md` et shortlist 5 produits.
 
-## Mercredi — Faisabilite
+## Mercredi — Faisabilite (Supplier Sourcing + Competitor Intelligence + Business Economics)
 
-- Tenter AliExpress via Computer Use pour chaque idee notee.
+- Tenter AliExpress via Computer Use pour chaque idee notee (sequentiel, anti-bot).
 - Relever prix, livraison France, note, commandes, vendeur, pays expedition.
 - Analyser 2 a 4 concurrents DTC/specialises par finaliste.
 - Calculer marge et CAC break-even.
@@ -34,7 +34,7 @@ Livrable : `google-demand.md` et shortlist 5 produits.
 
 Livrables : `suppliers.md`, `competitors.md`, `business-economics.md`.
 
-## Jeudi — Decision
+## Jeudi — Decision (Product Scorer + Weekly Decision)
 
 - Appliquer scoring sur 100.
 - Rediger these de differenciation.
@@ -57,3 +57,9 @@ Livrables : `suppliers.md`, `competitors.md`, `business-economics.md`.
 - Merchant Center.
 - Preparation campagne Google Ads.
 - Suivi post-launch.
+
+## Exécution (parallèle / séquentiel / gates)
+
+- **Séquentiel** — session GUI unique, anti-bot : AliExpress (mercredi) et Semrush via Kloow (mardi). Un produit / un mot-clé à la fois.
+- **Parallélisable** : analyse concurrents et calcul éco (mercredi), scoring (jeudi).
+- **Gate 0 (jeudi) bloque le vendredi** : pas de `new_boutique.py` ni de build tant que Gate 0 n'est pas `valide par Hakim` dans `project-state.md`.

@@ -26,7 +26,7 @@ Ce playbook s'utilise avant `PLAYBOOK.md`. Il sert à décider quel produit mér
   comprendre les vraies mécaniques de conversion.
 - Semrush, TrendTrack, Minea, Similarweb et autres outils payants ne sont utilisés que si Hakim
   confirme un accès actif. Sinon, travailler avec les sources gratuites et le web.
-- Si Hakim confirme que l'accès est autorisé et actif via Kloow, Codex peut utiliser l'application
+- Si Hakim confirme que l'accès est autorisé et actif via Kloow, l'assistant peut utiliser l'application
   Mac Kloow comme passerelle vers les outils payants disponibles, sans stocker de credentials ni
   supposer que l'accès sera disponible dans une autre session.
 - Pour la France, toujours vérifier que les outils de keyword research sont réglés sur **France**
@@ -35,7 +35,7 @@ Ce playbook s'utilise avant `PLAYBOOK.md`. Il sert à décider quel produit mér
 
 ## Entrée minimale
 
-Demander ou remplir `templates/product-research-request.template.md`.
+Demander ou remplir `templates/product-research-request-template.md`.
 
 Les champs peuvent rester vides. Si aucune niche n'est donnée, chercher des produits compatibles
 avec le profil OH Ventures : dropshipping Shopify, Google Ads, France, marge suffisante, conformité
@@ -203,7 +203,7 @@ La feuille doit contenir au minimum toutes les colonnes de la sortie obligatoire
 - condition de GO ;
 - verdict : GO / MAYBE / NO-GO.
 
-La réponse finale dans Codex doit indiquer clairement que la feuille a été créée/remplie, avec son
+La réponse finale doit indiquer clairement que la feuille a été créée/remplie, avec son
 nom exact. Si l'accès au Google Sheet est bloqué ou si aucun outil Google Sheets n'est disponible,
 ne pas faire semblant : livrer le tableau dans la conversation et signaler explicitement que la mise
 à jour du Google Sheet reste à faire.
@@ -311,7 +311,7 @@ Sources payantes utiles si accès actif :
 - PipiAds : TikTok/TikTok Shop, utile pour repérer des produits qui migrent ensuite vers Google.
 - Similarweb : trafic concurrent, canaux d'acquisition, poids Search/Paid/Referral.
 - Ahrefs / KeywordTool.io : alternatives pour volumes et longue traîne.
-- Copyfy / services copy : inspiration ou délégation, mais Codex doit garder le contrôle stratégique
+- Copyfy / services copy : inspiration ou délégation, mais l'assistant doit garder le contrôle stratégique
   du persona, des douleurs et de la conformité.
 
 ### Accès payants via Kloow
@@ -748,7 +748,7 @@ Pour les meilleurs produits :
 
 Quand Hakim valide un produit :
 
-1. Créer ou remplir le brief `templates/new-boutique-intake.template.md`.
+1. Créer ou remplir le brief `templates/new-boutique-intake-template.md`.
 2. Démarrer `PLAYBOOK.md`.
 3. Lancer `python3 scripts/new_boutique.py <nom-projet>`.
 4. Reporter les hypothèses clés dans `research-brief.md` et `project-state.md`.

@@ -1,5 +1,11 @@
 # Post-launch Optimization Workflow
 
+Rôle responsable : Post-launch Optimization.
+
+## Cadence de revue
+
+Revue à J+1, J+3 et J+7 après le lancement, puis hebdomadaire. Ne pas juger un signal avant d'avoir assez de clics/données pour décider.
+
 ## Signaux a suivre
 
 - CTR annonces.
@@ -32,3 +38,8 @@ Ne pas modifier dix choses a la fois. Journaliser chaque changement dans `projec
 
 | Date | Signal | Hypothese | Changement | Resultat attendu | Revue |
 |---|---|---|---|---|---|
+
+## Exécution
+
+- **Parallélisable** : la lecture des signaux par source (Google Ads, GA4, Merchant Center, Shopify) peut se faire en parallèle.
+- **Séquentiel** : un seul changement majeur à la fois sous trafic, journalisé dans `project-state.md` avant d'en lancer un autre.
