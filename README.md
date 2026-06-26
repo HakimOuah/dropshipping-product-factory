@@ -6,6 +6,7 @@ Ce repo structure deux playbooks canoniques :
 
 - `PRODUCT-RESEARCH-PLAYBOOK.md` : recherche produit Google-first, shortlist GO / MAYBE / NO-GO.
 - `PLAYBOOK.md` : creation d'une boutique Shopify mono-produit en 6 phases.
+- `docs/orchestration.md` : comment piloter le repo en autonomie avec des sous-agents.
 
 ## Principes non negociables
 
