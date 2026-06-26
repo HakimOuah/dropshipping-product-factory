@@ -86,6 +86,22 @@ Phases :
 | Vendredi | si GO : pre-requis humains + lancement boutique | dossier boutique initialise |
 | Week-end/lundi | QA, tracking, preparation ads | lancement ou iteration |
 
+## Point d'entree correct pour une recherche
+
+Quand Hakim demande "lance une nouvelle recherche produit", lancer un run complet. Ne pas choisir un seul produit.
+
+```bash
+python3 scripts/new_research.py "theme de recherche"
+```
+
+Puis suivre :
+
+1. `docs/research-run-protocol.md`
+2. `workflows/weekly-product-testing-workflow.md`
+3. `workflows/product-validation-workflow.md`
+
+`scripts/new_product.py` sert uniquement apres la shortlist, pour creer le dossier d'un produit candidat a scorer.
+
 ## Google Sheet obligatoire
 
 A chaque recherche produit, creer une feuille dans :
@@ -131,13 +147,23 @@ Regle de verrouillage : tant que la ligne correspondante dans `project-state.md`
 ## Creer une nouvelle recherche produit
 
 ```bash
-python3 scripts/new_product.py "nom produit ou theme"
+python3 scripts/new_research.py "theme ou niche"
 ```
 
 Exemple :
 
 ```bash
-python3 scripts/new_product.py "miroir salle de bain antibuée"
+python3 scripts/new_research.py "maison high-ticket google ads"
+```
+
+Critere de reussite : 20 a 50 idees brutes, feuille Google Sheet creee/remplie ou blocage declare, Kloow/Semrush France tente si acces disponible, 5 produits scores minimum sauf justification, AliExpress tente en serie pour chaque produit score, puis Gate 0.
+
+## Creer un dossier produit candidat
+
+Uniquement apres shortlist :
+
+```bash
+python3 scripts/new_product.py "nom produit candidat"
 ```
 
 ## Creer une boutique apres validation produit

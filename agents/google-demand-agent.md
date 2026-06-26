@@ -20,6 +20,7 @@ Vérifier la demande Google France (Trends, Search, Shopping, Semrush si accès 
 - `Shopping-first` exige une requête produit claire et une SERP Shopping active.
 - `Search-first` exige une requête problème/désir et une landing page capable d'éduquer.
 - `Both` exige les deux preuves, pas seulement une intuition.
+- Pour Hakim, Semrush France via Kloow est attendu quand l'accès est disponible. Ne pas remplacer Semrush par une simple estimation web sans déclarer le blocage.
 
 ## Contraintes
 - Toujours déclarer les limites d'accès.
@@ -28,16 +29,17 @@ Vérifier la demande Google France (Trends, Search, Shopping, Semrush si accès 
 ## Mode d'exécution
 - Parallélisable : l'analyse oui (produits indépendants).
 - Computer Use : oui SI Semrush via Kloow (session GUI unique → séquentiel, ne pas paralléliser).
-- Dépendances outils : Google Trends/Search/Shopping (gratuit) ; Semrush via Kloow = conditionnel (accès Hakim confirmé), fallback = Trends + SERP + sources gratuites.
+- Dépendances outils : Google Trends/Search/Shopping (gratuit) ; Semrush via Kloow = attendu si accès Hakim disponible, fallback = Trends + SERP + sources gratuites avec statut `Semrush bloque/non autorise`.
 
 ## Brief délégable
 
 ```text
 Rôle : Google Demand.
-Pour chaque produit, vérifier Google Search, Google Shopping, Google Trends France sur 5 ans et Semrush France si accès confirmé.
+Pour chaque produit, vérifier Google Search, Google Shopping, Google Trends France sur 5 ans et Semrush France via Kloow si l'accès est disponible ou attendu.
 Relever mot-clé principal, cluster transactionnel pertinent, volume mensuel France, CPC, intent, KD si disponible, saisonnalité, présence Shopping, qualité SERP et requêtes à exclure.
 Classer le produit Shopping-first, Search-first ou Both.
 Si le seuil 10 000 recherches mensuelles France n'est pas confirmé, marquer NO-GO ou demande explicite nécessaire.
+Si Semrush/Kloow n'a pas été utilisé, expliquer précisément pourquoi dans le livrable et dans le weekly report.
 ```
 
 ## Format de livraison

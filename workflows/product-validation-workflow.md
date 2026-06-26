@@ -2,9 +2,13 @@
 
 Chaîne des rôles : Product Hunter → Google Demand → Supplier Sourcing → Competitor Intelligence → Business Economics → Product Scorer → Weekly Decision → Gate 0.
 
+Ce workflow valide une shortlist issue d'un run complet. Pour démarrer une nouvelle recherche, lire d'abord `docs/research-run-protocol.md` et créer `researches/<run>/research-run.md` avec `scripts/new_research.py`.
+
 ## 1. Intake — Product Hunter
 
 Collecter pays, niches interdites, budget, prix cible, contraintes, outils disponibles et produits deja envisages.
+
+Minimum attendu pour un run complet : 20 a 50 idees brutes et 5 produits a scorer, sauf justification documentee.
 
 ## 2. Anti-doublon — Product Hunter
 

@@ -44,9 +44,24 @@ Chaque sous-agent renvoie : conclusions, fichiers modifiés, risques, recommanda
 
 Suivre les workflows comme séquence d'orchestration (rôle responsable + parallèle/séquentiel + gates sont indiqués dans chaque fichier) :
 
-1. `workflows/product-validation-workflow.md` — recherche produit → Gate 0.
-2. `workflows/post-validation-shopify-build-workflow.md` — build boutique (Gates 1-3).
-3. `workflows/post-launch-optimization-workflow.md` — après lancement.
+0. `docs/research-run-protocol.md` — point d'entree pour une nouvelle recherche complete.
+1. `workflows/weekly-product-testing-workflow.md` — 20 a 50 idees → shortlist → 5 produits scores.
+2. `workflows/product-validation-workflow.md` — validation des produits shortlistes → Gate 0.
+3. `workflows/post-validation-shopify-build-workflow.md` — build boutique (Gates 1-3).
+4. `workflows/post-launch-optimization-workflow.md` — après lancement.
+
+## Anti-echec nouvelle conversation
+
+Si Hakim demande "lance une recherche produit", l'orchestrateur doit comprendre :
+
+- creer un run avec `scripts/new_research.py` ;
+- ne pas choisir un seul produit ;
+- creer/remplir le Google Sheet ou declarer le blocage ;
+- utiliser Kloow/Semrush France si acces disponible ;
+- chercher 20 a 50 idees brutes ;
+- scorer 5 produits minimum sauf justification ;
+- tenter AliExpress en serie pour chaque produit score ;
+- s'arreter a Gate 0.
 
 ## Limites à garder en tête
 

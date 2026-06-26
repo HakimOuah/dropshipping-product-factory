@@ -2,24 +2,39 @@
 
 Objectif : tester 1 a 2 produits par semaine sans recycler des idees faibles.
 
+## Point d'entree obligatoire
+
+Une recherche produit hebdomadaire commence par :
+
+```bash
+python3 scripts/new_research.py "theme de recherche"
+```
+
+Puis remplir `researches/<run>/research-run.md`.
+
+Interdiction : ne pas demarrer un run hebdomadaire avec `scripts/new_product.py`. Ce script sert seulement a creer les dossiers des produits candidats apres shortlist.
+
 ## Lundi — Hunting (Product Hunter)
 
 - Remplir ou relire `templates/product-research-request-template.md`.
-- Verifier l'historique Google Sheet.
+- Creer ou ouvrir la feuille Google Sheet `recherche YYYY-MM-DD`.
+- Verifier l'historique Google Sheet avant toute notation.
 - Chercher 20 a 50 idees brutes.
 - Exclure les produits rincés, risques ou trop faibles.
 - Garder uniquement les idees compatibles Google Ads France.
 - Sortir une liste `produits coupes` avec raison courte pour eviter qu'ils reviennent mardi.
+- Interdiction : analyser un seul produit sauf si Hakim demande explicitement une analyse mono-produit.
 
-Livrable : `raw-findings.md`.
+Livrables : `researches/<run>/research-run.md`, Google Sheet, puis dossiers `products/<date-produit>/raw-findings.md` pour les produits shortlistes.
 
 ## Mardi — Google Demand (Google Demand)
 
 - Verifier Google Search, Shopping et Trends France.
-- Utiliser Semrush France via Kloow si disponible (sequentiel, session GUI unique).
+- Utiliser Semrush France via Kloow si acces disponible ou attendu (sequentiel, session GUI unique).
 - Appliquer le seuil 10 000 recherches mensuelles France.
 - Classer Shopping-first, Search-first ou Both.
 - Couper tout produit dont la demande France est sous le seuil. Ne pas le sauver avec marge, fournisseur ou intuition.
+- Shortlister 5 produits a scorer, sauf si moins de 5 survivent avec justification dans `research-run.md`.
 
 Livrable : `google-demand.md` et shortlist 5 produits.
 
@@ -63,3 +78,14 @@ Livrables : `suppliers.md`, `competitors.md`, `business-economics.md`.
 - **Séquentiel** — session GUI unique, anti-bot : AliExpress (mercredi) et Semrush via Kloow (mardi). Un produit / un mot-clé à la fois.
 - **Parallélisable** : analyse concurrents et calcul éco (mercredi), scoring (jeudi).
 - **Gate 0 (jeudi) bloque le vendredi** : pas de `new_boutique.py` ni de build tant que Gate 0 n'est pas `valide par Hakim` dans `project-state.md`.
+
+## Run invalide
+
+Le run est invalide si l'une de ces erreurs arrive sans justification explicite :
+
+- un seul produit analyse alors que Hakim a demande une recherche ;
+- aucune tentative Google Sheet ;
+- aucune tentative Kloow/Semrush France alors que l'acces est disponible ou attendu ;
+- moins de 5 produits scores sans documenter pourquoi ;
+- AliExpress non tente pour les produits scores ;
+- livraison finale sans weekly report.
