@@ -1,0 +1,992 @@
+[
+  {
+    "product_name": "Sauna infrarouge 2 places en pin massif",
+    "decision": "review",
+    "score": 69,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Abri de piscine bas tunnel couverture alu",
+    "decision": "review",
+    "score": 69,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Mobilier lounge exterieur resine tressee 5 pieces",
+    "decision": "review",
+    "score": 69,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 16,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fauteuil zero gravite electrique releveur",
+    "decision": "review",
+    "score": 69,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 16,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fauteuil de massage Shiatsu 4D electrique",
+    "decision": "review",
+    "score": 66,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fauteuil suspendu cocon oeuf en rotin naturel",
+    "decision": "review",
+    "score": 64,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Balancelle 3 places avec store et coussins epais",
+    "decision": "review",
+    "score": 64,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 16,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Portique gym exterieur adulte acier galvanise",
+    "decision": "review",
+    "score": 63,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Swing suspendu terrasse en macrame naturel XXL",
+    "decision": "review",
+    "score": 63,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Lit baldaquin adulte metal forge 160x200",
+    "decision": "review",
+    "score": 62,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Spa gonflable jacuzzi 4-6 places rond",
+    "decision": "review",
+    "score": 61,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Barbecue Kamado ceramique 47cm avec accessoires",
+    "decision": "review",
+    "score": 61,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Trottinette electrique adulte 50km autonomie pro",
+    "decision": "review",
+    "score": 61,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 0
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Lit de massage pliable portable professionnel",
+    "decision": "review",
+    "score": 61,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Hamac de luxe avec support bois teck 2 places",
+    "decision": "review",
+    "score": 61,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Purificateur d'air UV-C ionisation filtre HEPA pro",
+    "decision": "review",
+    "score": 60,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Cage de musculation Smith Machine professionnelle",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Baby-foot professionnel table massive bois massif",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Sauna tonneau exterieur en bois de pin 2 places",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 0,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 16,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Miroir mural ovale metal dore biseaute XXL",
+    "decision": "review",
+    "score": 58,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Jardiniere suреlevee bois XXL potager 2m",
+    "decision": "review",
+    "score": 58,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Aquarium panoramique 200L avec meuble integre",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Baignoire balneotherapie ilot autoportante",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 12,
+      "source_signal": 10,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Rameur hydraulique professionnel eau et air",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Cloison vegetale stabilisee panneau cadre metal noir",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Robot nettoyeur de piscine electrique sur fil",
+    "decision": "review",
+    "score": 56,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Pompe a chaleur piscine 10kW silencieuse",
+    "decision": "review",
+    "score": 56,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 12,
+      "source_signal": 10,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Pergola alu autoportante bioclimatique 4x3m",
+    "decision": "review",
+    "score": 56,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fontaine de jardin solaire cascade multi-niveaux",
+    "decision": "review",
+    "score": 55,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Kayak gonflable biplace avec pagaies",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fumoir BBQ professionnel acier offset 120cm",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Cabine de douche hammam vapeur 90x90 integree",
+    "decision": "reject",
+    "score": 53,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 12,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Paddle gonflable pack complet 320cm",
+    "decision": "reject",
+    "score": 53,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Table de billard convertible 7 pieds avec housse",
+    "decision": "reject",
+    "score": 53,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 12,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Telescope astronomique go-to computerise refracteur",
+    "decision": "reject",
+    "score": 52,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Table tennis exterieure intemperies tout temps",
+    "decision": "reject",
+    "score": 52,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Lit coffre 160x200 avec rangement tete de lit velours",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Pouf geant XXL impermeabilise jardin et salon",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 6,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Abri de jardin metal 5x3m avec fenetre",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Generateur solaire portable 1000W LiFePO4",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Presse hydraulique 20 tonnes atelier mecanique",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 12,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Extracteur de jus commercial centrifuge professionnel",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 12,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Alambic cuivre artisanal 10L distillateur plantes",
+    "decision": "reject",
+    "score": 50,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 12,
+      "source_signal": 10,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Tapis de course pliable motorise 3CV",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Deshumidificateur industriel 50L par jour",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Nettoyeur vapeur professionnel multifonction 2200W",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Chaise longue bain de soleil teck massif double",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Lit a eau waterbed king size double regulation",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 12,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Compresseur d'air silent direct drive 50L",
+    "decision": "reject",
+    "score": 46,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Niche chien isolee thermique grande race XXL",
+    "decision": "reject",
+    "score": 46,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 3,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Jeu de flechettes electronique professionnel segment led",
+    "decision": "reject",
+    "score": 46,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 3,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Trampoline 366cm avec filet de securite et echelle",
+    "decision": "reject",
+    "score": 44,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Voliere interieure XXL pour perroquet africain",
+    "decision": "reject",
+    "score": 42,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 12,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Station meteo sans fil connectee pro 5 capteurs",
+    "decision": "reject",
+    "score": 38,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 3,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Spa de nage mural contre-courant acier inox",
+    "decision": "reject",
+    "score": 36,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 0,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 12,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  }
+]
