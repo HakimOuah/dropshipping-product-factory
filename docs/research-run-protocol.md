@@ -55,7 +55,7 @@ Pour les idees retenues par Hakim uniquement :
 
 - Semrush France via l'application Mac Kloow (protocole ci-dessous), en serie ;
 - croiser avec Google Trends France (5 ans) et la SERP/Shopping ;
-- repere de volume du flux high-ticket : cluster transactionnel France ≥ 2 000-5 000 recherches/mois (cf. handoff `scoring_config.yaml`). L'ancien seuil 10 000 appartient au flux Google-first historique, pas au flux broyeur.
+- seuil de volume du flux high-ticket : cluster transactionnel France ≥ 7 000 recherches/mois minimum (decide par Hakim, cf. handoff `scoring_config.yaml`). L'ancien seuil 10 000 appartient au flux Google-first historique, pas au flux broyeur.
 
 ## Etape 6 — Sourcing couts + re-broyeur
 

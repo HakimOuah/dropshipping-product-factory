@@ -161,7 +161,7 @@ decision:
 # 5. HANDOFF vers le pipeline existant
 # ------------------------------------------------------------
 handoff:
-  on_shortlist: "-> funnel Semrush (volume >=2000-5000/mois, KD, CPC, marge nette >=20%)"
+  on_shortlist: "-> funnel Semrush (volume >=7000/mois, KD, CPC, marge nette >=20%)"
   fields_required_downstream:
     - product_name
     - category
