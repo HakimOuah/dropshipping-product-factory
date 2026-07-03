@@ -1,0 +1,177 @@
+# ============================================================
+# DropPilot — BROYEUR (moteur de scoring produit)
+# v1.0
+# Usage : chaque produit candidat passe par HARD_FILTERS (élimination
+# binaire), puis SCORING (0-100) si survivant. seuil de shortlist en bas.
+# ============================================================
+
+meta:
+  markets: [FR, BE, CH, LU]
+  currency: EUR
+  ticket_floor: 150        # en dessous = rejet
+  ticket_reject_above: 2000 # au dessus = rejet (coût de testing prohibitif)
+  ticket_sweet_min: 600     # zone bonus max
+  ticket_sweet_max: 900
+  # exception "marge de chien" : un ratio exceptionnel abaisse le floor.
+  # capture les produits type biker jewelry (120€ / 3€ = 40x) qu'il retient.
+  exceptional_margin_ratio: 10   # au-delà de ce ratio...
+  exceptional_margin_floor: 80   # ...le floor descend à cette valeur
+
+# ------------------------------------------------------------
+# 1. HARD FILTERS — rejet immédiat si UNE condition est vraie.
+#    Pas de score, on jette avant de scorer.
+# ------------------------------------------------------------
+hard_filters:
+
+  - id: ticket_too_low
+    reject_if: "price_sell < 150"
+
+  - id: ticket_too_high
+    reject_if: "price_sell > 2000"   # rejet auto produits complexes (pergola, cuisine ext.)
+
+  - id: banned_google
+    reject_if: "category in [adult, weapons]"   # bannis Google Ads
+
+  - id: illegal_eu
+    reject_if: "legal_eu == false"   # ex: colliers électriques. flag à renseigner en amont
+
+  - id: excluded_categories
+    # exclusions constantes (les siennes + faible marge structurelle)
+    reject_if: "category in [beauty, clothing, jewelry, food, computing, workwear, car_motorbike_generic]"
+    # NOTE: baby/toys volontairement ABSENT ici -> voir override plus bas
+
+  - id: institutional_dominance
+    # une grande enseigne casse les prix sur le MÊME produit
+    reject_if: "big_retailer_same_product == true"
+    retailers: [amazon, decathlon, leroy_merlin, norauto, ikea, castorama]
+
+# ------------------------------------------------------------
+# 1bis. OVERRIDE — arbitrages tranchés
+# ------------------------------------------------------------
+overrides:
+  # zone grise baby/toys : sa méthode prime. on garde si high-ticket + marge.
+  - id: baby_toys_high_value
+    applies_to: "category in [baby, toys]"
+    keep_if: "price_sell >= 400 AND margin_ratio >= 4"
+    else: reject
+    # => cabane enfant à 1000€ (coût 250) passe. peluche à 20€ non.
+
+# ------------------------------------------------------------
+# 2. SCORING — sur les survivants uniquement. total /100.
+#    chaque bloc renvoie ses points, on somme.
+# ------------------------------------------------------------
+scoring:
+
+  # --- Ticket (max 20) : floor 150 accepté, sweet spot 600-900 maximise ---
+  ticket:
+    max: 20
+    rules:
+      - "if 600 <= price_sell <= 900 : 20"
+      - "if 400 <= price_sell < 600 : 15"
+      - "if 900 < price_sell <= 1500 : 13"
+      - "if 250 <= price_sell < 400 : 10"
+      - "if 150 <= price_sell < 250 : 6"
+
+  # --- Marge (max 25) : le critère roi. ratio prix_vente / coût_ali ---
+  margin_ratio:
+    max: 25
+    rules:
+      - "if margin_ratio >= 5 : 25"
+      - "if 4 <= margin_ratio < 5 : 20"
+      - "if 3 <= margin_ratio < 4 : 14"
+      - "if 2 <= margin_ratio < 3 : 6"
+      - "if margin_ratio < 2 : 0"
+    net_margin_gate:
+      # garde-fou DropPilot : marge nette estimée < 20% => plafonne ce bloc à 6 pts
+      condition: "net_margin_pct < 20"
+      cap: 6
+
+  # --- Paysage concurrentiel (max 20) ---
+  competition:
+    max: 20
+    rules:
+      - "if competitors_type == dropshippers_weak_sites : 20"   # 'site à vomir' = signal +
+      - "if competitors_type == dropshippers_mixed : 14"
+      - "if competitors_type == few_or_none : 10"
+      - "if competitors_type == semi_brands : 6"
+      - "if competitors_type == institutional : 0"   # normalement déjà filtré en hard
+
+  # --- Canal / sécurité GMC (max 15) ---
+  channel:
+    max: 15
+    rules:
+      - "if sells_in_search == true AND sells_in_shopping == true : 15"
+      - "if sells_in_search == true : 12"    # contourne blocage GMC = sécurité
+      - "if sells_in_shopping == true : 6"
+      - "if neither : 0"
+
+  # --- Force du signal source (max 12) ---
+  source_signal:
+    max: 12
+    rules:
+      # Type A (revente) = business déjà rentable prouvé
+      - "if source in [flippa, dotmarket] : 12"
+      # Type B (demande) = intention validée
+      - "if source in [amazon_movers, pinterest_trends] : 9"
+      # Type C (dispo fournisseur) = simple disponibilité
+      - "if source in [bigbuy, europages, vevor, cdiscount] : 6"
+      - "if source == temu : 3"   # risque client achète direct sur Temu
+    multi_source_bonus:
+      # produit repéré sur >1 source = validation croisée
+      condition: "distinct_sources >= 2"
+      add: 4   # peut dépasser le max du bloc, plafonné à 16
+
+  # --- Défendabilité niche (max 8) ---
+  niche_defensibility:
+    max: 8
+    rules:
+      - "if not_available_on_generic_channels == true : 8"  # pas trouvable Temu/Shein/Alibaba grand public
+      - "if partially_available : 4"
+      - "if commodity_everywhere : 0"
+
+# ------------------------------------------------------------
+# 3. MALUS — retranchés du total
+# ------------------------------------------------------------
+penalties:
+  - id: seasonal
+    minus: 10
+    when: "is_seasonal == true OR trend_spike_pct > 300"   # mode éphémère
+  - id: low_entry_barrier
+    minus: 8
+    when: "entry_barrier == low AND many_big_brands == true"  # ex airfryer/appliance
+  - id: hard_to_source
+    minus: 6
+    when: "aliexpress_available == false AND eu_supplier_required == true"
+
+# ------------------------------------------------------------
+# 4. DÉCISION
+# ------------------------------------------------------------
+decision:
+  score_max: 100
+  thresholds:
+    shortlist:   ">= 70"    # part direct au funnel Semrush
+    review:      "55-69"    # review manuel / à creuser
+    reject:      "< 55"
+  # garde-fou final : même score élevé, si un flag critique manque -> review
+  force_review_if:
+    - "legal_eu == null"       # légalité non vérifiée
+    - "margin_ratio == null"   # marge non calculée (prix ali manquant)
+
+# ------------------------------------------------------------
+# 5. HANDOFF vers le pipeline existant
+# ------------------------------------------------------------
+handoff:
+  on_shortlist: "-> funnel Semrush (volume >=2000-5000/mois, KD, CPC, marge nette >=20%)"
+  fields_required_downstream:
+    - product_name
+    - category
+    - price_sell
+    - price_source_ali
+    - margin_ratio
+    - net_margin_pct
+    - competitors_type
+    - sells_in_search
+    - source
+    - legal_eu
+    - score
+    - decision
