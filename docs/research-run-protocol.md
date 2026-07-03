@@ -2,48 +2,89 @@
 
 Ce protocole est le point d'entree obligatoire quand Hakim demande : "lance une nouvelle recherche produit".
 
-## Definition d'une recherche produit
+Depuis l'integration du broyeur, le flux est **broyeur-first** : on collecte large sur toutes les plateformes, le broyeur trie, Hakim controle la liste dans un Excel, puis Semrush valide la demande en aval. Le scoring vit dans `broyeur/scoring_config.yaml` (source de verite — ne pas modifier sans accord d'Hakim).
 
-Une recherche produit n'est pas l'analyse d'un seul produit. C'est un run complet :
+## Vue d'ensemble
 
-1. Creer un dossier de run dans `researches/YYYY-MM-DD-<theme>`.
-2. Creer ou ouvrir la feuille Google Sheet `recherche YYYY-MM-DD`.
-3. Consulter l'historique pour anti-doublon.
-4. Chercher 20 a 50 idees brutes.
-5. Couper les produits faibles/rinces/doublons.
-6. Shortlister 5 produits a scorer, sauf si moins de 5 survivent avec justification.
-7. Pour chaque produit score : creer `products/YYYY-MM-DD-<produit>` avec `scripts/new_product.py`.
-8. Verifier Google Search, Shopping, Trends France et Semrush France via l'application Mac Kloow si autorise/disponible.
-9. Verifier AliExpress via Computer Use pour chaque produit score, en serie.
-10. Analyser concurrents DTC/specialises et separer marketplaces.
-11. Calculer business economics.
-12. Scorer, produire decision briefs et weekly report.
-13. S'arreter a Gate 0.
+1. Sourcing multi-plateformes → 50-60 idees (`agents/sourcing-agent.md`).
+2. Broyeur → hard filters + score /100 sur 100 % des candidats.
+3. Excel de controle → toutes les idees + verdicts → **validation Hakim (STOP)**.
+4. Validation demande des retenus : Semrush France via Kloow (serie) + Trends + SERP.
+5. Sourcing couts AliExpress (serie) → `price_source_ali` → re-broyeur → shortlist reelle (≥ 70).
+6. Deep dive (concurrents, business economics) → decision briefs → **Gate 0**.
 
-## Commande de lancement
+## Etape 1 — Creer le run
 
 ```bash
 python3 scripts/new_research.py "theme de recherche"
 ```
 
-`scripts/new_product.py` ne lance pas une recherche hebdomadaire. Il cree seulement un dossier pour un produit candidat deja selectionne.
+Puis consulter l'historique Google Sheet (feuilles `recherche YYYY-MM-DD`) pour l'anti-doublon.
+
+## Etape 2 — Sourcing multi-plateformes
+
+Suivre `agents/sourcing-agent.md` :
+
+- 5 a 10 idees par plateforme, compensation autorisee entre plateformes, total 50-60 ;
+- pre-filtres hard appliques des la collecte (ticket, categories exclues, dominance enseigne) ;
+- `price_sell` = prix marche observe (Google Shopping France) ;
+- `price_source_ali` laisse vide (sourcing couts en etape 5) ;
+- livrable : `researches/<run>/candidates.md` au format broyeur.
+
+## Etape 3 — Broyeur
+
+```bash
+python -m broyeur.run --input researches/<run>/candidates.md --format md
+```
+
+Ne pas utiliser `--shortlist-only` a ce stade : sans cout fournisseur, le garde-fou `margin_ratio_missing` plafonne tout en `review` — c'est voulu. Le broyeur sert ici de filtre dur + classement. Conserver la sortie JSON dans le dossier du run.
+
+## Etape 4 — Excel de controle (validation Hakim)
+
+Produire `researches/<run>/ideas.xlsx` avec TOUTES les idees (y compris rejetees), colonnes :
+
+produit · plateforme(s) · categorie · prix marche EUR · competitors_type · sells_in_search · sells_in_shopping · legal_eu · defendabilite niche · distinct_sources · score broyeur · decision · rejete par (hard filter) · flags · angle/notes.
+
+Mettre a jour le Google Sheet obligatoire (ou remplir `google-sheet-fallback.tsv` + declarer le blocage).
+
+**STOP : attendre la validation d'Hakim avant l'etape 5.**
+
+## Etape 5 — Validation demande (Semrush en aval)
+
+Pour les idees retenues par Hakim uniquement :
+
+- Semrush France via l'application Mac Kloow (protocole ci-dessous), en serie ;
+- croiser avec Google Trends France (5 ans) et la SERP/Shopping ;
+- repere de volume du flux high-ticket : cluster transactionnel France ≥ 2 000-5 000 recherches/mois (cf. handoff `scoring_config.yaml`). L'ancien seuil 10 000 appartient au flux Google-first historique, pas au flux broyeur.
+
+## Etape 6 — Sourcing couts + re-broyeur
+
+- AliExpress via Computer Use, en serie, un produit a la fois ;
+- remplir `price_source_ali` (et `net_margin_pct` si calculable) dans un `candidates-enriched.md` ;
+- relancer le broyeur : la shortlist ≥ 70 devient reelle ;
+- pour chaque produit shortliste : creer `products/YYYY-MM-DD-<produit>` avec `scripts/new_product.py`.
+
+## Etape 7 — Deep dive et decision
+
+Concurrents DTC/specialises (marketplaces en reperes), business economics SASU, theses de differenciation → `decision-brief.md` par produit → weekly report → s'arreter a **Gate 0**.
 
 ## Minimum acceptable
 
 | Point de controle | Minimum |
 |---|---|
-| Idees brutes | 20 a 50 |
-| Produits scores | 5, sauf justification documentee |
-| Google Sheet | feuille creee/remplie ou blocage explicite |
-| Kloow/Semrush | tente/utilise via application Mac Kloow si Hakim a confirme l'acces |
-| AliExpress | tente pour chaque produit score, en serie |
-| Decision | weekly report + decision briefs |
+| Idees brutes | 50-60, 5-10 par plateforme ou compensation documentee |
+| Broyeur | execute sur 100 % des candidats, sortie conservee dans le run |
+| Excel de controle | produit et transmis a Hakim avant toute validation Semrush |
+| Google Sheet | feuille creee/remplie ou blocage explicite + fallback TSV |
+| Kloow/Semrush | tente/utilise en etape 5 si acces disponible |
+| AliExpress | tente en serie pour chaque produit valide par Hakim |
+| Decision | decision briefs + weekly report, arret a Gate 0 |
 
 Un run qui analyse un seul produit sans demande explicite d'Hakim est incomplet.
 
 ## Kloow / Semrush / Ahrefs
 
-Pour Hakim, l'acces Kloow/Semrush doit etre considere comme attendu quand la demande mentionne Google-first France, sauf instruction contraire ou blocage reel.
+Pour Hakim, l'acces Kloow/Semrush doit etre considere comme attendu en etape 5, sauf instruction contraire ou blocage reel.
 
 Regles :
 
@@ -79,9 +120,8 @@ AliExpress est toujours serialise :
 ## Prompt recommande pour nouvelle conversation
 
 ```text
-Refere-toi au repo GitHub HakimOuah/dropshipping-product-factory ou au repo local /Users/Hakim/Documents/New project.
-Lance une NOUVELLE RECHERCHE PRODUIT COMPLETE, pas l'analyse d'un seul produit.
-Suis docs/research-run-protocol.md puis workflows/weekly-product-testing-workflow.md.
-Contraintes obligatoires : creer/remplir la feuille Google Sheet, ouvrir l'application Mac Kloow, cliquer Login si necessaire, chercher Semrush dans Kloow, cliquer Launch, utiliser Semrush France dans Kloow Browser, chercher 20 a 50 idees brutes, scorer 5 produits minimum sauf justification documentee, tenter AliExpress en serie pour chaque produit score, puis t'arreter a Gate 0.
-Pour ce compte, considere que Kloow/Semrush est disponible sauf blocage reel constate : tu dois donc le tenter et documenter le resultat. Si Semrush n'est pas disponible dans Kloow, cherche Ahrefs dans Kloow et clique Launch comme fallback.
+Refere-toi au repo GitHub HakimOuah/dropshipping-product-factory ou au clone local /Users/Hakim/Documents/New project.
+Lance une NOUVELLE RECHERCHE PRODUIT COMPLETE (flux broyeur), pas l'analyse d'un seul produit.
+Suis docs/research-run-protocol.md : sourcing multi-plateformes (5 a 10 idees par plateforme, 50-60 au total, format broyeur), broyeur sur 100 % des candidats, Excel de controle ideas.xlsx, puis STOP — attends ma validation avant Semrush.
+Ne modifie pas broyeur/scoring_config.yaml.
 ```
