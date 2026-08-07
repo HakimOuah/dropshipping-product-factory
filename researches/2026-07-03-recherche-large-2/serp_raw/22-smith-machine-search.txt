@@ -1,0 +1,564 @@
+AXWindow|title=smith machine - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=smith machine - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=smith%20machine&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=smith machine - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=smith machine
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXLink|title=|desc=Actualités|value=
+                                              AXStaticText|title=|desc=|value=Actualités
+                                            AXLink|title=|desc=Web|value=
+                                              AXStaticText|title=|desc=|value=Web
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter New|value=
+                                              AXStaticText|title=|desc=|value=New
+                                            AXLink|title=|desc=Ajouter Used|value=
+                                              AXStaticText|title=|desc=|value=Used
+                                            AXLink|title=|desc=Ajouter Noir|value=
+                                              AXStaticText|title=|desc=|value=Noir
+                                            AXLink|title=|desc=Ajouter Blanc|value=
+                                              AXStaticText|title=|desc=|value=Blanc
+                                            AXLink|title=|desc=Ajouter Gris|value=
+                                              AXStaticText|title=|desc=|value=Gris
+                                            AXLink|title=|desc=Ajouter Price|value=
+                                              AXStaticText|title=|desc=|value=Price
+                                            AXLink|title=|desc=Ajouter For Sale|value=
+                                              AXStaticText|title=|desc=|value=For Sale
+                                            AXLink|title=|desc=Ajouter Reviews|value=
+                                              AXStaticText|title=|desc=|value=Reviews
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez Powertec Europe|value=
+                                              AXLink|title=|desc= à chez Powertec Europe|value=
+                                            AXHeading|title=Smith Machine À Roulements Linéaires|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Smith Machine À Roulements Linéaires
+                                            AXStaticText|title=|desc=|value=1 199,00 €
+                                            AXGroup|title=|desc=Vendu par Powertec Europe|value=
+                                              AXStaticText|title=|desc=|value=Powertec Europe
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Atletica|value=
+                                              AXLink|title=|desc= à chez Atletica|value=
+                                            AXHeading|title=KSK | Smith Machine | Charge max. 650 kg | Double poulie | avec Jammer Arms | Bras de sécurité inclus | 650 kg|desc=|value=3
+                                                AXStaticText|title=|desc=|value=KSK | Smith Machine | Charge max. 650 kg | Double poulie | avec Jammer Arms | Bras de sécurité inclus | 650 kg
+                                            AXStaticText|title=|desc=|value=2 399,00 €
+                                            AXGroup|title=|desc=Vendu par Atletica|value=
+                                              AXStaticText|title=|desc=|value=Atletica
+                                              AXStaticText|title=|desc=|value=+ 59,00 € de frais de port
+                                              AXImage|title=|desc=Note : 4,1 sur 5 (78) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez Training-Fit FR|value=
+                                              AXLink|title=|desc= à chez Training-Fit FR|value=
+                                            AXHeading|title=Smith machine Sveltus|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Smith machine Sveltus
+                                            AXStaticText|title=|desc=|value=3 719,14 €
+                                            AXGroup|title=|desc=Vendu par Training-Fit FR|value=
+                                              AXStaticText|title=|desc=|value=Training-Fit FR
+                                              AXStaticText|title=|desc=|value=+ 6,99 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.4/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Normatech|value=
+                                              AXLink|title=|desc= à chez Normatech|value=
+                                            AXHeading|title=Full Smith Machine SM80 TUNTURI|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Full Smith Machine SM80 TUNTURI
+                                            AXStaticText|title=|desc=|value=1 429,00 €
+                                            AXGroup|title=|desc=Vendu par Normatech|value=
+                                              AXStaticText|title=|desc=|value=Normatech
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (21) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Powertec Europe|value=
+                                              AXLink|title=|desc= à chez Powertec Europe|value=
+                                            AXHeading|title=Roller Smith Machine|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Roller Smith Machine
+                                            AXStaticText|title=|desc=|value=1 349,00 €
+                                            AXGroup|title=|desc=Vendu par Powertec Europe|value=
+                                              AXStaticText|title=|desc=|value=Powertec Europe
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (5) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Atletica|value=
+                                              AXLink|title=|desc= à chez Atletica|value=
+                                            AXHeading|title=R7 Nemesis | Weight Stack | 223 cm | Smith Machine intégrée | Station de tirage & rowing | Bras de sécurité inclus | Qualité studio pour Home Gym|desc=|value=3
+                                                AXStaticText|title=|desc=|value=R7 Nemesis | Weight Stack | 223 cm | Smith Machine intégrée | Station de tirage & rowing | Bras de sécurité inclus | Qualité studio pour Home Gym
+                                            AXStaticText|title=|desc=|value=1 869,00 €
+                                            AXGroup|title=|desc=Vendu par Atletica|value=
+                                              AXStaticText|title=|desc=|value=Atletica
+                                              AXStaticText|title=|desc=|value=+ 59,00 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours gratuits sous 100 jour(s)
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez Atletica|value=
+                                              AXLink|title=|desc= à chez Atletica|value=
+                                            AXHeading|title=R7 Nemesis | Plate Loaded | 223 cm | Smith Machine intégrée | Station de tirage & rowing | Bras de sécurité inclus | Qualité studio pour Home Gym|desc=|value=3
+                                                AXStaticText|title=|desc=|value=R7 Nemesis | Plate Loaded | 223 cm | Smith Machine intégrée | Station de tirage & rowing | Bras de sécurité inclus | Qualité studio pour Home Gym
+                                            AXStaticText|title=|desc=|value=1 299,00 €
+                                            AXGroup|title=|desc=Vendu par Atletica|value=
+                                              AXStaticText|title=|desc=|value=Atletica
+                                              AXStaticText|title=|desc=|value=+ 59,00 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours gratuits sous 100 jour(s)
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Adference Shopping|value=
+                                                AXStaticText|title=|desc=|value=Adference Shopping
+                                              AXLink|title=|desc=Feed Manager|value=
+                                                AXStaticText|title=|desc=|value=Feed Manager
+                                              AXLink|title=|desc=Channable|value=
+                                                AXStaticText|title=|desc=|value=Channable
+                                              AXLink|title=|desc=Kelkoo|value=
+                                                AXStaticText|title=|desc=|value=Kelkoo
+                                              AXLink|title=|desc=Yteo|value=
+                                                AXStaticText|title=|desc=|value=Yteo
+                                                            AXButton|title=|desc=Smith Machine. Prix actuel : 2 299,00 €. FitnessBoutique FR. Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Smith machine. Prix actuel : 1 000,00 €. Occasion.Leboncoin. Note : 4,7 sur 5. 290 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Sportstech Sportstech SXM150 Smith Machine la station de musculation pour la maison. Prix actuel : 1 299,00 €. Amazon.fr - Seller. Note : 4,7 sur 5. 79 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Smith Machine S8000 Fitness Tech. Prix actuel : 1 799,00 €. Plus de prix disponibles. Alltricks et plus. Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Smith machine ATX avec poulie haute et basse. PROMOTION. Prix actuel : 599,00 €. Avant : 699 €. Powergym. Note : 4,7 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fitness Tech Machine Smith S13. Prix actuel : 746,90 €. Plus de prix disponibles. fitnesstechstore.fr et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Smith machine Gorilla Sports. PROMOTION. Prix actuel : 849,99 €. Avant : 1 100 €. Gorilla Sports France. Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Machine Smith Powerline option complète. Prix actuel : 625,00 €. Plus de prix disponibles. cress-sport et plus. Note : 4,9 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=C'est quoi une smith machine ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=C'est quoi une smith machine ?
+                                              AXButton|title=Quelle est la meilleure smith machine maison ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelle est la meilleure smith machine maison ?
+                                              AXButton|title=Quelle est la smith machine la plus complète ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelle est la smith machine la plus complète ?
+                                              AXButton|title=Quel est l'appareil de sport qui fait le plus maigrir ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est l'appareil de sport qui fait le plus maigrir ?
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Machine smith avec barre guidée powergym france https://www.powergym.fr › Appareils|value=
+                                            AXHeading|title=Machine smith avec barre guidée|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Machine smith avec barre guidée
+                                              AXStaticText|title=|desc=|value=powergym france
+                                                AXStaticText|title=|desc=|value=https://www.powergym.fr
+                                                AXStaticText|title=|desc=|value= › Appareils
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=La smith machine est un 
+                                            AXStaticText|title=|desc=|value=appareil polyvalent avec barre guidée
+                                          AXStaticText|title=|desc=|value= permettant d'effectuer une multitude d'exercices de musculation pour le haut et le bas du ...
+                                          AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                          AXLink|title=|desc=Images concernant smith machine sur www.powergym.fr|value=
+                                          AXLink|title=|desc=Smith Machine musculation compactes - Titanium Strength titaniumstrength.fr https://www.titaniumstrength.fr › Musculation|value=
+                                            AXHeading|title=Smith Machine musculation compactes - Titanium Strength|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Smith Machine musculation compactes - Titanium Strength
+                                              AXStaticText|title=|desc=|value=titaniumstrength.fr
+                                                AXStaticText|title=|desc=|value=https://www.titaniumstrength.fr
+                                                AXStaticText|title=|desc=|value= › Musculation
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=La Smith Machine, 
+                                            AXStaticText|title=|desc=|value=l'appareil multifonction pour entraîner tout le corps
+                                          AXStaticText|title=|desc=|value=. Achetez votre Smith Machine aujourd'hui et profitez d'une livraison gratuite!
+                                          AXLink|title=|desc=Images concernant smith machine sur www.titaniumstrength.fr|value=
+                                          AXLink|title=|desc=Smith machine musculation Decathlon https://www.decathlon.fr › smith-machine-musculation|value=
+                                            AXHeading|title=Smith machine musculation|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Smith machine musculation
+                                              AXStaticText|title=|desc=|value=Decathlon
+                                                AXStaticText|title=|desc=|value=https://www.decathlon.fr
+                                                AXStaticText|title=|desc=|value= › smith-machine-musculation
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Le Titanium Strength Multipower. 
+                                            AXStaticText|title=|desc=|value=Smith Machine combine un rack à 14 positions
+                                          AXStaticText|title=|desc=|value=, des supports de disques olympiques et une barre guidée de diamètre olympique de ...
+                                          AXLink|title=|desc=smith machine sur www.decathlon.fr|value=
+                                              AXImage|title=|desc=smith machine sur www.decathlon.fr|value=
+                                            AXStaticText|title=|desc=|value=389,00 € à 8 199,00 €
+                                            AXImage|title=|desc=Note : 4,0 sur 5 (21) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                        AXHeading|title=Vidéos courtes|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Vidéos courtes
+                                                  AXButton|title=|desc=The smith machine, the most versatile machine par Denis Gallois sur YouTube. Lire sur Google. 0:20|value=
+                                                    AXLink|title=|desc=The smith machine, the most versatile machine YouTube · Denis Gallois|value=
+                                                        AXHeading|title=The smith machine, the most versatile machine|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=The smith machine, the most versatile machine
+                                                        AXStaticText|title=|desc=|value=YouTube
+                                                        AXStaticText|title=|desc=|value= · 
+                                                        AXStaticText|title=|desc=|value=Denis Gallois
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                                    AXLink|title=|desc=Séance Full Body à la Smith Machine Tu veux une séance ... par Fitness Park Mulhouse sur Instagram. Lire sur Instagram. 0:24|value=
+                                                    AXLink|title=|desc=Séance Full Body à la Smith Machine Tu veux une séance ... Instagram · Fitness Park Mulhouse|value=
+                                                        AXHeading|title=Séance Full Body à la Smith Machine Tu veux une séance ...|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Séance Full Body à la Smith Machine Tu veux une séance ...
+                                                        AXStaticText|title=|desc=|value=Instagram
+                                                        AXStaticText|title=|desc=|value= · 
+                                                        AXStaticText|title=|desc=|value=Fitness Park Mulhouse
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                                    AXLink|title=|desc=La Smith Machine par @matrixfitnesscanada Pas juste pour ... par Tonic Gym sur Facebook. Lire sur Facebook. 0:34|value=
+                                                    AXLink|title=|desc=La Smith Machine par @matrixfitnesscanada Pas juste pour ... Facebook · Tonic Gym|value=
+                                                        AXHeading|title=La Smith Machine par @matrixfitnesscanada Pas juste pour ...|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=La Smith Machine par @matrixfitnesscanada Pas juste pour ...
+                                                        AXStaticText|title=|desc=|value=Facebook
+                                                        AXStaticText|title=|desc=|value= · 
+                                                        AXStaticText|title=|desc=|value=Tonic Gym
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                                    AXLink|title=|desc=Nanterre on Instagram: "La Smith machine, ce n'est pas que ... par ON AIR FITNESS - Nanterre sur Instagram. Lire sur Instagram. 0:48|value=
+                                                    AXLink|title=|desc=Nanterre on Instagram: "La Smith machine, ce n'est pas que ... Instagram · ON AIR FITNESS - Nanterre|value=
+                                                        AXHeading|title=Nanterre on Instagram: "La Smith machine, ce n'est pas que ...|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Nanterre on Instagram: "La Smith machine, ce n'est pas que ...
+                                                        AXStaticText|title=|desc=|value=Instagram
+                                                        AXStaticText|title=|desc=|value= · 
+                                                        AXStaticText|title=|desc=|value=ON AIR FITNESS - Nanterre
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=La Smith Machine est désormais disponible dans votre salle ... par Keep Cool Nantes-Route de Vannes sur Facebook. Lire sur Facebook. 0:28|value=
+                                                      AXLink|title=|desc=La Smith Machine est désormais disponible dans votre salle ... Facebook · Keep Cool Nantes-Route de Vannes|value=
+                                                          AXHeading|title=La Smith Machine est désormais disponible dans votre salle ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=La Smith Machine est désormais disponible dans votre salle ...
+                                                          AXStaticText|title=|desc=|value=Facebook
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Keep Cool Nantes-Route de Vannes
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=🏋️‍♂️ Pourquoi la Smith Machine est un équipement ultra ... par Viveden Compiègne sur Facebook. Lire sur Facebook. 0:48|value=
+                                                      AXLink|title=|desc=🏋️‍♂️ Pourquoi la Smith Machine est un équipement ultra ... Facebook · Viveden Compiègne|value=
+                                                          AXHeading|title=🏋️‍♂️ Pourquoi la Smith Machine est un équipement ultra ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=🏋️‍♂️ Pourquoi la Smith Machine est un équipement ultra ...
+                                                          AXStaticText|title=|desc=|value=Facebook
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Viveden Compiègne
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=Objectif de vie : avoir une smith machine chez moi par Cam 🌺 sur Instagram. Lire sur Instagram. 1:06|value=
+                                                      AXLink|title=|desc=Objectif de vie : avoir une smith machine chez moi Instagram · Cam 🌺|value=
+                                                          AXHeading|title=Objectif de vie : avoir une smith machine chez moi|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Objectif de vie : avoir une smith machine chez moi
+                                                          AXStaticText|title=|desc=|value=Instagram
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Cam 🌺
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=Les meilleurs exercices pour la SMITH-MACHINE🏋️ #fitness ... par ON AIR Fitness sur YouTube. Lire sur YouTube. 0:30|value=
+                                                      AXLink|title=|desc=Les meilleurs exercices pour la SMITH-MACHINE🏋️ #fitness ... YouTube · ON AIR Fitness|value=
+                                                          AXHeading|title=Les meilleurs exercices pour la SMITH-MACHINE🏋️ #fitness ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Les meilleurs exercices pour la SMITH-MACHINE🏋️ #fitness ...
+                                                          AXStaticText|title=|desc=|value=YouTube
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=ON AIR Fitness
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=La Smith Machine t'offre stabilité et précision dans chaque ... par On Air Fitness Vélizy sur Facebook. Lire sur Facebook. 0:57|value=
+                                                      AXLink|title=|desc=La Smith Machine t'offre stabilité et précision dans chaque ... Facebook · On Air Fitness Vélizy|value=
+                                                          AXHeading|title=La Smith Machine t'offre stabilité et précision dans chaque ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=La Smith Machine t'offre stabilité et précision dans chaque ...
+                                                          AXStaticText|title=|desc=|value=Facebook
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=On Air Fitness Vélizy
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=FITNESS POUR LES NULS Comment utiliser la Smith ... par Mel sur Instagram. Lire sur Instagram. 1:00|value=
+                                                      AXLink|title=|desc=FITNESS POUR LES NULS Comment utiliser la Smith ... Instagram · Mel|value=
+                                                          AXHeading|title=FITNESS POUR LES NULS Comment utiliser la Smith ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=FITNESS POUR LES NULS Comment utiliser la Smith ...
+                                                          AXStaticText|title=|desc=|value=Instagram
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Mel
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                        AXLink|title=|desc=Plus de vidéos courtes|value=
+                                            AXStaticText|title=|desc=|value=Plus de vidéos courtes
+                                        AXHeading|title=Vidéos|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Vidéos
+                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                  AXLink|title=|desc=The smith machine, the most versatile machine YouTube Denis Gallois 15 avr. 2026|value=
+                                                    AXHeading|title=The smith machine, the most versatile machine YouTube Denis Gallois 15 avr. 2026|desc=|value=3
+                                                      AXStaticText|title=|desc=|value=The smith machine, the most versatile machine
+                                                      AXStaticText|title=|desc=|value=YouTube
+                                                      AXStaticText|title=|desc=|value= Denis Gallois
+                                                        AXStaticText|title=|desc=|value=15 avr. 2026
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                AXButton|title=|desc=The smith machine, the most versatile machine par Denis Gallois sur YouTube. Lire sur Google. 0:20|value=
+                                                AXLink|title=|desc=Comment utiliser la smith machine / exemples d'exercices ... YouTube Julie-Ann Ouellet 1 avr. 2025|value=
+                                                  AXHeading|title=Comment utiliser la smith machine / exemples d'exercices ... YouTube Julie-Ann Ouellet 1 avr. 2025|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Comment utiliser la smith machine / exemples d'exercices ...
+                                                    AXStaticText|title=|desc=|value=YouTube
+                                                    AXStaticText|title=|desc=|value= Julie-Ann Ouellet
+                                                      AXStaticText|title=|desc=|value=1 avr. 2025
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXButton|title=|desc=Comment utiliser la smith machine / exemples d'exercices ... par Julie-Ann Ouellet sur YouTube. Lire sur Google. 1:25|value=
+                                                AXLink|title=|desc=La Smith Machine par @matrixfitnesscanada Pas juste pour ... Facebook Tonic Gym 9 févr. 2026|value=
+                                                  AXHeading|title=La Smith Machine par @matrixfitnesscanada Pas juste pour ... Facebook Tonic Gym 9 févr. 2026|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=La Smith Machine par @matrixfitnesscanada Pas juste pour ...
+                                                    AXStaticText|title=|desc=|value=Facebook
+                                                    AXStaticText|title=|desc=|value= Tonic Gym
+                                                      AXStaticText|title=|desc=|value=9 févr. 2026
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=La Smith Machine par @matrixfitnesscanada Pas juste pour ... par Tonic Gym sur Facebook. Lire sur Facebook. 0:34|value=
+                                          AXLink|title=|desc=Afficher toutes les vidéos|value=
+                                              AXStaticText|title=|desc=|value=Voir plus
+                                        AXHeading|title=Images|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Images
+                                              AXLink|title=|desc=Hoist CF-3755 Dual Angle Smith Machine | Shop Fitness Gallery Fitness Gallery|value=
+                                              AXButton|title=Hoist CF-3755 Dual Angle Smith Machine | Shop Fitness Gallery|desc=|value=
+                                                  AXImage|title=|desc=Hoist CF-3755 Dual Angle Smith Machine | Shop Fitness Gallery|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Smith machine complète avec système à poulie et banc d'entraînement avec options - Pack musculation 180SP Titanium Strength powergym france|value=
+                                              AXButton|title=Smith machine complète avec système à poulie et banc d'entraînement avec options - Pack musculation 180SP Titanium Strength|desc=|value=
+                                                  AXImage|title=|desc=Smith machine complète avec système à poulie et banc d'entraînement avec options - Pack musculation 180SP Titanium Strength|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Smith Machine Sveltus|value=
+                                              AXButton|title=Smith Machine|desc=|value=
+                                                  AXImage|title=|desc=Smith Machine|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Counterbalanced Smith Machine - Pulse Fitness Pulse Fitness|value=
+                                              AXButton|title=Counterbalanced Smith Machine - Pulse Fitness|desc=|value=
+                                                  AXImage|title=|desc=Counterbalanced Smith Machine - Pulse Fitness|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Smith machine - Wikipedia Wikipedia|value=
+                                              AXButton|title=Smith machine - Wikipedia|desc=|value=
+                                                  AXImage|title=|desc=Smith machine - Wikipedia|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Smith Machine Fitness Boutique|value=
+                                              AXButton|title=Smith Machine|desc=|value=
+                                                  AXImage|title=|desc=Smith Machine|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                      AXButton|title=Afficher plus d'images|desc=|value=
+                                          AXStaticText|title=|desc=|value=Afficher plus d'images
+                                                            AXButton|title=|desc=RitKeep PMAX-5600 Machine avec Smith Bench pour. Prix actuel : 2 310,00 €. ritkeep de. Note : 4,9 sur 5. 78 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=REP Fitness Ensemble Smith Machine. Prix actuel : 282,34 €. REP Fitness | France. Note : 4,0 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Body-Solid Smith Machine PSM144X. Prix actuel : 625,00 €. Plus de prix disponibles. idealo France et plus. Note : 4,5 sur 5. 96 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Nordcore Rack à Squat Smith Machine Core. Prix actuel : 509,00 €. Plus de prix disponibles. Carrefour et plus. Note : 5,0 sur 5. 13 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Multipower Smith machine S9000 Fitness tech. Prix actuel : 2 099,00 €. Plus de prix disponibles. Prixify.fr et plus. Note : 4,8 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=RitKeep PMAX-4750 Smith Machine avec. Prix actuel : 1 699,00 €. ritkeep de. Note : 4,8 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Smith machine professionnelle 800 kg, barre libre, robuste, pour home gym. Prix actuel : 2 499,00 €. Powergym. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Titanium Strength Deluxe Smith Machine et Rack rm10. Prix actuel : 995,00 €. Plus de prix disponibles. Titanium Strength FR et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Qu'est ce qu'une Smith Machine ? Fitness Boutique https://www.fitnessboutique.fr › blogs › conseils-materiel|value=
+                                            AXHeading|title=Qu'est ce qu'une Smith Machine ?|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Qu'est ce qu'une Smith Machine ?
+                                              AXStaticText|title=|desc=|value=Fitness Boutique
+                                                AXStaticText|title=|desc=|value=https://www.fitnessboutique.fr
+                                                AXStaticText|title=|desc=|value= › blogs › conseils-materiel
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=19 nov. 2018
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Une Smith Machine 
+                                            AXStaticText|title=|desc=|value=c'est un peu l'équivalent d'une cage à squat mais en version guidée
+                                          AXStaticText|title=|desc=|value=. En effet, ici, la barre olympique fait partie de la ...
+                                          AXLink|title=|desc=smith machine sur www.fitnessboutique.fr|value=
+                                              AXImage|title=|desc=smith machine sur www.fitnessboutique.fr|value=
+                                          AXLink|title=|desc=Smith Machine - Performance Pallini Sport https://www.pallini-sport.fr › products › smith-machine-...|value=
+                                            AXHeading|title=Smith Machine - Performance|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Smith Machine - Performance
+                                              AXStaticText|title=|desc=|value=Pallini Sport
+                                                AXStaticText|title=|desc=|value=https://www.pallini-sport.fr
+                                                AXStaticText|title=|desc=|value= › products › smith-machine-...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Dotée d'une barre guidée, la Smith Machine permet de réaliser des mouvements contrôlés
+                                          AXStaticText|title=|desc=|value= pour un développement musculaire optimal. Les dispositifs de sécurité ...
+                                          AXLink|title=|desc=smith machine sur www.pallini-sport.fr|value=
+                                              AXImage|title=|desc=smith machine sur www.pallini-sport.fr|value=
+                                            AXStaticText|title=|desc=|value=3 588,00 €
+                                            AXStaticText|title=|desc=|value=En stock
+                                          AXLink|title=|desc=Smith machine RAKK FRANCE https://www.rakk.fr › rack-musculation-smith-machine|value=
+                                            AXHeading|title=Smith machine|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Smith machine
+                                              AXStaticText|title=|desc=|value=RAKK FRANCE
+                                                AXStaticText|title=|desc=|value=https://www.rakk.fr
+                                                AXStaticText|title=|desc=|value= › rack-musculation-smith-machine
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=La smith machine est un 
+                                            AXStaticText|title=|desc=|value=équipement de musculation populaire
+                                          AXStaticText|title=|desc=|value= qui offre une approche sécurisée et polyvalente pour l'entraînement de force.
+                                          AXLink|title=|desc=smith machine sur www.rakk.fr|value=
+                                              AXImage|title=|desc=smith machine sur www.rakk.fr|value=
+                                          AXLink|title=|desc=Smith machine | Hammer Strength Life Fitness https://www.lifefitness.com › strength-training › benches|value=
+                                            AXHeading|title=Smith machine | Hammer Strength|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Smith machine | Hammer Strength
+                                              AXStaticText|title=|desc=|value=Life Fitness
+                                                AXStaticText|title=|desc=|value=https://www.lifefitness.com
+                                                AXStaticText|title=|desc=|value= › strength-training › benches
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=La trajectoire de la barre de la 
+                                            AXStaticText|title=|desc=|value=Smith Machine
+                                          AXStaticText|title=|desc=|value= suit un angle de sept degrés, soit le mouvement avec poids libres de l'haltérophilie olympique.
+                                          AXLink|title=|desc=smith machine sur www.lifefitness.com|value=
+                                              AXImage|title=|desc=smith machine sur www.lifefitness.com|value=
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Smith machine squat|value=
+                                        AXStaticText|title=|desc=|value=Smith machine 
+                                        AXStaticText|title=|desc=|value=squat
+                                      AXLink|title=|desc=Smith machine Basic Fit|value=
+                                        AXStaticText|title=|desc=|value=Smith machine 
+                                        AXStaticText|title=|desc=|value=Basic Fit
+                                      AXLink|title=|desc=Smith Machine Decathlon|value=
+                                        AXStaticText|title=|desc=|value=Smith Machine 
+                                        AXStaticText|title=|desc=|value=Decathlon
+                                      AXLink|title=|desc=Smith Machine musculation|value=
+                                        AXStaticText|title=|desc=|value=Smith Machine 
+                                        AXStaticText|title=|desc=|value=musculation
+                                      AXLink|title=|desc=Smith machine occasion|value=
+                                        AXStaticText|title=|desc=|value=Smith machine 
+                                        AXStaticText|title=|desc=|value=occasion
+                                      AXLink|title=|desc=Smith machine pec|value=
+                                        AXStaticText|title=|desc=|value=Smith machine 
+                                        AXStaticText|title=|desc=|value=pec
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=7
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=16
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=7
+                                      AXStaticText|title=|desc=|value=16
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=smith machine - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

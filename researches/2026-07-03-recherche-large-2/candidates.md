@@ -1,0 +1,608 @@
+# Candidats - run 2026-07-03-recherche-large-2
+
+50 idees uniques collectees en flux broyeur-first.
+price_source_ali volontairement absent: sourcing couts uniquement apres validation Hakim.
+Dotmarket et Bigbuy sous quota documentes; compensation par Vevor, Europages, Cdiscount, Pinterest, Amazon et Flippa.
+## Fauteuil oeuf suspendu double en osier synthetique
+- source: bigbuy
+- category: garden_seating
+- price_sell: 520
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Coin lecture/terrasse cocon sans meuble de jardin banal. Signal BigBuy Garden via Bixoto/Carrefour; prix marche observe 400-650 EUR. Sources: https://bixoto.com/fr/p/bigbuy-garden-fauteuil-de-jardin-suspendu-osier-marron-95-x-195-cm-s7912290 | https://www.carrefour.fr/p/fauteuil-de-jardin-suspendu-dido-noir-81-x-64-x-111-5-cm-8424346273614
+---
+## Salon de jardin aluminium et corde 6 places DKD
+- source: bigbuy
+- category: garden_furniture
+- price_sell: 1310
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Salon exterieur premium style hotel pour terrasse familiale. Signal BigBuy/DKD Home Decor; prix marche observe 1200-1600 EUR. Source: https://bigbuy-home-and-decor.myshopify.com/collections/garden-and-terrace/products/table-set-with-chairs-dkd-home-decor-beige-78-cm-163-x-95-x-6-cm
+---
+## Hamac suspendu XL avec barre et support premium
+- source: bigbuy
+- category: garden_relaxation
+- price_sell: 190
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: commodity
+- distinct_sources: 1
+- notes: Detente balcon/jardin facile a installer. Signal BigBuy Outdoor/Cdiscount; prix marche observe 168-220 EUR. Source: https://www.cdiscount.com/jardin/mobilier-de-jardin/bigbuy-outdoor-hamac-suspendu/f-1631610-big1732950018897.html
+---
+## Ventilateur de plafond DC silencieux avec luminaire 132 cm
+- source: amazon_movers
+- category: home_cooling
+- price_sell: 180
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- is_seasonal: true
+- notes: Rafraichir une chambre sans clim ni bruit. Signal Amazon top ventes/canicule; prix marche premium 150-260 EUR. Sources: https://www.bfmtv.com/pratique/maison/au-top-des-ventes-amazon-ce-ventilateur-de-plafond-avec-lumiere-marque-un-tournant-en-cette-periode-de-canicule_AB-202606250018.html | https://www.amazon.fr/ventilateur-plafond/s?k=ventilateur+plafond
+---
+## Station electrique portable LiFePO4 1024 Wh
+- source: amazon_movers
+- category: portable_power
+- price_sell: 799
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Autonomie camping/travaux/coupure sans groupe electrogene. Signal Amazon et presse shopping sur EcoFlow/Bluetti; prix marche 499-999 EUR. Sources: https://www.amazon.fr/station-energie-portative/s?k=station+energie+portative | https://www.lesnumeriques.com/divers-electromenager/amazon-flash-prime-la-station-electrique-portable-ecoflow-delta-2-passe-sous-les-500-n243596.html
+---
+## Station meteo WiFi pro avec anemometre et pluviometre
+- source: amazon_movers
+- category: garden_weather
+- price_sell: 260
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Suivi meteo local pour jardin, potager et maison. Signal Amazon Jardin/Maison; prix marche stations WiFi completes 200-350 EUR. Source: https://www.amazon.fr/gp/movers-and-shakers/lawn-garden
+---
+## Detecteur radon connecte domestique longue duree
+- source: amazon_movers
+- category: home_safety
+- price_sell: 210
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Mesurer un risque invisible dans les maisons anciennes. Signal Amazon Maison/Bricolage; prix marche detecteurs radon connectes 180-300 EUR. Source: https://www.amazon.fr/gp/movers-and-shakers/hi
+---
+## Composteur electrique de cuisine 3 a 5 L anti-odeur
+- source: amazon_movers
+- category: kitchen_waste_equipment
+- price_sell: 430
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Reduire les biodechets en appartement sans odeurs. Signal Amazon Cuisine/Maison; prix marche composteurs electriques 350-650 EUR. Source: https://www.amazon.fr/gp/movers-and-shakers/kitchen
+---
+## Panneaux acoustiques tasseaux bois pour mur complet
+- source: amazon_movers
+- category: home_acoustics
+- price_sell: 320
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 2
+- notes: Rendre un salon ou bureau plus calme et plus premium. Signal Amazon deco/renovation + tendance interieur; prix marche lots muraux 250-600 EUR. Sources: https://www.amazon.fr/gp/movers-and-shakers/hi | https://business.pinterest.com/en-gb/pinterest-predicts/
+---
+## Table de cuisine camping pliante aluminium avec rangement
+- source: amazon_movers
+- category: camping_furniture
+- price_sell: 220
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- is_seasonal: true
+- notes: Cuisine propre et organisee en camping familial. Signal Amazon Sports/Jardin estival; prix marche cuisines pliantes 180-300 EUR. Source: https://www.amazon.fr/gp/movers-and-shakers/lawn-garden
+---
+## Projecteur LED chantier telescopique sur batterie
+- source: amazon_movers
+- category: workshop_lighting
+- price_sell: 250
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Eclairage mobile puissant pour travaux, garage et renovation. Signal Amazon Bricolage; prix marche 200-350 EUR. Source: https://www.amazon.fr/gp/movers-and-shakers/hi
+---
+## Abri velo securise metal 4 a 6 velos
+- source: europages
+- category: outdoor_storage
+- price_sell: 950
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Proteger les velos electriques sans construire un garage. Signal Europages France Abris; prix marche abris velos securises 700-1400 EUR. Sources: https://www.europages.fr/entreprises/abris%20pour%20v%C3%A9los.html | https://www.europages.fr/entreprises/fabrication-de-velos.html
+---
+## Abri poubelle design metal double ou triple
+- source: europages
+- category: outdoor_storage
+- price_sell: 580
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Cacher les bacs et rendre l'entree maison plus propre. Signal Europages METASTAL/FranceAbris; prix marche 450-900 EUR. Sources: https://www.europages.fr/METASTAL/00000005411559-747166001.html | https://www.europages.fr/entreprises/france/fabricant%20producteur/boite-metallique.html
+---
+## Jardiniere acier corten XXL modulable
+- source: europages
+- category: garden_planter
+- price_sell: 650
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Terrasse paysagee premium sans travaux lourds. Signal Europages acier corten; prix marche jardiniere XXL 450-1000 EUR. Source: https://www.europages.fr/entreprises/acier-corten.html
+---
+## Recuperateur eau de pluie mural design 800 L
+- source: europages
+- category: water_saving_garden
+- price_sell: 520
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Arroser le jardin en ete sans cuve moche. Signal fournisseurs jardin/amenagement Europages; prix marche cuves design 400-800 EUR. Source: https://www.europages.fr/entreprises/jardinage.html
+---
+## Banc exterieur beton bois design pour terrasse
+- source: europages
+- category: outdoor_furniture
+- price_sell: 720
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Mobilier exterieur durable style parc/hotel. Signal Europages mobilier urbain Crouzoulon; prix marche banc design 600-1200 EUR. Source: https://www.europages.fr/entreprises/france/fabricant%20producteur/mobilier-urbain.html
+---
+## Porte d'entree aluminium triple vitrage sur mesure
+- source: europages
+- category: home_renovation
+- price_sell: 1500
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Renover l'entree pour isolation, securite et valeur maison. Signal Europages EURADIF/RS Concept; prix marche 1200-2000 EUR hors pose. Sources: https://www.europages.fr/entreprises/france/lille%20et%20nord-pas-de-calais/agencement-sur-mesure-en-bois.html | https://www.europages.fr/entreprises/anthracite.html
+---
+## Garde-corps aluminium ou inox en kit pour terrasse
+- source: europages
+- category: home_renovation
+- price_sell: 820
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 2
+- notes: Securiser une terrasse sans passer par un devis artisan opaque. Signal Europages + Cdiscount bricolage; prix marche kits 600-1200 EUR selon metres. Sources: https://www.europages.fr/entreprises/france/fabricant%20producteur/mobilier-urbain.html | https://www.cdiscount.com/bricolage
+---
+## Table d'examen veterinaire electrique compacte
+- source: europages
+- category: pet_professional_equipment
+- price_sell: 1250
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: false
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Equiper toiletteurs/veterinaires independants avec un achat direct. Signal Europages equipement pro/sante animale; prix marche tables electriques 900-1800 EUR. Source: https://www.europages.fr/entreprises/equipements.html
+---
+## Scelleuse sous vide a chambre 320 mm
+- source: vevor
+- category: commercial_kitchen_equipment
+- price_sell: 450
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Conservation pro pour traiteurs, chasseurs et familles batch cooking. VEVOR a 242,90-320 EUR selon modele; marche FR chambre 350-700 EUR. Sources: https://www.vevor.fr/machines-d-emballage-sous-vide-c_10467/vevor-machine-a-emballer-sous-vide-a-chambre-260-w-machine-d-emballage-sous-vide-taille-compacte-260-mm-dans-la-cuisine-domestique-et-pour-un-usage-commercial-pour-aliments-humides-viandes-marinades-p_010395199420 | https://www.vevor.fr/machines-d-emballage-sous-vide-c_10467/vevor-machine-a-emballer-sous-vide-a-chambre-320-w-machine-d-emballage-sous-vide-taille-compacte-320-mm-dans-la-cuisine-domestique-et-pour-un-usage-commercial-pour-aliments-humides-viandes-marinades-p_010249426550
+---
+## Deshydrateur alimentaire inox 10 a 12 plateaux
+- source: vevor
+- category: commercial_kitchen_equipment
+- price_sell: 360
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Sechage maison/pro pour fruits, viande et friandises animaux. Signal VEVOR dehydrateur 10/12 plateaux; prix marche 250-500 EUR. Sources: https://www.vevor.fr/deshydrateur-alimentaire-commercial-c_10678/vevor-deshydrateur-alimentaire-sechoir-electrique-1000-w-10-plateaux-pour-fruits-p_010614084859 | https://www.vevor.fr/deshydrateur-alimentaire-commercial-c_10678/vevor-deshydrateur-alimentaire-rotatif-electrique-800-w-12-plateaux-pour-fruits-p_010363063612
+---
+## Plaque vibrante compacteur thermique 15 kN
+- source: vevor
+- category: construction_tools
+- price_sell: 650
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Realiser terrasse, allee et pavage sans louer a chaque week-end. VEVOR liste 453,90 EUR; marche FR compacteurs 600-1000 EUR. Source: https://www.vevor.fr/s/plaque-vibrante-compacteur
+---
+## Camera d'inspection canalisation 30 m avec ecran
+- source: vevor
+- category: plumbing_tools
+- price_sell: 420
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Diagnostiquer une canalisation avant intervention couteuse. Signal VEVOR plomberie/camera egout; prix marche 300-700 EUR. Source: https://www.vevor.fr/s/v%C3%A9vor
+---
+## Presse a chaud textile 40 x 50 cm auto-open
+- source: vevor
+- category: craft_business_equipment
+- price_sell: 480
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Lancer micro-atelier textile sans machine industrielle. Signal VEVOR machines creation; prix marche presses 40x50 350-700 EUR. Source: https://www.vevor.fr/s/v%C3%A9vor
+---
+## Machine a denuder electrique cables cuivre 1,5-32 mm
+- source: vevor
+- category: recycling_equipment
+- price_sell: 390
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Rentabiliser le recyclage cuivre en atelier. VEVOR best-seller a 269,90 EUR; marche FR 300-600 EUR. Source: https://www.vevor.fr/best-sellers?page=4
+---
+## Groupe de recuperation fluides frigorigenes HVAC 1 HP
+- source: vevor
+- category: hvac_tools
+- price_sell: 650
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Outillage CVC portable pour artisans clim/froid. VEVOR liste groupe recuperation 419,99 EUR; marche pro 500-1000 EUR. Source: https://www.vevor.fr/s/groupe-electrogene
+---
+## Coupe-carreaux electrique sur table avec eau
+- source: vevor
+- category: tile_tools
+- price_sell: 520
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Couper proprement carrelage grand format sans louer une scie. Signal VEVOR revetements de sol/coupe-carreaux; prix marche 350-700 EUR. Source: https://www.vevor.fr/s/v%C3%A9vor
+---
+## Store banne motorise demi-coffre 4 x 3 m
+- source: cdiscount
+- category: garden_shade
+- price_sell: 842
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- is_seasonal: true
+- notes: Creer une terrasse ombragee sans pergola lourde. Cdiscount affiche variantes motorisees 842,50 EUR et coffre integral 1431,55 EUR. Source: https://www.cdiscount.com/jardin/r-store%2Bbanne%2Bmanuel%2Bavec%2Bcoffre%2B4m.html
+---
+## Porte de garage sectionnelle motorisee 254 x 218 cm
+- source: cdiscount
+- category: home_renovation
+- price_sell: 924
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Remplacer une porte de garage vieillissante sans devis opaque. Cdiscount NORIA motorisee a 923,99 EUR; marche kit 850-1500 EUR. Sources: https://www.cdiscount.com/bricolage/r-porte%2Bde%2Bgarage%2Bbasculante%2Bmanuelle.html | https://www.cdiscount.com/bricolage/r-porte%2Bde%2Bgarage%2Bbattante.html
+---
+## Coffre-fort biometrique 60 L anti-effraction
+- source: cdiscount
+- category: home_safety
+- price_sell: 534
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Proteger papiers et objets de valeur sans coffre bancaire. Cdiscount NIKCORP 58x40x33 cm a 533,99 EUR; variantes biometrie 189-534 EUR. Sources: https://www.cdiscount.com/bricolage/securite-domotique/coffre-fort-biomtrique/f-1662007-aacbi26593.html | https://www.cdiscount.com/bricolage/r-coffre%2Bfort%2Bempreinte%2Bdigitale.html
+---
+## Robot lave-vitre avec pulverisation 4 directions
+- source: cdiscount
+- category: home_cleaning
+- price_sell: 199
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Nettoyer baies vitrees et veranda sans monter sur escabeau. Cdiscount LIECTROUX S11 compare a 199 EUR, vendu 119 EUR. Sources: https://www.cdiscount.com/maison/r-materiel%2Bde%2Bnettoyage.html | https://www.cdiscount.com/maison/r-vitre%2Bplexiglass.html
+---
+## Motorisation portail coulissant solaire 600 kg
+- source: cdiscount
+- category: home_security_access
+- price_sell: 360
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Automatiser un portail sans tirer une ligne electrique. Signal Cdiscount bricolage motorisation; prix marche kits solaires 300-600 EUR. Source: https://www.cdiscount.com/bricolage/motorisation/
+---
+## Auvent marquise aluminium polycarbonate 6 m
+- source: cdiscount
+- category: home_exterior
+- price_sell: 450
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Proteger entree ou terrasse de la pluie sans gros travaux. Signal Cdiscount abris/annexes et stores; prix marche grandes marquises 350-700 EUR. Source: https://www.cdiscount.com/jardin/abris-annexes-rangement/
+---
+## Escalier meunier gain de place bois et metal
+- source: cdiscount
+- category: space_saving_home
+- price_sell: 690
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Acceder a mezzanine/combles dans une petite surface. Signal Cdiscount bricolage/menuiserie; prix marche escaliers gain de place 550-1200 EUR. Source: https://www.cdiscount.com/bricolage/menuiserie/
+---
+## Cache climatisation exterieure aluminium design
+- source: cdiscount
+- category: home_exterior
+- price_sell: 260
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Cacher l'unite exterieure tout en gardant la ventilation. Signal Cdiscount maison/jardin; prix marche caches clim 200-400 EUR. Source: https://www.cdiscount.com/jardin/
+---
+## Tableau mural fine art grand format personnalisable
+- source: flippa
+- category: wall_art
+- price_sell: 350
+- competitors_type: dropshippers_weak_sites
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Piece deco emotionnelle grand format avec personnalisation. Flippa signale home decor/fine art eCommerce 50k$ revenue et 64% profit margin; prix marche grands formats 250-600 EUR. Source: https://flippa.com/buy/categories/home-and-garden
+---
+## Cloison acoustique mobile design pour bureau maison
+- source: flippa
+- category: home_acoustics
+- price_sell: 520
+- competitors_type: few_or_none
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Separer et calmer un espace teletravail sans travaux. Derive du signal Flippa home/garden et demande home office; prix marche cloisons acoustiques 400-900 EUR. Source: https://flippa.com/buy/categories/home-and-garden
+---
+## Niche chien isolee XXL design quatre saisons
+- source: flippa
+- category: pet
+- price_sell: 480
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Offrir un vrai abri isolant aux grands chiens dehors. Flippa categorie Pets + Home/Garden; prix marche niches isolees XXL 350-800 EUR. Source: https://flippa.com/buy/categories/home-and-garden/pets
+---
+## Sac de couchage quilt ultralight duvet 0 C
+- source: flippa
+- category: outdoor_gear
+- price_sell: 320
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- is_seasonal: true
+- notes: Materiel bivouac leger pour randonneurs qui veulent dormir chaud. Flippa inventory holding premium outdoor gear 800k$+ lifetime revenue; prix marche quilts duvet 250-500 EUR. Source: https://flippa.com/buy/sitetype/inventory-holding
+---
+## Fontaine de jardin murale pierre reconstituee
+- source: flippa
+- category: garden_water_feature
+- price_sell: 390
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Créer une terrasse mediterraneenne sans gros chantier. Flippa home/garden + tendance jardins decoratifs; prix marche fontaines murales 300-700 EUR. Sources: https://flippa.com/buy/categories/home-and-garden | https://www.countryliving.com/gardening/garden-ideas/a70160525/garden-trends-2026/
+---
+## Planche d'equilibre surf indoor bois premium
+- source: flippa
+- category: sports_training
+- price_sell: 220
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: S'entrainer surf/snow chez soi avec objet deco sportif. Flippa sports/outdoor eCommerce signale 990k$ revenue; prix marche balance boards premium 180-350 EUR. Source: https://flippa.com/buy/categories/sports-and-outdoor
+---
+## Paravent decoratif a arches et rayures circuscore
+- source: pinterest_trends
+- category: home_decoration
+- price_sell: 360
+- competitors_type: dropshippers_weak_sites
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Ajouter un decor audacieux sans repeindre toute la piece. Pinterest Predicts 2026 FunHaus: circus interior +130%, striped ceiling +40%. Prix marche paravents design 250-600 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Rideaux velours theatre et kit draperie plafond
+- source: pinterest_trends
+- category: event_home_decor
+- price_sell: 450
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Transformer salon ou evenement en decor opera. Pinterest Opera Aesthetic: wedding ceiling draping +40%, masquerade decor +40%. Prix marche kits velours/draping 300-800 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Tapis laine tufte XXL motif geometrique Neo Deco
+- source: pinterest_trends
+- category: home_decoration
+- price_sell: 650
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Piece forte art deco pour salon sans changer les meubles. Pinterest Neo Deco: chevrons, chrome/laiton, retour art deco. Prix marche tapis laine XXL 500-1000 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Fauteuil accent rattan Afrohemian
+- source: pinterest_trends
+- category: home_furniture
+- price_sell: 480
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Salon boheme africain avec piece assise naturelle. Pinterest Afrohemian Decor: rattan accent chair +50%, bamboo beaded curtains +60%. Prix marche fauteuils accent 350-700 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Bar cart laiton et verre style antique
+- source: pinterest_trends
+- category: home_furniture
+- price_sell: 430
+- competitors_type: dropshippers_weak_sites
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: partial
+- distinct_sources: 1
+- notes: Recevoir avec un coin cocktail mobile et decoratif. Pinterest Neo Deco: antique bar cart +100%, brass aesthetic +35%. Prix marche bars roulants 300-700 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Banquette cuir capitonnee Art Deco
+- source: pinterest_trends
+- category: home_furniture
+- price_sell: 920
+- competitors_type: semi_brands
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Assise statement pour entree, salon ou restaurant boutique. Pinterest Neo Deco: leather banquette +35%. Prix marche banquettes cuir/design 700-1400 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Vitrine cabinet de curiosites laiton et verre
+- source: pinterest_trends
+- category: home_furniture
+- price_sell: 780
+- competitors_type: dropshippers_mixed
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Mettre en scene collections et objets personnels. Pinterest curating/not copying + Neo Deco; prix marche vitrines laiton/verre 600-1200 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Tapisserie murale Adire Afrohemian grand format
+- source: pinterest_trends
+- category: home_decoration
+- price_sell: 280
+- competitors_type: dropshippers_weak_sites
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Mur de caractere textile, culturel et chaleureux. Pinterest Afrohemian Decor: afrobohemian home decor +220%, adire fabric +130%, ethiopian art +50%. Prix marche tentures grand format 200-450 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/
+---
+## Panneaux muraux opalescents holographiques Extra Celestial
+- source: pinterest_trends
+- category: home_decoration
+- price_sell: 260
+- competitors_type: dropshippers_weak_sites
+- sells_in_search: true
+- sells_in_shopping: true
+- legal_eu: true
+- not_available_on_generic_channels: yes
+- distinct_sources: 1
+- notes: Accent mural futuriste pour chambre, studio ou vitrine. Pinterest Extra Celestial: alien core +80%, opalescent +115%. Prix marche panneaux/decors muraux 200-500 EUR. Source: https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/

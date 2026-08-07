@@ -1,0 +1,757 @@
+AXWindow|title=robot lave vitre - Google Shopping - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=robot lave vitre - Google Shopping - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=robot%20lave%20vitre&hl=fr&gl=fr&pws=0&udm=28
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=robot lave vitre - Google Shopping|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Désactiver le défilement continu|value=
+                        AXStaticText|title=|desc=|value=Désactiver le défilement continu
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=robot lave vitre
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                  AXLink|title=|desc=Tous|value=
+                                    AXStaticText|title=|desc=|value=Tous
+                                  AXLink|title=|desc=Images|value=
+                                    AXStaticText|title=|desc=|value=Images
+                                  AXLink|title=|desc=Vidéos|value=
+                                    AXStaticText|title=|desc=|value=Vidéos
+                                  AXLink|title=|desc=Shopping|value=
+                                      AXStaticText|title=|desc=|value=Shopping
+                                  AXLink|title=|desc=Actualités|value=
+                                    AXStaticText|title=|desc=|value=Actualités
+                                  AXLink|title=|desc=Vidéos courtes|value=
+                                    AXStaticText|title=|desc=|value=Vidéos courtes
+                                  AXLink|title=|desc=Web|value=
+                                    AXStaticText|title=|desc=|value=Web
+                                  AXButton|title=Plus de filtres|desc=|value=
+                                    AXGroup|title=|desc=Plus de filtres|value=
+                                      AXStaticText|title=|desc=|value=Plus
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=Affiner les résultats|desc=|value=2
+                                AXStaticText|title=|desc=|value=Affiner les résultats
+                                        AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Nouveau
+                                        AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Occasion
+                                        AXButton|title=Trier par|desc=|value=
+                                              AXStaticText|title=|desc=|value=Trier par
+                                              AXLink|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                AXGroup|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pertinence
+                                              AXLink|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre croissant
+                                              AXLink|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre décroissant
+                                              AXLink|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Note : ordre décroissant
+                                        AXButton|title=Marque|desc=|value=
+                                              AXStaticText|title=|desc=|value=Marque
+                                              AXLink|title=|desc=Filtre ECOVACS ROBOTICS. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre ECOVACS ROBOTICS. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=ECOVACS ROBOTICS
+                                              AXLink|title=|desc=Filtre Kärcher. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Kärcher. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Kärcher
+                                              AXLink|title=|desc=Filtre Bosch. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Bosch. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Bosch
+                                              AXLink|title=|desc=Filtre Dyson. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Dyson. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Dyson
+                                          AXButton|title=Voir 26 autre(s)|desc=|value=
+                                        AXButton|title=Fonctionnalités|desc=|value=
+                                              AXStaticText|title=|desc=|value=Fonctionnalités
+                                              AXLink|title=|desc=Filtre Sans fil. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Sans fil. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Sans fil
+                                              AXLink|title=|desc=Filtre Filtre HEPA. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Filtre HEPA. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Filtre HEPA
+                                        AXButton|title=Prix|desc=|value=
+                                              AXStaticText|title=|desc=|value=Prix
+                                              AXLink|title=|desc=Filtre Moins de 200 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Moins de 200 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Moins de 200 €
+                                              AXLink|title=|desc=Filtre Plus de 200 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 200 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 200 €
+                                                  AXTextField|title=|desc=Prix minimal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Min.
+                                                  AXTextField|title=|desc=Prix maximal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Max.
+                                              AXButton|title=OK|desc=|value=
+                                        AXButton|title=Poids|desc=|value=
+                                              AXStaticText|title=|desc=|value=Poids
+                                              AXLink|title=|desc=Filtre Jusqu'à 1,1 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Jusqu'à 1,1 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Jusqu'à 1,1 kg
+                                              AXLink|title=|desc=Filtre 1,1 – 1,5 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 1,1 – 1,5 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=1,1 – 1,5 kg
+                                              AXLink|title=|desc=Filtre 1,5 – 2,3 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 1,5 – 2,3 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=1,5 – 2,3 kg
+                                              AXLink|title=|desc=Filtre 2,3 – 4 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 2,3 – 4 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=2,3 – 4 kg
+                                              AXLink|title=|desc=Filtre Plus de 4 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 4 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 4 kg
+                                        AXButton|title=Capacité|desc=|value=
+                                              AXStaticText|title=|desc=|value=Capacité
+                                              AXLink|title=|desc=Filtre Jusqu'à 30 ml. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Jusqu'à 30 ml. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Jusqu'à 30 ml
+                                              AXLink|title=|desc=Filtre 30 – 50 ml. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 30 – 50 ml. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=30 – 50 ml
+                                              AXLink|title=|desc=Filtre 50 – 80 ml. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 50 – 80 ml. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=50 – 80 ml
+                                              AXLink|title=|desc=Filtre Plus de 80 ml. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 80 ml. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 80 ml
+                                        AXButton|title=Assistant Vocal Compatible|desc=|value=
+                                              AXStaticText|title=|desc=|value=Assistant Vocal Compatible
+                                              AXLink|title=|desc=Filtre Google Assistant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Google Assistant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Google Assistant
+                                              AXLink|title=|desc=Filtre Amazon Alexa. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Amazon Alexa. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Amazon Alexa
+                                        AXButton|title=Magasins|desc=|value=
+                                              AXStaticText|title=|desc=|value=Magasins
+                                              AXLink|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Cdiscount
+                                              AXLink|title=|desc=Filtre Amazon.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Amazon.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Amazon.fr
+                                              AXLink|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Leroy Merlin
+                                              AXLink|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=ManoMano.fr
+                                          AXButton|title=Voir 25 autre(s)|desc=|value=
+                          AXGroup|title=|desc=Filtre|value=
+                                    AXCheckBox|title=|desc=Tous les filtres.|value=1
+                                      AXLink|title=|desc=Filtre Sans fil. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Sans fil
+                                      AXLink|title=|desc=Filtre Aspirateurs. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Aspirateurs
+                                      AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Nouveau
+                                      AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Occasion
+                                      AXLink|title=|desc=Filtre Moins de 200 €. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Moins de 200 €
+                                      AXLink|title=|desc=Filtre Raclettes. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Raclettes
+                                AXGroup|title=|desc=Annonces|value=
+                                              AXHeading|title=Produits sponsorisés|desc=|value=2
+                                                  AXStaticText|title=|desc=|value=Produits sponsorisés
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                    AXLink|title=|desc= à chez V3clean|value=
+                                                      AXLink|title=|desc= à chez V3clean|value=
+                                                      AXHeading|title=Robot lave vitre V3clean|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot lave vitre V3clean
+                                                      AXStaticText|title=|desc=|value=189,00 €
+                                                      AXGroup|title=|desc=Vendu par V3clean|value=
+                                                        AXStaticText|title=|desc=|value=V3clean
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (1k+) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                      AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                    AXHeading|title=Robot Lave-Vitre DRE600 Pro - Design Carré & Clean Corner | Aspi-France|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot Lave-Vitre DRE600 Pro - Design Carré & Clean Corner | Aspi-France
+                                                    AXStaticText|title=|desc=|value=690,00 €
+                                                    AXGroup|title=|desc=Vendu par EDC - Aspiration Centralisée|value=
+                                                      AXStaticText|title=|desc=|value=EDC - Aspiration Centralisée
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Delcourt.fr|value=
+                                                      AXLink|title=|desc= à chez Delcourt.fr|value=
+                                                      AXHeading|title=Lave vitres eau pure HydroPower carbon|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Lave vitres eau pure HydroPower carbon
+                                                      AXStaticText|title=|desc=|value=862,80 €
+                                                      AXGroup|title=|desc=Vendu par Delcourt.fr|value=
+                                                        AXStaticText|title=|desc=|value=Delcourt.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,9 sur 5 (24) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez eu.havalab.com|value=
+                                                      AXLink|title=|desc= à chez eu.havalab.com|value=
+                                                      AXHeading|title=HAVA Robot Lave-Vitres U01 – Nettoyage Automatique : Aspiration 3800 Pa, Double Brume Ultrasonique, Capteurs Intelligents|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=HAVA Robot Lave-Vitres U01 – Nettoyage Automatique : Aspiration 3800 Pa, Double Brume Ultrasonique, Capteurs Intelligents
+                                                      AXStaticText|title=|desc=|value=179,99 €
+                                                      AXGroup|title=|desc=Vendu par eu.havalab.com|value=
+                                                        AXStaticText|title=|desc=|value=eu.havalab.com
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,6 sur 5 (139) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                      AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                    AXHeading|title=Robot Lave-Vitre EDC300 - Aspiration 9000Pa & Double Rouleau|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot Lave-Vitre EDC300 - Aspiration 9000Pa & Double Rouleau
+                                                    AXStaticText|title=|desc=|value=590,00 €
+                                                    AXGroup|title=|desc=Vendu par EDC - Aspiration Centralisée|value=
+                                                      AXStaticText|title=|desc=|value=EDC - Aspiration Centralisée
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Delcourt.fr|value=
+                                                      AXLink|title=|desc= à chez Delcourt.fr|value=
+                                                      AXHeading|title=Lave vitres eau pure HydroPower alu|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Lave vitres eau pure HydroPower alu
+                                                      AXStaticText|title=|desc=|value=646,80 €
+                                                      AXGroup|title=|desc=Vendu par Delcourt.fr|value=
+                                                        AXStaticText|title=|desc=|value=Delcourt.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,6 sur 5 (32) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Kiméo France|value=
+                                                      AXLink|title=|desc= à chez Kiméo France|value=
+                                                    AXHeading|title=Clairéo – Nettoyeur de vitres automatique haute performance|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Clairéo – Nettoyeur de vitres automatique haute performance
+                                                    AXStaticText|title=|desc=|value=99,90 €
+                                                    AXGroup|title=|desc=Vendu par Kiméo France|value=
+                                                      AXStaticText|title=|desc=|value=Kiméo France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                      AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                    AXHeading|title=Robot Lave-vitre AMG-10 — Nettoyage Automatique & Sans Trace | Le Pro du Ménage Moderne|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot Lave-vitre AMG-10 — Nettoyage Automatique & Sans Trace | Le Pro du Ménage Moderne
+                                                    AXStaticText|title=|desc=|value=470,00 €
+                                                    AXGroup|title=|desc=Vendu par EDC - Aspiration Centralisée|value=
+                                                      AXStaticText|title=|desc=|value=EDC - Aspiration Centralisée
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez shopibest|value=
+                                                      AXLink|title=|desc= à chez shopibest|value=
+                                                    AXHeading|title=Vitrabot Robot nettoyeur de vitres double jet d'eau mémoire|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Vitrabot Robot nettoyeur de vitres double jet d'eau mémoire
+                                                    AXStaticText|title=|desc=|value=239,99 €
+                                                    AXGroup|title=|desc=Vendu par shopibest|value=
+                                                      AXStaticText|title=|desc=|value=shopibest
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                      AXLink|title=|desc= à chez EDC - Aspiration Centralisée|value=
+                                                    AXHeading|title=Robot Lave-Vitre Intelligent AMB-66 24cm | Aspi-France|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot Lave-Vitre Intelligent AMB-66 24cm | Aspi-France
+                                                    AXStaticText|title=|desc=|value=429,00 €
+                                                    AXGroup|title=|desc=Vendu par EDC - Aspiration Centralisée|value=
+                                                      AXStaticText|title=|desc=|value=EDC - Aspiration Centralisée
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Expertchoix5 FR|value=
+                                                      AXLink|title=|desc= à chez Expertchoix5 FR|value=
+                                                    AXHeading|title=GlidePex Robot Lave Vitre | Aspiration 5600 Pa | Navigation Intelligente | Sécurité Maximale|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=GlidePex Robot Lave Vitre | Aspiration 5600 Pa | Navigation Intelligente | Sécurité Maximale
+                                                    AXStaticText|title=|desc=|value=179,00 €
+                                                    AXGroup|title=|desc=Vendu par Expertchoix5 FR|value=
+                                                      AXStaticText|title=|desc=|value=Expertchoix5 FR
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 449 € chez Boulanger)|value=
+                                                      AXLink|title=|desc= à (auparavant 449 € chez Boulanger)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=ECOVACS Robot Lave vitre Winbot W2S EU|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=ECOVACS Robot Lave vitre Winbot W2S EU
+                                                      AXStaticText|title=|desc=|value=349,99 €
+                                                      AXStaticText|title=|desc=|value=449 €
+                                                      AXGroup|title=|desc=Vendu par Boulanger|value=
+                                                        AXStaticText|title=|desc=|value=Boulanger
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,3 sur 5 (25) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Darty|value=
+                                                      AXLink|title=|desc= à chez Darty|value=
+                                                      AXHeading|title=Eziclean Robot lave-vitres eziclean windobot S4 plus Robot lave-vitre|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Eziclean Robot lave-vitres eziclean windobot S4 plus Robot lave-vitre
+                                                      AXStaticText|title=|desc=|value=157,27 €
+                                                      AXGroup|title=|desc=Vendu par Darty|value=
+                                                        AXStaticText|title=|desc=|value=Darty
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 3,4 sur 5 (10) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                    AXHeading|title=Robot de nettoyage de vitres à pulvérisation d'eau automatique, aspirateur intelligent puissant|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de nettoyage de vitres à pulvérisation d'eau automatique, aspirateur intelligent puissant
+                                                    AXStaticText|title=|desc=|value=53,73 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez joybuy.fr|value=
+                                                      AXLink|title=|desc= à chez joybuy.fr|value=
+                                                    AXHeading|title=ECOVACS WINBOT W2 Pro Omni Robot lave-vitres avec station multifonction, se recharge pendant le fonctionnement, embout de nettoyage à triple buses,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=ECOVACS WINBOT W2 Pro Omni Robot lave-vitres avec station multifonction, se recharge pendant le fonctionnement, embout de nettoyage à triple buses,
+                                                    AXStaticText|title=|desc=|value=449,00 €
+                                                    AXGroup|title=|desc=Vendu par joybuy.fr|value=
+                                                      AXStaticText|title=|desc=|value=joybuy.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez ecovacs.com/fr|value=
+                                                      AXLink|title=|desc= à chez ecovacs.com/fr|value=
+                                                      AXHeading|title=ECOVACS WINBOT W2 Pro Robot Nettoyeur de vitres avec , se Recharge Pendant Le Fonctionnement, buse à Triple Embout, système de Protection à 12 Niveaux|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=ECOVACS WINBOT W2 Pro Robot Nettoyeur de vitres avec , se Recharge Pendant Le Fonctionnement, buse à Triple Embout, système de Protection à 12 Niveaux
+                                                      AXStaticText|title=|desc=|value=349,00 €
+                                                      AXGroup|title=|desc=Vendu par ecovacs.com/fr|value=
+                                                        AXStaticText|title=|desc=|value=ecovacs.com/fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (70) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress_6003897797|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress_6003897797|value=
+                                                    AXHeading|title=Robot nettoyeur de vitres PuRuiKai, nettoyeur de vitres électrique, limpiacristales, télécommande|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de vitres PuRuiKai, nettoyeur de vitres électrique, limpiacristales, télécommande
+                                                    AXStaticText|title=|desc=|value=44,90 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress_6003897797|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress_6003897797
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez RougeDeals|value=
+                                                      AXLink|title=|desc= à chez RougeDeals|value=
+                                                    AXHeading|title=Pacivère Robot Laveur de Vitres Intelligent – Nettoyage Automatique, Aspiration Puissante, Modes de Navigation IA avec Télécommande|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pacivère Robot Laveur de Vitres Intelligent – Nettoyage Automatique, Aspiration Puissante, Modes de Navigation IA avec Télécommande
+                                                    AXStaticText|title=|desc=|value=189,00 €
+                                                    AXGroup|title=|desc=Vendu par RougeDeals|value=
+                                                      AXStaticText|title=|desc=|value=RougeDeals
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-7074097822|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-7074097822|value=
+                                                    AXHeading|title=Robot lave-vitres 5600Pa avec pulvérisation automatique ultrasonique, télécommande, nettoyage en Z,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot lave-vitres 5600Pa avec pulvérisation automatique ultrasonique, télécommande, nettoyage en Z,
+                                                    AXStaticText|title=|desc=|value=60,00 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-7074097822|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-7074097822
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez Middo Paris|value=
+                                                      AXLink|title=|desc= à chez Middo Paris|value=
+                                                    AXHeading|title=CleanSweep Robot de Fenêtre | Nettoyage Automatique avec Capteurs & Pulvérisation d’Eau ou Tampons de Rechange. Robot lave-vitres CleanSweep / 6 pads|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=CleanSweep Robot de Fenêtre | Nettoyage Automatique avec Capteurs & Pulvérisation d’Eau ou Tampons de Rechange. Robot lave-vitres CleanSweep / 6 pads
+                                                    AXStaticText|title=|desc=|value=149,95 €
+                                                    AXGroup|title=|desc=Vendu par Middo Paris|value=
+                                                      AXStaticText|title=|desc=|value=Middo Paris
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6002839213|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6002839213|value=
+                                                    AXHeading|title=Robot nettoyeur de vitres avec système de pulvérisation automatique, robot de nettoyage de vitres|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de vitres avec système de pulvérisation automatique, robot de nettoyage de vitres
+                                                    AXStaticText|title=|desc=|value=64,38 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6002839213|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6002839213
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-7076584071|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-7076584071|value=
+                                                    AXHeading|title=Robot nettoyeur de vitres 5600Pa avec télécommande, lave-vitres intelligent, double serpillière|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de vitres 5600Pa avec télécommande, lave-vitres intelligent, double serpillière
+                                                    AXStaticText|title=|desc=|value=70,53 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-7076584071|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-7076584071
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez Huipromo|value=
+                                                      AXLink|title=|desc= à chez Huipromo|value=
+                                                    AXHeading|title=WinoBotto Robot Lave-Vitres Automatique - Aspiration 5600Pa Et Navigation IA|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=WinoBotto Robot Lave-Vitres Automatique - Aspiration 5600Pa Et Navigation IA
+                                                    AXStaticText|title=|desc=|value=199,00 €
+                                                    AXGroup|title=|desc=Vendu par Huipromo|value=
+                                                      AXStaticText|title=|desc=|value=Huipromo
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6602243416|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6602243416|value=
+                                                    AXHeading|title=Robot de nettoyage de vitres intelligent, 5600PA, forte aspiration, pulvérisation automatique d'eau,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de nettoyage de vitres intelligent, 5600PA, forte aspiration, pulvérisation automatique d'eau,
+                                                    AXStaticText|title=|desc=|value=70,76 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6602243416|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6602243416
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6003873619|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6003873619|value=
+                                                    AXHeading|title=Robot nettoyeur de vitres intelligent, aspiration puissante de 5600 Pa, robot de nettoyage de vitres|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de vitres intelligent, aspiration puissante de 5600 Pa, robot de nettoyage de vitres
+                                                    AXStaticText|title=|desc=|value=53,38 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6003873619|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6003873619
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6427473560|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6427473560|value=
+                                                    AXHeading|title=Robot de nettoyage de vitres intelligent à pulvérisation d'eau avec aspiration de 5600 Pa,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de nettoyage de vitres intelligent à pulvérisation d'eau avec aspiration de 5600 Pa,
+                                                    AXStaticText|title=|desc=|value=55,77 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6427473560|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6427473560
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez La Femme Moderne|value=
+                                                      AXLink|title=|desc= à chez La Femme Moderne|value=
+                                                      AXHeading|title=Robot lave-vitres Windobot - La Femme Moderne|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot lave-vitres Windobot - La Femme Moderne
+                                                      AXStaticText|title=|desc=|value=260,00 €
+                                                      AXGroup|title=|desc=Vendu par La Femme Moderne|value=
+                                                        AXStaticText|title=|desc=|value=La Femme Moderne
+                                                        AXStaticText|title=|desc=|value=+ 8,95 € de frais de port
+                                                        AXImage|title=|desc=Note : 3,4 sur 5 (10) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6476313008|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6476313008|value=
+                                                    AXHeading|title=Robot nettoyeur de vitres automatique avec pulvérisation d'eau, aspiration puissante 5600Pa/3800Pa,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de vitres automatique avec pulvérisation d'eau, aspiration puissante 5600Pa/3800Pa,
+                                                    AXStaticText|title=|desc=|value=60,18 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6476313008|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6476313008
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6985254519|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6985254519|value=
+                                                    AXHeading|title=Robot de nettoyage de vitres électrique 5600Pa, anti-chute, télécommande, pour le nettoyage du|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de nettoyage de vitres électrique 5600Pa, anti-chute, télécommande, pour le nettoyage du
+                                                    AXStaticText|title=|desc=|value=45,51 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6985254519|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6985254519
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez Expertchoix5 FR|value=
+                                                      AXLink|title=|desc= à chez Expertchoix5 FR|value=
+                                                    AXHeading|title=GlidePex Robot Vitre Nettoyeur | Aspiration 5600 Pa | Navigation Intelligente | Sécurité Multicouche | Ultra Silencieux|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=GlidePex Robot Vitre Nettoyeur | Aspiration 5600 Pa | Navigation Intelligente | Sécurité Multicouche | Ultra Silencieux
+                                                    AXStaticText|title=|desc=|value=169,00 €
+                                                    AXGroup|title=|desc=Vendu par Expertchoix5 FR|value=
+                                                      AXStaticText|title=|desc=|value=Expertchoix5 FR
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6509471741|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6509471741|value=
+                                                    AXHeading|title=Robot de nettoyage de vitres intelligent 5600Pa avec pulvérisation automatique, anti-chute, corde de|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de nettoyage de vitres intelligent 5600Pa avec pulvérisation automatique, anti-chute, corde de
+                                                    AXStaticText|title=|desc=|value=60,69 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6509471741|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6509471741
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                    AXHeading|title=Robot intelligent de nettoyage de vitres, aspirateur télécommandé pour vitres, machine électrique de|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot intelligent de nettoyage de vitres, aspirateur télécommandé pour vitres, machine électrique de
+                                                    AXStaticText|title=|desc=|value=48,47 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6603524916|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6603524916|value=
+                                                    AXHeading|title=Robot de nettoyage de vitres intelligent, aspirateur robot, nettoyeur de vitres électrique,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de nettoyage de vitres intelligent, aspirateur robot, nettoyeur de vitres électrique,
+                                                    AXStaticText|title=|desc=|value=58,03 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6603524916|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6603524916
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-7964989763|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-7964989763|value=
+                                                    AXHeading|title=1 robot nettoyeur de vitres, un robot de nettoyage automatique avec système intelligent de détection|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=1 robot nettoyeur de vitres, un robot de nettoyage automatique avec système intelligent de détection
+                                                    AXStaticText|title=|desc=|value=46,98 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-7964989763|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-7964989763
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-2679505171|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-2679505171|value=
+                                                    AXHeading|title=Robot aspirateur ultra fin PuRuiKai, robot nettoyeur de vitres, vitre électrique, limpiacristales,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot aspirateur ultra fin PuRuiKai, robot nettoyeur de vitres, vitre électrique, limpiacristales,
+                                                    AXStaticText|title=|desc=|value=62,99 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-2679505171|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-2679505171
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez Vitrova|value=
+                                                      AXLink|title=|desc= à chez Vitrova|value=
+                                                    AXHeading|title=Robot lave-vitres automatique Vitrova nettoyage sans effort, vitres impeccables|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot lave-vitres automatique Vitrova nettoyage sans effort, vitres impeccables
+                                                    AXStaticText|title=|desc=|value=149,00 €
+                                                    AXGroup|title=|desc=Vendu par Vitrova|value=
+                                                      AXStaticText|title=|desc=|value=Vitrova
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6207727034|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6207727034|value=
+                                                    AXHeading|title=Robot nettoyeur de vitres automatique 5600PA avec pulvérisation d'eau, télécommande, essuie-glace|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de vitres automatique 5600PA avec pulvérisation d'eau, télécommande, essuie-glace
+                                                    AXStaticText|title=|desc=|value=54,06 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6207727034|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6207727034
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6559991901|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6559991901|value=
+                                                    AXHeading|title=Robots nettoyeurs de vitres avec aspiration de 5600 Pa, 3 modes de nettoyage et télécommande, pour|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robots nettoyeurs de vitres avec aspiration de 5600 Pa, 3 modes de nettoyage et télécommande, pour
+                                                    AXStaticText|title=|desc=|value=52,02 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6559991901|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6559991901
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Robot de nettoyage de vitres ABIR WD9, pulvérisation d'eau à 4 voies, technologie de grattage|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de nettoyage de vitres ABIR WD9, pulvérisation d'eau à 4 voies, technologie de grattage
+                                                    AXStaticText|title=|desc=|value=100,49 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=89,49 € lors du règlement
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6120409982|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6120409982|value=
+                                                    AXHeading|title=Robot nettoyeur de vitres Intelligent, aspirateur, nettoyeur de vitres électrique, télécommande pour|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de vitres Intelligent, aspirateur, nettoyeur de vitres électrique, télécommande pour
+                                                    AXStaticText|title=|desc=|value=55,46 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6120409982|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6120409982
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                            AXButton|title=|desc=Kärcher Robot lave-vitre RCW 2. Prix actuel : 199,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,0 sur 5. 183 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=ESSENTIELB Robot Lave vitre WCR1 Cleanbot. Prix actuel : 159,99 €. Boulanger. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kärcher Laveur de vitre Karcher RCW 4. Prix actuel : 249,99 €. Plus de prix disponibles. Kärcher Store Schreiber et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,1 sur 5. 113 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ecovacs Robot Lave vitre Winbot Mini 2. PROMOTION. Prix actuel : 229,99 €. Avant : 250 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,2 sur 5. 70 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ecovacs Robot lave-vitre Winbot W2 Pro Omni. Prix bas. Prix actuel : 418,01 €. Prix habituel : 443 €. Plus de prix disponibles. Fnac et plus. Également à proximité. Note : 4,5 sur 5. 506 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Nettoyeur de vitre télécommandé Medwin Medek. Prix actuel : 59,99 €. Carrefour - Carrefour.fr. En magasin. Note : 4,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Nettoyeur de vitres Ecovacs Winbot W2S Omni. PROMOTION. Prix actuel : 449,99 €. Avant : 490 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,7 sur 5. 181 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ecovacs Winbot Mini. Prix bas. Prix actuel : 199,00 €. Prix habituel : 212 €. Plus de prix disponibles. Amazon.fr et plus. Également à proximité. Retours sous 30 jour(s). Note : 4,1 sur 5. 360 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Eziclean Robot Lave-vitres Windobot S5 Pro. Prix bas. Prix actuel : 149,99 €. Prix habituel : 169 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 3,9 sur 5. 38 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Dreame Robot lave vitre C1 Station. Prix actuel : 589,00 €. Plus de prix disponibles. Electro Dépôt et plus. Retours sous 4 jour(s). Note : 4,2 sur 5. 87 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                              AXHeading|title=En magasin à proximité|desc=|value=2
+                                                AXStaticText|title=|desc=|value=En magasin à proximité
+                                                AXPopUpButton|title=À propos de ce résultat|desc=|value=
+                                                  AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXButton|title=|desc=ESSENTIELB Robot Lave vitre WCR1 Cleanbot. Prix actuel : 159,99 €. Boulanger. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=ESSENTIELB Robot Lave vitre WCR1 Cleanbot
+                                                                AXGroup|title=|desc=Prix actuel : 159,99 €. |value=
+                                                                AXStaticText|title=|desc=|value=Boulanger
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 19 avis. |value=
+                                                      AXButton|title=|desc=Kärcher Robot lave-vitre RCW 2. Prix actuel : 199,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,0 sur 5. 183 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Kärcher Robot lave-vitre RCW 2
+                                                                AXGroup|title=|desc=Prix actuel : 199,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 183 avis. |value=
+                                                      AXButton|title=|desc=Ecovacs Winbot Mini. PROMOTION. Prix actuel : 199,99 €. Avant : 250 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,1 sur 5. 360 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Ecovacs Winbot Mini
+                                                                AXGroup|title=|desc=Prix actuel : 199,99 €. Avant : 250 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 360 avis. |value=
+                                                      AXButton|title=|desc=Robot lave vitre filaire, Wcr72, SCHEPPACH. Prix actuel : 99,00 €. Weldom. En magasin. Retours sous 14 jour(s). Note : 3,6 sur 5. 21 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot lave vitre filaire, Wcr72, SCHEPPACH
+                                                                AXGroup|title=|desc=Prix actuel : 99,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Weldom
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                                                AXImage|title=|desc=Note : 3,6 sur 5. 21 avis. |value=
+                                                      AXButton|title=|desc=Robot Nettoyeur de vitre télécommandé Medwin Medek. Prix actuel : 59,99 €. Carrefour - Carrefour.fr. En magasin. Note : 4,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot Nettoyeur de vitre télécommandé Medwin Medek
+                                                                AXGroup|title=|desc=Prix actuel : 59,99 €. |value=
+                                                                AXStaticText|title=|desc=|value=Carrefour - Carrefour.fr
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 2 avis. |value=
+                                                      AXButton|title=|desc=Robot lave vitre intelligent, 5600Pa avec télécommande, WCR72, SCHEPPACH. Prix actuel : 99,90 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 3,6 sur 5. 21 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot lave vitre intelligent, 5600Pa avec télécommande, WCR72, SCHEPPACH
+                                                                AXGroup|title=|desc=Prix actuel : 99,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,6 sur 5. 21 avis. |value=
+                                                      AXButton|title=|desc=Ecovacs Robot Lave vitre Winbot Mini 2. Prix actuel : 229,00 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,2 sur 5. 70 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Ecovacs Robot Lave vitre Winbot Mini 2
+                                                                AXGroup|title=|desc=Prix actuel : 229,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Boulanger
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,2 sur 5. 70 avis. |value=
+                                                      AXButton|title=|desc=Kärcher Laveur de vitre Karcher RCW 4. Prix actuel : 249,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,1 sur 5. 113 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Kärcher Laveur de vitre Karcher RCW 4
+                                                                AXGroup|title=|desc=Prix actuel : 249,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 113 avis. |value=
+                                                      AXButton|title=|desc=Ecovacs Robot lave-vitre Winbot W2 Pro Omni. Prix actuel : 449,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,5 sur 5. 506 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Ecovacs Robot lave-vitre Winbot W2 Pro Omni
+                                                                AXGroup|title=|desc=Prix actuel : 449,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,5 sur 5. 506 avis. |value=
+                                                      AXButton|title=|desc=Robot Nettoyeur de vitres Ecovacs Winbot W2S Omni. PROMOTION. Prix actuel : 449,99 €. Avant : 490 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,7 sur 5. 181 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Robot Nettoyeur de vitres Ecovacs Winbot W2S Omni
+                                                                AXGroup|title=|desc=Prix actuel : 449,99 €. Avant : 490 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 181 avis. |value=
+                                            AXHeading|title=Moins que 60 € .|desc=|value=3
+                                              AXButton|title=Moins que 60 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=Moins que 60 €
+                                                  AXStaticText|title=|desc=|value=.
+                                            AXHeading|title=60 €–100 € .|desc=|value=3
+                                              AXButton|title=60 €–100 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=60 €–100 €
+                                                  AXStaticText|title=|desc=|value=.
+                                      AXButton|title=Plus de produits|desc=|value=
+                                          AXStaticText|title=|desc=|value=Plus de produits
+                                                            AXButton|title=|desc=Mova Robot lave vitre N1. Prix bas. Prix actuel : 179,40 €. Prix habituel : 204 €. Plus de prix disponibles. E.Leclerc et plus. Note : 4,9 sur 5. 28 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kärcher Robot nettoyeur de vitres Karcher RCW 2 Extra +. Prix actuel : 209,99 €. Plus de prix disponibles. Clean Center et plus. Note : 3,5 sur 5. 46 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Dreame Robot Lave Vitres C1. Prix bas. Prix actuel : 236,00 €. Prix habituel : 249 €. Plus de prix disponibles. Boulanger et plus. Retours sous 15 jour(s). Note : 3,9 sur 5. 60 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=CREATE Wipebot Pro Robot nettoyeur de vitres automatique. Prix bas. Prix actuel : 84,95 €. Prix habituel : 90 €. Plus de prix disponibles. Darty et plus. Note : 3,8 sur 5. 31 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot lave vitre intelligent, 5600Pa avec télécommande, WCR72, SCHEPPACH. Prix actuel : 99,90 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 3,6 sur 5. 21 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Laveur de Vitre 5600Pa, Robot Nettoyeur Vitre Automatique avec Navigation Intelligente, 3 Modes, Sécurité Anti-Chute UPS, Télécommande & 10. Prix actuel : 99,99 €. Amazon.fr - Seller. Note : 3,5 sur 5. 11 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot lave vitre filaire, Wcr72, SCHEPPACH. Prix actuel : 99,00 €. Weldom. En magasin. Retours sous 14 jour(s). Note : 3,6 sur 5. 21 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ecovacs Robot lave vitre Winbot W3 Omni. PROMOTION. Prix actuel : 589,00 €. Avant : 699 €. Plus de prix disponibles. Boulanger et plus. Retours sous 15 jour(s). Note : 4,2 sur 5. 66 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=MONSIEUR vitre Robot lave vitre V2 Vitroclean. Prix actuel : 350,00 €. Occasion.Plus de prix disponibles. Leboncoin et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Lave vitres Liectroux HCR-10. Prix actuel : 86,43 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 4,4 sur 5. 437 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Laveur de Vitre Avec Télécommande Robot Lave-Vitres Automatique. Prix bas. Prix actuel : 63,40 €. Prix habituel : 69 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ecovacs Winbot W2 OMNI. Prix bas. Prix actuel : 479,00 €. Prix habituel : 579 €. Plus de prix disponibles. Veepee et plus. Retours sous 14 jour(s). Note : 4,5 sur 5. 284 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hutt Robot lave vitre A1. Prix actuel : 239,99 €. Plus de prix disponibles. Boulanger et plus. Retours sous 15 jour(s). Note : 4,4 sur 5. 23 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Eziclean Robot Lave-vitres Windobot S6 Ultra. PROMOTION. Prix actuel : 105,99 €. Occasion.Plus de prix disponibles. Darty et plus. Note : 3,9 sur 5. 10 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ecovacs Robot lave-vitre Winbot W2 Pro. Prix bas. Prix actuel : 322,12 €. Prix habituel : 348 €. Plus de prix disponibles. PcComponentes FR et plus. Retours sous 30 jour(s). Note : 4,4 sur 5. 70 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Vidattx Robot Laveur de Vitre avec Détection Intelligente des Bords, 5600Pa Lave-Vitre Automatique à 3 Modes & Télécommande, Robot Nettoyeur Vitre. Prix bas. Prix actuel : 110,99 €. Prix habituel : 124 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot lave-vitres Ecovacs Winbot MINI. PROMOTION. Prix actuel : 189,00 €. Avant : 199 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,2 sur 5. 125 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ecovacs Winbot W2S. PROMOTION. Prix actuel : 349,99 €. Avant : 449 €. Plus de prix disponibles. Boulanger et plus. Retours sous 15 jour(s). Note : 4,3 sur 5. 25 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=robot nettoyeur de vitres électrique robot de nettoyage de vitres intelligent avec aspiration forte de 5600 Pa. Prix actuel : 99,79 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 4,7 sur 5. 226 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot nettoyeur de vitres Prixton BT300. Prix actuel : 109,99 €. Plus de prix disponibles. Darty et plus. Note : 2,2 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot lave-vitre intelligent à double pulvérisation – Nettoyeur de vitres électrique automatique avec télécommande, pour fenêtres intérieures/. Prix actuel : 103,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Eziclean Windobot S10 Vibra Robot lave-vitres. PROMOTION. Prix actuel : 179,99 €. Avant : 400 €. Plus de prix disponibles. joybuy.fr et plus. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Nettoyeur Vitres 5600Pa Robot Laveur de Vitre avec 3 Modes et 10 Chiffons de Nettoyage, Navigation Intelligente, Télécommande Blanc UVERBON. PROMOTION. Prix actuel : 53,99 €. Avant : 64 €. Cdiscount. Note : 4,2 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Lave vitre Hutt 10. PROMOTION. Prix actuel : 299,00 €. Avant : 329 €. Plus de prix disponibles. Boulanger et plus. Retours sous 15 jour(s). Note : 4,3 sur 5. 9 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=TempsL Nettoie vitre électrique. Prix actuel : 219,99 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,4 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hobot 388 Lave-vitres. Prix actuel : 321,36 €. Plus de prix disponibles. ManoMano.fr et plus. Retours sous 14 jour(s). Note : 4,3 sur 5. 235 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=LIECTROUX Robot Lave Vitres YW509 – Pulvérisation 4 Buses / 3 Directions – Réservoir 100mL – 3000Pa – APP – Triple Sécurité. Prix actuel : 142,99 €. Leroy Merlin. Retours sous 180 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=KARCHER Robot Lave vitre RCW 4 Extra. Prix bas. Prix actuel : 219,99 €. Prix habituel : 250 €. Plus de prix disponibles. showroomprive.com et plus. Retours sous 14 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Chovery Fensterputzroboter CL-3 mit Sprühfunktion. Prix actuel : 119,99 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,5 sur 5. 10 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Liectroux YW710. Prix actuel : 70,00 €. Occasion.Plus de prix disponibles. Darty et plus. Note : 4,0 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                              AXGroup|title=|desc=Annonces|value=
+                                    AXHeading|title=Résultat sponsorisé|desc=|value=2
+                                      AXStaticText|title=|desc=|value=Résultat sponsorisé
+                                        AXLink|title=|desc=Évitez Ces 4 Modèles | 5 Meilleurs Robots Lave-Vitres avasreview.com www.avasreview.com|value=
+                                          AXHeading|title=Évitez Ces 4 Modèles | 5 Meilleurs Robots Lave-Vitres|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Évitez Ces 4 Modèles | 5 Meilleurs Robots Lave-Vitres
+                                              AXStaticText|title=|desc=|value=avasreview.com
+                                            AXStaticText|title=|desc=|value=www.avasreview.com
+                                          AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                        AXStaticText|title=|desc=|value=Tous Les 
+                                          AXStaticText|title=|desc=|value=Robots Lave
+                                        AXStaticText|title=|desc=|value=-
+                                          AXStaticText|title=|desc=|value=Vitres
+                                        AXStaticText|title=|desc=|value= Ne Se Valent Pas – Découvrez Les 5 Recommandés Par L’Expert. Nous Avons Testé 24 
+                                          AXStaticText|title=|desc=|value=Robots
+                                        AXStaticText|title=|desc=|value=...
+                                AXButton|title=Masquer le résultat sponsorisé|desc=|value=
+                                    AXStaticText|title=|desc=|value=Masquer le résultat sponsorisé
+                                AXHeading|title=Page Navigation|desc=|value=1
+                                  AXStaticText|title=|desc=|value=Page Navigation
+                                AXButton|title=|desc=Plus de résultats|value=
+                                      AXStaticText|title=|desc=|value=Plus de résultats
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=40
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=40
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=robot lave vitre - Google Shopping|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

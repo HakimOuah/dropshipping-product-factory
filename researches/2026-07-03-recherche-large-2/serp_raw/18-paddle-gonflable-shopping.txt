@@ -1,0 +1,782 @@
+AXWindow|title=paddle gonflable - Google Shopping - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=paddle gonflable - Google Shopping - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=paddle%20gonflable&hl=fr&gl=fr&pws=0&udm=28
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=paddle gonflable - Google Shopping|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Désactiver le défilement continu|value=
+                        AXStaticText|title=|desc=|value=Désactiver le défilement continu
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=paddle gonflable
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                  AXLink|title=|desc=Tous|value=
+                                    AXStaticText|title=|desc=|value=Tous
+                                  AXLink|title=|desc=Shopping|value=
+                                      AXStaticText|title=|desc=|value=Shopping
+                                  AXLink|title=|desc=Images|value=
+                                    AXStaticText|title=|desc=|value=Images
+                                  AXLink|title=|desc=Vidéos|value=
+                                    AXStaticText|title=|desc=|value=Vidéos
+                                  AXLink|title=|desc=Actualités|value=
+                                    AXStaticText|title=|desc=|value=Actualités
+                                  AXLink|title=|desc=Vidéos courtes|value=
+                                    AXStaticText|title=|desc=|value=Vidéos courtes
+                                  AXLink|title=|desc=Web|value=
+                                    AXStaticText|title=|desc=|value=Web
+                                  AXButton|title=Plus de filtres|desc=|value=
+                                    AXGroup|title=|desc=Plus de filtres|value=
+                                      AXStaticText|title=|desc=|value=Plus
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=Affiner les résultats|desc=|value=2
+                                AXStaticText|title=|desc=|value=Affiner les résultats
+                                        AXLink|title=|desc=Filtre Meilleur. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Meilleur. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Meilleur
+                                        AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Nouveau
+                                        AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Occasion
+                                        AXButton|title=Trier par|desc=|value=
+                                              AXStaticText|title=|desc=|value=Trier par
+                                              AXLink|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                AXGroup|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pertinence
+                                              AXLink|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre croissant
+                                              AXLink|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre décroissant
+                                              AXLink|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Note : ordre décroissant
+                                        AXButton|title=Fonctionnalités|desc=|value=
+                                              AXStaticText|title=|desc=|value=Fonctionnalités
+                                              AXLink|title=|desc=Filtre Stand up paddle. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Stand up paddle. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Stand up paddle
+                                              AXLink|title=|desc=Filtre Pêche. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Pêche. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pêche
+                                        AXButton|title=Prix|desc=|value=
+                                              AXStaticText|title=|desc=|value=Prix
+                                              AXLink|title=|desc=Filtre Moins de 150 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Moins de 150 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Moins de 150 €
+                                              AXLink|title=|desc=Filtre 150 € - 300 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 150 € - 300 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=150 € – 300 €
+                                              AXLink|title=|desc=Filtre 300 € - 500 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 300 € - 500 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=300 € – 500 €
+                                              AXLink|title=|desc=Filtre Plus de 500 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 500 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 500 €
+                                                  AXTextField|title=|desc=Prix minimal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Min.
+                                                  AXTextField|title=|desc=Prix maximal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Max.
+                                              AXButton|title=OK|desc=|value=
+                                        AXButton|title=Catégorie|desc=|value=
+                                              AXStaticText|title=|desc=|value=Catégorie
+                                              AXLink|title=|desc=Filtre Planches de paddle. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Planches de paddle. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Planches de paddle
+                                              AXLink|title=|desc=Filtre Kayaks. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Kayaks. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Kayaks
+                                              AXLink|title=|desc=Filtre Bateaux gonflables. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Bateaux gonflables. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Bateaux gonflables
+                                        AXButton|title=Marque|desc=|value=
+                                              AXStaticText|title=|desc=|value=Marque
+                                              AXLink|title=|desc=Filtre Red Paddle Co. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Red Paddle Co. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Red Paddle Co
+                                              AXLink|title=|desc=Filtre Starboard. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Starboard. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Starboard
+                                              AXLink|title=|desc=Filtre Aqua Marina. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Aqua Marina. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Aqua Marina
+                                              AXLink|title=|desc=Filtre Decathlon. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Decathlon. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Decathlon
+                                          AXButton|title=Voir 26 autre(s)|desc=|value=
+                                        AXButton|title=Poids maximum supporté|desc=|value=
+                                              AXStaticText|title=|desc=|value=Poids maximum supporté
+                                              AXLink|title=|desc=Filtre Jusqu'à Poids maximum .... Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Jusqu'à Poids maximum .... Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Jusqu'à Poids maximum ...
+                                              AXLink|title=|desc=Filtre Poids maximum supporté: 100 .... Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Poids maximum supporté: 100 .... Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Poids maximum supporté: 100 ...
+                                              AXLink|title=|desc=Filtre Poids maximum supporté: 130 .... Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Poids maximum supporté: 130 .... Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Poids maximum supporté: 130 ...
+                                              AXLink|title=|desc=Filtre Plus de Poids maximum .... Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de Poids maximum .... Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de Poids maximum ...
+                                        AXButton|title=Poids|desc=|value=
+                                              AXStaticText|title=|desc=|value=Poids
+                                              AXLink|title=|desc=Filtre Jusqu'à 7,8 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Jusqu'à 7,8 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Jusqu'à 7,8 kg
+                                              AXLink|title=|desc=Filtre 7,8 – 10 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 7,8 – 10 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=7,8 – 10 kg
+                                              AXLink|title=|desc=Filtre 10 – 12,5 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 10 – 12,5 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=10 – 12,5 kg
+                                              AXLink|title=|desc=Filtre Plus de 12,5 kg. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 12,5 kg. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 12,5 kg
+                                        AXButton|title=Longueur|desc=|value=
+                                              AXStaticText|title=|desc=|value=Longueur
+                                              AXLink|title=|desc=Filtre Jusqu'à 304,8 cm. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Jusqu'à 304,8 cm. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Jusqu'à 304,8 cm
+                                              AXLink|title=|desc=Filtre 304,8 – 320 cm. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 304,8 – 320 cm. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=304,8 – 320 cm
+                                              AXLink|title=|desc=Filtre 320 – 335,3 cm. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 320 – 335,3 cm. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=320 – 335,3 cm
+                                              AXLink|title=|desc=Filtre 335,3 – 365,8 cm. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 335,3 – 365,8 cm. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=335,3 – 365,8 cm
+                                              AXLink|title=|desc=Filtre Plus de 365,8 cm. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 365,8 cm. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 365,8 cm
+                                        AXButton|title=Magasins|desc=|value=
+                                              AXStaticText|title=|desc=|value=Magasins
+                                              AXLink|title=|desc=Filtre Decathlon.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Decathlon.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Decathlon.fr
+                                              AXLink|title=|desc=Filtre Amazon.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Amazon.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Amazon.fr
+                                              AXLink|title=|desc=Filtre Kaufland.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Kaufland.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Kaufland.fr
+                                              AXLink|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Cdiscount
+                                          AXButton|title=Voir 38 autre(s)|desc=|value=
+                          AXGroup|title=|desc=Filtre|value=
+                                    AXCheckBox|title=|desc=Tous les filtres.|value=1
+                                      AXLink|title=|desc=Filtre Stand up paddle. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Stand up paddle
+                                      AXLink|title=|desc=Filtre Moins de 150 €. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Moins de 150 €
+                                      AXLink|title=|desc=Filtre Planches de paddle. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Planches de paddle
+                                      AXLink|title=|desc=Filtre Meilleur. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Meilleur
+                                      AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Nouveau
+                                      AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Occasion
+                                      AXLink|title=|desc=Filtre Kayaks. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Kayaks
+                                      AXLink|title=|desc=Filtre 2 personnes. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=2 personnes
+                                      AXLink|title=|desc=Filtre Bateaux gonflables. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Bateaux gonflables
+                                AXGroup|title=|desc=Annonces|value=
+                                              AXHeading|title=Produits sponsorisés|desc=|value=2
+                                                  AXStaticText|title=|desc=|value=Produits sponsorisés
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                    AXLink|title=|desc= à chez Nautigames|value=
+                                                      AXLink|title=|desc= à chez Nautigames|value=
+                                                    AXHeading|title=Airgliss Sun 11'0 – Paddle Gonflable SUP Tandem 335 cm x 84 cm – Charge 170 kg – Pack complet avec accessoires|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Airgliss Sun 11'0 – Paddle Gonflable SUP Tandem 335 cm x 84 cm – Charge 170 kg – Pack complet avec accessoires
+                                                    AXStaticText|title=|desc=|value=189,00 €
+                                                    AXGroup|title=|desc=Vendu par Nautigames|value=
+                                                      AXStaticText|title=|desc=|value=Nautigames
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche de paddle gonflable Funwater 335 cm/350 cm, planche de surf SUP grande taille pour deux|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de paddle gonflable Funwater 335 cm/350 cm, planche de surf SUP grande taille pour deux
+                                                    AXStaticText|title=|desc=|value=121,39 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=110 € lors du règlement
+                                                    AXLink|title=|desc= à chez SUP-Factory|value=
+                                                      AXLink|title=|desc= à chez SUP-Factory|value=
+                                                    AXHeading|title=PACK SUP GONFLABLE WATTSUP FIRST F10' Reconditionné GRADE A + : Produit neuf carton reconditionné|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=PACK SUP GONFLABLE WATTSUP FIRST F10' Reconditionné GRADE A + : Produit neuf carton reconditionné
+                                                    AXStaticText|title=|desc=|value=139,00 €
+                                                    AXGroup|title=|desc=Vendu par SUP-Factory|value=
+                                                      AXStaticText|title=|desc=|value=SUP-Factory
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,4 sur 5 (10) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Banggood.com|value=
+                                                      AXLink|title=|desc= à chez Banggood.com|value=
+                                                    AXHeading|title=InnoExpo [EU Direct] Planche à pagaie gonflable InnoExpo 335*83*15CM,charge 190 kg,grande capacité,SUP pour aventure solo,2+1 famille,animaux de compa|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=InnoExpo [EU Direct] Planche à pagaie gonflable InnoExpo 335*83*15CM,charge 190 kg,grande capacité,SUP pour aventure solo,2+1 famille,animaux de compa
+                                                    AXStaticText|title=|desc=|value=130,24 €
+                                                    AXGroup|title=|desc=Vendu par Banggood.com|value=
+                                                      AXStaticText|title=|desc=|value=Banggood.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Juskys Frankreich|value=
+                                                      AXLink|title=|desc= à chez Juskys Frankreich|value=
+                                                    AXHeading|title=Planche de Stand Up Paddling - Kit complet | ArtSport | SUP gonflable avec pagaie, sac, ligne & accessoires|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de Stand Up Paddling - Kit complet | ArtSport | SUP gonflable avec pagaie, sac, ligne & accessoires
+                                                    AXStaticText|title=|desc=|value=144,99 €
+                                                    AXGroup|title=|desc=Vendu par Juskys Frankreich|value=
+                                                      AXStaticText|title=|desc=|value=Juskys Frankreich
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6004802651|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6004802651|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche de paddle gonflable FreeBreating 325*81*12cm avec 3 ailerons, tapis EVA ultra-stable|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de paddle gonflable FreeBreating 325*81*12cm avec 3 ailerons, tapis EVA ultra-stable
+                                                    AXStaticText|title=|desc=|value=123,40 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6004802651|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6004802651
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=112 € lors du règlement
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6522410348|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6522410348|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche à pagaie gonflable FunWater, capacité de charge 165 kg, dimensions 335*83*15 cm,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche à pagaie gonflable FunWater, capacité de charge 165 kg, dimensions 335*83*15 cm,
+                                                    AXStaticText|title=|desc=|value=139,71 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6522410348|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6522410348
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=129 € lors du règlement
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-252670474|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-252670474|value=
+                                                    AXHeading|title=Planche à pagaie gonflable 335 cm 2026 One Extended, planche de surf, planche de ski nautique,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche à pagaie gonflable 335 cm 2026 One Extended, planche de surf, planche de ski nautique,
+                                                    AXStaticText|title=|desc=|value=72,99 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-252670474|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-252670474
+                                                      AXStaticText|title=|desc=|value=+ 385,69 € de frais de port
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez Mint Lama|value=
+                                                      AXLink|title=|desc= à chez Mint Lama|value=
+                                                    AXHeading|title=Alpaka 11'0" LAGOON|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Alpaka 11'0" LAGOON
+                                                    AXStaticText|title=|desc=|value=330,65 €
+                                                    AXGroup|title=|desc=Vendu par Mint Lama|value=
+                                                      AXStaticText|title=|desc=|value=Mint Lama
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 299 € chez Nautigames)|value=
+                                                      AXLink|title=|desc= à (auparavant 299 € chez Nautigames)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=WOW Kidster 9.0 Paddle Gonflable Enfant – SUP Junior Stable 274 cm|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=WOW Kidster 9.0 Paddle Gonflable Enfant – SUP Junior Stable 274 cm
+                                                    AXStaticText|title=|desc=|value=199,00 €
+                                                    AXStaticText|title=|desc=|value=299 €
+                                                    AXGroup|title=|desc=Vendu par Nautigames|value=
+                                                      AXStaticText|title=|desc=|value=Nautigames
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Jobe|value=
+                                                      AXLink|title=|desc= à chez Jobe|value=
+                                                    AXHeading|title=Jobe Planche Paddle Gonflable BRABUS x Jobe Shadow 11.6 - Édition Limitée - Sacs étanches - Pompe - Pagaie Carbone - Garantie 5 ans|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Jobe Planche Paddle Gonflable BRABUS x Jobe Shadow 11.6 - Édition Limitée - Sacs étanches - Pompe - Pagaie Carbone - Garantie 5 ans
+                                                    AXStaticText|title=|desc=|value=1 749,99 €
+                                                    AXGroup|title=|desc=Vendu par Jobe|value=
+                                                      AXStaticText|title=|desc=|value=Jobe
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez tectake.fr|value=
+                                                      AXLink|title=|desc= à chez tectake.fr|value=
+                                                    AXHeading|title=Planche de stand-up paddle 2 en 1 gonflable kit complet - turquoise/orange | tectake|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de stand-up paddle 2 en 1 gonflable kit complet - turquoise/orange | tectake
+                                                    AXStaticText|title=|desc=|value=189,90 €
+                                                    AXGroup|title=|desc=Vendu par tectake.fr|value=
+                                                      AXStaticText|title=|desc=|value=tectake.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,6 sur 5 (166) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 349 € chez Source Boardshop)|value=
+                                                      AXLink|title=|desc= à (auparavant 349 € chez Source Boardshop)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Pack Sup Paddle Gonflable Airgliss Moon 11.0 335 Cm 1-2 Pers. (max. 170 Kg) - Airgliss|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pack Sup Paddle Gonflable Airgliss Moon 11.0 335 Cm 1-2 Pers. (max. 170 Kg) - Airgliss
+                                                    AXStaticText|title=|desc=|value=199,00 €
+                                                    AXStaticText|title=|desc=|value=349 €
+                                                    AXGroup|title=|desc=Vendu par Source Boardshop|value=
+                                                      AXStaticText|title=|desc=|value=Source Boardshop
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez berger-camping.fr|value=
+                                                      AXLink|title=|desc= à chez berger-camping.fr|value=
+                                                    AXHeading|title=Planche de stand up paddle gonflable camptime sup-set corvi 9.3 avec pagaies et pompe à air incluses|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de stand up paddle gonflable camptime sup-set corvi 9.3 avec pagaies et pompe à air incluses
+                                                    AXStaticText|title=|desc=|value=129,00 €
+                                                    AXGroup|title=|desc=Vendu par berger-camping.fr|value=
+                                                      AXStaticText|title=|desc=|value=berger-camping.fr
+                                                      AXStaticText|title=|desc=|value=+ 6,99 € de frais de port
+                                                      AXImage|title=|desc=Note : 5,0 sur 5 (16) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Nautigames|value=
+                                                      AXLink|title=|desc= à chez Nautigames|value=
+                                                    AXHeading|title=Paddle gonflable Airgliss Moon 11'0 – 335 cm – 84 cm – Tandem 170 kg – SUP Allround – Drop‐Stitch renforcé|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Paddle gonflable Airgliss Moon 11'0 – 335 cm – 84 cm – Tandem 170 kg – SUP Allround – Drop‐Stitch renforcé
+                                                    AXStaticText|title=|desc=|value=199,00 €
+                                                    AXGroup|title=|desc=Vendu par Nautigames|value=
+                                                      AXStaticText|title=|desc=|value=Nautigames
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc= à chez Castorama|value=
+                                                    AXHeading|title=Paddle Gonflable 320 Cm Planche Sup Pour Nager Thunder Stable Ensemble Complet D'accessoires Avec Siège 1 Pièce.|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Paddle Gonflable 320 Cm Planche Sup Pour Nager Thunder Stable Ensemble Complet D'accessoires Avec Siège 1 Pièce.
+                                                    AXStaticText|title=|desc=|value=219,99 €
+                                                    AXGroup|title=|desc=Vendu par Castorama|value=
+                                                      AXStaticText|title=|desc=|value=Castorama
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,8 sur 5 (98) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Funwater Planche de paddle gonflable 335cm/350cm/385cm, planche de surf SUP grande taille pour deux|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Funwater Planche de paddle gonflable 335cm/350cm/385cm, planche de surf SUP grande taille pour deux
+                                                    AXStaticText|title=|desc=|value=121,39 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=110 € lors du règlement
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-2679723492|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-2679723492|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche de paddle gonflable 11'6"*35" portable en matériau Drop Stitch pour le surf|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de paddle gonflable 11'6"*35" portable en matériau Drop Stitch pour le surf
+                                                    AXStaticText|title=|desc=|value=97,39 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-2679723492|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-2679723492
+                                                      AXStaticText|title=|desc=|value=+ 106,16 € de frais de port
+                                                      AXStaticText|title=|desc=|value=86,39 € lors du règlement
+                                                    AXLink|title=|desc= à chez Amazon.fr|value=
+                                                      AXLink|title=|desc= à chez Amazon.fr|value=
+                                                    AXHeading|title=AQUATEC Planche Gonflable Stand Up Paddle | Board Sup 320cm ou 350cm avec Pagaie Réglable, Sac à Dos PVC & Pompe Double Action|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=AQUATEC Planche Gonflable Stand Up Paddle | Board Sup 320cm ou 350cm avec Pagaie Réglable, Sac à Dos PVC & Pompe Double Action
+                                                    AXStaticText|title=|desc=|value=129,99 €
+                                                    AXGroup|title=|desc=Vendu par Amazon.fr|value=
+                                                      AXStaticText|title=|desc=|value=Amazon.fr
+                                                      AXStaticText|title=|desc=|value=+ 129,99 € de frais de port
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6347824738|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6347824738|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche à pagaie gonflable ultra-légère Funwater SUPFW55C 335*84*15 pour divertissement, yoga,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche à pagaie gonflable ultra-légère Funwater SUPFW55C 335*84*15 pour divertissement, yoga,
+                                                    AXStaticText|title=|desc=|value=129,53 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6347824738|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6347824738
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=119 € lors du règlement
+                                                    AXLink|title=|desc= à (auparavant 280 € chez Decathlon.fr)|value=
+                                                      AXLink|title=|desc= à (auparavant 280 € chez Decathlon.fr)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=DECATHLON - Pack stand up paddle gonflable 10'6, 100 bleu - set de stand up paddle - stand up paddle randonnee - bleu - Sans taille - Structure: 70.0%|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=DECATHLON - Pack stand up paddle gonflable 10'6, 100 bleu - set de stand up paddle - stand up paddle randonnee - bleu - Sans taille - Structure: 70.0%
+                                                      AXStaticText|title=|desc=|value=194,99 €
+                                                      AXStaticText|title=|desc=|value=280 €
+                                                      AXGroup|title=|desc=Vendu par Decathlon.fr|value=
+                                                        AXStaticText|title=|desc=|value=Decathlon.fr
+                                                      AXStaticText|title=|desc=|value=Retrait auj
+                                                        AXImage|title=|desc=Note : 4,8 sur 5 (226) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Banggood.com|value=
+                                                      AXLink|title=|desc= à chez Banggood.com|value=
+                                                    AXHeading|title=InnoExpo [UE Direct] InnoExpo 335*84*15CM Planche à pagaie gonflable extra-large de 190 kg série en bois pour aventure en solo 2+1 famille animaux de|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=InnoExpo [UE Direct] InnoExpo 335*84*15CM Planche à pagaie gonflable extra-large de 190 kg série en bois pour aventure en solo 2+1 famille animaux de
+                                                    AXStaticText|title=|desc=|value=155,93 €
+                                                    AXGroup|title=|desc=Vendu par Banggood.com|value=
+                                                      AXStaticText|title=|desc=|value=Banggood.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Nautigames|value=
+                                                      AXLink|title=|desc= à chez Nautigames|value=
+                                                    AXHeading|title=Aqua Marina Fusion 10.10 Pack Paddle Gonflable – SUP 330 cm + Pompe Électrique 12 V|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aqua Marina Fusion 10.10 Pack Paddle Gonflable – SUP 330 cm + Pompe Électrique 12 V
+                                                    AXStaticText|title=|desc=|value=229,00 €
+                                                    AXGroup|title=|desc=Vendu par Nautigames|value=
+                                                      AXStaticText|title=|desc=|value=Nautigames
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6005045132|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6005045132|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche à pagaie gonflable InnoExpo, planche de surf, planche de SUP, 320-350 cm, antidérapante,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche à pagaie gonflable InnoExpo, planche de surf, planche de SUP, 320-350 cm, antidérapante,
+                                                    AXStaticText|title=|desc=|value=147,39 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6005045132|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6005045132
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=136 € lors du règlement
+                                                    AXLink|title=|desc= à chez Nautigames|value=
+                                                      AXLink|title=|desc= à chez Nautigames|value=
+                                                    AXHeading|title=Aquamarina - Pack Convertible Paddle-kayak Gonflable Aqua Marina Vapor 10.4|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aquamarina - Pack Convertible Paddle-kayak Gonflable Aqua Marina Vapor 10.4
+                                                    AXStaticText|title=|desc=|value=249,00 €
+                                                    AXGroup|title=|desc=Vendu par Nautigames|value=
+                                                      AXStaticText|title=|desc=|value=Nautigames
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Banggood.com|value=
+                                                      AXLink|title=|desc= à chez Banggood.com|value=
+                                                    AXHeading|title=InnoExpo [EU Direct] Planche à pagaie gonflable InnoExpo 335*83*15CM,charge 190 kg,grande capacité,SUP pour aventure solo,2+1 famille,animaux de compa|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=InnoExpo [EU Direct] Planche à pagaie gonflable InnoExpo 335*83*15CM,charge 190 kg,grande capacité,SUP pour aventure solo,2+1 famille,animaux de compa
+                                                    AXStaticText|title=|desc=|value=130,24 €
+                                                    AXGroup|title=|desc=Vendu par Banggood.com|value=
+                                                      AXStaticText|title=|desc=|value=Banggood.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-7256048040|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-7256048040|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche de paddle gonflable imperméable Feath-R-Lite, 350x84x15cm, capacité de poids de 180 kg, pont|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de paddle gonflable imperméable Feath-R-Lite, 350x84x15cm, capacité de poids de 180 kg, pont
+                                                    AXStaticText|title=|desc=|value=136,08 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-7256048040|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-7256048040
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=125 € lors du règlement
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6327623633|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6327623633|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche de paddle gonflable Feath-R-Lite 335 cm/350 cm, planche de surf SUP grande taille pour deux|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche de paddle gonflable Feath-R-Lite 335 cm/350 cm, planche de surf SUP grande taille pour deux
+                                                    AXStaticText|title=|desc=|value=139,69 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6327623633|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6327623633
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=129 € lors du règlement
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-7330769849|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-7330769849|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planches à pagaie gonflables FUNWATER 11' (335 cm) SUP antidérapantes et leur ensemble complet|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planches à pagaie gonflables FUNWATER 11' (335 cm) SUP antidérapantes et leur ensemble complet
+                                                    AXStaticText|title=|desc=|value=148,44 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-7330769849|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-7330769849
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=137 € lors du règlement
+                                                    AXLink|title=|desc= à chez Nautigames|value=
+                                                      AXLink|title=|desc= à chez Nautigames|value=
+                                                    AXHeading|title=Airgliss - Pack Duo Paddle Gonflable Airgliss Moon 11.0|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Airgliss - Pack Duo Paddle Gonflable Airgliss Moon 11.0
+                                                    AXStaticText|title=|desc=|value=349,00 €
+                                                    AXGroup|title=|desc=Vendu par Nautigames|value=
+                                                      AXStaticText|title=|desc=|value=Nautigames
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez tectake.fr|value=
+                                                      AXLink|title=|desc= à chez tectake.fr|value=
+                                                      AXHeading|title=Planche de stand-up paddle 2 en 1 gonflable kit complet - blanc/turquoise | tectake|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Planche de stand-up paddle 2 en 1 gonflable kit complet - blanc/turquoise | tectake
+                                                      AXStaticText|title=|desc=|value=199,90 €
+                                                      AXGroup|title=|desc=Vendu par tectake.fr|value=
+                                                        AXStaticText|title=|desc=|value=tectake.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,9 sur 5 (75) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-6002997737|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-6002997737|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche à pagaie gonflable InnoExpo, planche de surf SUP, 335*83*15, planche à pagaie pour sports|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche à pagaie gonflable InnoExpo, planche de surf SUP, 335*83*15, planche à pagaie pour sports
+                                                    AXStaticText|title=|desc=|value=151,42 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6002997737|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6002997737
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=140 € lors du règlement
+                                                    AXLink|title=|desc= à chez Banggood.com|value=
+                                                      AXLink|title=|desc= à chez Banggood.com|value=
+                                                    AXHeading|title=InnoExpo [EU Direct] InnoExpo 335*83*15CM Charge 190kg SUP pour Aventure en Solo 2+1 Famille & Animaux en Tournée Unisexe Adulte Planche Gonflable de|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=InnoExpo [EU Direct] InnoExpo 335*83*15CM Charge 190kg SUP pour Aventure en Solo 2+1 Famille & Animaux en Tournée Unisexe Adulte Planche Gonflable de
+                                                    AXStaticText|title=|desc=|value=143,94 €
+                                                    AXGroup|title=|desc=Vendu par Banggood.com|value=
+                                                      AXStaticText|title=|desc=|value=Banggood.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 230 € chez Nootica.fr)|value=
+                                                      AXLink|title=|desc= à (auparavant 230 € chez Nootica.fr)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=SUP paddle gonflable Bestway Hydro-Force Wild Wave 10.0 2026|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=SUP paddle gonflable Bestway Hydro-Force Wild Wave 10.0 2026
+                                                    AXStaticText|title=|desc=|value=119,99 €
+                                                    AXStaticText|title=|desc=|value=230 €
+                                                    AXGroup|title=|desc=Vendu par Nootica.fr|value=
+                                                      AXStaticText|title=|desc=|value=Nootica.fr
+                                                      AXStaticText|title=|desc=|value=+ 6,95 € de frais de port
+                                                    AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=8 % DE REMISE
+                                                    AXHeading|title=VEVOR Paddle gonflable avec siège 304,8 x 83,8 x 15,2 cm planche à pagaie debout sup ultra-légère avec accessoires pompe pagaie aileron sac à dos|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=VEVOR Paddle gonflable avec siège 304,8 x 83,8 x 15,2 cm planche à pagaie debout sup ultra-légère avec accessoires pompe pagaie aileron sac à dos
+                                                    AXStaticText|title=|desc=|value=159,90 €
+                                                    AXGroup|title=|desc=Vendu par vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=vevor.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=147 € après application du code
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-252670474|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-252670474|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Planche à pagaie gonflable 2026, planche de surf SUP, planche à pagaie portable pour débutants, en|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Planche à pagaie gonflable 2026, planche de surf SUP, planche à pagaie portable pour débutants, en
+                                                    AXStaticText|title=|desc=|value=88,99 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-252670474|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-252670474
+                                                      AXStaticText|title=|desc=|value=+ 332,83 € de frais de port
+                                                      AXStaticText|title=|desc=|value=77,99 € lors du règlement
+                                                    AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc= à chez Castorama|value=
+                                                      AXHeading|title=Planche Stand Up Ecd Germany 320 X 80 X 15 Cm Olive Pvc Gonflable Jusqu'à 120 Kg Avec Accessoires|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Planche Stand Up Ecd Germany 320 X 80 X 15 Cm Olive Pvc Gonflable Jusqu'à 120 Kg Avec Accessoires
+                                                      AXStaticText|title=|desc=|value=154,57 €
+                                                      AXGroup|title=|desc=Vendu par Castorama|value=
+                                                        AXStaticText|title=|desc=|value=Castorama
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 3,9 sur 5 (71) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Banggood.com|value=
+                                                      AXLink|title=|desc= à chez Banggood.com|value=
+                                                    AXHeading|title=InnoExpo [UE Direct] InnoExpo 350*83*15CM Charge 200kg Planche de SUP longue avec siège Grande capacité 3 ailerons Stable SUPBoard Pour Solo 2+1 famil|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=InnoExpo [UE Direct] InnoExpo 350*83*15CM Charge 200kg Planche de SUP longue avec siège Grande capacité 3 ailerons Stable SUPBoard Pour Solo 2+1 famil
+                                                    AXStaticText|title=|desc=|value=177,60 €
+                                                    AXGroup|title=|desc=Vendu par Banggood.com|value=
+                                                      AXStaticText|title=|desc=|value=Banggood.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Cabesto|value=
+                                                      AXLink|title=|desc= à chez Cabesto|value=
+                                                      AXHeading|title=Pack Sup Paddle Gonflable Aqua Quest 320 Intex (sup. Pompe. Pagaie. Leash)|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pack Sup Paddle Gonflable Aqua Quest 320 Intex (sup. Pompe. Pagaie. Leash)
+                                                      AXStaticText|title=|desc=|value=159,00 €
+                                                      AXGroup|title=|desc=Vendu par Cabesto|value=
+                                                        AXStaticText|title=|desc=|value=Cabesto
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (46) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Nautigames|value=
+                                                      AXLink|title=|desc= à chez Nautigames|value=
+                                                    AXHeading|title=Wow - Pack Sup Paddle Gonflable Wow Bloom 11.0 335 Cm 1-2 Pers. (max. 170 Kg)|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Wow - Pack Sup Paddle Gonflable Wow Bloom 11.0 335 Cm 1-2 Pers. (max. 170 Kg)
+                                                    AXStaticText|title=|desc=|value=219,00 €
+                                                    AXGroup|title=|desc=Vendu par Nautigames|value=
+                                                      AXStaticText|title=|desc=|value=Nautigames
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                            AXButton|title=|desc=Itiwit Pack stand up paddle gonflable 10'6. PROMOTION. Prix actuel : 194,99 €. Avant : 280 €. Plus de prix disponibles. Decathlon Pro et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,8 sur 5. 226 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Decathlon Pack stand up paddle gonflable 9'6 1 personne 100 jaune. Prix actuel : 174,99 €. Plus de prix disponibles. Decathlon Pro et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,6 sur 5. 44 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Firefly Sup gonflable I 1.0 I 9'6'' Beige Bleu. Prix actuel : 179,99 €. Intersport. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Bestway Paddle SUP gonflable Hydro-Force Aqua Journey. PROMOTION. Prix actuel : 169,99 €. Avant : 189 €. Plus de prix disponibles. BUT Marketplace et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,6 sur 5. 114 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=F2 Stand-up paddle gonflable polyvalent. Prix actuel : 169,00 €. Lidl.fr. Retours sous 30 jour(s). Note : 2,5 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panana Stand Up Paddle Gonflable Planche de Sup avec Accessoires, Kit de Surf, Pagaie Réglable, Ultra-Légère, Pont Antidérapant pour Adultes et Jeunes. Prix actuel : 149,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=John Aufblasbares Stand-Up-Paddel-Board Marvel. PROMOTION. Prix actuel : 180,39 €. Avant : 190 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 4,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=FIREFLY Stand up paddle gonflable ISUP 300 III. Prix actuel : 279,99 €. Intersport. En magasin. Retours sous 15 jour(s). Note : 4,5 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit X F2 Stand up paddle polyvalent. Prix actuel : 179,00 €. Lidl.fr. Retours sous 30 jour(s). Note : 3,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=WATRFLAG Stand Up Paddle Gonflable WATRFLAG Glide 10'6" Qualité Premium. PROMOTION. Prix actuel : 208,95 €. Avant : 238 €. Decathlon.fr. Retours sous 365 jour(s). Note : 4,8 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                              AXHeading|title=En magasin à proximité|desc=|value=2
+                                                AXStaticText|title=|desc=|value=En magasin à proximité
+                                                AXPopUpButton|title=À propos de ce résultat|desc=|value=
+                                                  AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXButton|title=|desc=Decathlon Stand Up Paddle gonflable 500. PROMOTION. Prix actuel : 279,99 €. Avant : 350 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Retours sous 365 jour(s). Note : 4,7 sur 5. 18 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Decathlon Stand Up Paddle gonflable 500
+                                                                AXGroup|title=|desc=Prix actuel : 279,99 €. Avant : 350 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 18 avis. |value=
+                                                      AXButton|title=|desc=Firefly Sup gonflable I 1.0 I 9'6'' Beige Bleu. Prix actuel : 179,99 €. Intersport. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Firefly Sup gonflable I 1.0 I 9'6'' Beige Bleu
+                                                                AXGroup|title=|desc=Prix actuel : 179,99 €. |value=
+                                                                AXStaticText|title=|desc=|value=Intersport
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                      AXButton|title=|desc=John Aufblasbares Stand-Up-Paddel-Board Marvel. PROMOTION. Prix actuel : 180,39 €. Avant : 190 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 4,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=John Aufblasbares Stand-Up-Paddel-Board Marvel
+                                                                AXGroup|title=|desc=Prix actuel : 180,39 €. Avant : 190 €. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 3 avis. |value=
+                                                      AXButton|title=|desc=Itiwit Pack stand up paddle gonflable 10'6. PROMOTION. Prix actuel : 194,99 €. Avant : 280 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Retours sous 365 jour(s). Note : 4,8 sur 5. 226 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Itiwit Pack stand up paddle gonflable 10'6
+                                                                AXGroup|title=|desc=Prix actuel : 194,99 €. Avant : 280 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,8 sur 5. 226 avis. |value=
+                                                      AXButton|title=|desc=Decathlon Pack stand up paddle gonflable 9'6 1 personne 100 jaune. Prix actuel : 174,99 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Retours sous 365 jour(s). Note : 4,6 sur 5. 44 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Decathlon Pack stand up paddle gonflable 9'6 1 personne 100 jaune
+                                                                AXGroup|title=|desc=Prix actuel : 174,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,6 sur 5. 44 avis. |value=
+                                                      AXButton|title=|desc=FIREFLY Stand up paddle gonflable ISUP 300 III. Prix actuel : 279,99 €. Intersport. En magasin. Retours sous 15 jour(s). Note : 4,5 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=FIREFLY Stand up paddle gonflable ISUP 300 III
+                                                                AXGroup|title=|desc=Prix actuel : 279,99 €. |value=
+                                                                AXStaticText|title=|desc=|value=Intersport
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,5 sur 5. 2 avis. |value=
+                                                      AXButton|title=|desc=Decathlon Pack stand up paddle gonflable Convertible 10'6 100 vert Sports de pagaie. Prix actuel : 289,99 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Retours sous 365 jour(s). Note : 5,0 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Decathlon Pack stand up paddle gonflable Convertible 10'6 100 vert Sports de pagaie
+                                                                AXGroup|title=|desc=Prix actuel : 289,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 5,0 sur 5. 6 avis. |value=
+                                                      AXButton|title=|desc=WATTSUP Pack Manta stand up paddle 10'2 1 personne set de stand up paddle. PROMOTION. Prix actuel : 159,99 €. Avant : 280 €. Decathlon.fr. En magasin. Retours sous 365 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=WATTSUP Pack Manta stand up paddle 10'2 1 personne set de stand up paddle
+                                                                AXGroup|title=|desc=Prix actuel : 159,99 €. Avant : 280 €. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                      AXButton|title=|desc=Bestway Paddle SUP gonflable Hydro-Force Aqua Journey. Prix actuel : 244,90 €. Plus de prix disponibles. Bricomarché et plus. En magasin. Note : 4,6 sur 5. 114 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Bestway Paddle SUP gonflable Hydro-Force Aqua Journey
+                                                                AXGroup|title=|desc=Prix actuel : 244,90 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Bricomarché
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                AXImage|title=|desc=Note : 4,6 sur 5. 114 avis. |value=
+                                                      AXButton|title=|desc=WATTSUP - Pack SUP gonflable WATTSUP Bream 10'6 avec siège - set de stand up paddle - stand up paddle - - Sans taille. - - Decathlon. Prix actuel : 249,99 €. Decathlon.fr. En magasin. Retours sous 365 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=WATTSUP - Pack SUP gonflable WATTSUP Bream 10'6 avec siège - set de stand up paddle - stand up paddle - - Sans taille. - - Decathlon
+                                                                AXGroup|title=|desc=Prix actuel : 249,99 €. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                            AXHeading|title=Moins que 150 € .|desc=|value=3
+                                              AXButton|title=Moins que 150 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=Moins que 150 €
+                                                  AXStaticText|title=|desc=|value=.
+                                            AXHeading|title=150 €–300 € .|desc=|value=3
+                                              AXButton|title=150 €–300 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=150 €–300 €
+                                                  AXStaticText|title=|desc=|value=.
+                                      AXButton|title=Plus de produits|desc=|value=
+                                          AXStaticText|title=|desc=|value=Plus de produits
+                                                            AXButton|title=|desc=Intex Paddle gonflable Aqua Quest 320. Prix actuel : 199,00 €. Plus de prix disponibles. INTEX et plus. Retours sous 14 jour(s). Note : 4,7 sur 5. 46 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit X F2 Stand up paddle gonflable à double chambre. Prix actuel : 189,00 €. Lidl.fr. Retours sous 30 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=VEVOR Gonflable 3048x838x152mm Planche à Pagaie Debout Sup avec Accessoires de Planche. Prix actuel : 159,90 €. Amazon.fr. Retours sous 30 jour(s). Note : 5,0 sur 5. 9 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Paddle gonflable Aqua Marina Breeze 9.10. Prix actuel : 233,99 €. Plus de prix disponibles. Wakeboarder et plus. Retours sous 14 jour(s). Note : 4,6 sur 5. 91 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Decathlon Stand Up Paddle Compact Blanc. PROMOTION. Prix actuel : 239,99 €. Avant : 300 €. Plus de prix disponibles. Decathlon Pro et plus. Retours sous 14 jour(s). Note : 4,3 sur 5. 57 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit Stand up paddle gonflable Touring. Prix actuel : 159,00 €. Lidl.fr. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=x-paddleboards Paddle gonflable x-ite pack kayak. Prix actuel : 379,00 €. Plus de prix disponibles. Carrefour et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Planche de stand up paddle gonflable de qualité supérieure avec siège de kayak. Prix bas. Prix actuel : 179,98 €. Prix habituel : 210 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Surftrip Paddle gonflable En Dropstitch. Prix actuel : 199,95 €. Plus de prix disponibles. Darty et plus. Note : 1,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit Stand-up paddle gonflable polyvalent avec fenêtre. PROMOTION. Prix actuel : 159,00 €. Avant : 175 €. Lidl.fr. Retours sous 30 jour(s). Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kangui Stand up paddle gonflable SUP avec siège kayak. PROMOTION. Prix actuel : 229,00 €. Avant : 239 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,8 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=ALLPICK Paddle Gonflable, Kit de Padelsurf de Stand Up Paddle Sup Gonflable de 320 cm, avec Support Universel pour Caméra, Pagaie réglable, Débutants. PROMOTION. Prix actuel : 239,99 €. Avant : 270 €. Amazon.fr - Seller. Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Paddle Gonflable Wattsup F10. Prix actuel : 171,40 €. Plus de prix disponibles. Carrefour et plus. Note : 4,4 sur 5. 10 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=X-paddleboards Paddle gonflable X-treme. Prix actuel : 349,00 €. Plus de prix disponibles. Nature & Découvertes FR et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Outsunny Stand up paddle gonflable 320 x 82 x 15 cm Orange. Outsunny. Surf. 3662970323410. Prix actuel : 179,90 €. Aosom.fr. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Surf gonflable Coasto Air Surf 8. Prix actuel : 349,90 €. EasyPiscine. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=LITTLE SEA - FULL PACK - HUIIKE. Prix bas. Prix actuel : 239,99 €. Prix habituel : 250 €. Plus de prix disponibles. Amazon.fr et plus. Retours sous 30 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Stand Up Paddle Gonflable Riviere Surfpistols Wild 8'5"X33"X6. Prix actuel : 479,00 €. Surfpistols. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Bestway Paddle sup gonflable Breeze Panorama avec hublot. Prix bas. Prix actuel : 254,33 €. Prix habituel : 265 €. Plus de prix disponibles. Carrefour et plus. Note : 4,1 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Paddle gonflable 10' Air SUP 2025 modèle d'expo. Etat neuf. Prix actuel : 229,00 €. Prism Surfboards. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Simple Paddle UGAL 10'6. Prix actuel : 170,00 €. Occasion.Leboncoin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=SANTASUP planche à pagaie gonflable pour adultes avec accessoires de planche à pagaie. Prix actuel : 199,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Zray SUP Grain 10'8. Prix bas. Prix actuel : 219,99 €. Prix habituel : 449 €. Plus de prix disponibles. Nootica.fr et plus. Retours sous 30 jour(s). Note : 4,7 sur 5. 21 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Paddle Gonflable Wow Cruiser. Prix actuel : 219,00 €. Avant : 439 €. Plus de prix disponibles. Source Boardshop et plus. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Decathlon Itiwit Stand Up Paddle Gonflable Robuste Pour Loueurs Et Clubs Planche de Stand Up Paddle. PROMOTION. Prix actuel : 349,99 €. Avant : 450 €. Plus de prix disponibles. Decathlon Pro et plus. Retours sous 14 jour(s). Note : 4,5 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Paddle Coasto Cruiser 13'1. Prix actuel : 478,00 €. ioT-Pool. Note : 4,2 sur 5. 24 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pack Paddle gonflable Airgliss Moon 11.0. Prix actuel : 209,00 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,7 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=YOGATERRAE Stand up paddle 11'6'. Prix bas. Prix actuel : 580,00 €. Prix habituel : 680 €. Yogaterrae. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=FIREFLY Stand up paddle gonflable iSup 3.0 I C 10' Adulte. Prix actuel : 429,99 €. Intersport. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Bestway Hydro-Force SUP Kahawai Set. Prix bas. Prix actuel : 199,00 €. Prix habituel : 246 €. Plus de prix disponibles. Castorama et plus. Note : 4,7 sur 5. 25 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                AXHeading|title=Page Navigation|desc=|value=1
+                                  AXStaticText|title=|desc=|value=Page Navigation
+                                AXButton|title=|desc=Plus de résultats|value=
+                                      AXStaticText|title=|desc=|value=Plus de résultats
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXButton|title=Go|desc=|value=
+                                    AXGroup|title=Annonces pour une offre de produit|desc=|value=
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                    AXGroup|title=40|desc=|value=
+                                      AXStaticText|title=|desc=|value=40
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=paddle gonflable - Google Shopping|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

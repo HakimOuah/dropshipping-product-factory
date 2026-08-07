@@ -1,0 +1,2251 @@
+{
+ "extraction_date": "2026-07-10",
+ "destination_country": "France",
+ "products": [
+  {
+   "product_id": "1005012304431034",
+   "excel_cell": "F14",
+   "category": "2. Osmoseurs (osmose inverse)",
+   "internal_name": "[TON PRODUIT] Osmoseur RO 600G (expédié France)",
+   "source_url": "https://fr.aliexpress.com/item/1005012304431034.html",
+   "status": "partial",
+   "identity": {
+    "aliexpress_title": "Système de purification d'eau RO 600G, filtre à osmose inverse pour cuisine, TDS réduits, rapport de vidange faible 2:1, filtration à haut débit",
+    "brand": "SHUANGLI",
+    "model": "600G",
+    "store": "SHUANGLI Store",
+    "store_badge": "Marque+ / Certifié authentique",
+    "origin": "CN (Chine)",
+    "brand_reputation": "+10 000 bonnes notes /6 mois ; +100k vues /3 mois ; peu de retours (source: page marque)"
+   },
+   "commercial": {
+    "price": 160.99,
+    "price_before": 186.85,
+    "discount": "-25,86€",
+    "coupon": "7€ (livraison retardée)",
+    "currency": "EUR",
+    "orders": "35 (ventes totales) / 31 (ce vendeur) — FAIBLE",
+    "rating": 4.9,
+    "reviews": 5,
+    "reviews_note": "avis AGRÉGÉS multi-vendeurs (pas spécifiques au SKU)",
+    "availability": "en stock",
+    "max_qty": 3,
+    "variants": [
+     {
+      "name": "Couleur: 600G",
+      "price": 160.99
+     }
+    ]
+   },
+   "shipping_france": {
+    "ship_from": "France ✅",
+    "delivery_estimate": "16-21 juillet",
+    "shipping_cost": "gratuite",
+    "tva": "TVA incluse au paiement (expédié depuis l'UE)",
+    "douane": "a priori aucun frais douane (stock France)",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "robinet_inclus": "oui",
+    "produit_chimique_preoccupant": "Aucun",
+    "avertissement": "Keep away from children",
+    "manuel": "Mode d'emploi disponible (lien 'Voir')",
+    "ecran": "panneau d'affichage (écran)",
+    "electrique": "NON précisé (produit avec écran = électrique) — tension/puissance à confirmer"
+   },
+   "filtration": {
+    "type": "Osmose inverse (RO)",
+    "gpd": "600 GPD",
+    "reservoir": "sans réservoir (flux direct / haut débit)",
+    "ratio_pur_rejet": "2:1",
+    "etapes": 4,
+    "filtres": [
+     {
+      "stage": 1,
+      "type": "Coton PP",
+      "duree": "3-6 mois"
+     },
+     {
+      "stage": 2,
+      "type": "CTO (charbon)",
+      "duree": "6-9 mois"
+     },
+     {
+      "stage": 3,
+      "type": "Membrane RO",
+      "duree": "12-24 mois"
+     },
+     {
+      "stage": 4,
+      "type": "T33 (post-carbon)",
+      "duree": "12 mois"
+     }
+    ],
+    "tds": "'TDS réduits' (valeur/% NON précisée)",
+    "debit_l_j": "NON précisé",
+    "pression": "NON précisée"
+   },
+   "package_contents": [
+    "Machine RO 600G",
+    "4 éléments filtrants (3 en boîte + membrane RO pré-installée)",
+    "Robinet"
+   ],
+   "replacement_filters": [
+    {
+     "type": "Membrane RO",
+     "note": "réf exacte non donnée ; membranes RO génériques ~12,69€ (autre annonce)"
+    },
+    {
+     "type": "PP/CTO/T33",
+     "note": "réfs non précisées → à demander"
+    }
+   ],
+   "certifications_claimed": [
+    "'Certifié authentique' (badge Marque+)"
+   ],
+   "certifications_verified": "AUCUNE cert eau potable/contact alimentaire (ex. NSF) affichée pour CE produit",
+   "seller_claims": [
+    "'TDS réduits'",
+    "'filtration à haut débit'",
+    "'rapport de vidange 2:1'"
+   ],
+   "review_signals": {
+    "rating": 4.9,
+    "reviews": 5,
+    "note": "échantillon faible + agrégé"
+   },
+   "risks": [
+    {
+     "risk": "Ventes très faibles (35) sur la référence",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Avis agrégés multi-vendeurs, pas spécifiques au SKU",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Aucune certification eau potable/contact alimentaire affichée (origine CN)",
+     "severity": "élevé",
+     "action": "exiger doc conformité avant tout claim sanitaire"
+    },
+    {
+     "risk": "Tension/alimentation électrique non précisée (écran) — compat FR 230V",
+     "severity": "moyen",
+     "action": "confirmer 220-240V/50Hz"
+    },
+    {
+     "risk": "Débit L/j, %TDS, pression min/max absents",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Traduction IA (avertissement AliExpress) → specs potentiellement imprécises",
+     "severity": "faible"
+    }
+   ],
+   "missing_information": [
+    "débit L/j exact",
+    "% réduction TDS",
+    "pression min/max",
+    "tension/puissance (V/W)",
+    "niveau sonore",
+    "dimensions & poids colis",
+    "réf exactes des 4 filtres de remplacement + prix",
+    "certif contact alimentaire/eau potable",
+    "durée de garantie",
+    "manuel FR"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005012304431034.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit)"
+    }
+   ],
+   "images": [
+    {
+     "product_id": "1005012304431034",
+     "position": 1,
+     "type": "carousel",
+     "url": "https://ae01.alicdn.com/kf/Sfb164d45f25249159953eb70173560a9r.jpg",
+     "width": 800,
+     "height": 800,
+     "format": "PNG->from webp",
+     "file": "images/1005012304431034/01-carousel.png",
+     "status": "ok"
+    },
+    {
+     "product_id": "1005012304431034",
+     "position": 2,
+     "type": "carousel",
+     "url": "https://ae01.alicdn.com/kf/Sc45cf3b482a2445993b315c5973341b5I.jpg",
+     "width": 750,
+     "height": 1146,
+     "format": "PNG->from webp",
+     "file": "images/1005012304431034/02-carousel.png",
+     "status": "ok"
+    },
+    {
+     "product_id": "1005012304431034",
+     "position": 3,
+     "type": "carousel",
+     "url": "https://ae01.alicdn.com/kf/Sa5a6ceb487e348cb92aa24bbca6069c8r.jpg",
+     "width": 790,
+     "height": 1059,
+     "format": "PNG->from webp",
+     "file": "images/1005012304431034/03-carousel.png",
+     "status": "ok"
+    },
+    {
+     "product_id": "1005012304431034",
+     "position": 4,
+     "type": "carousel",
+     "url": "https://ae01.alicdn.com/kf/S5b109e10f573435db810cf872be962bfo.jpg",
+     "width": 790,
+     "height": 1434,
+     "format": "PNG->from webp",
+     "file": "images/1005012304431034/04-carousel.png",
+     "status": "ok"
+    },
+    {
+     "product_id": "1005012304431034",
+     "position": 5,
+     "type": "carousel",
+     "url": "https://ae01.alicdn.com/kf/S2eaca8eab7c34391ac22c6eae25c290bG.jpg",
+     "width": 790,
+     "height": 1460,
+     "format": "PNG->from webp",
+     "file": "images/1005012304431034/05-carousel.png",
+     "status": "ok"
+    },
+    {
+     "product_id": "1005012304431034",
+     "position": 6,
+     "type": "carousel",
+     "url": "https://ae01.alicdn.com/kf/S0936a035c9b24396a7b0e0f7c203ee74V.jpg",
+     "width": 790,
+     "height": 1211,
+     "format": "PNG->from webp",
+     "file": "images/1005012304431034/06-carousel.png",
+     "status": "ok"
+    }
+   ],
+   "scores": {
+    "completude_/100": 55,
+    "confiance_fournisseur_/100": 70,
+    "niveau_risque": "MOYEN",
+    "recommandation": "PRODUIT PHARE (compléter par fiche technique fournisseur)"
+   }
+  },
+  {
+   "product_id": "1005007377321264",
+   "excel_cell": "F6",
+   "category": "1. Adoucisseurs de douche (filtres douche)",
+   "internal_name": "Filtre de douche 15-20 étapes (anti-calcaire/chlore)",
+   "source_url": "https://fr.aliexpress.com/item/1005007377321264.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "15-20 étapes de haute maison pour éliminer le fluorure de chlore et les métaux lourds filtrés adoucissent l'eau dure pour purificateur de nettoyage de pomme de douche",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "CN (Origine)",
+    "material": "acier inoxydable"
+   },
+   "commercial": {
+    "price": 9.79,
+    "price_before": 8.1,
+    "currency": "EUR",
+    "variant": "Couleur: Full Carbon Filter",
+    "orders": null,
+    "rating": 4.5,
+    "reviews": 859,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 13 - 25 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Matériau": "acier inoxydable",
+    "Origine": "CN (Origine)"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Média filtrant (billes) : composition/efficacité 'anti-calcaire/chlore' non prouvée",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/min",
+    "média filtrant exact (KDF/vitamine C ?)",
+    "durée de vie cartouche",
+    "pression compatible"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005007377321264.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005007377321264/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 61,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "VARIANTE À TESTER"
+   }
+  },
+  {
+   "product_id": "1005007476627621",
+   "excel_cell": "F7",
+   "category": "1. Adoucisseurs de douche (filtres douche)",
+   "internal_name": "Pommeau de douche filtrant parfumé (adoucisseur)",
+   "source_url": "https://fr.aliexpress.com/item/1005007476627621.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Filtre pour pommeau de douche parfumé, adoucisseur d'eau, améliore l'épilation de la peau, supporter ficateur de douche, accessoires pour la maison",
+    "brand": "n.d.",
+    "model": "001",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 7.59,
+    "price_before": 6.19,
+    "currency": "EUR",
+    "variant": "Couleur: Honey Peach",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 637,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Est-ce un appareil intelligent": "no",
+    "Fonction de la pomme de douche": "Pommes de douche à économie d'eau",
+    "Type d'installation": "Tenue à la main",
+    "Numéro de Modèle": "001",
+    "Forme de douche": "Forme de barre"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Média filtrant (billes) : composition/efficacité 'anti-calcaire/chlore' non prouvée",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/min",
+    "média filtrant exact (KDF/vitamine C ?)",
+    "durée de vie cartouche",
+    "pression compatible"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005007476627621.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005007476627621/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "VARIANTE À TESTER"
+   }
+  },
+  {
+   "product_id": "1005012014156043",
+   "excel_cell": "F8",
+   "category": "1. Adoucisseurs de douche (filtres douche)",
+   "internal_name": "Filtre de douche parfumé + adoucisseur/purif",
+   "source_url": "https://fr.aliexpress.com/item/1005012014156043.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Filtre de douche parfumé avec adoucisseur d'eau, purificateur de douche anti-calcaire pour salle de bain, cartouche de remplacement pour pommeau de douche",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "CN (Origine)",
+    "material": "ABS"
+   },
+   "commercial": {
+    "price": 15.89,
+    "price_before": 13.39,
+    "currency": "EUR",
+    "variant": "Couleur: Blueberry",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 511,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 17 - 26 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Matériau": "ABS",
+    "Origine": "CN (Origine)"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Média filtrant (billes) : composition/efficacité 'anti-calcaire/chlore' non prouvée",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/min",
+    "média filtrant exact (KDF/vitamine C ?)",
+    "durée de vie cartouche",
+    "pression compatible"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005012014156043.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005012014156043/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "VARIANTE À TESTER"
+   }
+  },
+  {
+   "product_id": "1005008848496706",
+   "excel_cell": "F9",
+   "category": "1. Adoucisseurs de douche (filtres douche)",
+   "internal_name": "Filtre pomme de douche 15/20 étapes",
+   "source_url": "https://fr.aliexpress.com/item/1005008848496706.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Filtre de pomme de douche à haut rendement, 15/20 étapes, pour cartouches remplaçables d'eau dure, adoucisseur d'eau pour éliminer le chlore et le fluorure",
+    "brand": "n.d.",
+    "model": "Shower Water Filter",
+    "origin": "n.d.",
+    "material": "ABS plastique"
+   },
+   "commercial": {
+    "price": 7.99,
+    "price_before": 9.79,
+    "currency": "EUR",
+    "variant": "Couleur: Full Carbon Filter",
+    "orders": null,
+    "rating": 4.7,
+    "reviews": 101,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 17 - 22 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Numéro de Modèle": "Shower Water Filter",
+    "Forme de douche": "Rond",
+    "Finition de surface": "Chrome",
+    "Matériau": "ABS plastique",
+    "Style": "Tête unique"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Média filtrant (billes) : composition/efficacité 'anti-calcaire/chlore' non prouvée",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/min",
+    "média filtrant exact (KDF/vitamine C ?)",
+    "durée de vie cartouche",
+    "pression compatible"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008848496706.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008848496706/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 62,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "VARIANTE À TESTER"
+   }
+  },
+  {
+   "product_id": "1005008295498961",
+   "excel_cell": "F10",
+   "category": "1. Adoucisseurs de douche (filtres douche)",
+   "internal_name": "ALTHY filtre douche vitamine C",
+   "source_url": "https://fr.aliexpress.com/item/1005008295498961.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "ALTHY Filtre de pomme de douche à main à la vitamine C, eau adoucissante SPA haute pression, blanchit et hydrater la peau sèche et démangeaisons, réduit la perte de cheveux",
+    "brand": "n.d.",
+    "model": "SFH70",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 32.79,
+    "price_before": 4.3,
+    "currency": "EUR",
+    "variant": "Couleur: VC Shower suit",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 65,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:China Mainland",
+    "delivery_estimate": "juillet 18 - 26 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Exigences en matière de qualité de l'eau": "Eau municipale/eau de puits",
+    "Filtration en 5 étapes": "Non",
+    "Fonction": "Boisson indirecte",
+    "Numéro de Modèle": "SFH70",
+    "Source d'énergie": "Non électrique"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Média filtrant (billes) : composition/efficacité 'anti-calcaire/chlore' non prouvée",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/min",
+    "média filtrant exact (KDF/vitamine C ?)",
+    "durée de vie cartouche",
+    "pression compatible"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008295498961.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008295498961/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 85,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "UPSELL (gamme premium)"
+   }
+  },
+  {
+   "product_id": "1005005652496986",
+   "excel_cell": "F15",
+   "category": "2. Osmoseurs (osmose inverse)",
+   "internal_name": "Système RO 600GPD sans réservoir OSWNKW",
+   "source_url": "https://fr.aliexpress.com/item/1005005652496986.html",
+   "status": "partial",
+   "identity": {
+    "aliexpress_title": "Système RO sans réservoir OSWNKW 600GPD à haut débit, réduit les TDS, rapport de vidange 1:2, mineralisé, lumière UV, purificateur d'eau compact sous l'évier",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "Pologne",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 274.99,
+    "price_before": 275.07,
+    "currency": "EUR",
+    "variant": "Couleur: 600 GPD",
+    "orders": null,
+    "rating": 4.8,
+    "reviews": 88,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:Pologne Tension:110 V-240 V",
+    "delivery_estimate": "juillet 16 - 21 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Diamètre de l'interface": "DN15",
+    "Exigences en matière de qualité de l'eau": "Eau municipale/eau de puits",
+    "Filtration en 5 étapes": "Non",
+    "Délai de mise sur le marché": "15 juin",
+    "Rendement en eau (litre/minute)": "2.5"
+   },
+   "osmose_specs": {
+    "gpd": "600 GPD",
+    "diametre_interface": "DN15",
+    "qualite_eau": "Eau municipale/puits"
+   },
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Aucune certification eau potable/contact alimentaire (NSF/ACS) affichée — origine CN",
+     "severity": "élevé",
+     "action": "exiger doc conformité fournisseur avant tout claim sanitaire"
+    },
+    {
+     "risk": "Appareil électrique (pompe/écran) : tension à confirmer 220-240V/50Hz FR",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Produit lourd/encombrant + prix élevé → coût logistique & taux de retour",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/j exact",
+    "% réduction TDS",
+    "pression min/max",
+    "tension/puissance (V/W)",
+    "réf filtres remplacement + prix",
+    "certif contact alimentaire / eau potable"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005005652496986.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005005652496986/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 60,
+    "confiance_fournisseur_/100": 76,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (osmoseur alternatif)"
+   }
+  },
+  {
+   "product_id": "1005008768999224",
+   "excel_cell": "F16",
+   "category": "2. Osmoseurs (osmose inverse)",
+   "internal_name": "Système osmose inverse cuisine",
+   "source_url": "https://fr.aliexpress.com/item/1005008768999224.html",
+   "status": "partial",
+   "identity": {
+    "aliexpress_title": "Système de purification d'eau de cuisine par osmose inverse, débit de 600G/800G, TDS réduits, rapport de drainage 2:1",
+    "brand": "SHUANGLI",
+    "model": "600G/800G",
+    "origin": "CN (Origine)",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 176.99,
+    "price_before": 16.37,
+    "currency": "EUR",
+    "variant": "Couleur: 600G",
+    "orders": null,
+    "rating": 4.7,
+    "reviews": 169,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:Pologne",
+    "delivery_estimate": "juillet 16 - 19 (86.4% ≤ 8 jours)  ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "High-concerned chemical": "Aucun",
+    "Includes Faucet": "oui",
+    "Model Number": "600G/800G",
+    "Brand Name": "SHUANGLI",
+    "Origin": "CN (Origine)",
+    "internet traffic": "1.58L/min"
+   },
+   "osmose_specs": {
+    "gpd": "600 GPD",
+    "debit_l_min": "1.58"
+   },
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Aucune certification eau potable/contact alimentaire (NSF/ACS) affichée — origine CN",
+     "severity": "élevé",
+     "action": "exiger doc conformité fournisseur avant tout claim sanitaire"
+    },
+    {
+     "risk": "Appareil électrique (pompe/écran) : tension à confirmer 220-240V/50Hz FR",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Produit lourd/encombrant + prix élevé → coût logistique & taux de retour",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/j exact",
+    "% réduction TDS",
+    "pression min/max",
+    "tension/puissance (V/W)",
+    "réf filtres remplacement + prix",
+    "certif contact alimentaire / eau potable"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008768999224.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008768999224/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 60,
+    "confiance_fournisseur_/100": 77,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (osmoseur alternatif)"
+   }
+  },
+  {
+   "product_id": "1005009661849903",
+   "excel_cell": "F17",
+   "category": "2. Osmoseurs (osmose inverse)",
+   "internal_name": "Système osmose inverse OSWNKW 600G",
+   "source_url": "https://fr.aliexpress.com/item/1005009661849903.html",
+   "status": "partial",
+   "identity": {
+    "aliexpress_title": "Système de filtration d'eau par osmose inverse OSWNKW - débit élevé 600GPD, sans réservoir d'eau, TDS réduit, compact, rapport de drainage 1:2",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "Pologne",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 292.69,
+    "price_before": 292.9,
+    "currency": "EUR",
+    "variant": "Couleur: 600 GPD",
+    "orders": null,
+    "rating": 4.8,
+    "reviews": 53,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:Pologne Tension:110 V-240 V",
+    "delivery_estimate": "juillet 16 - 21 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "High-concerned chemical": "Aucun",
+    "Interface Diameter": "DN15",
+    "Water Quality Requirements": "Eau municipale/eau de puits",
+    "5 Stage Filtration": "Non",
+    "Time to market": "15 juin",
+    "Water Yield(Liter/Minute)": "2.5"
+   },
+   "osmose_specs": {
+    "gpd": "600 GPD",
+    "diametre_interface": "DN15",
+    "qualite_eau": "Eau municipale/puits"
+   },
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Aucune certification eau potable/contact alimentaire (NSF/ACS) affichée — origine CN",
+     "severity": "élevé",
+     "action": "exiger doc conformité fournisseur avant tout claim sanitaire"
+    },
+    {
+     "risk": "Appareil électrique (pompe/écran) : tension à confirmer 220-240V/50Hz FR",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Produit lourd/encombrant + prix élevé → coût logistique & taux de retour",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/j exact",
+    "% réduction TDS",
+    "pression min/max",
+    "tension/puissance (V/W)",
+    "réf filtres remplacement + prix",
+    "certif contact alimentaire / eau potable"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005009661849903.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005009661849903/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 60,
+    "confiance_fournisseur_/100": 73,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (osmoseur alternatif)"
+   }
+  },
+  {
+   "product_id": "1005006982242864",
+   "excel_cell": "F18",
+   "category": "2. Osmoseurs (osmose inverse)",
+   "internal_name": "Membrane RO de remplacement (consommable)",
+   "source_url": "https://fr.aliexpress.com/item/1005006982242864.html",
+   "status": "partial",
+   "identity": {
+    "aliexpress_title": "Maison cuisine osmose inverse RO Membrane remplacement système d'eau filtre purificateur eau potable traitement 50/75/100/125GPD",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "Membrane d’osmose inverse RO"
+   },
+   "commercial": {
+    "price": 12.69,
+    "price_before": 11.19,
+    "currency": "EUR",
+    "variant": "Couleur: 50GPD",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 247,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Diamètre de l'interface": "Aucun",
+    "Exigences en matière de qualité de l'eau": "Eau municipale",
+    "Filtration en 5 étapes": "Non",
+    "Installation": "Installation de conduites d'eau froide",
+    "Fonction": "Boisson directe",
+    "Matériau": "Membrane d’osmose inverse RO"
+   },
+   "osmose_specs": {
+    "gpd": "50 GPD",
+    "qualite_eau": "Eau municipale"
+   },
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Aucune certification eau potable/contact alimentaire (NSF/ACS) affichée — origine CN",
+     "severity": "élevé",
+     "action": "exiger doc conformité fournisseur avant tout claim sanitaire"
+    },
+    {
+     "risk": "Appareil électrique (pompe/écran) : tension à confirmer 220-240V/50Hz FR",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Produit lourd/encombrant + prix élevé → coût logistique & taux de retour",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/j exact",
+    "% réduction TDS",
+    "pression min/max",
+    "tension/puissance (V/W)",
+    "réf filtres remplacement + prix",
+    "certif contact alimentaire / eau potable"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005006982242864.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005006982242864/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 60,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "CONSOMMABLE / UPSELL (filtre de rechange)"
+   }
+  },
+  {
+   "product_id": "1005008226493006",
+   "excel_cell": "F22",
+   "category": "3. Carafes filtrantes",
+   "internal_name": "[STOCK UE] Bouilloire/carafe 3.6L purificateur",
+   "source_url": "https://fr.aliexpress.com/item/1005008226493006.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "[Stock ue] bouilloire 3.6L purificateur d'eau cuisine domestique filtre à eau portable pichet bouilloire de purification d'eau",
+    "brand": "n.d.",
+    "model": "water purifier",
+    "origin": "CN (Origine)",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 30.39,
+    "price_before": 24.79,
+    "currency": "EUR",
+    "variant": "Couleur: Blue",
+    "orders": null,
+    "rating": 4.6,
+    "reviews": 85,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:Allemagne",
+    "delivery_estimate": "juillet 15 - 21 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Hign-concerned Chemical": "Aucun",
+    "Model Number": "water purifier",
+    "Origin": "CN (Origine)"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact alimentaire direct : exiger conformité matériaux (règlement CE 1935/2004) + certif cartouche",
+     "severity": "élevé",
+     "action": "demander attestation contact alimentaire avant mise en vente"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008226493006.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008226493006/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 85,
+    "confiance_fournisseur_/100": 72,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (carafe/bouilloire filtrante)"
+   }
+  },
+  {
+   "product_id": "1005006995593983",
+   "excel_cell": "F23",
+   "category": "3. Carafes filtrantes",
+   "internal_name": "Bouilloire/carafe à filtre domestique (3 disp.)",
+   "source_url": "https://fr.aliexpress.com/item/1005006995593983.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Bouilloire à filtre domestique avec 3 dispositifs de filtre, purificateur d'eau au charbon actif alcalin et minuterie, eau filtrante Non toxique propre 3,5 l",
+    "brand": "n.d.",
+    "model": "Filter Wate",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 31.99,
+    "price_before": 0.57,
+    "currency": "EUR",
+    "variant": "Couleur: White 1 Filter",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 202,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 19 - 30 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Exigences en matière de qualité de l'eau": "Eau municipale",
+    "Filtration en 5 étapes": "Oui",
+    "Installation": "Type de table",
+    "Fonction": "Boisson indirecte",
+    "Numéro de Modèle": "Filter Wate"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact alimentaire direct : exiger conformité matériaux (règlement CE 1935/2004) + certif cartouche",
+     "severity": "élevé",
+     "action": "demander attestation contact alimentaire avant mise en vente"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005006995593983.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005006995593983/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (carafe/bouilloire filtrante)"
+   }
+  },
+  {
+   "product_id": "1005008660249482",
+   "excel_cell": "F24",
+   "category": "3. Carafes filtrantes",
+   "internal_name": "ALTHY carafe filtre eau alcaline 3,5L",
+   "source_url": "https://fr.aliexpress.com/item/1005008660249482.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "ALTHY Filtre de pichet d'eau alcaline minérale 3,5 L - Filtres longue durée 400 L - Système de filtration purificateur d'alkalizer + pH -ORP",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 65.69,
+    "price_before": 74.08,
+    "currency": "EUR",
+    "variant": "Couleur: Pitcher and Filter",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 44,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 17 - 26 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Exigences en matière de qualité de l'eau": "Eau municipale/eau de puits",
+    "Filtration en 5 étapes": "Oui",
+    "Rendement en eau (litre/minute)": "2.0",
+    "Installation": "Ordinateur de bureau",
+    "Fonction": "Boisson directe"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact alimentaire direct : exiger conformité matériaux (règlement CE 1935/2004) + certif cartouche",
+     "severity": "élevé",
+     "action": "demander attestation contact alimentaire avant mise en vente"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008660249482.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008660249482/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 63,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (carafe/bouilloire filtrante)"
+   }
+  },
+  {
+   "product_id": "1005007117128363",
+   "excel_cell": "F25",
+   "category": "3. Carafes filtrantes",
+   "internal_name": "Carafe/bouilloire filtrante 2,5L",
+   "source_url": "https://fr.aliexpress.com/item/1005007117128363.html",
+   "status": "partial",
+   "identity": {
+    "aliexpress_title": "2.5L purificateur d'eau bouilloire capacité filtre à eau filtre à quatre couches pichet d'eau purificateur bureau ménage Type universel",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 26.19,
+    "price_before": 24.99,
+    "currency": "EUR",
+    "variant": "",
+    "orders": null,
+    "rating": 4.3,
+    "reviews": 67,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Diamètre de l'interface": "Aucun",
+    "Exigences en matière de qualité de l'eau": "Eau municipale",
+    "Filtration en 5 étapes": "Non",
+    "Rendement en eau (litre/minute)": "6.0",
+    "Installation": "VERTICAUX"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact alimentaire direct : exiger conformité matériaux (règlement CE 1935/2004) + certif cartouche",
+     "severity": "élevé",
+     "action": "demander attestation contact alimentaire avant mise en vente"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005007117128363.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005007117128363/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 65,
+    "confiance_fournisseur_/100": 54,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (carafe/bouilloire filtrante)"
+   }
+  },
+  {
+   "product_id": "1005010536762195",
+   "excel_cell": "F26",
+   "category": "3. Carafes filtrantes",
+   "internal_name": "Carafe filtrante domestique + 1 cartouche",
+   "source_url": "https://fr.aliexpress.com/item/1005010536762195.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Bouilloire filtrante domestique avec 1 cartouche filtrante, purificateur d'eau au charbon actif alcalin et minuterie, filtre à eau Non toxique 3,6 l",
+    "brand": "n.d.",
+    "model": "Water Purifier Kettle",
+    "origin": "n.d.",
+    "material": "Charbon actif"
+   },
+   "commercial": {
+    "price": 26.39,
+    "price_before": 27.85,
+    "currency": "EUR",
+    "variant": "Couleur: Paquet B",
+    "orders": null,
+    "rating": 4.7,
+    "reviews": 31,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:Allemagne",
+    "delivery_estimate": "juillet 15 - 21 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "High-concerned chemical": "Aucun",
+    "Water Quality Requirements": "Eau municipale/eau de puits",
+    "Model Number": "Water Purifier Kettle",
+    "Material": "Charbon actif",
+    "Type": "Charbon actif",
+    "Water treatment machine Type": "pichet d'eau"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact alimentaire direct : exiger conformité matériaux (règlement CE 1935/2004) + certif cartouche",
+     "severity": "élevé",
+     "action": "demander attestation contact alimentaire avant mise en vente"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005010536762195.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005010536762195/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 85,
+    "confiance_fournisseur_/100": 71,
+    "niveau_risque": "MOYEN",
+    "recommandation": "VARIANTE À TESTER (carafe/bouilloire filtrante)"
+   }
+  },
+  {
+   "product_id": "1005006783135107",
+   "excel_cell": "F30",
+   "category": "4. Filtres robinet",
+   "internal_name": "Filtre à eau robinet cuisine purificateur",
+   "source_url": "https://fr.aliexpress.com/item/1005006783135107.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Filtre à eau pour robinet de cuisine, purificateur d'eau dure pressurisé avec bulleur, élimination du chlore et des métaux lourds, avec extension de bassin",
+    "brand": "n.d.",
+    "model": "GLQ11",
+    "origin": "CN (Origine)",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 7.49,
+    "price_before": 5.89,
+    "currency": "EUR",
+    "variant": "Couleur: B 1PC",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 1457,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Numéro de Modèle": "GLQ11",
+    "Origine": "CN (Origine)",
+    "Type d'écriture": "Accessoires de robinetterie de cuisine"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact eau de boisson : matériau/certif à vérifier (CE 1935/2004)",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005006783135107.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005006783135107/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "UPSELL / ACCESSOIRE (petit prix, panier moyen)"
+   }
+  },
+  {
+   "product_id": "1005007344985457",
+   "excel_cell": "F31",
+   "category": "4. Filtres robinet",
+   "internal_name": "Filtre purificateur rotatif 360° universel",
+   "source_url": "https://fr.aliexpress.com/item/1005007344985457.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Filtre purificateur d'eau rotatif à 360° universel pour cuisine, salle de bain, douche, filtre domestique en coton PP haute densité",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "CN (Origine)",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 7.79,
+    "price_before": 6.19,
+    "currency": "EUR",
+    "variant": "Couleur: three modes",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 1456,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Méthode d'installation": "Assemblage",
+    "Origine": "CN (Origine)"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact eau de boisson : matériau/certif à vérifier (CE 1935/2004)",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005007344985457.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005007344985457/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "UPSELL / ACCESSOIRE (petit prix, panier moyen)"
+   }
+  },
+  {
+   "product_id": "1005007636231647",
+   "excel_cell": "F32",
+   "category": "4. Filtres robinet",
+   "internal_name": "Éléments filtrants de robinet (purificateur)",
+   "source_url": "https://fr.aliexpress.com/item/1005007636231647.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Éléments filtrants de robinet, purificateur d'eau, filtre emove chlore, adaptateur de robinet en métal lourd, Filtration en coton PP pour cuisine salle de bains",
+    "brand": "alloet",
+    "model": "Faucet Purifier Sprayer Head",
+    "origin": "CN (Origine)",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 5.59,
+    "price_before": 2.8,
+    "currency": "EUR",
+    "variant": "Couleur: 2pcs filters",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 1069,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 17 - 22 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Méthode d'installation": "Assemblage",
+    "Numéro de Modèle": "Faucet Purifier Sprayer Head",
+    "Nom de marque": "alloet",
+    "Origine": "CN (Origine)",
+    "Faucet Water Purifier": "Faucet Purifier Sprayer Head"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact eau de boisson : matériau/certif à vérifier (CE 1935/2004)",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005007636231647.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005007636231647/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "UPSELL / ACCESSOIRE (petit prix, panier moyen)"
+   }
+  },
+  {
+   "product_id": "1005005956268410",
+   "excel_cell": "F33",
+   "category": "4. Filtres robinet",
+   "internal_name": "Kit purificateur sortie d'eau robinet",
+   "source_url": "https://fr.aliexpress.com/item/1005005956268410.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Kits de purificateur de sortie d'eau, filtre de robinet universel, cuisine salle de bains douche, filtre domestique en coton PP, filtre haute densité",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 5.59,
+    "price_before": 4.79,
+    "currency": "EUR",
+    "variant": "Couleur: 2PCS Cotton",
+    "orders": null,
+    "rating": 4.7,
+    "reviews": 658,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 18 - 22 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Est-ce un appareil intelligent": "no",
+    "Fonction de la pomme de douche": "Pommes de douche à économie d'eau",
+    "Type d'installation": "Tenue à la main",
+    "Forme de douche": "Rond",
+    "Type": "Type de support fixe"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact eau de boisson : matériau/certif à vérifier (CE 1935/2004)",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005005956268410.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005005956268410/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 65,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "UPSELL / ACCESSOIRE (petit prix, panier moyen)"
+   }
+  },
+  {
+   "product_id": "1005007009738834",
+   "excel_cell": "F34",
+   "category": "4. Filtres robinet",
+   "internal_name": "Aérateur économie d'eau robinet",
+   "source_url": "https://fr.aliexpress.com/item/1005007009738834.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Aérateurs économie d'eau robinet buse fil remplaçable robinet de cuisine filtre bouche salle de bains robinet barboteur pièces de salle de bains",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "CN (Origine)",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 4.99,
+    "price_before": 3.39,
+    "currency": "EUR",
+    "variant": "Couleur: 1 pièce",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 2259,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Origine": "CN (Origine)",
+    "Type d'écriture": "Aérateurs"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Contact eau de boisson : matériau/certif à vérifier (CE 1935/2004)",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005007009738834.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005007009738834/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "UPSELL / ACCESSOIRE (petit prix, panier moyen)"
+   }
+  },
+  {
+   "product_id": "1005009916306044",
+   "excel_cell": "F38",
+   "category": "5. Purificateurs portables / camping / survie",
+   "internal_name": "Purificateur d'eau de camping (filtration plein air)",
+   "source_url": "https://fr.aliexpress.com/item/1005009916306044.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Purificateur d'eau de Camping en plein air, Filtration de 0.01 microns, Portable, Type de paille réutilisable, utilisation en Fiber creuse de haute qualité",
+    "brand": "widesea",
+    "model": "n.d.",
+    "origin": "CN (Origine)",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 10.19,
+    "price_before": 11.04,
+    "currency": "EUR",
+    "variant": "Couleur: Blue",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 631,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Nom de marque": "widesea",
+    "Origine": "CN (Origine)"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "Claim de filtration (bactéries/0.01µm) non certifié — usage outdoor/survie",
+     "severity": "moyen"
+    }
+   ],
+   "missing_information": [
+    "débit L/h",
+    "capacité de rétention (L)",
+    "matériau contact alimentaire (certif)",
+    "durée de vie cartouche"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005009916306044.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005009916306044/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "FAIBLE",
+    "recommandation": "VARIANTE À TESTER (niche camping/outdoor)"
+   }
+  },
+  {
+   "product_id": "1005008429890699",
+   "excel_cell": "F39",
+   "category": "5. Purificateurs portables / camping / survie",
+   "internal_name": "Purificateur d'eau portable (tuyau filtrant)",
+   "source_url": "https://fr.aliexpress.com/item/1005008429890699.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Le plus récent tuyau à fumer d'eau Portable Circulation porte-Cigarette Shisha narguilé bouteille de Cigarette meilleur cadeau de fumer pour hommes femmes",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "CN (Origine)",
+    "material": "plastique"
+   },
+   "commercial": {
+    "price": 8.89,
+    "price_before": 7.19,
+    "currency": "EUR",
+    "variant": "Couleur: Brun",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 649,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Matériau": "plastique",
+    "Origine": "CN (Origine)"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Produit hors périmètre : narguilé/tuyau à fumer, pas un purificateur d'eau. Lien source erroné.",
+     "severity": "critique"
+    }
+   ],
+   "missing_information": [
+    "N/A — produit à retirer de la sélection"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008429890699.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008429890699/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "CRITIQUE",
+    "recommandation": "À ÉCARTER (hors périmètre eau)"
+   }
+  },
+  {
+   "product_id": "1005007540052398",
+   "excel_cell": "F43",
+   "category": "6. Anti-calcaire électronique / magnétique",
+   "internal_name": "ALTHY IPSE adoucisseur électronique (inhibition)",
+   "source_url": "https://fr.aliexpress.com/item/1005007540052398.html",
+   "status": "partial",
+   "identity": {
+    "aliexpress_title": "ALTHY IPSE Terminal échelle inhibition système d'adoucisseur d'eau détartrant Anti calcaire et eau dure pour chauffe-eau filtre de douche",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "acier inoxydable"
+   },
+   "commercial": {
+    "price": 34.79,
+    "price_before": 39.23,
+    "currency": "EUR",
+    "variant": "",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 183,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": " juillet 16 - 19 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Diamètre de l'interface": "DN8",
+    "Exigences en matière de qualité de l'eau": "Eau municipale",
+    "Source d'énergie": "Non électrique",
+    "Matériau": "acier inoxydable",
+    "Position purificatrice": "Purification des terminaux"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "EFFICACITÉ CONTESTÉE : adoucisseurs magnétiques/électroniques sans preuve scientifique reconnue → risque d'allégation trompeuse (DGCCRF)",
+     "severity": "élevé",
+     "action": "NE PAS promettre d'adoucissement/réduction de dureté sans étude ; rester factuel"
+    }
+   ],
+   "missing_information": [
+    "preuve d'efficacité indépendante",
+    "puissance/tension (si électronique)",
+    "champ magnétique (Gauss)",
+    "débit max",
+    "garantie"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005007540052398.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005007540052398/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 65,
+    "confiance_fournisseur_/100": 69,
+    "niveau_risque": "ÉLEVÉ",
+    "recommandation": "À VÉRIFIER (efficacité + allégations marketing)"
+   }
+  },
+  {
+   "product_id": "1005001541608902",
+   "excel_cell": "F44",
+   "category": "6. Anti-calcaire électronique / magnétique",
+   "internal_name": "Système détartrant d'eau électronique",
+   "source_url": "https://fr.aliexpress.com/item/1005001541608902.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Système de détartrant d'eau électronique détartrant d'eau, climatiseur d'eau dure électronique alternatif sans sel, coque en alliage",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 35.19,
+    "price_before": 36.85,
+    "currency": "EUR",
+    "variant": "Couleur: Argent",
+    "orders": null,
+    "rating": 4.8,
+    "reviews": 92,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": "juillet 19 - 24 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Plage de tension": "USB (5-20 V CC)",
+    "Puissance de sortie": "≤37.5",
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Transmission de données": "no",
+    "Courant de Sortie": "2A",
+    "Source d'énergie": "courant continu"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "EFFICACITÉ CONTESTÉE : adoucisseurs magnétiques/électroniques sans preuve scientifique reconnue → risque d'allégation trompeuse (DGCCRF)",
+     "severity": "élevé",
+     "action": "NE PAS promettre d'adoucissement/réduction de dureté sans étude ; rester factuel"
+    }
+   ],
+   "missing_information": [
+    "preuve d'efficacité indépendante",
+    "puissance/tension (si électronique)",
+    "champ magnétique (Gauss)",
+    "débit max",
+    "garantie"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005001541608902.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005001541608902/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 64,
+    "niveau_risque": "ÉLEVÉ",
+    "recommandation": "À VÉRIFIER (efficacité + allégations marketing)"
+   }
+  },
+  {
+   "product_id": "1005008632801588",
+   "excel_cell": "F45",
+   "category": "6. Anti-calcaire électronique / magnétique",
+   "internal_name": "Système détartrant électronique (variante)",
+   "source_url": "https://fr.aliexpress.com/item/1005008632801588.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Système de détartrant d'eau électronique détartrant d'eau, climatiseur d'eau dure électronique alternatif sans sel, coque en alliage",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 31.56,
+    "price_before": 32.56,
+    "currency": "EUR",
+    "variant": "Couleur: Argent",
+    "orders": null,
+    "rating": 4.8,
+    "reviews": 39,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:China Mainland",
+    "delivery_estimate": "juillet 19 - 24 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Plage de tension": "USB (5-20 V CC)",
+    "Puissance de sortie": "≤37.5",
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Transmission de données": "no",
+    "Courant de Sortie": "2A",
+    "Source d'énergie": "courant continu"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "EFFICACITÉ CONTESTÉE : adoucisseurs magnétiques/électroniques sans preuve scientifique reconnue → risque d'allégation trompeuse (DGCCRF)",
+     "severity": "élevé",
+     "action": "NE PAS promettre d'adoucissement/réduction de dureté sans étude ; rester factuel"
+    }
+   ],
+   "missing_information": [
+    "preuve d'efficacité indépendante",
+    "puissance/tension (si électronique)",
+    "champ magnétique (Gauss)",
+    "débit max",
+    "garantie"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008632801588.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008632801588/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 85,
+    "confiance_fournisseur_/100": 64,
+    "niveau_risque": "ÉLEVÉ",
+    "recommandation": "À VÉRIFIER (efficacité + allégations marketing)"
+   }
+  },
+  {
+   "product_id": "1005008766211192",
+   "excel_cell": "F46",
+   "category": "6. Anti-calcaire électronique / magnétique",
+   "internal_name": "Adoucisseur super-magnétique IPSE (maison)",
+   "source_url": "https://fr.aliexpress.com/item/1005008766211192.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Système d'adoucisseur d'eau super magnétique IPSE pour toute la maison, détartrant d'eau sans sel, Machine d'adoucisseur d'inhibition, retrait de l'échelle",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 53.89,
+    "price_before": 55.61,
+    "currency": "EUR",
+    "variant": "Couleur: A-WS60",
+    "orders": null,
+    "rating": 4.9,
+    "reviews": 35,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "Expédié depuis:China Mainland",
+    "delivery_estimate": "juillet 19 - 27 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Diamètre de l'interface": "DN25",
+    "Exigences en matière de qualité de l'eau": "Eau potable de haute qualité",
+    "Filtration en 5 étapes": "Oui",
+    "Délai de mise sur le marché": "15 juin",
+    "Rendement en eau (litre/minute)": "0.1"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "EFFICACITÉ CONTESTÉE : adoucisseurs magnétiques/électroniques sans preuve scientifique reconnue → risque d'allégation trompeuse (DGCCRF)",
+     "severity": "élevé",
+     "action": "NE PAS promettre d'adoucissement/réduction de dureté sans étude ; rester factuel"
+    }
+   ],
+   "missing_information": [
+    "preuve d'efficacité indépendante",
+    "puissance/tension (si électronique)",
+    "champ magnétique (Gauss)",
+    "débit max",
+    "garantie"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005008766211192.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005008766211192/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 85,
+    "confiance_fournisseur_/100": 66,
+    "niveau_risque": "ÉLEVÉ",
+    "recommandation": "À VÉRIFIER (efficacité + allégations marketing)"
+   }
+  },
+  {
+   "product_id": "1005009060835350",
+   "excel_cell": "F47",
+   "category": "6. Anti-calcaire électronique / magnétique",
+   "internal_name": "Système détartrage super-magnétique IPSE",
+   "source_url": "https://fr.aliexpress.com/item/1005009060835350.html",
+   "status": "complete",
+   "identity": {
+    "aliexpress_title": "Système de détartrage super-magnétique IPSE pour toute la maison, machine adoucissante anti-calcaire et anti-corrosion pour eau dure",
+    "brand": "n.d.",
+    "model": "n.d.",
+    "origin": "n.d.",
+    "material": "n.d."
+   },
+   "commercial": {
+    "price": 89.35,
+    "price_before": 88.43,
+    "currency": "EUR",
+    "variant": "Couleur: A-WS50",
+    "orders": null,
+    "rating": 4.7,
+    "reviews": 62,
+    "reviews_note": "avis souvent agrégés multi-vendeurs sur AliExpress"
+   },
+   "shipping_france": {
+    "ship_from": "non affiché sur la fiche",
+    "delivery_estimate": "juillet 19 - 25 ",
+    "shipping_cost": "gratuite",
+    "captured_at": "2026-07-10",
+    "destination": "France"
+   },
+   "technical_specs": {
+    "Produit chimique à haute préoccupation": "Aucun",
+    "Diamètre de l'interface": "DN20",
+    "Exigences en matière de qualité de l'eau": "Eau municipale/eau de puits",
+    "Filtration en 5 étapes": "Oui",
+    "Délai de mise sur le marché": "15 juin",
+    "Rendement en eau (litre/minute)": "6.0"
+   },
+   "osmose_specs": {},
+   "risks": [
+    {
+     "risk": "Provenance d'expédition non affichée sur la fiche (à confirmer avant commande)",
+     "severity": "moyen"
+    },
+    {
+     "risk": "Titre/description AliExpress = traduction IA (avertissement plateforme) → specs à recouper",
+     "severity": "faible"
+    },
+    {
+     "risk": "EFFICACITÉ CONTESTÉE : adoucisseurs magnétiques/électroniques sans preuve scientifique reconnue → risque d'allégation trompeuse (DGCCRF)",
+     "severity": "élevé",
+     "action": "NE PAS promettre d'adoucissement/réduction de dureté sans étude ; rester factuel"
+    }
+   ],
+   "missing_information": [
+    "preuve d'efficacité indépendante",
+    "puissance/tension (si électronique)",
+    "champ magnétique (Gauss)",
+    "débit max",
+    "garantie"
+   ],
+   "sources": [
+    {
+     "data": "prix/expédition/vendeur/specs",
+     "url": "https://fr.aliexpress.com/item/1005009060835350.html",
+     "consulted": "2026-07-10",
+     "fiabilite": "vérifié (page produit, rendu navigateur)"
+    }
+   ],
+   "images_folder": "images/1005009060835350/",
+   "images_count": 5,
+   "scores": {
+    "completude_/100": 73,
+    "confiance_fournisseur_/100": 62,
+    "niveau_risque": "ÉLEVÉ",
+    "recommandation": "À VÉRIFIER (efficacité + allégations marketing)"
+   }
+  }
+ ]
+}

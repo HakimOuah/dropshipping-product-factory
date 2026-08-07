@@ -1,0 +1,628 @@
+AXWindow|title=trottinette électrique adulte - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=trottinette électrique adulte - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=trottinette%20électrique%20adulte&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=trottinette électrique adulte - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=trottinette électrique adulte
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Lieux|value=
+                                              AXStaticText|title=|desc=|value=Lieux
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter Non électriques|value=
+                                              AXStaticText|title=|desc=|value=Non électriques
+                                            AXLink|title=|desc=Ajouter New|value=
+                                              AXStaticText|title=|desc=|value=New
+                                            AXLink|title=|desc=Ajouter Used|value=
+                                              AXStaticText|title=|desc=|value=Used
+                                            AXLink|title=|desc=Ajouter Pour enfant|value=
+                                              AXStaticText|title=|desc=|value=Pour enfant
+                                            AXLink|title=|desc=Ajouter Roues|value=
+                                              AXStaticText|title=|desc=|value=Roues
+                                            AXLink|title=|desc=Ajouter Segway-Ninebot|value=
+                                              AXStaticText|title=|desc=|value=Segway-Ninebot
+                                            AXLink|title=|desc=Ajouter Trottinettes|value=
+                                              AXStaticText|title=|desc=|value=Trottinettes
+                                            AXLink|title=|desc=Ajouter Vélos|value=
+                                              AXStaticText|title=|desc=|value=Vélos
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=95390 Saint-Prix|desc=|value=2
+                                AXStaticText|title=|desc=|value=95390 Saint-Prix
+                                AXButton|title=Choisir une zone|desc=|value=
+                                AXButton|title=|desc=Comment la position est utilisée|value=
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez Giftcampaign.fr|value=
+                                              AXLink|title=|desc= à chez Giftcampaign.fr|value=
+                                            AXHeading|title=100 Trottinette électrique pliable avec suspension avant et double frein|desc=|value=3
+                                                AXStaticText|title=|desc=|value=100 Trottinette électrique pliable avec suspension avant et double frein
+                                            AXStaticText|title=|desc=|value=44 126,40 €
+                                            AXGroup|title=|desc=Vendu par Giftcampaign.fr|value=
+                                              AXStaticText|title=|desc=|value=Giftcampaign.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à (auparavant 175 € chez AliExpress - AliExpress-6007537909)|value=
+                                              AXLink|title=|desc= à (auparavant 175 € chez AliExpress - AliExpress-6007537909)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Trottinette électrique adulte TODIMART T3, 350W moteur, 36V 7.8AH , 20-30KM porté, vitesse|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Trottinette électrique adulte TODIMART T3, 350W moteur, 36V 7.8AH , 20-30KM porté, vitesse
+                                            AXStaticText|title=|desc=|value=144,67 €
+                                            AXStaticText|title=|desc=|value=175 €
+                                            AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6007537909|value=
+                                              AXStaticText|title=|desc=|value=AliExpress - AliExpress-6007537909
+                                              AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez iScooter.fr|value=
+                                              AXLink|title=|desc= à chez iScooter.fr|value=
+                                            AXHeading|title=W9 Trottinette Électrique 1000W Pliable, 45 km/h, 45 km d’Autonomie, pour Adultes | iScooter Officiel|desc=|value=3
+                                                AXStaticText|title=|desc=|value=W9 Trottinette Électrique 1000W Pliable, 45 km/h, 45 km d’Autonomie, pour Adultes | iScooter Officiel
+                                            AXStaticText|title=|desc=|value=419,99 €
+                                            AXGroup|title=|desc=Vendu par iScooter.fr|value=
+                                              AXStaticText|title=|desc=|value=iScooter.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Weebot|value=
+                                              AXLink|title=|desc= à chez Weebot|value=
+                                            AXHeading|title=Trottinette Électrique Dualtron Togo, 48V 13,5Ah|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Trottinette Électrique Dualtron Togo, 48V 13,5Ah
+                                            AXStaticText|title=|desc=|value=599,00 €
+                                            AXGroup|title=|desc=Vendu par Weebot|value=
+                                              AXStaticText|title=|desc=|value=Weebot
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 5,0 sur 5 (58) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Geekbuying.com|value=
+                                              AXLink|title=|desc= à chez Geekbuying.com|value=
+                                            AXHeading|title=Ausom DT2 Pro Trottinette électrique double moteur 52 V 23,4 Ah|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Ausom DT2 Pro Trottinette électrique double moteur 52 V 23,4 Ah
+                                            AXStaticText|title=|desc=|value=899,00 €
+                                            AXGroup|title=|desc=Vendu par Geekbuying.com|value=
+                                              AXStaticText|title=|desc=|value=Geekbuying.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,7 sur 5 (639) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Shoparize|value=
+                                                    AXStaticText|title=|desc=|value=Par Shoparize
+                                            AXLink|title=|desc= à chez greenweez.com|value=
+                                              AXLink|title=|desc= à chez greenweez.com|value=
+                                            AXHeading|title=Urbanglide - RIDE 85 EVO|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Urbanglide - RIDE 85 EVO
+                                            AXStaticText|title=|desc=|value=249,99 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=249,99 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à chez iScooter.fr|value=
+                                              AXLink|title=|desc= à chez iScooter.fr|value=
+                                            AXHeading|title=iScooter Officiel i8m - Trottinette Électrique de Ville, Moteur 350W, Autonomie 20km, Vitesse de Pointe 25km/h, Pliable, Noir.|desc=|value=3
+                                                AXStaticText|title=|desc=|value=iScooter Officiel i8m - Trottinette Électrique de Ville, Moteur 350W, Autonomie 20km, Vitesse de Pointe 25km/h, Pliable, Noir.
+                                            AXStaticText|title=|desc=|value=188,99 €
+                                            AXGroup|title=|desc=Vendu par iScooter.fr|value=
+                                              AXStaticText|title=|desc=|value=iScooter.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Producthero|value=
+                                                AXStaticText|title=|desc=|value=Producthero
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Shoparize|value=
+                                                AXStaticText|title=|desc=|value=Shoparize
+                                              AXLink|title=|desc=Channable|value=
+                                                AXStaticText|title=|desc=|value=Channable
+                                              AXLink|title=|desc=FeedMax|value=
+                                                AXStaticText|title=|desc=|value=FeedMax
+                                              AXLink|title=|desc=MeilleurVendeur|value=
+                                                AXStaticText|title=|desc=|value=MeilleurVendeur
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Trottinettes électriques pour adultes Decathlon https://www.decathlon.fr › ... › Trottinettes électriques|value=
+                                            AXHeading|title=Trottinettes électriques pour adultes|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Trottinettes électriques pour adultes
+                                              AXStaticText|title=|desc=|value=Decathlon
+                                                AXStaticText|title=|desc=|value=https://www.decathlon.fr
+                                                AXStaticText|title=|desc=|value= › ... › Trottinettes électriques
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Découvrez un large choix de trottinettes 
+                                            AXStaticText|title=|desc=|value=électriques
+                                          AXStaticText|title=|desc=|value= pour 
+                                            AXStaticText|title=|desc=|value=adulte
+                                          AXStaticText|title=|desc=|value= chez Decathlon. Livraison rapide ! Achetez au meilleur prix.
+                                            AXStaticText|title=|desc=|value=124,49 € à 1 533,00 €
+                                            AXImage|title=|desc=Note : 4,2 sur 5 (1 829) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXStaticText|title=|desc=|value=Thiais · Ouvert
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Trottinette électrique adulte - Retrait 1h en Magasin Boulanger https://www.boulanger.com › ... › Trottinette électrique|value=
+                                            AXHeading|title=Trottinette électrique adulte - Retrait 1h en Magasin|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Trottinette électrique adulte - Retrait 1h en Magasin
+                                              AXStaticText|title=|desc=|value=Boulanger
+                                                AXStaticText|title=|desc=|value=https://www.boulanger.com
+                                                AXStaticText|title=|desc=|value= › ... › Trottinette électrique
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Découvrez dans notre catalogue un très large choix de trottinettes électriques pour adultes
+                                          AXStaticText|title=|desc=|value= fabriquées par les meilleures marques du moment : Ninebot Segway, ...
+                                            AXStaticText|title=|desc=|value=141,00 € à 4 499,00 €
+                                            AXImage|title=|desc=Note : 4,3 sur 5 (327) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXStaticText|title=|desc=|value=Gennevilliers · Ouvert
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Trottinette Électrique Adulte Pas Cher - Leader France Weebot https://www.wee-bot.com › trottinette-electrique|value=
+                                            AXHeading|title=Trottinette Électrique Adulte Pas Cher - Leader France|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Trottinette Électrique Adulte Pas Cher - Leader France
+                                              AXStaticText|title=|desc=|value=Weebot
+                                                AXStaticText|title=|desc=|value=https://www.wee-bot.com
+                                                AXStaticText|title=|desc=|value= › trottinette-electrique
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Weebot leader français de la Trottinette Électrique
+                                          AXStaticText|title=|desc=|value=. Les meilleures marques disponibles Dualtron, Minimotors, Kaabo, Ninebot ✔️Livraison gratuite et rapide ...
+                                            AXImage|title=|desc=Note : 5,0 sur 5 (1 029) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                        AXHeading|title=Carte|desc=|value=3
+                                          AXStaticText|title=|desc=|value=Carte
+                                              AXGroup|title=|desc=Carte|value=
+                                                AXButton|title=|desc=Développer la carte|value=
+                                                      AXStaticText|title=|desc=|value=Données cartographiques © 2026 Google
+                                                      AXLink|title=|desc=Conditions d'utilisation|value=
+                                                        AXStaticText|title=|desc=|value=Conditions d'utilisation
+                                              AXButton|title=Trott.shop - Réparation de trottinette électrique, Vente de pièce détachée Note : 5,0 sur 5 168 avis d'utilisateurs · Atelier de réparation de véhicules de loisirs 1 All. Camille Saint-Saëns · 07 54 37 71 87 Ouvert · Ferme à 20:00|desc=|value=
+                                                AXHeading|title=Trott.shop - Réparation de trottinette électrique, Vente de pièce détachée|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Trott.shop - Réparation de trottinette électrique, Vente de pièce détachée
+                                                  AXImage|title=|desc=Note : 5,0 sur 5 168 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Atelier de réparation de véhicules de loisirs
+                                                  AXStaticText|title=|desc=|value=1 All. Camille Saint-Saëns · 07 54 37 71 87
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 20:00
+                                              AXButton|title=FIX MY TROTT Enghien-les-Bains Note : 4,9 sur 5 1,1 k avis d'utilisateurs · Magasin de vélos Enghien-les-Bains · 09 87 34 46 81 Ouvert · Ferme à 19:00 Achats en magasin· Livraison · Site Web|desc=|value=
+                                                AXHeading|title=FIX MY TROTT Enghien-les-Bains|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=FIX MY TROTT Enghien-les-Bains
+                                                  AXImage|title=|desc=Note : 4,9 sur 5 1,1 k avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de vélos
+                                                  AXStaticText|title=|desc=|value=Enghien-les-Bains · 09 87 34 46 81
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                AXStaticText|title=|desc=|value=Achats en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Livraison
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Magasin Weebot – Vente & Atelier de Réparation Trottinettes Électriques & Vélos – Service Rapide Paris Note : 4,3 sur 5 2,1 k avis d'utilisateurs · Magasin de vélos électriques Groslay · 01 80 89 45 52 Ouvert · Ferme à 19:00 En vente ici : trottinettes électriques · Site Web|desc=|value=
+                                                AXHeading|title=Magasin Weebot – Vente & Atelier de Réparation Trottinettes Électriques & Vélos – Service Rapide Paris|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Magasin Weebot – Vente & Atelier de Réparation Trottinettes Électriques & Vélos – Service Rapide Paris
+                                                  AXImage|title=|desc=Note : 4,3 sur 5 2,1 k avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de vélos électriques
+                                                  AXStaticText|title=|desc=|value=Groslay · 01 80 89 45 52
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                  AXStaticText|title=|desc=|value=En vente ici : 
+                                                  AXStaticText|title=|desc=|value=trottinettes électriques
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                        AXHeading|title=Voir plus de lieux|desc=|value=3
+                                            AXLink|title=|desc=Voir plus de lieux|value=
+                                                AXStaticText|title=|desc=|value=Voir plus de lieux
+                                        AXHeading|title=Sites de lieux|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de lieux
+                                                AXLink|title=|desc=Trottinette Adulte - Trottinettes électriques Idealo|value=
+                                                AXHeading|title=Trottinette Adulte - Trottinettes électriques|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Trottinette Adulte - Trottinettes électriques
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Trottinette électrique : Trottinette et hoverboard pas cher en Livraison et Drive Carrefour|value=
+                                                AXHeading|title=Trottinette électrique : Trottinette et hoverboard pas cher en Livraison et Drive|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Trottinette électrique : Trottinette et hoverboard pas cher en Livraison et Drive
+                                                    AXStaticText|title=|desc=|value=Carrefour
+                                                AXLink|title=|desc=Location Fat Bike électrique Vosges et Trottinette LorraineAUcoeur|value=
+                                                AXHeading|title=Location Fat Bike électrique Vosges et Trottinette|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Location Fat Bike électrique Vosges et Trottinette
+                                                    AXStaticText|title=|desc=|value=LorraineAUcoeur
+                                                AXLink|title=|desc=Voyagez avec vos bagages SNCF Connect|value=
+                                                AXHeading|title=Voyagez avec vos bagages|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Voyagez avec vos bagages
+                                                    AXStaticText|title=|desc=|value=SNCF Connect
+                                                  AXLink|title=|desc=Les activités du domaine Le Bois aux Daims Centerparcs.fr|value=
+                                                  AXHeading|title=Les activités du domaine Le Bois aux Daims|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Les activités du domaine Le Bois aux Daims
+                                                      AXStaticText|title=|desc=|value=Centerparcs.fr
+                                                  AXLink|title=|desc=Bons Plans Sarah good deals on Reels Facebook|value=
+                                                  AXHeading|title=Bons Plans Sarah good deals on Reels|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Bons Plans Sarah good deals on Reels
+                                                      AXStaticText|title=|desc=|value=Facebook
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Quelle est la meilleure trottinette électrique pour adulte ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelle est la meilleure trottinette électrique pour adulte ?
+                                              AXButton|title=Est-il obligatoire d'avoir une assurance sur une trottinette ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Est-il obligatoire d'avoir une assurance sur une trottinette ?
+                                              AXButton|title=Quel prix pour une bonne trottinette ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel prix pour une bonne trottinette ?
+                                              AXButton|title=Quelles sont les 5 meilleures trottinettes électriques ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelles sont les 5 meilleures trottinettes électriques ?
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                              AXButton|title=Fix My Trott Montigny les cormeilles Note : 4,9 sur 5 213 avis d'utilisateurs · Fournisseur d'équipement de mobilité Montigny-lès-Cormeilles · 01 72 53 97 86 Ouvert · Ferme à 19:00 Site Web|desc=|value=
+                                                AXHeading|title=Fix My Trott Montigny les cormeilles|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Fix My Trott Montigny les cormeilles
+                                                  AXImage|title=|desc=Note : 4,9 sur 5 213 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Fournisseur d'équipement de mobilité
+                                                  AXStaticText|title=|desc=|value=Montigny-lès-Cormeilles · 01 72 53 97 86
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=TROTTiSTORE Note : 4,9 sur 5 341 avis d'utilisateurs · Magasin de vélos L'Île-Saint-Denis · 06 04 46 30 55 Ouvert · Ferme à 21:00 Achats en magasin· Retrait en magasin· Livraison · Site Web|desc=|value=
+                                                AXHeading|title=TROTTiSTORE|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=TROTTiSTORE
+                                                  AXImage|title=|desc=Note : 4,9 sur 5 341 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de vélos
+                                                  AXStaticText|title=|desc=|value=L'Île-Saint-Denis · 06 04 46 30 55
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 21:00
+                                                AXStaticText|title=|desc=|value=Achats en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Retrait en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Livraison
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Réparation trotinette électrique à domicile Aucun avis · Magasin de vélos électriques 7 All. Claude Debussy · 06 29 27 93 18 Ouvert · Ferme à 20:00|desc=|value=
+                                                AXHeading|title=Réparation trotinette électrique à domicile|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Réparation trotinette électrique à domicile
+                                                  AXStaticText|title=|desc=|value=Aucun avis
+                                                  AXStaticText|title=|desc=|value= · Magasin de vélos électriques
+                                                  AXStaticText|title=|desc=|value=7 All. Claude Debussy · 06 29 27 93 18
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 20:00
+                                                            AXButton|title=|desc=Trottinette électrique Urbanglide Ride 85 EVO. Prix actuel : 168,98 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Note : 3,2 sur 5. 177 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Segway-Ninebot E2 Pro. Prix actuel : 279,00 €. Plus de prix disponibles. Klarna et plus. Également à proximité. Note : 4,5 sur 5. 691 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Segway ZT3 Pro. Prix actuel : 679,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Note : 4,6 sur 5. 288 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Xiaomi Scooter 4 Lite. PROMOTION. Prix actuel : 249,99 €. Avant : 310 €. Plus de prix disponibles. Darty.com et plus. En magasin. Note : 4,0 sur 5. 101 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Segway-Ninebot E2 Plus II. Prix actuel : 229,99 €. Plus de prix disponibles. idealo France et plus. Également à proximité. Note : 3,8 sur 5. 104 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Xiaomi Electric Scooter 5. Prix actuel : 399,99 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Note : 4,7 sur 5. 54 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Segway Ninebot E3 Pro E. Prix actuel : 379,97 €. Plus de prix disponibles. leDénicheur.fr et plus. Également à proximité. Note : 4,4 sur 5. 54 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique iScooter F3 1000W avec siège – Ville. Prix actuel : 309,99 €. Plus de prix disponibles. Darty et plus. Note : 4,3 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Trottinette Adulte - Trottinettes électriques Idealo|value=
+                                                AXHeading|title=Trottinette Adulte - Trottinettes électriques|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Trottinette Adulte - Trottinettes électriques
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Trottinette Electrique Adulte Puissante - Trottinettes électriques Idealo|value=
+                                                AXHeading|title=Trottinette Electrique Adulte Puissante - Trottinettes électriques|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Trottinette Electrique Adulte Puissante - Trottinettes électriques
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Trottinette Electrique Legere Adulte - Trottinettes électriques Idealo|value=
+                                                AXHeading|title=Trottinette Electrique Legere Adulte - Trottinettes électriques|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Trottinette Electrique Legere Adulte - Trottinettes électriques
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Trottinette électrique au meilleur prix - Mieux comparer avec leDénicheur leDénicheur|value=
+                                                AXHeading|title=Trottinette électrique au meilleur prix - Mieux comparer avec leDénicheur|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Trottinette électrique au meilleur prix - Mieux comparer avec leDénicheur
+                                                    AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Vélo ou trottinette électrique ? Idealo|value=
+                                                  AXHeading|title=Vélo ou trottinette électrique ?|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Vélo ou trottinette électrique ?
+                                                      AXStaticText|title=|desc=|value=Idealo
+                                                  AXLink|title=|desc=Trottinette électrique adultes – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Trottinette électrique adultes – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Trottinette électrique adultes – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Trottinette electrique pliable adulte – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Trottinette electrique pliable adulte – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Trottinette electrique pliable adulte – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=trottinette electrique adulte avec siege Cherchons.com|value=
+                                                  AXHeading|title=trottinette electrique adulte avec siege|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=trottinette electrique adulte avec siege
+                                                      AXStaticText|title=|desc=|value=Cherchons.com
+                                                  AXLink|title=|desc=Trotinette électrique adulte – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Trotinette électrique adulte – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Trotinette électrique adulte – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Trottinette électrique pour adultes – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Trottinette électrique pour adultes – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Trottinette électrique pour adultes – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                                            AXButton|title=|desc=Trottinette électrique Urbanglide Ride 355CT. Prix actuel : 229,92 €. Electro Dépôt. En magasin. Note : 4,0 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique Adulte Tout Terrain Puissante Moteur 800W/1000W*2 Batterie 48V 18,2Ah/20,8Ah Autonomie 50-90KM Trotinette Electrique Ultra. Prix actuel : 359,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Xiaomi Electric Scooter 5 Pro. PROMOTION. Prix actuel : 439,99 €. Avant : 500 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Note : 4,5 sur 5. 42 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Segway Ninebot Trottinette électrique Max G3 E. Prix actuel : 789,99 €. Plus de prix disponibles. Klarna et plus. Également à proximité. Note : 4,7 sur 5. 167 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique Urbanglide Ecross Go. Prix actuel : 447,98 €. Plus de prix disponibles. 123comparer.fr et plus. Également à proximité. Note : 4,2 sur 5. 51 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Urbanglide Ecross Duo. Prix actuel : 599,99 €. Plus de prix disponibles. meubles.fr et plus. Également à proximité. Note : 4,1 sur 5. 30 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique UrbanGlide E Cross Max 2x2 2ème génération 1200 W. Prix actuel : 599,99 €. Plus de prix disponibles. prix.net et plus. Également à proximité. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Segway-Ninebot Ninebot F2 E II. Prix actuel : 434,80 €. Plus de prix disponibles. Leguide et plus. Également à proximité. Note : 4,1 sur 5. 58 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Le meilleur de la Trottinette Electrique par MOBILITYURBAN Mobilityurban https://www.mobilityurban.fr › trottinette-electrique|value=
+                                            AXHeading|title=Le meilleur de la Trottinette Electrique par MOBILITYURBAN|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Le meilleur de la Trottinette Electrique par MOBILITYURBAN
+                                              AXStaticText|title=|desc=|value=Mobilityurban
+                                                AXStaticText|title=|desc=|value=https://www.mobilityurban.fr
+                                                AXStaticText|title=|desc=|value= › trottinette-electrique
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Le bon prix pour une trottinette électrique adulte se situe entre 400 et 1200 €
+                                          AXStaticText|title=|desc=|value= pour un modèle de qualité en vue d'un usage régulier en tant que véritable moyen ...
+                                          AXImage|title=|desc=Note : 4,9 sur 5 (1 300) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value=   
+                                          AXLink|title=|desc=Trottinette électrique pas cher - Prix bas Electro Depot https://www.electrodepot.fr › ... › MOBILITÉ, LOISIRS|value=
+                                            AXHeading|title=Trottinette électrique pas cher - Prix bas|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Trottinette électrique pas cher - Prix bas
+                                              AXStaticText|title=|desc=|value=Electro Depot
+                                                AXStaticText|title=|desc=|value=https://www.electrodepot.fr
+                                                AXStaticText|title=|desc=|value= › ... › MOBILITÉ, LOISIRS
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Trottinette électrique pas cher
+                                          AXStaticText|title=|desc=|value= ✓ Livraison dans la journée possible ou retrait drive sous 1H — Paiement en plusieurs fois et garantie 2 ans !
+                                            AXStaticText|title=|desc=|value=85,98 € à 678,94 €
+                                            AXImage|title=|desc=Note : 4,1 sur 5 (633) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=   
+                                          AXStaticText|title=|desc=|value=Cergy · Ouvert
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Trottinette Électrique Tout-Terrain 100% Française Zosh https://www.zosh.fr › trottinette|value=
+                                            AXHeading|title=Trottinette Électrique Tout-Terrain 100% Française|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Trottinette Électrique Tout-Terrain 100% Française
+                                              AXStaticText|title=|desc=|value=Zosh
+                                                AXStaticText|title=|desc=|value=https://www.zosh.fr
+                                                AXStaticText|title=|desc=|value= › trottinette
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Les trottinettes Zosh sont limitées à 25km/h
+                                          AXStaticText|title=|desc=|value=. Une assurance circulation est obligatoire : nous mettons en relation nos clients avec un assureur spécialisé dans ...
+                                          AXImage|title=|desc=Note : 4,9 sur 5 (84) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value=   
+                                          AXLink|title=|desc=Quelle trottinette électrique choisir pour un adulte ? UrbanGlide https://urbanglide.com › quelle-trottinette-electrique-ch...|value=
+                                            AXHeading|title=Quelle trottinette électrique choisir pour un adulte ?|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Quelle trottinette électrique choisir pour un adulte ?
+                                              AXStaticText|title=|desc=|value=UrbanGlide
+                                                AXStaticText|title=|desc=|value=https://urbanglide.com
+                                                AXStaticText|title=|desc=|value= › quelle-trottinette-electrique-ch...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Les critères clés pour choisir une 
+                                            AXStaticText|title=|desc=|value=trottinette électrique adulte
+                                          AXStaticText|title=|desc=|value= · L'usage réel : le point de départ obligatoire · Autonomie : ne regardez pas seulement le ...
+                                          AXLink|title=|desc=Trottinette électrique 2026 en soldes sur idealo.fr Idealo https://www.idealo.fr › cat › trottinettes-electriques|value=
+                                            AXHeading|title=Trottinette électrique 2026 en soldes sur idealo.fr|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Trottinette électrique 2026 en soldes sur idealo.fr
+                                              AXStaticText|title=|desc=|value=Idealo
+                                                AXStaticText|title=|desc=|value=https://www.idealo.fr
+                                                AXStaticText|title=|desc=|value= › cat › trottinettes-electriques
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Avec BMS (Battery Management System), 
+                                            AXStaticText|title=|desc=|value=Vitesse maximale 25 km/h, Charge max. 130 kg, Autonomie 80 km
+                                          AXStaticText|title=|desc=|value=, Puissance continue 700 W.
+                                          AXLink|title=|desc=Trottinette électrique adulte pas cher Conforama https://www.conforama.fr › trottinette-electrique-adulte|value=
+                                            AXHeading|title=Trottinette électrique adulte pas cher|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Trottinette électrique adulte pas cher
+                                              AXStaticText|title=|desc=|value=Conforama
+                                                AXStaticText|title=|desc=|value=https://www.conforama.fr
+                                                AXStaticText|title=|desc=|value= › trottinette-electrique-adulte
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Parmi les choix les plus appréciés de la gamme, 
+                                            AXStaticText|title=|desc=|value=Trottinette électrique adulte volkswagen - modèle golf r
+                                          AXStaticText|title=|desc=|value= - autonomie 45 km - vitesse max 25 kmh - pliable et ...
+                                          AXLink|title=|desc=Comment choisir sa Trottinette Electrique Adulte Mobilityurban https://www.mobilityurban.fr › comment-choisir-sa-trot...|value=
+                                            AXHeading|title=Comment choisir sa Trottinette Electrique Adulte|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Comment choisir sa Trottinette Electrique Adulte
+                                              AXStaticText|title=|desc=|value=Mobilityurban
+                                                AXStaticText|title=|desc=|value=https://www.mobilityurban.fr
+                                                AXStaticText|title=|desc=|value= › comment-choisir-sa-trot...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=On les considère puissante à partir de 48V, 500W nominal . Dans cette famille on peut trouver des modèles compacts comme la speedway mini 4 pro, kingsong N10, ...
+                                          AXImage|title=|desc=Note : 4,9 sur 5 (1 300) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value=   
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Trottinette électrique Adulte 120 kg Decathlon|value=
+                                        AXStaticText|title=|desc=|value=Trottinette électrique Adulte 
+                                        AXStaticText|title=|desc=|value=120 kg Decathlon
+                                      AXLink|title=|desc=Trottinette électrique adulte puissante|value=
+                                        AXStaticText|title=|desc=|value=Trottinette électrique adulte 
+                                        AXStaticText|title=|desc=|value=puissante
+                                      AXLink|title=|desc=Trottinette électrique Adulte tout terrain|value=
+                                        AXStaticText|title=|desc=|value=Trottinette électrique Adulte 
+                                        AXStaticText|title=|desc=|value=tout terrain
+                                      AXLink|title=|desc=Trottinette électrique Adulte Decathlon|value=
+                                        AXStaticText|title=|desc=|value=Trottinette électrique Adulte 
+                                        AXStaticText|title=|desc=|value=Decathlon
+                                      AXLink|title=|desc=Trottinette électrique Adulte 150 kg|value=
+                                        AXStaticText|title=|desc=|value=Trottinette électrique Adulte 
+                                        AXStaticText|title=|desc=|value=150 kg
+                                      AXLink|title=|desc=Trottinette électrique adulte pas cher|value=
+                                        AXStaticText|title=|desc=|value=Trottinette électrique adulte 
+                                        AXStaticText|title=|desc=|value=pas cher
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=10
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=16
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=6
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=10
+                                      AXStaticText|title=|desc=|value=16
+                                      AXStaticText|title=|desc=|value=6
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=trottinette électrique adulte - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

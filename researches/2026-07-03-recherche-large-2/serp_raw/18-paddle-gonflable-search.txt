@@ -1,0 +1,599 @@
+AXWindow|title=paddle gonflable - Recherche Google - Utilisation élevée de la mémoire - 1,1 Go - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=paddle gonflable - Recherche Google - Utilisation élevée de la mémoire - 1,1 Go - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=paddle%20gonflable&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=paddle gonflable - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=paddle gonflable
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXLink|title=|desc=Actualités|value=
+                                              AXStaticText|title=|desc=|value=Actualités
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez AliExpress|value=
+                                              AXLink|title=|desc= à chez AliExpress|value=
+                                              AXStaticText|title=|desc=|value=11 € DE REMISE
+                                            AXHeading|title=Planche de paddle gonflable Funwater 10'6"/ 11' avec accessoires, planche de surf gonflable légère|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Planche de paddle gonflable Funwater 10'6"/ 11' avec accessoires, planche de surf gonflable légère
+                                            AXStaticText|title=|desc=|value=132,69 €
+                                            AXStaticText|title=|desc=|value=144 €
+                                            AXGroup|title=|desc=Vendu par AliExpress|value=
+                                              AXStaticText|title=|desc=|value=AliExpress
+                                              AXStaticText|title=|desc=|value=Prix au règlement
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Nautigames|value=
+                                              AXLink|title=|desc= à chez Nautigames|value=
+                                            AXHeading|title=Paddle gonflable Airgliss Moon 11'0 – 335 cm – 84 cm – Tandem 170 kg – SUP Allround – Drop‐Stitch renforcé|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Paddle gonflable Airgliss Moon 11'0 – 335 cm – 84 cm – Tandem 170 kg – SUP Allround – Drop‐Stitch renforcé
+                                            AXStaticText|title=|desc=|value=199,00 €
+                                            AXGroup|title=|desc=Vendu par Nautigames|value=
+                                              AXStaticText|title=|desc=|value=Nautigames
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bestway fr|value=
+                                              AXLink|title=|desc= à chez Bestway fr|value=
+                                            AXHeading|title=Paddle gonflable Huaka'i Tech Set Hydro-Force 305 x 84 x 12 cm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Paddle gonflable Huaka'i Tech Set Hydro-Force 305 x 84 x 12 cm
+                                            AXStaticText|title=|desc=|value=349,95 €
+                                            AXGroup|title=|desc=Vendu par Bestway fr|value=
+                                              AXStaticText|title=|desc=|value=Bestway fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez INTEX|value=
+                                              AXLink|title=|desc= à chez INTEX|value=
+                                            AXHeading|title=Paddle Aqua Quest 320 | 1 personne | Loisirs nautiques | INTEX|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Paddle Aqua Quest 320 | 1 personne | Loisirs nautiques | INTEX
+                                            AXStaticText|title=|desc=|value=199,00 €
+                                            AXGroup|title=|desc=Vendu par INTEX|value=
+                                              AXStaticText|title=|desc=|value=INTEX
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez gong-galaxy.com|value=
+                                              AXLink|title=|desc= à chez gong-galaxy.com|value=
+                                            AXHeading|title=GONG Pack SUP Inflatable First Allround|desc=|value=3
+                                                AXStaticText|title=|desc=|value=GONG Pack SUP Inflatable First Allround
+                                            AXStaticText|title=|desc=|value=199,00 €
+                                            AXGroup|title=|desc=Vendu par gong-galaxy.com|value=
+                                              AXStaticText|title=|desc=|value=gong-galaxy.com
+                                              AXStaticText|title=|desc=|value=+ 10,60 € de frais de port
+                                              AXImage|title=|desc=Note : 4,3 sur 5 (14) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Euroskateshop.fr|value=
+                                              AXLink|title=|desc= à chez Euroskateshop.fr|value=
+                                            AXHeading|title=NKX Windsurf Gonflables SUP - Bleu foncé - 10'8 - Euroskateshop|desc=|value=3
+                                                AXStaticText|title=|desc=|value=NKX Windsurf Gonflables SUP - Bleu foncé - 10'8 - Euroskateshop
+                                            AXStaticText|title=|desc=|value=1 204,95 €
+                                            AXGroup|title=|desc=Vendu par Euroskateshop.fr|value=
+                                              AXStaticText|title=|desc=|value=Euroskateshop.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,7 sur 5 (118) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à chez eu.boteboard.com|value=
+                                              AXLink|title=|desc= à chez eu.boteboard.com|value=
+                                            AXHeading|title=Breeze Aero | Planche à pagaie gonflable | iSUP | BOTE 11'6" / Native Tides Floraison|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Breeze Aero | Planche à pagaie gonflable | iSUP | BOTE 11'6" / Native Tides Floraison
+                                            AXStaticText|title=|desc=|value=690,95 €
+                                            AXGroup|title=|desc=Vendu par eu.boteboard.com|value=
+                                              AXStaticText|title=|desc=|value=eu.boteboard.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (1k+) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez gong-galaxy.com|value=
+                                              AXLink|title=|desc= à chez gong-galaxy.com|value=
+                                            AXHeading|title=GONG SUP Inflatable I-SUP Cruising|desc=|value=3
+                                                AXStaticText|title=|desc=|value=GONG SUP Inflatable I-SUP Cruising
+                                            AXStaticText|title=|desc=|value=459,00 €
+                                            AXGroup|title=|desc=Vendu par gong-galaxy.com|value=
+                                              AXStaticText|title=|desc=|value=gong-galaxy.com
+                                              AXStaticText|title=|desc=|value=+ 10,25 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.6/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Prozon|value=
+                                              AXLink|title=|desc= à chez Prozon|value=
+                                            AXHeading|title=Kit paddle collectif 11' pour club nautique - SUP gonflable groupé|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Kit paddle collectif 11' pour club nautique - SUP gonflable groupé
+                                            AXStaticText|title=|desc=|value=239,99 €
+                                            AXGroup|title=|desc=Vendu par Prozon|value=
+                                              AXStaticText|title=|desc=|value=Prozon
+                                              AXStaticText|title=|desc=|value=+ 11,00 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.6/5
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez INTEX|value=
+                                              AXLink|title=|desc= à chez INTEX|value=
+                                            AXHeading|title=Paddle Aqua Quest 350T | 1 personne | Loisirs nautiques | INTEX|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Paddle Aqua Quest 350T | 1 personne | Loisirs nautiques | INTEX
+                                            AXStaticText|title=|desc=|value=299,00 €
+                                            AXGroup|title=|desc=Vendu par INTEX|value=
+                                              AXStaticText|title=|desc=|value=INTEX
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez AliExpress|value=
+                                              AXLink|title=|desc= à chez AliExpress|value=
+                                              AXStaticText|title=|desc=|value=11 € DE REMISE
+                                            AXHeading|title=Planche de paddle gonflable Funwater, planche de surf, planche de paddle stand-up, planche de surf|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Planche de paddle gonflable Funwater, planche de surf, planche de paddle stand-up, planche de surf
+                                            AXStaticText|title=|desc=|value=145,91 €
+                                            AXStaticText|title=|desc=|value=157 €
+                                            AXGroup|title=|desc=Vendu par AliExpress|value=
+                                              AXStaticText|title=|desc=|value=AliExpress
+                                              AXStaticText|title=|desc=|value=Prix au règlement
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez gong-galaxy.com|value=
+                                              AXLink|title=|desc= à chez gong-galaxy.com|value=
+                                            AXHeading|title=GONG SUP Inflatable I-SUP Hybrid|desc=|value=3
+                                                AXStaticText|title=|desc=|value=GONG SUP Inflatable I-SUP Hybrid
+                                            AXStaticText|title=|desc=|value=399,00 €
+                                            AXGroup|title=|desc=Vendu par gong-galaxy.com|value=
+                                              AXStaticText|title=|desc=|value=gong-galaxy.com
+                                              AXStaticText|title=|desc=|value=+ 10,25 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.6/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Nautigames|value=
+                                              AXLink|title=|desc= à chez Nautigames|value=
+                                            AXHeading|title=Aqua Marina Fusion 10.10 Pack Paddle Gonflable – SUP 330 cm + Pompe Électrique 12 V|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Aqua Marina Fusion 10.10 Pack Paddle Gonflable – SUP 330 cm + Pompe Électrique 12 V
+                                            AXStaticText|title=|desc=|value=229,00 €
+                                            AXGroup|title=|desc=Vendu par Nautigames|value=
+                                              AXStaticText|title=|desc=|value=Nautigames
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Nautigames|value=
+                                              AXLink|title=|desc= à chez Nautigames|value=
+                                            AXHeading|title=Paddle gonflable SUP Touring 350 cm WOW Vogue 11.6 – Planche Stand Up Paddle touring, grande stabilité (convient >90 kg)|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Paddle gonflable SUP Touring 350 cm WOW Vogue 11.6 – Planche Stand Up Paddle touring, grande stabilité (convient >90 kg)
+                                            AXStaticText|title=|desc=|value=229,00 €
+                                            AXGroup|title=|desc=Vendu par Nautigames|value=
+                                              AXStaticText|title=|desc=|value=Nautigames
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Channable|value=
+                                                AXStaticText|title=|desc=|value=Channable
+                                              AXLink|title=|desc=Producthero|value=
+                                                AXStaticText|title=|desc=|value=Producthero
+                                              AXLink|title=|desc=ondevi|value=
+                                                AXStaticText|title=|desc=|value=ondevi
+                                              AXLink|title=|desc=smec|value=
+                                                AXStaticText|title=|desc=|value=smec
+                                              AXLink|title=|desc=Klarna|value=
+                                                AXStaticText|title=|desc=|value=Klarna
+                                          AXButton|title=|desc=Vignette de l'image Paddle Gonflable|value=
+                                            AXHeading|title=Paddle Gonflable|desc=|value=2
+                                              AXStaticText|title=|desc=|value=Paddle Gonflable
+                                            AXButton|title=Gérer ce profil de marque|desc=|value=
+                                                  AXPopUpButton|title=Plus d'options pour Paddle Gonflable|desc=|value=
+                                                    AXImage|title=|desc=Plus d'options pour Paddle Gonflable|value=
+                                          AXGroup|title=|desc=Sélection de résultats|value=
+                                                            AXButton|title=Image de Paddle Gonflable|desc=|value=
+                                                                  AXImage|title=|desc=Image de Paddle Gonflable|value=
+                                                            AXButton|title=Image de Paddle Gonflable|desc=|value=
+                                                                  AXImage|title=|desc=Image de Paddle Gonflable|value=
+                                                              AXButton|title=Image de Comment choisir son stand up paddle gonflable ?|desc=|value=
+                                                                  AXImage|title=|desc=Image de Comment choisir son stand up paddle gonflable ?|value=
+                                                            AXLink|title=|desc=Plus d'images|value=
+                                                  AXStaticText|title=|desc=|value=Livraison gratuite
+                                                  AXStaticText|title=|desc=|value=.
+                                                  AXStaticText|title=|desc=|value=La plupart des achats
+                                                AXLink|title=|desc=www.paddlegonflable.fr|value=
+                                                    AXStaticText|title=|desc=|value=www.paddlegonflable.fr
+                                              AXHeading|title=Description|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Description
+                                                  AXStaticText|title=|desc=|value=Des centaines de stand up paddle gonflables au meilleur prix! Informations, tests et comparatifs des meilleurs SUP du marché
+                                                AXLink|title=|desc=Summarized from the website|value=
+                                                  AXStaticText|title=|desc=|value=Summarized from the website
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                        AXLink|title=|desc=Stand up paddle gonflables - SUP I Decathlon Decathlon https://www.decathlon.fr › tous-les-sports › stand-up-pa...|value=
+                                          AXHeading|title=Stand up paddle gonflables - SUP I Decathlon|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Stand up paddle gonflables - SUP I Decathlon
+                                            AXStaticText|title=|desc=|value=Decathlon
+                                              AXStaticText|title=|desc=|value=https://www.decathlon.fr
+                                              AXStaticText|title=|desc=|value= › tous-les-sports › stand-up-pa...
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Découvrez tous nos 
+                                            AXStaticText|title=|desc=|value=stand-up paddle gonflables de randonnée
+                                          AXStaticText|title=|desc=|value=, sup gonflable du débutant à expert. ✓Livraison, échange et retour gratuit en magasin…
+                                            AXStaticText|title=|desc=|value=5,99 € à 3 976,70 €
+                                            AXImage|title=|desc=Note : 4,4 sur 5 (4 864) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXStaticText|title=|desc=|value=Paris · Ouvert
+                                                            AXButton|title=|desc=Planche de stand-up paddle gonflable, planche de paddle gonflable pour adultes, planche de surf gonflable avec accessoires de paddle. Prix actuel : 60,00 €. Amazon. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Itiwit Pack stand up paddle gonflable 10'6. PROMOTION. Prix actuel : 194,99 €. Avant : 280 €. Plus de prix disponibles. Decathlon Pro et plus. Également à proximité. Note : 4,8 sur 5. 226 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Firefly Sup gonflable I 1.0 I 9'6'' Beige Bleu. Prix actuel : 179,99 €. Intersport. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit Stand-up paddle gonflable polyvalent avec fenêtre. PROMOTION. Prix actuel : 159,00 €. Avant : 175 €. Lidl.fr. Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Bestway Paddle SUP gonflable Hydro-Force Aqua Journey. PROMOTION. Prix actuel : 169,99 €. Avant : 189 €. Plus de prix disponibles. BUT Marketplace et plus. Également à proximité. Note : 4,6 sur 5. 114 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Decathlon Pack stand up paddle gonflable 9'6 1 personne 100 jaune. Prix actuel : 174,99 €. Plus de prix disponibles. Decathlon Pro et plus. Également à proximité. Note : 4,6 sur 5. 44 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit X F2 Stand up paddle polyvalent. Prix actuel : 179,00 €. Lidl.fr. Note : 3,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Planche de paddle gonflable avec accessoires vert Stand Up paddle Board jusqu'à 150 kg 305*76*10 cm pour adultes. Prix actuel : 101,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                              AXStaticText|title=|desc=|value=Adresse e-mail du service client
+                                              AXLink|title=|desc=contact@paddlegonflable.fr|value=
+                                                AXStaticText|title=|desc=|value=contact@paddlegonflable.fr
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Stand Up Paddle idealo|value=
+                                                AXHeading|title=Stand Up Paddle|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Stand Up Paddle
+                                                    AXStaticText|title=|desc=|value=idealo
+                                                AXLink|title=|desc=Stand Up Paddle Idealo|value=
+                                                AXHeading|title=Stand Up Paddle|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Stand Up Paddle
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Paddle gonflable avec siege – Trouvez le meilleur prix leDénicheur|value=
+                                                AXHeading|title=Paddle gonflable avec siege – Trouvez le meilleur prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Paddle gonflable avec siege – Trouvez le meilleur prix
+                                                    AXStaticText|title=|desc=|value=leDénicheur
+                                                AXLink|title=|desc=Paddle gonflable – Trouvez le meilleur prix leDénicheur|value=
+                                                AXHeading|title=Paddle gonflable – Trouvez le meilleur prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Paddle gonflable – Trouvez le meilleur prix
+                                                    AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Paddle gonflable en soldes Prix.net|value=
+                                                  AXHeading|title=Paddle gonflable en soldes|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Paddle gonflable en soldes
+                                                      AXStaticText|title=|desc=|value=Prix.net
+                                                  AXLink|title=|desc=Stand up paddle board gonflable – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Stand up paddle board gonflable – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Stand up paddle board gonflable – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Top paddle-gonflable en 2026 Meilleurs.fr|value=
+                                                  AXHeading|title=Top paddle-gonflable en 2026|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Top paddle-gonflable en 2026
+                                                      AXStaticText|title=|desc=|value=Meilleurs.fr
+                                                  AXLink|title=|desc=Paddle gonflable soldes Prix.net|value=
+                                                  AXHeading|title=Paddle gonflable soldes|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Paddle gonflable soldes
+                                                      AXStaticText|title=|desc=|value=Prix.net
+                                                  AXLink|title=|desc=Sup gonflable - Stand up Paddle - Comparer les prix Cherchons.com|value=
+                                                  AXHeading|title=Sup gonflable - Stand up Paddle - Comparer les prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Sup gonflable - Stand up Paddle - Comparer les prix
+                                                      AXStaticText|title=|desc=|value=Cherchons.com
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Quel est le meilleur paddle gonflable ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le meilleur paddle gonflable ?
+                                              AXButton|title=Quels sont les conseils pour choisir un paddle gonflable ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quels sont les conseils pour choisir un paddle gonflable ?
+                                              AXButton|title=Quel est le prix d'un paddle gonflable ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le prix d'un paddle gonflable ?
+                                              AXButton|title=Quelle est la durée de vie d'un paddle gonflable ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelle est la durée de vie d'un paddle gonflable ?
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                        AXLink|title=|desc=Acheter des paddle gonflable en ligne avec livraison 2- ... HUIIKE https://huiike.com › HUIIKE › Collections|value=
+                                          AXHeading|title=Acheter des paddle gonflable en ligne avec livraison 2- ...|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Acheter des paddle gonflable en ligne avec livraison 2- ...
+                                            AXStaticText|title=|desc=|value=HUIIKE
+                                              AXStaticText|title=|desc=|value=https://huiike.com
+                                              AXStaticText|title=|desc=|value= › HUIIKE › Collections
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Son siège ergonomique, réglable et rembourré, 
+                                            AXStaticText|title=|desc=|value=transforme le paddle gonflable en kayak en quelques secondes
+                                          AXStaticText|title=|desc=|value=, offrant une position détendue et un contrôle optimal ...
+                                          AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                          AXHeading|title=Résultat sponsorisé|desc=|value=2
+                                            AXStaticText|title=|desc=|value=Résultat sponsorisé
+                                              AXLink|title=|desc=N°1 En France - N°1 Des Paddels Gonflable - Univmer univmer.com https://www.univmer.com|value=
+                                                AXHeading|title=N°1 En France - N°1 Des Paddels Gonflable - Univmer|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=N°1 En France - N°1 Des Paddels Gonflable - Univmer
+                                                    AXStaticText|title=|desc=|value=univmer.com
+                                                  AXStaticText|title=|desc=|value=https://www.univmer.com
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                              AXStaticText|title=|desc=|value=Le Paddles 
+                                                AXStaticText|title=|desc=|value=Gonflable
+                                              AXStaticText|title=|desc=|value= Ultime pour tout vos Aventure, Livraison Dans Tous La France
+                                      AXButton|title=Masquer le résultat sponsorisé|desc=|value=
+                                          AXStaticText|title=|desc=|value=Masquer le résultat sponsorisé
+                                        AXLink|title=|desc=PADDLE GONFLABLE: Le meilleur site pour choisir son SUP ... paddlegonflable.fr https://www.paddlegonflable.fr|value=
+                                          AXHeading|title=PADDLE GONFLABLE: Le meilleur site pour choisir son SUP ...|desc=|value=3
+                                            AXStaticText|title=|desc=|value=PADDLE GONFLABLE: Le meilleur site pour choisir son SUP ...
+                                            AXStaticText|title=|desc=|value=paddlegonflable.fr
+                                              AXStaticText|title=|desc=|value=https://www.paddlegonflable.fr
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Des centaines de stand up paddle gonflables au meilleur prix
+                                          AXStaticText|title=|desc=|value=! Informations, tests et comparatifs des meilleurs SUP du marché.
+                                          AXStaticText|title=|desc=|value=Livraison gratuite
+                                                            AXButton|title=|desc=F2 Stand-up paddle gonflable polyvalent. Prix actuel : 169,00 €. Lidl.fr. Note : 2,5 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=ALLPICK Paddle Gonflable, Kit de Padelsurf de Stand Up Paddle Sup Gonflable de 320 cm, avec Support Universel pour Caméra, Pagaie réglable, Débutants. PROMOTION. Prix actuel : 239,99 €. Avant : 270 €. Amazon.fr - Seller. Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kangui Stand up paddle gonflable SUP avec siège kayak. Prix actuel : 179,00 €. Plus de prix disponibles. Kangui et plus. Note : 4,8 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=TecTake Planche de stand-up paddle 2 en 1 Gonflable Kit Complet. Prix actuel : 189,90 €. Plus de prix disponibles. Darty et plus. Note : 4,6 sur 5. 166 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit Stand up paddle gonflable Touring. Prix actuel : 159,00 €. Lidl.fr. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Niphean Extra Large Paddle Gonflable, Sup à 2+1 Personnes/Famille, Planches de Stand Up Paddle Gonflables avec (Idéal Débutant) Aileron Équilibré,. PROMOTION. Prix actuel : 279,99 €. Avant : 310 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=THUNDER Planche de SUP gonflable avec accessoires THUNDER MOTH 320cm. Prix actuel : 219,99 €. Plus de prix disponibles. Castorama et plus. Note : 4,8 sur 5. 98 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=VEVOR Paddle gonflable 323 cm sup. Prix actuel : 151,90 €. Leguide. Note : 4,7 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                        AXLink|title=|desc=Stand Up Paddle gonflable - Sup gonflable - balade, surf, race redwoodpaddle.com https://redwoodpaddle.com › Accueil › Stand Up Paddle|value=
+                                          AXHeading|title=Stand Up Paddle gonflable - Sup gonflable - balade, surf, race|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Stand Up Paddle gonflable - Sup gonflable - balade, surf, race
+                                            AXStaticText|title=|desc=|value=redwoodpaddle.com
+                                              AXStaticText|title=|desc=|value=https://redwoodpaddle.com
+                                              AXStaticText|title=|desc=|value= › Accueil › Stand Up Paddle
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Retrouvez la gamme de SUP gonflables de Redwood Paddle. Nos Stand Up 
+                                            AXStaticText|title=|desc=|value=Paddle gonflables
+                                          AXStaticText|title=|desc=|value= pour tous les niveaux et toutes les pratiques, surf, balade, race.
+                                                            AXButton|title=|desc=F2 Stand up paddle gonflable Exotic. PROMOTION. Prix actuel : 189,00 €. Avant : 199 €. Lidl.fr. Note : 4,8 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=FIREFLY Stand up paddle gonflable ISUP 300 III. Prix actuel : 279,99 €. Intersport. En magasin. Note : 4,5 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panana Stand Up Paddle Gonflable Planche de Sup avec Accessoires, Kit de Surf, Pagaie Réglable, Ultra-Légère, Pont Antidérapant pour Adultes et Jeunes. Prix actuel : 149,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit Stand up paddle de randonnée gonflable. Prix actuel : 179,00 €. Lidl.fr. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Sup Paddle Gonflable Aztron Urono 3.0 Touring 11.6 OCCASION GRADE C. PRIX EN BAISSE. Prix actuel : 169,99 €. Occasion.Nootica.fr. Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=John Aufblasbares Stand-Up-Paddel-Board Marvel. PROMOTION. Prix actuel : 180,39 €. Avant : 190 €. OOGarden.com. En magasin. Note : 4,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Crivit X F2 Stand up paddle gonflable à double chambre. Prix actuel : 189,00 €. Lidl.fr. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=WATTSUP - Pack SUP gonflable WATTSUP Bream 10'6 avec siège - set de stand up paddle - stand up paddle - - Sans taille. - - Decathlon. Prix actuel : 249,99 €. Decathlon.fr. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                        AXLink|title=|desc=Comment choisir un paddle gonflable? Nootica https://www.nootica.fr › Nootica Webzine|value=
+                                          AXHeading|title=Comment choisir un paddle gonflable?|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Comment choisir un paddle gonflable?
+                                            AXStaticText|title=|desc=|value=Nootica
+                                              AXStaticText|title=|desc=|value=https://www.nootica.fr
+                                              AXStaticText|title=|desc=|value= › Nootica Webzine
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=La largeur : le critère clé pour débuter · m
+                                            AXStaticText|title=|desc=|value=oins
+                                          AXStaticText|title=|desc=|value= de 28 pouces : instable, réservé aux pratiquants experts · moins de 29 à 31 pouces : plutôt instable réservé ...
+                                        AXLink|title=|desc=Stand Up Paddle - Gonflable 2026 en soldes sur idealo.fr idealo https://www.idealo.fr › cat › stand-up-paddle|value=
+                                          AXHeading|title=Stand Up Paddle - Gonflable 2026 en soldes sur idealo.fr|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Stand Up Paddle - Gonflable 2026 en soldes sur idealo.fr
+                                            AXStaticText|title=|desc=|value=idealo
+                                              AXStaticText|title=|desc=|value=https://www.idealo.fr
+                                              AXStaticText|title=|desc=|value= › cat › stand-up-paddle
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Une construction en PVC doublée, plus onéreuse, assure une bonne rigidité et une meilleure résistance à l'usure. Le dropstitch (les filaments composant la ...
+                                        AXLink|title=|desc=Paddle Gonflable - Nautigames.com Nautigames https://www.nautigames.com › Stand Up Paddle|value=
+                                          AXHeading|title=Paddle Gonflable - Nautigames.com|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Paddle Gonflable - Nautigames.com
+                                            AXStaticText|title=|desc=|value=Nautigames
+                                              AXStaticText|title=|desc=|value=https://www.nautigames.com
+                                              AXStaticText|title=|desc=|value= › Stand Up Paddle
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Tout l'univers du stand up paddle gonflable pas cher, en vente sur stock
+                                          AXStaticText|title=|desc=|value= ! Très large choix de paddles gonflables et de marques. Livraison rapide.
+                                            AXStaticText|title=|desc=|value=159,00 € à 899,99 €
+                                            AXImage|title=|desc=Note : 4,8 sur 5 (570) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                        AXLink|title=|desc=Annonces paddle gonflable d'occasion - Sport & Plein air Leboncoin https://www.leboncoin.fr › ... › "paddle gonflable"|value=
+                                          AXHeading|title=Annonces paddle gonflable d'occasion - Sport & Plein air|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Annonces paddle gonflable d'occasion - Sport & Plein air
+                                            AXStaticText|title=|desc=|value=Leboncoin
+                                              AXStaticText|title=|desc=|value=https://www.leboncoin.fr
+                                              AXStaticText|title=|desc=|value= › ... › "paddle gonflable"
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Prix: 115 €. dès 115,99 €
+                                          AXStaticText|title=|desc=|value=. · Inclus. Très bon état. Livraison possible. Saint-Maur-des-Fossés 94100. Située à Saint-Maur ...
+                                        AXLink|title=|desc=Comment choisir son paddle gonflable ? Decathlon https://www.decathlon.fr › htc › comment-choisir-son-p...|value=
+                                          AXHeading|title=Comment choisir son paddle gonflable ?|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Comment choisir son paddle gonflable ?
+                                            AXStaticText|title=|desc=|value=Decathlon
+                                              AXStaticText|title=|desc=|value=https://www.decathlon.fr
+                                              AXStaticText|title=|desc=|value= › htc › comment-choisir-son-p...
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Pour les riders légers, 
+                                            AXStaticText|title=|desc=|value=un modèle épais de 10 cm sera suffisant
+                                          AXStaticText|title=|desc=|value=. En revanche, pour les riders dont le poids est supérieur 85 kg, il sera conseillé d'opter pour ...
+                                        AXLink|title=|desc=Stand up Paddle gonflable SUP-Factory.fr https://www.sup-factory.fr › Stand up paddle|value=
+                                          AXHeading|title=Stand up Paddle gonflable|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Stand up Paddle gonflable
+                                            AXStaticText|title=|desc=|value=SUP-Factory.fr
+                                              AXStaticText|title=|desc=|value=https://www.sup-factory.fr
+                                              AXStaticText|title=|desc=|value= › Stand up paddle
+                                            AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Stand up paddle SUP gonflables proposés par les meilleures marques
+                                          AXStaticText|title=|desc=|value= 2019 (Aquamarina, Fanatic, Skiffo, Wattsup). LIVRAISON OFFERTE, CHEZ VOUS EN 48H, ...
+                                          AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Paddle gonflable Decathlon|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=Decathlon
+                                      AXLink|title=|desc=Paddle gonflable 2 personnes|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=2 personnes
+                                      AXLink|title=|desc=Paddle gonflable pas cher|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=pas cher
+                                      AXLink|title=|desc=Paddle gonflable Lidl|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=Lidl
+                                      AXLink|title=|desc=Paddle gonflable INTERSPORT|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=INTERSPORT
+                                      AXLink|title=|desc=Paddle gonflable intex|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=intex
+                                      AXLink|title=|desc=Paddle gonflable Action|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=Action
+                                      AXLink|title=|desc=Paddle gonflable GiFi|value=
+                                        AXStaticText|title=|desc=|value=Paddle gonflable 
+                                        AXStaticText|title=|desc=|value=GiFi
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                          AXGroup|title=Résultats complémentaires|desc=|value=
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=10
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=10
+                                      AXStaticText|title=|desc=|value=24
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                            AXHeading|title=Résultats complémentaires|desc=|value=2
+                              AXStaticText|title=|desc=|value=Résultats complémentaires
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=paddle gonflable - Recherche Google - Utilisation élevée de la mémoire - 1,1 Go|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

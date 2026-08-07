@@ -1,0 +1,839 @@
+AXWindow|title=trottinette électrique adulte - Google Shopping - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=trottinette électrique adulte - Google Shopping - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=trottinette%20électrique%20adulte&hl=fr&gl=fr&pws=0&udm=28
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=trottinette électrique adulte - Google Shopping|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Désactiver le défilement continu|value=
+                        AXStaticText|title=|desc=|value=Désactiver le défilement continu
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=trottinette électrique adulte
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                  AXLink|title=|desc=Tous|value=
+                                    AXStaticText|title=|desc=|value=Tous
+                                  AXLink|title=|desc=Shopping|value=
+                                      AXStaticText|title=|desc=|value=Shopping
+                                  AXLink|title=|desc=Images|value=
+                                    AXStaticText|title=|desc=|value=Images
+                                  AXLink|title=|desc=Vidéos|value=
+                                    AXStaticText|title=|desc=|value=Vidéos
+                                  AXLink|title=|desc=Actualités|value=
+                                    AXStaticText|title=|desc=|value=Actualités
+                                  AXLink|title=|desc=Vidéos courtes|value=
+                                    AXStaticText|title=|desc=|value=Vidéos courtes
+                                  AXLink|title=|desc=Web|value=
+                                    AXStaticText|title=|desc=|value=Web
+                                  AXButton|title=Plus de filtres|desc=|value=
+                                    AXGroup|title=|desc=Plus de filtres|value=
+                                      AXStaticText|title=|desc=|value=Plus
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=Affiner les résultats|desc=|value=2
+                                AXStaticText|title=|desc=|value=Affiner les résultats
+                                        AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Nouveau
+                                        AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Occasion
+                                        AXButton|title=Trier par|desc=|value=
+                                              AXStaticText|title=|desc=|value=Trier par
+                                              AXLink|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                AXGroup|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pertinence
+                                              AXLink|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre croissant
+                                              AXLink|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre décroissant
+                                              AXLink|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Note : ordre décroissant
+                                        AXButton|title=Prix|desc=|value=
+                                              AXStaticText|title=|desc=|value=Prix
+                                              AXLink|title=|desc=Filtre Moins de 700 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Moins de 700 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Moins de 700 €
+                                              AXLink|title=|desc=Filtre Plus de 700 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 700 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 700 €
+                                                  AXTextField|title=|desc=Prix minimal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Min.
+                                                  AXTextField|title=|desc=Prix maximal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Max.
+                                              AXButton|title=OK|desc=|value=
+                                        AXButton|title=Note du produit|desc=|value=
+                                              AXStaticText|title=|desc=|value=Note du produit
+                                              AXLink|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                  AXImage|title=|desc=Note : 4,0 sur 5|value=
+                                                  AXStaticText|title=|desc=|value= 
+                                                  AXStaticText|title=|desc=|value=4 et plus
+                                        AXButton|title=Catégorie|desc=|value=
+                                              AXStaticText|title=|desc=|value=Catégorie
+                                              AXLink|title=|desc=Filtre Trottinettes. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Trottinettes. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Trottinettes
+                                              AXLink|title=|desc=Filtre Vélos. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Vélos. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Vélos
+                                              AXLink|title=|desc=Filtre Scooters pour personnes à .... Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Scooters pour personnes à .... Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Scooters pour personnes à ...
+                                        AXButton|title=Marque|desc=|value=
+                                              AXStaticText|title=|desc=|value=Marque
+                                              AXLink|title=|desc=Filtre Segway-Ninebot. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Segway-Ninebot. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Segway-Ninebot
+                                              AXLink|title=|desc=Filtre Urbanglide. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Urbanglide. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Urbanglide
+                                              AXLink|title=|desc=Filtre iScooter. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre iScooter. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=iScooter
+                                              AXLink|title=|desc=Filtre Kukirin. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Kukirin. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Kukirin
+                                          AXButton|title=Voir 26 autre(s)|desc=|value=
+                                        AXButton|title=Magasins|desc=|value=
+                                              AXStaticText|title=|desc=|value=Magasins
+                                              AXLink|title=|desc=Filtre Darty. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Darty. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Darty
+                                              AXLink|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Cdiscount
+                                              AXLink|title=|desc=Filtre Fnac. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Fnac. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Fnac
+                                              AXLink|title=|desc=Filtre Carrefour. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Carrefour. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Carrefour
+                                          AXButton|title=Voir 22 autre(s)|desc=|value=
+                          AXGroup|title=|desc=Filtre|value=
+                                    AXCheckBox|title=|desc=Tous les filtres.|value=1
+                                      AXLink|title=|desc=Filtre Moins de 700 €. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Moins de 700 €
+                                      AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Nouveau
+                                      AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Occasion
+                                      AXLink|title=|desc=Filtre Pro. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Pro
+                                      AXLink|title=|desc=Filtre Trottinettes. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Trottinettes
+                                      AXLink|title=|desc=Filtre Pour enfant. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Pour enfant
+                                      AXLink|title=|desc=Filtre Vélos. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Vélos
+                                AXGroup|title=|desc=Annonces|value=
+                                              AXHeading|title=Produits sponsorisés|desc=|value=2
+                                                  AXStaticText|title=|desc=|value=Produits sponsorisés
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                    AXHeading|title=2400W Trottinette électrique tout terrain, autonomie 80 km, 4 modes de vitesse jusqu’à 70 km/h, écran intelligent, GT4 trottinette électrique adulte|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=2400W Trottinette électrique tout terrain, autonomie 80 km, 4 modes de vitesse jusqu’à 70 km/h, écran intelligent, GT4 trottinette électrique adulte
+                                                    AXStaticText|title=|desc=|value=898,99 €
+                                                    AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                      AXStaticText|title=|desc=|value=isinwheel.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                    AXHeading|title=Hauteur réglable trottinette électrique pour enfants et adolescents ,haut-parleur Bluetooth-Lumière arc-en-ciel LED-Affichage LED, Livraison 1-3 Jours|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Hauteur réglable trottinette électrique pour enfants et adolescents ,haut-parleur Bluetooth-Lumière arc-en-ciel LED-Affichage LED, Livraison 1-3 Jours
+                                                    AXStaticText|title=|desc=|value=168,99 €
+                                                    AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                      AXStaticText|title=|desc=|value=isinwheel.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 5,0 sur 5 (24) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Weebot|value=
+                                                      AXLink|title=|desc= à chez Weebot|value=
+                                                    AXHeading|title=Trottinette Électrique Dualtron Togo, 36V 7.8Ah|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Électrique Dualtron Togo, 36V 7.8Ah
+                                                    AXStaticText|title=|desc=|value=449,00 €
+                                                    AXGroup|title=|desc=Vendu par Weebot|value=
+                                                      AXStaticText|title=|desc=|value=Weebot
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 5,0 sur 5 (58) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                    AXHeading|title=1000W 60KM Trottinette Électrique Tout Terrain, 4 Vitesses Réglables, Pente 30%, Double Suspension, Design Étanche, Certifiée CE, Livraison 2-3 Jours|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=1000W 60KM Trottinette Électrique Tout Terrain, 4 Vitesses Réglables, Pente 30%, Double Suspension, Design Étanche, Certifiée CE, Livraison 2-3 Jours
+                                                    AXStaticText|title=|desc=|value=398,99 €
+                                                    AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                      AXStaticText|title=|desc=|value=isinwheel.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,9 sur 5 (311) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez ihoverboard.fr|value=
+                                                      AXLink|title=|desc= à chez ihoverboard.fr|value=
+                                                    AXHeading|title=iScooter 1200W Trottinette Électrique 45km/h Tout-Terrains, Autonomie 60km, NFC Sécurisé, Suspensions Ultra-Confort, Pliable|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=iScooter 1200W Trottinette Électrique 45km/h Tout-Terrains, Autonomie 60km, NFC Sécurisé, Suspensions Ultra-Confort, Pliable
+                                                    AXStaticText|title=|desc=|value=399,99 €
+                                                    AXGroup|title=|desc=Vendu par ihoverboard.fr|value=
+                                                      AXStaticText|title=|desc=|value=ihoverboard.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,8 sur 5 (167) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Darty|value=
+                                                      AXLink|title=|desc= à chez Darty|value=
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                    AXHeading|title=Segway ZT3 pro e Trottinette électrique|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Segway ZT3 pro e Trottinette électrique
+                                                    AXStaticText|title=|desc=|value=679,99 €
+                                                    AXGroup|title=|desc=Vendu par Darty|value=
+                                                      AXStaticText|title=|desc=|value=Darty
+                                                      AXImage|title=|desc=Note : 4,6 sur 5 (288) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Giftcampaign.fr|value=
+                                                      AXLink|title=|desc= à chez Giftcampaign.fr|value=
+                                                    AXHeading|title=100 Trottinette électrique pliable avec suspension avant et double frein|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=100 Trottinette électrique pliable avec suspension avant et double frein
+                                                    AXStaticText|title=|desc=|value=44 126,40 €
+                                                    AXGroup|title=|desc=Vendu par Giftcampaign.fr|value=
+                                                      AXStaticText|title=|desc=|value=Giftcampaign.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                    AXHeading|title=GT2 1200W Trottinette Électrique, 60km Autonomie, 4 Vitesses Réglables, Pente 35%, Double Suspension, Pneus 11" Tout-Terrain, Design Étanche, NFC|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=GT2 1200W Trottinette Électrique, 60km Autonomie, 4 Vitesses Réglables, Pente 35%, Double Suspension, Pneus 11" Tout-Terrain, Design Étanche, NFC
+                                                    AXStaticText|title=|desc=|value=398,99 €
+                                                    AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                      AXStaticText|title=|desc=|value=isinwheel.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,9 sur 5 (669) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Weebot|value=
+                                                      AXLink|title=|desc= à chez Weebot|value=
+                                                    AXHeading|title=Trottinette Électrique Dualtron Forever|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Électrique Dualtron Forever
+                                                    AXStaticText|title=|desc=|value=1 090,00 €
+                                                    AXGroup|title=|desc=Vendu par Weebot|value=
+                                                      AXStaticText|title=|desc=|value=Weebot
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 5,0 sur 5 (14) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Banggood.com|value=
+                                                      AXLink|title=|desc= à chez Banggood.com|value=
+                                                    AXHeading|title=ANGWATT [EU DIRECT] ANGWATT T1 3.0 Trottinette Électrique 60V 6000W (2*3000W) Trottinette Électrique Tout Terrrain à Double Moteur de 11 pouces Amorti|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=ANGWATT [EU DIRECT] ANGWATT T1 3.0 Trottinette Électrique 60V 6000W (2*3000W) Trottinette Électrique Tout Terrrain à Double Moteur de 11 pouces Amorti
+                                                    AXStaticText|title=|desc=|value=1 099,00 €
+                                                    AXGroup|title=|desc=Vendu par Banggood.com|value=
+                                                      AXStaticText|title=|desc=|value=Banggood.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                    AXHeading|title=1000W Trottinette Électrique Tout-terrain, 60km d'Autonomie, 4 Vitesses, Pente 30%, Double Suspension, Double Freins, Design Étanche, Livré en 1-3J|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=1000W Trottinette Électrique Tout-terrain, 60km d'Autonomie, 4 Vitesses, Pente 30%, Double Suspension, Double Freins, Design Étanche, Livré en 1-3J
+                                                    AXStaticText|title=|desc=|value=398,99 €
+                                                    AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                      AXStaticText|title=|desc=|value=isinwheel.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,9 sur 5 (309) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 330 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 330 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                    AXHeading|title=Ninebot E2 pro e powered by segway Trottinette électrique|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Ninebot E2 pro e powered by segway Trottinette électrique
+                                                    AXStaticText|title=|desc=|value=279,99 €
+                                                    AXStaticText|title=|desc=|value=330 €
+                                                    AXGroup|title=|desc=Vendu par Darty|value=
+                                                      AXStaticText|title=|desc=|value=Darty
+                                                    AXStaticText|title=|desc=|value=Retrait : 07/07
+                                                      AXImage|title=|desc=Note : 4,5 sur 5 (691) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Trottinette électrique adulte TODIMART antivol ultra-légère, autonomie de 30 km, trottinette|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette électrique adulte TODIMART antivol ultra-légère, autonomie de 30 km, trottinette
+                                                    AXStaticText|title=|desc=|value=146,16 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=135 € lors du règlement
+                                                    AXLink|title=|desc= à chez Viron Motors France|value=
+                                                      AXLink|title=|desc= à chez Viron Motors France|value=
+                                                    AXHeading|title=Trottinette Électrique Grandes Roues Cross XI-1500 Homologuée Route avec carte grise|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Électrique Grandes Roues Cross XI-1500 Homologuée Route avec carte grise
+                                                    AXStaticText|title=|desc=|value=1 234,99 €
+                                                    AXGroup|title=|desc=Vendu par Viron Motors France|value=
+                                                      AXStaticText|title=|desc=|value=Viron Motors France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez navee fr|value=
+                                                      AXLink|title=|desc= à chez navee fr|value=
+                                                      AXStaticText|title=|desc=|value=15 % DE REMISE
+                                                    AXHeading|title=NAVEE XT5 Pro|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=NAVEE XT5 Pro
+                                                    AXStaticText|title=|desc=|value=749,00 €
+                                                    AXGroup|title=|desc=Vendu par navee fr|value=
+                                                      AXStaticText|title=|desc=|value=navee fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=637 € après application du code
+                                                    AXLink|title=|desc= à chez Weebot|value=
+                                                      AXLink|title=|desc= à chez Weebot|value=
+                                                    AXHeading|title=Trottinette Électrique Dualtron Thunder 3|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Électrique Dualtron Thunder 3
+                                                    AXStaticText|title=|desc=|value=2 890,00 €
+                                                    AXGroup|title=|desc=Vendu par Weebot|value=
+                                                      AXStaticText|title=|desc=|value=Weebot
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,9 sur 5 (24) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXHeading|title=iSinwheel S9Pro Trottinette électrique Vitesse 25km/h avec contrôle APP pour adultes isinwheel Livraison 2-3 jours|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=iSinwheel S9Pro Trottinette électrique Vitesse 25km/h avec contrôle APP pour adultes isinwheel Livraison 2-3 jours
+                                                      AXStaticText|title=|desc=|value=238,99 €
+                                                      AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                        AXStaticText|title=|desc=|value=isinwheel.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,6 sur 5 (565) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 310 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 310 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Xiaomi Electric scooter 4 lite 2nd generation noir Trottinette électrique|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Xiaomi Electric scooter 4 lite 2nd generation noir Trottinette électrique
+                                                      AXStaticText|title=|desc=|value=249,99 €
+                                                      AXStaticText|title=|desc=|value=310 €
+                                                      AXGroup|title=|desc=Vendu par Darty|value=
+                                                        AXStaticText|title=|desc=|value=Darty
+                                                        AXImage|title=|desc=Note : 4,0 sur 5 (101) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 450 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 450 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Segway Ninebot E3 pro e Trottinette électrique|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Segway Ninebot E3 pro e Trottinette électrique
+                                                      AXStaticText|title=|desc=|value=379,99 €
+                                                      AXStaticText|title=|desc=|value=450 €
+                                                      AXGroup|title=|desc=Vendu par Darty|value=
+                                                        AXStaticText|title=|desc=|value=Darty
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (54) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXHeading|title=1200W Trottinette électrique tout-terrain 28MPH Pneus 11" (Livraison en 2-3 jours), GT2 Avec Suspension avant et arrière|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=1200W Trottinette électrique tout-terrain 28MPH Pneus 11" (Livraison en 2-3 jours), GT2 Avec Suspension avant et arrière
+                                                      AXStaticText|title=|desc=|value=558,99 €
+                                                      AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                        AXStaticText|title=|desc=|value=isinwheel.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,9 sur 5 (670) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 900 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 900 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Navee XT5 pro 700 w noir Trottinette électrique|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Navee XT5 pro 700 w noir Trottinette électrique
+                                                      AXStaticText|title=|desc=|value=749,99 €
+                                                      AXStaticText|title=|desc=|value=900 €
+                                                      AXGroup|title=|desc=Vendu par Darty|value=
+                                                        AXStaticText|title=|desc=|value=Darty
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (10) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Amazon.fr|value=
+                                                      AXLink|title=|desc= à chez Amazon.fr|value=
+                                                    AXHeading|title=Trottinette Électrique Adulte 800W - 10" Tout Terrain Trotinette Electrique Pliable Autonomie 35-40KM,Batterie 48V 15Ah Escooter Double Suspension|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Électrique Adulte 800W - 10" Tout Terrain Trotinette Electrique Pliable Autonomie 35-40KM,Batterie 48V 15Ah Escooter Double Suspension
+                                                    AXStaticText|title=|desc=|value=299,99 €
+                                                    AXGroup|title=|desc=Vendu par Amazon.fr|value=
+                                                      AXStaticText|title=|desc=|value=Amazon.fr
+                                                      AXStaticText|title=|desc=|value=+ 89,99 € de frais de port
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Trottinette Électrique Pliable Adulte TODIMART 8,5 Pouces 350W Pic 500W Batterie 36V Autonomie 30km|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Électrique Pliable Adulte TODIMART 8,5 Pouces 350W Pic 500W Batterie 36V Autonomie 30km
+                                                    AXStaticText|title=|desc=|value=161,67 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=151 € lors du règlement
+                                                    AXLink|title=|desc= à (auparavant 460 € chez iScooter)|value=
+                                                      AXLink|title=|desc= à (auparavant 460 € chez iScooter)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=iScooter 1200w 45km/h Trottinette électrique tout-terrain, 60km Autonomie, pneus 11'' pour adultes, iscooter|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=iScooter 1200w 45km/h Trottinette électrique tout-terrain, 60km Autonomie, pneus 11'' pour adultes, iscooter
+                                                    AXStaticText|title=|desc=|value=399,99 €
+                                                    AXStaticText|title=|desc=|value=460 €
+                                                    AXGroup|title=|desc=Vendu par iScooter|value=
+                                                      AXStaticText|title=|desc=|value=iScooter
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 300 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 300 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Ninebot E2 plus ii e Trottinette électrique|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Ninebot E2 plus ii e Trottinette électrique
+                                                      AXStaticText|title=|desc=|value=249,99 €
+                                                      AXStaticText|title=|desc=|value=300 €
+                                                      AXGroup|title=|desc=Vendu par Darty|value=
+                                                        AXStaticText|title=|desc=|value=Darty
+                                                      AXStaticText|title=|desc=|value=Retrait demain
+                                                        AXImage|title=|desc=Note : 3,8 sur 5 (104) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Banggood.com|value=
+                                                      AXLink|title=|desc= à chez Banggood.com|value=
+                                                    AXHeading|title=ANGWATT [EU DIRECT] ANGWATT T1 MAX Trottinette Électrique 72V 31.2Ah 10000W (2*5000W) Moteurs Doubles Pneus Tubeless de 13 pouces Trottinette Électriq|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=ANGWATT [EU DIRECT] ANGWATT T1 MAX Trottinette Électrique 72V 31.2Ah 10000W (2*5000W) Moteurs Doubles Pneus Tubeless de 13 pouces Trottinette Électriq
+                                                    AXStaticText|title=|desc=|value=1 599,00 €
+                                                    AXGroup|title=|desc=Vendu par Banggood.com|value=
+                                                      AXStaticText|title=|desc=|value=Banggood.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez ihoverboard.fr|value=
+                                                      AXLink|title=|desc= à chez ihoverboard.fr|value=
+                                                    AXHeading|title=iScooter iX7Pro Double-Moteur Trottinette Électrique Tout-Terrain 2000W | Vitesse 60 km/h, Autonomie 80km|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=iScooter iX7Pro Double-Moteur Trottinette Électrique Tout-Terrain 2000W | Vitesse 60 km/h, Autonomie 80km
+                                                    AXStaticText|title=|desc=|value=899,99 €
+                                                    AXGroup|title=|desc=Vendu par ihoverboard.fr|value=
+                                                      AXStaticText|title=|desc=|value=ihoverboard.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Trottinette électrique SUNNIGOO pour adultes avec verrouillage NFC, moteur puissant 48V 800W, siège|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette électrique SUNNIGOO pour adultes avec verrouillage NFC, moteur puissant 48V 800W, siège
+                                                    AXStaticText|title=|desc=|value=307,31 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=296 € lors du règlement
+                                                    AXLink|title=|desc= à (auparavant 400 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 400 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Pure Electric Air5 350 w noir Trottinette électrique|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pure Electric Air5 350 w noir Trottinette électrique
+                                                      AXStaticText|title=|desc=|value=299,99 €
+                                                      AXStaticText|title=|desc=|value=400 €
+                                                      AXGroup|title=|desc=Vendu par Darty|value=
+                                                        AXStaticText|title=|desc=|value=Darty
+                                                      AXStaticText|title=|desc=|value=Retrait demain
+                                                        AXImage|title=|desc=Note : 4,3 sur 5 (3) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 500 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 500 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                    AXHeading|title=Wispeed Wispeed suvpilot 150R black Trottinette électrique|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Wispeed Wispeed suvpilot 150R black Trottinette électrique
+                                                    AXStaticText|title=|desc=|value=449,99 €
+                                                    AXStaticText|title=|desc=|value=500 €
+                                                    AXGroup|title=|desc=Vendu par Darty|value=
+                                                      AXStaticText|title=|desc=|value=Darty
+                                                    AXStaticText|title=|desc=|value=Retrait : 07/07
+                                                      AXStaticText|title=|desc=|value=5,1 km · Ouvert
+                                                    AXLink|title=|desc= à chez Darty|value=
+                                                      AXLink|title=|desc= à chez Darty|value=
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                    AXHeading|title=Rovoron R7 1800 w noir Trottinette électrique|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Rovoron R7 1800 w noir Trottinette électrique
+                                                    AXStaticText|title=|desc=|value=999,99 €
+                                                    AXGroup|title=|desc=Vendu par Darty|value=
+                                                      AXStaticText|title=|desc=|value=Darty
+                                                    AXStaticText|title=|desc=|value=Retrait : 07/07
+                                                      AXStaticText|title=|desc=|value=5,1 km · Ouvert
+                                                    AXLink|title=|desc= à chez Weebot|value=
+                                                      AXLink|title=|desc= à chez Weebot|value=
+                                                      AXHeading|title=Trottinette Électrique Dualtron Aminia, 52V 15.6Ah / Double Moteur|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Trottinette Électrique Dualtron Aminia, 52V 15.6Ah / Double Moteur
+                                                      AXStaticText|title=|desc=|value=979,00 €
+                                                      AXGroup|title=|desc=Vendu par Weebot|value=
+                                                        AXStaticText|title=|desc=|value=Weebot
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 5,0 sur 5 (21) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 500 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 500 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                    AXHeading|title=Pure Electric Escape 350 w noir Trottinette électrique|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pure Electric Escape 350 w noir Trottinette électrique
+                                                    AXStaticText|title=|desc=|value=329,99 €
+                                                    AXStaticText|title=|desc=|value=500 €
+                                                    AXGroup|title=|desc=Vendu par Darty|value=
+                                                      AXStaticText|title=|desc=|value=Darty
+                                                    AXStaticText|title=|desc=|value=Retrait demain
+                                                      AXStaticText|title=|desc=|value=5,1 km · Ouvert
+                                                    AXLink|title=|desc= à chez Viron Motors France|value=
+                                                      AXLink|title=|desc= à chez Viron Motors France|value=
+                                                    AXHeading|title=Trottinette Electrique Viron Motors 800W Urbain|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Electrique Viron Motors 800W Urbain
+                                                    AXStaticText|title=|desc=|value=398,99 €
+                                                    AXGroup|title=|desc=Vendu par Viron Motors France|value=
+                                                      AXStaticText|title=|desc=|value=Viron Motors France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 650 € chez Darty)|value=
+                                                      AXLink|title=|desc= à (auparavant 650 € chez Darty)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Segway Ninebot F3 pro e Trottinette électrique|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Segway Ninebot F3 pro e Trottinette électrique
+                                                      AXStaticText|title=|desc=|value=579,99 €
+                                                      AXStaticText|title=|desc=|value=650 €
+                                                      AXGroup|title=|desc=Vendu par Darty|value=
+                                                        AXStaticText|title=|desc=|value=Darty
+                                                      AXStaticText|title=|desc=|value=Retrait demain
+                                                        AXImage|title=|desc=Note : 4,5 sur 5 (104) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez navee fr|value=
+                                                      AXLink|title=|desc= à chez navee fr|value=
+                                                      AXStaticText|title=|desc=|value=15 % DE REMISE
+                                                    AXHeading|title=Trottinette Électrique GT3 700W 50 km 10’’ | NAVEE TECH|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette Électrique GT3 700W 50 km 10’’ | NAVEE TECH
+                                                    AXStaticText|title=|desc=|value=319,00 €
+                                                    AXGroup|title=|desc=Vendu par navee fr|value=
+                                                      AXStaticText|title=|desc=|value=navee fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=271 € après application du code
+                                                    AXLink|title=|desc= à chez Geekbuying.com|value=
+                                                      AXLink|title=|desc= à chez Geekbuying.com|value=
+                                                    AXHeading|title=TWOFISH M5 Elite-E Trottinette électrique certifiée CEE 500 W Beige|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=TWOFISH M5 Elite-E Trottinette électrique certifiée CEE 500 W Beige
+                                                    AXStaticText|title=|desc=|value=439,00 €
+                                                    AXGroup|title=|desc=Vendu par Geekbuying.com|value=
+                                                      AXStaticText|title=|desc=|value=Geekbuying.com
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXLink|title=|desc= à chez isinwheel.fr|value=
+                                                      AXHeading|title=S9Pro Trottinette Électrique avec 30KM Autonomie, 3 Vitesses, Légère & Portable, Clignotants, Étanchéité IPX4, Certifiée CE, Livraison en 2-3 Jours|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=S9Pro Trottinette Électrique avec 30KM Autonomie, 3 Vitesses, Légère & Portable, Clignotants, Étanchéité IPX4, Certifiée CE, Livraison en 2-3 Jours
+                                                      AXStaticText|title=|desc=|value=238,99 €
+                                                      AXGroup|title=|desc=Vendu par isinwheel.fr|value=
+                                                        AXStaticText|title=|desc=|value=isinwheel.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,6 sur 5 (561) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 175 € chez AliExpress - AliExpress-6007537909)|value=
+                                                      AXLink|title=|desc= à (auparavant 175 € chez AliExpress - AliExpress-6007537909)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Trottinette électrique adulte TODIMART T3, 350W moteur, 36V 7.8AH , 20-30KM porté, vitesse|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette électrique adulte TODIMART T3, 350W moteur, 36V 7.8AH , 20-30KM porté, vitesse
+                                                    AXStaticText|title=|desc=|value=144,67 €
+                                                    AXStaticText|title=|desc=|value=175 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6007537909|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6007537909
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Trottinette électrique adulte EU 500W, batterie 48V 22.5Ah, pneus de 14 pouces, pliable, trottinette|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Trottinette électrique adulte EU 500W, batterie 48V 22.5Ah, pneus de 14 pouces, pliable, trottinette
+                                                    AXStaticText|title=|desc=|value=231,88 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=221 € lors du règlement
+                                                            AXButton|title=|desc=Trottinette électrique Segway-Ninebot E2 Pro. Prix actuel : 279,96 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 4,5 sur 5. 691 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Wispeed Trottinette électrique Airo V10. Prix actuel : 299,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 10 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Segway ZT3 Pro. Prix bas. Prix actuel : 679,99 €. Prix habituel : 699 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,6 sur 5. 288 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Urbanglide Ride 85 EVO. Prix bas. Prix actuel : 168,98 €. Prix habituel : 178 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 3,2 sur 5. 177 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Navee GT5 Max 700 W. PROMOTION. Prix actuel : 449,99 €. Avant : 550 €. Plus de prix disponibles. Fnac.com et plus. Également à proximité. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Scooter 6 Lite Xiaomi. Prix actuel : 329,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,6 sur 5. 23 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique Adulte Puissante Tout-terrain, Moteur 2000W Autonomie jusqu’à 80 km, Batterie 48V (13Ah / 18,2Ah / 20,8Ah), Double Suspension,. Prix actuel : 369,99 €. Amazon.fr - Seller. Note : 1,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique Aprilia Esrz. Prix actuel : 194,97 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 3,4 sur 5. 25 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Segway Ninebot E3 Pro E. PROMOTION. Prix actuel : 379,99 €. Avant : 450 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,4 sur 5. 54 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Segway Ninebot Trottinette électrique Max G3 E. PROMOTION. Prix actuel : 799,99 €. Avant : 900 €. Plus de prix disponibles. Fnac.com et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,7 sur 5. 167 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                              AXHeading|title=En magasin à proximité|desc=|value=2
+                                                AXStaticText|title=|desc=|value=En magasin à proximité
+                                                AXPopUpButton|title=À propos de ce résultat|desc=|value=
+                                                  AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXButton|title=|desc=Trottinette électrique Segway-Ninebot E2 Pro. Prix actuel : 279,96 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 4,5 sur 5. 691 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Segway-Ninebot E2 Pro
+                                                                AXGroup|title=|desc=Prix actuel : 279,96 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 4,5 sur 5. 691 avis. |value=
+                                                      AXButton|title=|desc=Wispeed Trottinette électrique Airo V10. Prix actuel : 299,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 10 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Wispeed Trottinette électrique Airo V10
+                                                                AXGroup|title=|desc=Prix actuel : 299,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Boulanger
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 10 avis. |value=
+                                                      AXButton|title=|desc=Trottinette électrique Segway ZT3 Pro. Prix actuel : 679,99 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,6 sur 5. 288 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Segway ZT3 Pro
+                                                                AXGroup|title=|desc=Prix actuel : 679,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,6 sur 5. 288 avis. |value=
+                                                      AXButton|title=|desc=Trottinette électrique Xiaomi Electric Scooter 5. Prix actuel : 399,99 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Retours sous 365 jour(s). Note : 4,7 sur 5. 54 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Xiaomi Electric Scooter 5
+                                                                AXGroup|title=|desc=Prix actuel : 399,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 54 avis. |value=
+                                                      AXButton|title=|desc=Trottinette Électrique Aprilia Esrz. Prix actuel : 194,97 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 3,4 sur 5. 25 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette Électrique Aprilia Esrz
+                                                                AXGroup|title=|desc=Prix actuel : 194,97 €. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 3,4 sur 5. 25 avis. |value=
+                                                      AXButton|title=|desc=Trottinette électrique Scooter 6 Lite Xiaomi. Prix actuel : 329,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,6 sur 5. 23 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Scooter 6 Lite Xiaomi
+                                                                AXGroup|title=|desc=Prix actuel : 329,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Boulanger
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,6 sur 5. 23 avis. |value=
+                                                      AXButton|title=|desc=Trottinette électrique UrbanGlide E Cross Max 2x2 2ème génération 1200 W. PROMOTION. Prix actuel : 599,99 €. Avant : 650 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique UrbanGlide E Cross Max 2x2 2ème génération 1200 W
+                                                                AXGroup|title=|desc=Prix actuel : 599,99 €. Avant : 650 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                      AXButton|title=|desc=Trottinette électrique Urbanglide Ride 85 EVO. Prix actuel : 168,98 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 3,2 sur 5. 177 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Urbanglide Ride 85 EVO
+                                                                AXGroup|title=|desc=Prix actuel : 168,98 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 3,2 sur 5. 177 avis. |value=
+                                                      AXButton|title=|desc=Segway Ninebot Trottinette électrique Max G3 E. PROMOTION. Prix actuel : 799,99 €. Avant : 900 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,7 sur 5. 167 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Segway Ninebot Trottinette électrique Max G3 E
+                                                                AXGroup|title=|desc=Prix actuel : 799,99 €. Avant : 900 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 167 avis. |value=
+                                                      AXButton|title=|desc=Trottinette électrique Xiaomi Electric Scooter 6. PROMOTION. Prix actuel : 379,99 €. Avant : 430 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,7 sur 5. 51 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Xiaomi Electric Scooter 6
+                                                                AXGroup|title=|desc=Prix actuel : 379,99 €. Avant : 430 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 51 avis. |value=
+                                                      AXButton|title=|desc=Segway-Ninebot Ninebot F2 E II. Prix actuel : 349,96 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 4,1 sur 5. 58 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Segway-Ninebot Ninebot F2 E II
+                                                                AXGroup|title=|desc=Prix actuel : 349,96 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 58 avis. |value=
+                                                      AXButton|title=|desc=Segway Ninebot E3 Pro E. PROMOTION. Prix actuel : 389,99 €. Avant : 450 €. Plus de prix disponibles. Decathlon.fr et plus. En magasin. Retours sous 365 jour(s). Note : 4,4 sur 5. 54 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Segway Ninebot E3 Pro E
+                                                                AXGroup|title=|desc=Prix actuel : 389,99 €. Avant : 450 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Decathlon.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 54 avis. |value=
+                                                      AXButton|title=|desc=Segway Ninebot F3 E Trottinette électrique. PROMOTION. Prix actuel : 499,99 €. Avant : 600 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,5 sur 5. 67 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Segway Ninebot F3 E Trottinette électrique
+                                                                AXGroup|title=|desc=Prix actuel : 499,99 €. Avant : 600 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                AXImage|title=|desc=Note : 4,5 sur 5. 67 avis. |value=
+                                                      AXButton|title=|desc=Urbanglide Trottinette électrique GT Pro. Prix actuel : 599,00 €. Plus de prix disponibles. Carrefour - Carrefour.fr et plus. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Urbanglide Trottinette électrique GT Pro
+                                                                AXGroup|title=|desc=Prix actuel : 599,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Carrefour - Carrefour.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                      AXButton|title=|desc=Trottinette électrique Wispeed SUV Pilot 150 R 500 W Noir. PROMOTION. Prix actuel : 449,99 €. Avant : 500 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Wispeed SUV Pilot 150 R 500 W Noir
+                                                                AXGroup|title=|desc=Prix actuel : 449,99 €. Avant : 500 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                      AXButton|title=|desc=Trottinette électrique UrbanGlide All Road 6 Pro 500W. Prix actuel : 489,99 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique UrbanGlide All Road 6 Pro 500W
+                                                                AXGroup|title=|desc=Prix actuel : 489,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                      AXButton|title=|desc=Trottinette Électrique Urbanglide Ecross Go. Prix actuel : 458,94 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 4,2 sur 5. 51 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette Électrique Urbanglide Ecross Go
+                                                                AXGroup|title=|desc=Prix actuel : 458,94 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 4,2 sur 5. 51 avis. |value=
+                                                      AXButton|title=|desc=Trottinette électrique Urbanglide Ride 355CT. Prix actuel : 229,92 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 4,0 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Urbanglide Ride 355CT
+                                                                AXGroup|title=|desc=Prix actuel : 229,92 €. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 4 avis. |value=
+                                                      AXButton|title=|desc=Trottinette électrique Navee GT5 Max 700 W. PROMOTION. Prix actuel : 449,99 €. Avant : 550 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Trottinette électrique Navee GT5 Max 700 W
+                                                                AXGroup|title=|desc=Prix actuel : 449,99 €. Avant : 550 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Darty.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                            AXHeading|title=Moins que 300 € .|desc=|value=3
+                                              AXButton|title=Moins que 300 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=Moins que 300 €
+                                                  AXStaticText|title=|desc=|value=.
+                                            AXHeading|title=300 €–500 € .|desc=|value=3
+                                              AXButton|title=300 €–500 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=300 €–500 €
+                                                  AXStaticText|title=|desc=|value=.
+                                      AXButton|title=Plus de produits|desc=|value=
+                                          AXStaticText|title=|desc=|value=Plus de produits
+                                                            AXButton|title=|desc=Segway-Ninebot Ninebot F2 E II. Prix actuel : 349,96 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 4,1 sur 5. 58 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique UrbanGlide E Cross Max 2x2 2ème génération 1200 W. PROMOTION. Prix actuel : 599,99 €. Avant : 650 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique, QNQ, 8501 – pliable pour adultes, 500W/25KM/H, 25-30KM Autonomie Rouge. PROMOTION. Prix actuel : 139,00 €. Avant : 180 €. Cdiscount. Note : 4,9 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique K07s Pour Adultes. Prix actuel : 399,00 €. Carrefour. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Xiaomi Electric Scooter 6. PROMOTION. Prix actuel : 379,99 €. Avant : 430 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Note : 4,7 sur 5. 51 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique Urbanglide Ecross Go. Prix actuel : 458,94 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 4,2 sur 5. 51 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Electrique Adulte Pliable, autonomie de 30 km,Vitesse maximale de 25 km/h,Double système de freinage Batterie 36V 7.8Ah-Loisirs et. Prix actuel : 91,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Segway Ninebot F3 E Trottinette électrique. PROMOTION. Prix actuel : 499,99 €. Avant : 600 €. Plus de prix disponibles. Fnac.com et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,5 sur 5. 67 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique UrbanGlide All Road 6 Pro 500W. Prix bas. Prix actuel : 489,99 €. Prix habituel : 510 €. Plus de prix disponibles. Darty.com et plus. En magasin. Retours sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique 100 EVO Urbanglide. Prix actuel : 229,99 €. Plus de prix disponibles. Boulanger et plus. Retours sous 15 jour(s). Note : 3,4 sur 5. 147 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Urbanglide Ride 355CT. Prix actuel : 229,92 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 4,0 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=JOYOR Trottinette Electrique Adulte,S/Y Serie Autonomie 55-75KM Batterie 48V 13/18Ah Moteur 500W/600W Trotinette Electrique Puissante Tout Terrain. Prix actuel : 499,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Urbanglide Trottinette électrique GT Pro. Prix bas. Prix actuel : 579,99 €. Prix habituel : 590 €. Plus de prix disponibles. Carrefour et plus. Également à proximité. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique KuKirin G4. Bez marki. Noir. Trottinettes électriques. 5905902206145. Prix actuel : 450,00 €. Occasion.Leboncoin. Note : 3,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pure Electric Air5 350 W noir Trottinette électrique. PROMOTION. Prix actuel : 299,99 €. Avant : 400 €. Plus de prix disponibles. Darty.com et plus. Retours sous 15 jour(s). Note : 4,3 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=iScooter 2000W Trottinette Électrique Tout-Terrain 60 km/h Vitesse. Prix actuel : 649,99 €. iScooter. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=TYOKUM Trottinette Électrique Adulte 1200W Moteur, Autonomie 45-55KM Batterie 48V 18Ah Trotinette Electrique Pliante Portable, Roues 11" Tout Terrain. Prix actuel : 379,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Wispeed SUV Pilot 150 R 500 W Noir. PROMOTION. Prix actuel : 449,99 €. Avant : 500 €. Plus de prix disponibles. Fnac.com et plus. Également à proximité. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=1000w Trottinette électrique 45km/h Tout-terrain 60km Batterie longue portée 11'' Pneus pour adultes. Prix actuel : 399,99 €. ihoverboard.fr. Retours sous 30 jour(s). Note : 4,8 sur 5. 167 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ladped LP60 trottinette électrique pliable pour adultes. Prix actuel : 139,99 €. Darty. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Electrique - Vitesse Maximale 25 KM/H, 250W-500W, Pneus Solides 8.5'', Batterie 7,5AH, Autonomie 25-30KM, Double Frein, APP, Charge Max. Prix actuel : 106,39 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique, Ladped, LP80 - Pliable pour adulte - Roues 8,5" - Autonomie 30 km Noir. PROMOTION. Prix actuel : 129,00 €. Avant : 240 €. Cdiscount. Note : 4,1 sur 5. 57 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette Électrique Pour Enfant Navee K100 Max. Prix actuel : 199,94 €. Plus de prix disponibles. Electro Dépôt et plus. En magasin. Retours sous 4 jour(s). Note : 4,5 sur 5. 32 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=GENERIQUE Trottinette électrique ootd T10 pneus de 11 pouces moteur de 500 w. Prix actuel : 589,00 €. Fnac. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=QnQ Trottinettes Électriques Adulte, 2026 Trottinette Pliable 8,5", Moteur 500W/25KM/H Autonomie 30KM, Pneus Nid d'abeille Increvables, Contrôle Via. Prix actuel : 179,99 €. Amazon.fr - Seller. Note : 4,9 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Ausom Gosoul 2. Prix actuel : 379,00 €. Occasion.Plus de prix disponibles. Darty et plus. Note : 3,8 sur 5. 23 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique tout-terrain grandes roues Viron Motors. Prix bas. Prix actuel : 591,67 €. Prix habituel : 659 €. Viron Motors France. Retours sous 14 jour(s). Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Airo V6 Wispeed. Prix actuel : 259,99 €. Plus de prix disponibles. Boulanger et plus. Retours sous 15 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kamikaze Trottinette électrique Kamikaze K1 Max Eu. PROMOTION. Prix actuel : 649,00 €. Avant : 762 €. Amazon.fr - Seller. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Trottinette électrique Segway-Ninebot E2 Plus II. PROMOTION. Prix actuel : 249,99 €. Avant : 300 €. Plus de prix disponibles. Fnac.com et plus. Retours sous 14 jour(s). Note : 3,8 sur 5. 104 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                AXHeading|title=Page Navigation|desc=|value=1
+                                  AXStaticText|title=|desc=|value=Page Navigation
+                                AXButton|title=|desc=Plus de résultats|value=
+                                      AXStaticText|title=|desc=|value=Plus de résultats
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXButton|title=Go|desc=|value=
+                                    AXGroup|title=Annonces pour une offre de produit|desc=|value=
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                    AXGroup|title=40|desc=|value=
+                                      AXStaticText|title=|desc=|value=40
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=trottinette électrique adulte - Google Shopping|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

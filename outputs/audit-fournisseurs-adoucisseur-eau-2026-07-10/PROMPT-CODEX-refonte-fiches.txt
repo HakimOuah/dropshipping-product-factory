@@ -1,0 +1,188 @@
+CONTEXTE
+Tu travailles sur la boutique Shopify "Bonum Vitae" (bonumvitae.fr) — marque française de
+traitement de l'eau à domicile (osmoseurs, filtres douche, carafes filtrantes, filtres
+robinet, purificateur camping, anti-calcaire). Baseline : « L'eau pure, chaque jour. »
+Positionnement : la marque bien-être de l'eau, sans travaux ni plombier, entre les
+installateurs chers (Culligan/BWT) et les boutiques techniques austères (Josmose).
+Pilier de marque : TRANSPARENCE RADICALE — on ne promet que ce qui est démontré.
+
+ACCÈS API (à créer si absent)
+Shopify admin → Paramètres → Applications → Développer des applications → app privée
+avec scopes : read_products, write_products, read_publications, write_publications.
+Variables d'env : SHOPIFY_STORE_URL (xxx.myshopify.com) et SHOPIFY_ACCESS_TOKEN (shpat_…).
+Ne jamais logger le token. API version 2024-07 ou plus récente (REST + GraphQL au choix).
+
+RÉPERTOIRE DE TRAVAIL
+/Users/Hakim/Documents/New project/outputs/audit-fournisseurs-adoucisseur-eau-2026-07-10
+Fichiers clés :
+- produits.json ........... AUDIT FOURNISSEUR = source de vérité des FAITS par produit
+                            (specs vérifiées, risques, données manquantes, expédition).
+                            Clé excel_cell = F6…F47. LA SEULE base factuelle autorisée.
+- shopify-plan.json ....... plan d'exécution par cellule : productId (GID Shopify),
+                            handle, productType, tags, variants[{id,price,cost}] (prix de
+                            vente DÉJÀ margés — à utiliser tels quels), deleteVariantIds,
+                            images[{path,alt}].
+  (chemin : /private/tmp/claude-502/-Users-Hakim-ecommerce-dropshipping/e46bcb74-56e1-4015-9780-19273da6fb22/scratchpad/shopify-plan.json)
+- images-generees/<pid>/ .. 5 PNG 2048×2048 par produit (01→05 = ordre galerie, 01 = principale).
+- images-plan.csv ......... alt_text par image.
+- /private/tmp/claude-502/-Users-Hakim-ecommerce-dropshipping/e46bcb74-56e1-4015-9780-19273da6fb22/scratchpad/payload.py
+                            contient la table MEDIA {cellule → (premier_media_id, count)}
+                            = images AliExpress À SUPPRIMER (IDs séquentiels par pas de 32768,
+                            format gid://shopify/MediaImage/<id>).
+
+ÉTAT ACTUEL SHOPIFY (ne pas refaire ce qui est fait)
+- 26 produits poussés par DSers (mapping fournisseur actif → INTERDIT de toucher aux SKU
+  et aux variantes conservées ; on ne supprime QUE les deleteVariantIds listés).
+- DÉJÀ TRAITÉS INTÉGRALEMENT (images propres, prix, handle, SEO, variantes, publiés) :
+  F14, F15, F16. → Pour eux, il ne reste QUE la réécriture de descriptionHtml (l'actuelle
+  contient des émojis) + vérifier title/seo selon les nouvelles règles ci-dessous.
+- RESTE TOUT À FAIRE (contenu + images + prix + variantes + SEO + publication) :
+  F6,F7,F8,F9,F10,F17,F18,F22,F23,F24,F25,F26,F30,F31,F32,F33,F34,F38,F43,F44,F45,F46,F47.
+- 6 collections smart déjà créées (règle TYPE) : il suffit de poser productType
+  (valeurs exactes : "Osmoseur", "Filtre de douche", "Carafe filtrante", "Filtre robinet",
+  "Purificateur nomade", "Anti-calcaire") pour qu'elles se remplissent.
+- Publication "Boutique en ligne" : gid://shopify/Publication/356443881810.
+
+════════════════════════════════════════════════════════════
+MISSION 1 — RÉÉCRIRE LES 26 DESCRIPTIONS (le cœur du travail)
+════════════════════════════════════════════════════════════
+Les descriptions actuelles font "IA générique". Réécris-les TOUTES en appliquant :
+
+RÈGLES DE TON (non négociables)
+1. AUCUN émoji, nulle part (ni titres, ni corps, ni CTA). Zéro. Vérifie par regex à la fin.
+2. Ton professionnel d'EXPERT du traitement de l'eau : le lecteur doit sentir qu'on
+   connaît le métier. Utilise le vocabulaire juste quand il est factuel : dureté (TH en °f),
+   chlore résiduel, sédiments, TDS (ppm), débit (L/min), pression, membrane, média filtrant,
+   raccord standard. MAIS uniquement quand la donnée existe dans produits.json — on
+   n'invente JAMAIS une spec (règle absolue héritée de l'audit).
+3. Bannis le style IA : pas de "Plongez dans", "Découvrez un monde de", "révolutionnaire",
+   "incroyable", "n'attendez plus", pas de tirets cadratins en cascade, pas de listes de
+   trois adjectifs, pas de point d'exclamation en rafale (max 1 par fiche).
+4. Phrases courtes. Paragraphes de 2-4 lignes. Concret > abstrait. Chiffre réel > adjectif.
+
+TECHNIQUES DE RÉDACTION à appliquer
+- Accroche en PAS (Problème → Agitation → Solution) : partir d'une situation vécue précise
+  du persona (voir ci-dessous), la rendre tangible (coût, inconfort, répétition), amener
+  le produit comme réponse proportionnée. Pas de promesse, une situation.
+- Bénéfices AVANT caractéristiques : chaque caractéristique passe le test "et alors ?"
+  (600 GPD → "de l'eau filtrée sans attendre, même pour remplir une casserole").
+- Spécificité = crédibilité : chiffres exacts de produits.json (débits, volumes, étapes,
+  provenance d'expédition UE/France, notes et nombre d'avis AliExpress).
+- Traitement des OBJECTIONS (nouveau, obligatoire) : une section dédiée par fiche
+  (voir structure) qui prend de front 3-4 objections réelles du persona et y répond
+  honnêtement, y compris en admettant les limites (c'est notre signature).
+- Réassurance / inversion du risque : expédition UE quand c'est le cas, TVA incluse,
+  paiement sécurisé, droit de rétractation 14 jours (légal France), SAV qui répond.
+- CTA sobre et unique en fin de fiche : une phrase d'action calme, sans pression.
+
+PERSONAS PAR COLLECTION (adapte angle, vocabulaire, objections)
+- Osmoseurs + membranes (F14,F15,F16,F17,F18) → double cible :
+  "Claire", 38 ans, mère vigilante : santé famille, fin des packs d'eau, goût, simplicité.
+  "Bernard", 55 ans, pragmatique sceptique : veut des specs, du concret, pas de blabla.
+  Objections à traiter : « Est-ce vraiment mieux qu'une carafe Brita ? » / « Que deviennent
+  les minéraux ? » / « C'est cher à l'achat » (→ coût par litre vs packs d'eau, sans chiffre
+  inventé : ordre de grandeur du prix d'un pack porté chaque semaine) / « L'entretien est
+  compliqué ? » / « Pas de certification NSF affichée ? » (→ réponse transparence : nous
+  l'exigeons du fournisseur et ne l'affirmons pas tant qu'elle n'est pas documentée).
+- Filtres douche (F6,F7,F8,F9,F10) → "Karim", 29 ans, locataire urbain, peau sensible,
+  cheveux ternes, salle de bain soignée. Angle : confort peau/cheveux, installation en
+  2 minutes SANS outil ni accord du propriétaire, réversible au déménagement.
+  Objections : « Ça baisse la pression ? » / « Combien de temps dure la cartouche ? »
+  (si durée non documentée : le dire et donner la logique de remplacement) / « Ça adoucit
+  vraiment l'eau ? » (→ être précis : ça filtre chlore/impuretés, ce n'est pas un
+  adoucisseur — cette honnêteté EST l'argument).
+- Carafes/bouilloires (F22,F23,F24,F25,F26) → Claire. Angle : goût au quotidien, biberons,
+  thé/café, zéro installation, place au frigo. Objections : « Pourquoi pas une Brita du
+  supermarché ? » (formats/capacités, stock UE pour F22/F26) / « Les matériaux sont-ils
+  sûrs ? » (→ transparence : attestation contact alimentaire demandée au fournisseur,
+  formulation prudente) / « Coût des recharges ? ».
+- Filtres robinet (F30,F31,F32,F33,F34) → Claire + Karim, angle petit prix malin,
+  pose 30 secondes. Objections : « Compatible avec mon robinet ? » / « Ça sert vraiment ? »
+  (rôle précis : sédiments/chlore au point d'usage, pas une purification complète).
+- Purificateur camping (F38) → "Léa", 26 ans, rando/bivouac. Angle : autonomie, poids,
+  gourde. Objection : « Fiable sur l'eau de rivière ? » (→ seuil 0,01 micron ANNONCÉ par
+  le fournisseur, non certifié par un organisme : le formuler ainsi, conseiller les
+  usages prudents).
+- Anti-calcaire magnétique/électronique (F43,F44,F45,F46,F47) → Bernard le sceptique.
+  LE cas d'école transparence. Angle : dispositif d'appoint sans sel ni entretien, posé
+  en 10 minutes. OBLIGATOIRE : une section franche « Ce que ce dispositif fait — et ne
+  fait pas » ; ne JAMAIS promettre adoucissement/réduction de dureté/élimination du
+  calcaire (efficacité non démontrée scientifiquement, risque DGCCRF pratique commerciale
+  trompeuse). Le repositionner : essai à petit prix vs adoucisseur à résine à 1500 €+,
+  et renvoyer vers l'osmoseur pour l'eau de boisson.
+
+GARDE-FOUS JURIDIQUES (DGCCRF — hérités de l'audit, à respecter au mot près)
+- Interdits absolus : « adoucit l'eau », « élimine le calcaire », « réduit la dureté »
+  (pour F43-F47) ; toute allégation santé (« détoxifie », « prévient les maladies »,
+  « bon pour la santé ») ; toute certification non documentée (NSF, SGS, ISO, CE sanitaire).
+- Autorisés : « réduit le chlore et les goûts » quand la fiche fournisseur l'indique ;
+  « procédé d'osmose inverse reconnu » ; specs chiffrées présentes dans produits.json.
+- Toute donnée absente = formulation « non communiqué par le fournisseur, nous le
+  confirmons avant expédition » — ne JAMAIS inventer.
+
+STRUCTURE HTML CIBLE (remplace l'ancienne, AUCUN emoji)
+<div class="product-desc">
+  <p class="hook"><strong>[Accroche PAS : situation vécue du persona, 1-2 phrases]</strong></p>
+  <p>[Contexte expert : le problème d'eau et le rôle de cette famille de produit, 3-4 lignes]</p>
+  <h3>[Bénéfice 1 — formulation concrète, pas de titre marketing creux]</h3><p>…</p>
+  <h3>[Bénéfice 2]</h3><p>…</p>
+  <h3>[Bénéfice 3]</h3><p>…</p>
+  <h3>Caractéristiques vérifiées</h3>
+  <ul>[uniquement les specs de produits.json ; champs manquants = "à confirmer"]</ul>
+  <h3>Vos questions, nos réponses franches</h3>
+  [3 à 5 <details><summary>Objection/question du persona</summary><p>réponse honnête</p></details>
+   — intègre ici les OBJECTIONS listées plus haut]
+  [POUR F43-F47 UNIQUEMENT : <h3>Ce que ce dispositif fait — et ne fait pas</h3><p>…</p>]
+  <h3>Livraison et service</h3>
+  <p>[expédition réelle du produit (France/Pologne/Allemagne/Chine selon produits.json),
+     TVA incluse si UE, retours 14 jours, SAV]</p>
+  <p class="cta">[CTA sobre, 1 phrase]</p>
+</div>
+Longueur cible : 350-500 mots. Chaque fiche UNIQUE (aucune phrase copiée-collée entre
+fiches hormis le bloc Livraison qui peut varier légèrement).
+
+SEO (conserver la mécanique existante)
+- title produit < 70 c, sans emoji, mot-clé principal au début (garder les titres actuels
+  de shopify-plan.json sauf s'ils contiennent un emoji).
+- metafields SEO : meta title < 60 c terminé par « | Bonum Vitae » (jamais tronquer la
+  marque), meta description < 155 c, unique par produit, avec le mot-clé et un appel
+  à l'action sobre. GraphQL productUpdate → champ seo { title, description }.
+- handles : garder ceux de shopify-plan.json (F14/F15/F16 déjà posés, ne pas les changer).
+
+════════════════════════════════════════════════════════════
+MISSION 2 — FINIR L'IMPORT TECHNIQUE (23 produits restants)
+════════════════════════════════════════════════════════════
+Pour chaque cellule restante, en une passe :
+1. productUpdate : title, descriptionHtml (nouvelle copie M1), handle, productType, tags,
+   seo{title,description}, status ACTIVE.
+2. Prix : productVariantsBulkUpdate avec les prix de shopify-plan.json (déjà margés).
+   compareAtPrice : null (pas de faux barrés — conformité prix de référence).
+3. Variantes : productVariantsBulkDelete UNIQUEMENT des deleteVariantIds du plan
+   (variantes hors-UE inutiles). NE PAS toucher aux autres (SKU = mapping DSers).
+4. Images : supprimer les images AliExpress (IDs reconstruits depuis la table MEDIA de
+   payload.py : premier_id + i*32768) puis uploader les 5 PNG de images-generees/<pid>/
+   dans l'ordre 01→05 avec les alt de shopify-plan.json. Le plus simple avec un token :
+   REST POST /admin/api/2024-07/products/{id}/images.json en base64 (champ attachment)
+   + alt + position ; DELETE des anciennes. Respecter le rate limit (2 req/s, retry 429).
+5. Publication : publishablePublish sur gid://shopify/Publication/356443881810.
+Pour F14, F15, F16 : seulement l'étape 1 (contenu/SEO) — images, prix, variantes déjà OK.
+
+CONTRAINTES INTANGIBLES
+- Ne JAMAIS modifier ni supprimer un SKU ; ne pas créer de nouveaux produits ;
+  ne pas toucher aux 3 anciens produits tests s'ils apparaissent (chaussettes, gants,
+  tondeuse — hors périmètre).
+- Écris la nouvelle copie d'abord EN LOCAL dans fiches-v2/<cellule>.html (traçabilité),
+  puis pousse vers Shopify. Tiens un progress-codex.txt (une cellule par ligne faite) :
+  le script doit être relançable sans tout refaire.
+
+VÉRIFICATIONS FINALES (obligatoires, montre les résultats)
+- Regex sur les 26 descriptionHtml en ligne : aucun emoji (plage \U0001F300-\U0001FAFF,
+  ✀-➿, ☀-⛿), aucun terme interdit sur F43-F47
+  (adoucit|élimine le calcaire|réduit la dureté), aucune mention NSF/SGS/ISO.
+- 26 meta descriptions uniques, longueurs respectées.
+- Chaque produit : 5 images (alt renseignés), prix > coût, productType posé, publié.
+- Récap final : tableau cellule | titre | prix | nb images | statut + liste des 6
+  collections avec leur nombre de produits.
+
+Commence par réécrire UNE fiche témoin (F14, l'osmoseur phare) selon toutes les règles,
+montre-la moi pour validation, PUIS déroule les 25 autres et l'import technique.

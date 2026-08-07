@@ -1,0 +1,755 @@
+AXWindow|title=marquise de porte - Google Shopping - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=marquise de porte - Google Shopping - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=marquise%20de%20porte&hl=fr&gl=fr&pws=0&udm=28
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=marquise de porte - Google Shopping|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Désactiver le défilement continu|value=
+                        AXStaticText|title=|desc=|value=Désactiver le défilement continu
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=marquise de porte
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                  AXLink|title=|desc=Tous|value=
+                                    AXStaticText|title=|desc=|value=Tous
+                                  AXLink|title=|desc=Images|value=
+                                    AXStaticText|title=|desc=|value=Images
+                                  AXLink|title=|desc=Shopping|value=
+                                      AXStaticText|title=|desc=|value=Shopping
+                                  AXLink|title=|desc=Vidéos|value=
+                                    AXStaticText|title=|desc=|value=Vidéos
+                                  AXLink|title=|desc=Vidéos courtes|value=
+                                    AXStaticText|title=|desc=|value=Vidéos courtes
+                                  AXLink|title=|desc=Web|value=
+                                    AXStaticText|title=|desc=|value=Web
+                                  AXLink|title=|desc=Actualités|value=
+                                    AXStaticText|title=|desc=|value=Actualités
+                                  AXButton|title=Plus de filtres|desc=|value=
+                                    AXGroup|title=|desc=Plus de filtres|value=
+                                      AXStaticText|title=|desc=|value=Plus
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=Affiner les résultats|desc=|value=2
+                                AXStaticText|title=|desc=|value=Affiner les résultats
+                                        AXButton|title=Trier par|desc=|value=
+                                              AXStaticText|title=|desc=|value=Trier par
+                                              AXLink|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                AXGroup|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pertinence
+                                              AXLink|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre croissant
+                                              AXLink|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre décroissant
+                                              AXLink|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Note : ordre décroissant
+                                        AXButton|title=Matériau|desc=|value=
+                                              AXStaticText|title=|desc=|value=Matériau
+                                              AXLink|title=|desc=Filtre Verre. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Verre. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Verre
+                                              AXLink|title=|desc=Filtre Polycarbonate. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Polycarbonate. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Polycarbonate
+                                        AXButton|title=Prix|desc=|value=
+                                              AXStaticText|title=|desc=|value=Prix
+                                              AXLink|title=|desc=Filtre Moins de 300 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Moins de 300 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Moins de 300 €
+                                              AXLink|title=|desc=Filtre Plus de 300 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 300 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 300 €
+                                                  AXTextField|title=|desc=Prix minimal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Min.
+                                                  AXTextField|title=|desc=Prix maximal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Max.
+                                              AXButton|title=OK|desc=|value=
+                                        AXButton|title=Note du produit|desc=|value=
+                                              AXStaticText|title=|desc=|value=Note du produit
+                                              AXLink|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                  AXImage|title=|desc=Note : 4,0 sur 5|value=
+                                                  AXStaticText|title=|desc=|value= 
+                                                  AXStaticText|title=|desc=|value=4 et plus
+                                        AXButton|title=Marque|desc=|value=
+                                              AXStaticText|title=|desc=|value=Marque
+                                              AXLink|title=|desc=Filtre Palram. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Palram. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Palram
+                                              AXLink|title=|desc=Filtre Outsunny. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Outsunny. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Outsunny
+                                              AXLink|title=|desc=Filtre VEVOR. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre VEVOR. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=VEVOR
+                                              AXLink|title=|desc=Filtre Helloshop26. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Helloshop26. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Helloshop26
+                                          AXButton|title=Voir 26 autre(s)|desc=|value=
+                                        AXButton|title=Zone couverte|desc=|value=
+                                              AXStaticText|title=|desc=|value=Zone couverte
+                                              AXLink|title=|desc=Filtre Fenêtres. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Fenêtres. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Fenêtres
+                                        AXButton|title=Magasins|desc=|value=
+                                              AXStaticText|title=|desc=|value=Magasins
+                                              AXLink|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Leroy Merlin
+                                              AXLink|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=ManoMano.fr
+                                              AXLink|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Cdiscount. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Cdiscount
+                                              AXLink|title=|desc=Filtre Gamm vert. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Gamm vert. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Gamm vert
+                                          AXButton|title=Voir 18 autre(s)|desc=|value=
+                          AXGroup|title=|desc=Filtre|value=
+                                    AXCheckBox|title=|desc=Tous les filtres.|value=1
+                                      AXLink|title=|desc=Filtre Verre. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Verre
+                                      AXLink|title=|desc=Filtre Auvents. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Auvents
+                                      AXLink|title=|desc=Filtre Polycarbonate. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Polycarbonate
+                                      AXLink|title=|desc=Filtre Moins de 300 €. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Moins de 300 €
+                                      AXLink|title=|desc=Filtre Portes extérieures. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Portes extérieures
+                                AXGroup|title=|desc=Annonces|value=
+                                              AXHeading|title=Produits sponsorisés|desc=|value=2
+                                                  AXStaticText|title=|desc=|value=Produits sponsorisés
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                    AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                      AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                    AXHeading|title=Marquise de porte sophia canopia avec 2 parois latérales - structure grise - panneaux transparents 215 x 96 cm - pergolas, tonnelles, marquises & auve|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte sophia canopia avec 2 parois latérales - structure grise - panneaux transparents 215 x 96 cm - pergolas, tonnelles, marquises & auve
+                                                    AXStaticText|title=|desc=|value=1 498,81 €
+                                                    AXGroup|title=|desc=Vendu par Agrifournitures.fr|value=
+                                                      AXStaticText|title=|desc=|value=Agrifournitures.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                      AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                    AXHeading|title=Marquise de porte sophia canopia avec 1 paroi latérale - structure grise - panneaux transparents 160 x 96 cm - pergolas, tonnelles, marquises & auvent|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte sophia canopia avec 1 paroi latérale - structure grise - panneaux transparents 160 x 96 cm - pergolas, tonnelles, marquises & auvent
+                                                    AXStaticText|title=|desc=|value=947,28 €
+                                                    AXGroup|title=|desc=Vendu par Agrifournitures.fr|value=
+                                                      AXStaticText|title=|desc=|value=Agrifournitures.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 461 € chez Canopia FR)|value=
+                                                      AXLink|title=|desc= à (auparavant 461 € chez Canopia FR)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Marquise de porte Iris 174.9 x 125 cm Noir|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise de porte Iris 174.9 x 125 cm Noir
+                                                      AXStaticText|title=|desc=|value=369,00 €
+                                                      AXStaticText|title=|desc=|value=461 €
+                                                      AXGroup|title=|desc=Vendu par Canopia FR|value=
+                                                        AXStaticText|title=|desc=|value=Canopia FR
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (159) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                      AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                    AXHeading|title=Marquise de porte Aquila, Palram/Canopia, 0,915x1,505m, Gris foncé/Transparent - Dancover|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Aquila, Palram/Canopia, 0,915x1,505m, Gris foncé/Transparent - Dancover
+                                                    AXStaticText|title=|desc=|value=273,93 €
+                                                    AXGroup|title=|desc=Vendu par Dancovershop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Dancovershop.fr
+                                                      AXStaticText|title=|desc=|value=+ 111,92 € de frais de port
+                                                    AXLink|title=|desc= à (auparavant 449 € chez MonAménagementMaison)|value=
+                                                      AXLink|title=|desc= à (auparavant 449 € chez MonAménagementMaison)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Auvent de porte Herald Gris | Palram - Canopia|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Auvent de porte Herald Gris | Palram - Canopia
+                                                      AXStaticText|title=|desc=|value=326,76 €
+                                                      AXStaticText|title=|desc=|value=449 €
+                                                      AXGroup|title=|desc=Vendu par MonAménagementMaison|value=
+                                                        AXStaticText|title=|desc=|value=MonAménagementMaison
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,5 sur 5 (106) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Fenetre24|value=
+                                                      AXLink|title=|desc= à chez Fenetre24|value=
+                                                    AXHeading|title=Marquise de porte Mende, marquise incurvée, en aluminium et polycarbonate solide, anthracite, avec gouttière d’évacuation, configuration personnalisée|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Mende, marquise incurvée, en aluminium et polycarbonate solide, anthracite, avec gouttière d’évacuation, configuration personnalisée
+                                                    AXStaticText|title=|desc=|value=238,85 €
+                                                    AXGroup|title=|desc=Vendu par Fenetre24|value=
+                                                      AXStaticText|title=|desc=|value=Fenetre24
+                                                      AXStaticText|title=|desc=|value=+ 24,90 € de frais de port
+                                                    AXLink|title=|desc= à chez Lapeyre.fr|value=
+                                                      AXLink|title=|desc= à chez Lapeyre.fr|value=
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Auvent arthur gris anthracite ral 7016 l.135 x p.88 x h.33,5 - lapeyre|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Auvent arthur gris anthracite ral 7016 l.135 x p.88 x h.33,5 - lapeyre
+                                                      AXStaticText|title=|desc=|value=186,05 €
+                                                      AXGroup|title=|desc=Vendu par Lapeyre.fr|value=
+                                                        AXStaticText|title=|desc=|value=Lapeyre.fr
+                                                        AXImage|title=|desc=Note : 4,2 sur 5 (251) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXHeading|title=Marquise/porte d'entrée acier gris Autrans, l.150 x H.55 x P.100 cm|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise/porte d'entrée acier gris Autrans, l.150 x H.55 x P.100 cm
+                                                      AXStaticText|title=|desc=|value=449,00 €
+                                                      AXGroup|title=|desc=Vendu par Leroy Merlin|value=
+                                                        AXStaticText|title=|desc=|value=Leroy Merlin
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 3,7 sur 5 (31) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc=Pierrelaye|value=
+                                                        AXLink|title=|desc=Pierrelaye|value=
+                                                                AXStaticText|title=|desc=|value=Pierrelaye
+                                                      AXHeading|title=Auvent Canopy noir aluminium et acrylique 1,75 x 1,25 x 0,8 m|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Auvent Canopy noir aluminium et acrylique 1,75 x 1,25 x 0,8 m
+                                                      AXStaticText|title=|desc=|value=379,90 €
+                                                      AXGroup|title=|desc=Vendu par Castorama|value=
+                                                        AXStaticText|title=|desc=|value=Castorama
+                                                      AXStaticText|title=|desc=|value=Retrait auj
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (64) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 188 € chez Canopia FR)|value=
+                                                      AXLink|title=|desc= à (auparavant 188 € chez Canopia FR)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Marquise de porte Venus 135.5 x 88 cm Gris|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise de porte Venus 135.5 x 88 cm Gris
+                                                      AXStaticText|title=|desc=|value=151,00 €
+                                                      AXStaticText|title=|desc=|value=188 €
+                                                      AXGroup|title=|desc=Vendu par Canopia FR|value=
+                                                        AXStaticText|title=|desc=|value=Canopia FR
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,2 sur 5 (251) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Soirée Foot VEVOR Auvent de Porte d'Entrée 96,5x297,5 cm Marquise de Porte Extérieur Polycarbonate pour Fenêtres de Porches Balcons Protection contre|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Soirée Foot VEVOR Auvent de Porte d'Entrée 96,5x297,5 cm Marquise de Porte Extérieur Polycarbonate pour Fenêtres de Porches Balcons Protection contre
+                                                    AXStaticText|title=|desc=|value=91,90 €
+                                                    AXGroup|title=|desc=Vendu par vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=vevor.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=87,31 € après application du code
+                                                    AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                      AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                    AXHeading|title=Marquise de porte sophia canopia avec 2 parois latérales - structure grise - panneaux opales 160 x 96 cm - pergolas, tonnelles, marquises & auvents de|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte sophia canopia avec 2 parois latérales - structure grise - panneaux opales 160 x 96 cm - pergolas, tonnelles, marquises & auvents de
+                                                    AXStaticText|title=|desc=|value=1 353,67 €
+                                                    AXGroup|title=|desc=Vendu par Agrifournitures.fr|value=
+                                                      AXStaticText|title=|desc=|value=Agrifournitures.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                      AXLink|title=|desc= à chez Agrifournitures.fr|value=
+                                                    AXHeading|title=Marquise de porte sophia canopia avec 1 paroi latérale - structure grise - panneaux opales 160 x 96 cm - pergolas, tonnelles, marquises & auvents de p|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte sophia canopia avec 1 paroi latérale - structure grise - panneaux opales 160 x 96 cm - pergolas, tonnelles, marquises & auvents de p
+                                                    AXStaticText|title=|desc=|value=947,28 €
+                                                    AXGroup|title=|desc=Vendu par Agrifournitures.fr|value=
+                                                      AXStaticText|title=|desc=|value=Agrifournitures.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 356 € chez Canopia FR)|value=
+                                                      AXLink|title=|desc= à (auparavant 356 € chez Canopia FR)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Marquise de porte Sophia 95 x 160 cm Grise Blanc Translucide|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise de porte Sophia 95 x 160 cm Grise Blanc Translucide
+                                                      AXStaticText|title=|desc=|value=285,00 €
+                                                      AXStaticText|title=|desc=|value=356 €
+                                                      AXGroup|title=|desc=Vendu par Canopia FR|value=
+                                                        AXStaticText|title=|desc=|value=Canopia FR
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,5 sur 5 (257) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Fenetre24|value=
+                                                      AXLink|title=|desc= à chez Fenetre24|value=
+                                                    AXHeading|title=Marquise de porte Alès, marquise plate, en aluminium et polycarbonate solide, anthracite, avec gouttière d’évacuation, configuration personnalisée|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Alès, marquise plate, en aluminium et polycarbonate solide, anthracite, avec gouttière d’évacuation, configuration personnalisée
+                                                    AXStaticText|title=|desc=|value=229,49 €
+                                                    AXGroup|title=|desc=Vendu par Fenetre24|value=
+                                                      AXStaticText|title=|desc=|value=Fenetre24
+                                                      AXStaticText|title=|desc=|value=+ 24,90 € de frais de port
+                                                    AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                      AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                      AXHeading|title=Auvent de porte Lily XL noir | Palram - Canopia|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Auvent de porte Lily XL noir | Palram - Canopia
+                                                      AXStaticText|title=|desc=|value=368,76 €
+                                                      AXGroup|title=|desc=Vendu par MonAménagementMaison|value=
+                                                        AXStaticText|title=|desc=|value=MonAménagementMaison
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (77) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 299 € chez McCover.com)|value=
+                                                      AXLink|title=|desc= à (auparavant 299 € chez McCover.com)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=AUVENT - MARQUISE DE PORTE D'ENTRÉE MÉLANIE - Coloris - Gris clair, Longueur - 150 cm, Profondeur totale - 90 cm|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=AUVENT - MARQUISE DE PORTE D'ENTRÉE MÉLANIE - Coloris - Gris clair, Longueur - 150 cm, Profondeur totale - 90 cm
+                                                      AXStaticText|title=|desc=|value=209,33 €
+                                                      AXStaticText|title=|desc=|value=299 €
+                                                      AXGroup|title=|desc=Vendu par McCover.com|value=
+                                                        AXStaticText|title=|desc=|value=McCover.com
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,2 sur 5 (123) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 188 € chez Leroy Merlin)|value=
+                                                      AXLink|title=|desc= à (auparavant 188 € chez Leroy Merlin)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Auvent de porte d'entrée Venus acier gris anthracite, l.135.5 x H.35.5 x P.88 cm|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Auvent de porte d'entrée Venus acier gris anthracite, l.135.5 x H.35.5 x P.88 cm
+                                                      AXStaticText|title=|desc=|value=150,36 €
+                                                      AXStaticText|title=|desc=|value=188 €
+                                                      AXGroup|title=|desc=Vendu par Leroy Merlin|value=
+                                                        AXStaticText|title=|desc=|value=Leroy Merlin
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,2 sur 5 (251) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Fenetre24|value=
+                                                      AXLink|title=|desc= à chez Fenetre24|value=
+                                                    AXHeading|title=Marquise de porte Vendôme, marquise plate, en aluminium et verre acrylique, anthracite, avec gouttière d’évacuation, configuration personnalisée|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Vendôme, marquise plate, en aluminium et verre acrylique, anthracite, avec gouttière d’évacuation, configuration personnalisée
+                                                    AXStaticText|title=|desc=|value=192,95 €
+                                                    AXGroup|title=|desc=Vendu par Fenetre24|value=
+                                                      AXStaticText|title=|desc=|value=Fenetre24
+                                                      AXStaticText|title=|desc=|value=+ 24,90 € de frais de port
+                                                    AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc=Pierrelaye|value=
+                                                        AXLink|title=|desc=Pierrelaye|value=
+                                                                AXStaticText|title=|desc=|value=Pierrelaye
+                                                      AXHeading|title=Auvent acier et polycarbonate 140 x 80 cm|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Auvent acier et polycarbonate 140 x 80 cm
+                                                      AXStaticText|title=|desc=|value=199,90 €
+                                                      AXGroup|title=|desc=Vendu par Castorama|value=
+                                                        AXStaticText|title=|desc=|value=Castorama
+                                                      AXStaticText|title=|desc=|value=Retrait auj
+                                                        AXImage|title=|desc=Note : 3,2 sur 5 (14) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Fenetre24|value=
+                                                      AXLink|title=|desc= à chez Fenetre24|value=
+                                                    AXHeading|title=Marquise de porte Langres, marquise incurvée, en aluminium et polycarbonate cellulaire, anthracite, avec gouttière d’évacuation|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Langres, marquise incurvée, en aluminium et polycarbonate cellulaire, anthracite, avec gouttière d’évacuation
+                                                    AXStaticText|title=|desc=|value=211,64 €
+                                                    AXGroup|title=|desc=Vendu par Fenetre24|value=
+                                                      AXStaticText|title=|desc=|value=Fenetre24
+                                                      AXStaticText|title=|desc=|value=+ 24,90 € de frais de port
+                                                    AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                      AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                    AXHeading|title=Marquise en aluminium et polycarbonate gris opaque - Augustine 111 cm|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise en aluminium et polycarbonate gris opaque - Augustine 111 cm
+                                                    AXStaticText|title=|desc=|value=225,34 €
+                                                    AXGroup|title=|desc=Vendu par MonAménagementMaison|value=
+                                                      AXStaticText|title=|desc=|value=MonAménagementMaison
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                        AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                                AXStaticText|title=|desc=|value=Montigny-lès-Cormeilles
+                                                      AXHeading|title=Marquise/porte d'entrée acier gris Eventail, l.150 x H.65 x P.100 cm|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise/porte d'entrée acier gris Eventail, l.150 x H.65 x P.100 cm
+                                                      AXStaticText|title=|desc=|value=449,00 €
+                                                      AXGroup|title=|desc=Vendu par Leroy Merlin|value=
+                                                        AXStaticText|title=|desc=|value=Leroy Merlin
+                                                        AXStaticText|title=|desc=|value=Visible en magasin
+                                                        AXImage|title=|desc=Note : 3,9 sur 5 (36) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                      AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                    AXHeading|title=Auvent de porte Sophia 2150, Palram/Canopia, 0,95x2,15x0,17m, Gris foncé/Transparent - Dancover|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Auvent de porte Sophia 2150, Palram/Canopia, 0,95x2,15x0,17m, Gris foncé/Transparent - Dancover
+                                                    AXStaticText|title=|desc=|value=586,03 €
+                                                    AXGroup|title=|desc=Vendu par Dancovershop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Dancovershop.fr
+                                                      AXStaticText|title=|desc=|value=+ 111,92 € de frais de port
+                                                    AXLink|title=|desc= à (auparavant 461 € chez Canopia FR)|value=
+                                                      AXLink|title=|desc= à (auparavant 461 € chez Canopia FR)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Marquise de porte Lily 216 x 88 cm noir|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise de porte Lily 216 x 88 cm noir
+                                                      AXStaticText|title=|desc=|value=369,00 €
+                                                      AXStaticText|title=|desc=|value=461 €
+                                                      AXGroup|title=|desc=Vendu par Canopia FR|value=
+                                                        AXStaticText|title=|desc=|value=Canopia FR
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (77) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                      AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                      AXHeading|title=Auvent de porte Iris 174,9 x 125 cm Noir | Palram - Canopia|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Auvent de porte Iris 174,9 x 125 cm Noir | Palram - Canopia
+                                                      AXStaticText|title=|desc=|value=368,76 €
+                                                      AXGroup|title=|desc=Vendu par MonAménagementMaison|value=
+                                                        AXStaticText|title=|desc=|value=MonAménagementMaison
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (159) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Fenetre24|value=
+                                                      AXLink|title=|desc= à chez Fenetre24|value=
+                                                    AXHeading|title=Marquise de porte Guéret, marquise incurvée, en aluminium et polycarbonate cellulaire, anthracite, avec gouttière d’évacuation|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Guéret, marquise incurvée, en aluminium et polycarbonate cellulaire, anthracite, avec gouttière d’évacuation
+                                                    AXStaticText|title=|desc=|value=202,30 €
+                                                    AXGroup|title=|desc=Vendu par Fenetre24|value=
+                                                      AXStaticText|title=|desc=|value=Fenetre24
+                                                      AXStaticText|title=|desc=|value=+ 24,90 € de frais de port
+                                                    AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                        AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                                AXStaticText|title=|desc=|value=Montigny-lès-Cormeilles
+                                                    AXHeading|title=Marquise de porte d'entrée acier noir Autrans, l.150 x H.55 x P.100 cm|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte d'entrée acier noir Autrans, l.150 x H.55 x P.100 cm
+                                                    AXStaticText|title=|desc=|value=649,00 €
+                                                    AXGroup|title=|desc=Vendu par Leroy Merlin|value=
+                                                      AXStaticText|title=|desc=|value=Leroy Merlin
+                                                      AXStaticText|title=|desc=|value=Visible en magasin
+                                                      AXStaticText|title=|desc=|value=4,8 km · Ouvert
+                                                    AXLink|title=|desc= à chez Fenetre24|value=
+                                                      AXLink|title=|desc= à chez Fenetre24|value=
+                                                    AXHeading|title=Marquise de porte Nevers, marquise plate, en aluminium et verre, anthracite, avec gouttière d’évacuation, configuration personnalisée|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Nevers, marquise plate, en aluminium et verre, anthracite, avec gouttière d’évacuation, configuration personnalisée
+                                                    AXStaticText|title=|desc=|value=175,09 €
+                                                    AXGroup|title=|desc=Vendu par Fenetre24|value=
+                                                      AXStaticText|title=|desc=|value=Fenetre24
+                                                      AXStaticText|title=|desc=|value=+ 24,90 € de frais de port
+                                                    AXLink|title=|desc= à (auparavant 461 € chez Amazon.fr)|value=
+                                                      AXLink|title=|desc= à (auparavant 461 € chez Amazon.fr)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Canopia by Palram Auvent de porte d'entrée Iris 2.2m² Marquise de Porte, Protection Contre la Pluie et le Soleil pour Maison, (Noir)|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Canopia by Palram Auvent de porte d'entrée Iris 2.2m² Marquise de Porte, Protection Contre la Pluie et le Soleil pour Maison, (Noir)
+                                                    AXStaticText|title=|desc=|value=369,00 €
+                                                    AXStaticText|title=|desc=|value=461 €
+                                                    AXGroup|title=|desc=Vendu par Amazon.fr|value=
+                                                      AXStaticText|title=|desc=|value=Amazon.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 282 € chez Canopia FR)|value=
+                                                      AXLink|title=|desc= à (auparavant 282 € chez Canopia FR)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Marquise de porte Bremen 150 x 93.5 cm Gris|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise de porte Bremen 150 x 93.5 cm Gris
+                                                      AXStaticText|title=|desc=|value=226,00 €
+                                                      AXStaticText|title=|desc=|value=282 €
+                                                      AXGroup|title=|desc=Vendu par Canopia FR|value=
+                                                        AXStaticText|title=|desc=|value=Canopia FR
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (69) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Vounot|value=
+                                                      AXLink|title=|desc= à chez Vounot|value=
+                                                    AXHeading|title=Auvent de porte marquise 120x80 cm transparent en Polycarbonate anti UV Noir|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Auvent de porte marquise 120x80 cm transparent en Polycarbonate anti UV Noir
+                                                    AXStaticText|title=|desc=|value=49,99 €
+                                                    AXGroup|title=|desc=Vendu par Vounot|value=
+                                                      AXStaticText|title=|desc=|value=Vounot
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Loberon France|value=
+                                                      AXLink|title=|desc= à chez Loberon France|value=
+                                                    AXHeading|title=Auvent Auburn, Métal à l’effet vieilli, Forgé à la main, Style classique en noir vieilli|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Auvent Auburn, Métal à l’effet vieilli, Forgé à la main, Style classique en noir vieilli
+                                                    AXStaticText|title=|desc=|value=198,00 €
+                                                    AXGroup|title=|desc=Vendu par Loberon France|value=
+                                                      AXStaticText|title=|desc=|value=Loberon France
+                                                      AXStaticText|title=|desc=|value=+ 23,90 € de frais de port
+                                                    AXLink|title=|desc= à chez Fenetre24|value=
+                                                      AXLink|title=|desc= à chez Fenetre24|value=
+                                                    AXHeading|title=Marquise de porte Redon, marquise incurvée, en aluminium et polycarbonate solide, anthracite, avec gouttière d’évacuation, configuration personnalisée|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte Redon, marquise incurvée, en aluminium et polycarbonate solide, anthracite, avec gouttière d’évacuation, configuration personnalisée
+                                                    AXStaticText|title=|desc=|value=257,54 €
+                                                    AXGroup|title=|desc=Vendu par Fenetre24|value=
+                                                      AXStaticText|title=|desc=|value=Fenetre24
+                                                      AXStaticText|title=|desc=|value=+ 24,90 € de frais de port
+                                                    AXLink|title=|desc= à chez Vente-unique.com|value=
+                                                      AXLink|title=|desc= à chez Vente-unique.com|value=
+                                                    AXHeading|title=Auvent de porte en aluminium 150 x 90 cm courbé - gris - NEONA|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Auvent de porte en aluminium 150 x 90 cm courbé - gris - NEONA
+                                                    AXStaticText|title=|desc=|value=159,99 €
+                                                    AXGroup|title=|desc=Vendu par Vente-unique.com|value=
+                                                      AXStaticText|title=|desc=|value=Vente-unique.com
+                                                      AXStaticText|title=|desc=|value=+ 35,99 € de frais de port
+                                                      AXStaticText|title=|desc=|value=Offre spéciale
+                                                    AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                        AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                                AXStaticText|title=|desc=|value=Montigny-lès-Cormeilles
+                                                    AXHeading|title=Marquise de porte d'entrée acier noir La chapelle, l.180 x H.102 x P.120 cm|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise de porte d'entrée acier noir La chapelle, l.180 x H.102 x P.120 cm
+                                                    AXStaticText|title=|desc=|value=949,00 €
+                                                    AXGroup|title=|desc=Vendu par Leroy Merlin|value=
+                                                      AXStaticText|title=|desc=|value=Leroy Merlin
+                                                      AXStaticText|title=|desc=|value=Visible en magasin
+                                                      AXStaticText|title=|desc=|value=4,8 km · Ouvert
+                                                    AXLink|title=|desc= à (auparavant 461 € chez ManoMano.fr)|value=
+                                                      AXLink|title=|desc= à (auparavant 461 € chez ManoMano.fr)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Palram – Marquise de porte Lily Noir – Longueur 216 cm, Largeur 88 cm, Aluminium, Acier galvanisé – Protégez votre entrée|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Palram – Marquise de porte Lily Noir – Longueur 216 cm, Largeur 88 cm, Aluminium, Acier galvanisé – Protégez votre entrée
+                                                      AXStaticText|title=|desc=|value=368,76 €
+                                                      AXStaticText|title=|desc=|value=461 €
+                                                      AXGroup|title=|desc=Vendu par ManoMano.fr|value=
+                                                        AXStaticText|title=|desc=|value=ManoMano.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (77) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez www.priximbattable.net|value=
+                                                      AXLink|title=|desc= à chez www.priximbattable.net|value=
+                                                    AXHeading|title=Marquise Contemporaine|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Marquise Contemporaine
+                                                    AXStaticText|title=|desc=|value=151,98 €
+                                                    AXGroup|title=|desc=Vendu par www.priximbattable.net|value=
+                                                      AXStaticText|title=|desc=|value=www.priximbattable.net
+                                                      AXStaticText|title=|desc=|value=+ 29,00 € de frais de port
+                                                    AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                      AXLink|title=|desc= à chez MonAménagementMaison|value=
+                                                      AXHeading|title=Marquise pour porte en alu et acrylique Sophia 2150 (95 x 215 cm)|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Marquise pour porte en alu et acrylique Sophia 2150 (95 x 215 cm)
+                                                      AXStaticText|title=|desc=|value=410,76 €
+                                                      AXGroup|title=|desc=Vendu par MonAménagementMaison|value=
+                                                        AXStaticText|title=|desc=|value=MonAménagementMaison
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (151) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Woodup|value=
+                                                      AXLink|title=|desc= à chez Woodup|value=
+                                                      AXHeading|title=Truges 100 180 250|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Truges 100 180 250
+                                                      AXStaticText|title=|desc=|value=369,00 €
+                                                      AXGroup|title=|desc=Vendu par Woodup|value=
+                                                        AXStaticText|title=|desc=|value=Woodup
+                                                        AXStaticText|title=|desc=|value=+ 47,88 € de frais de port
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (13) avis d'utilisateurs|value=
+                                                            AXButton|title=|desc=MCCOVER Auvent Marquise porte d'entrée Valentine stucture. Prix bas. Prix actuel : 89,90 €. Prix habituel : 106 €. Plus de prix disponibles. Bricomarché et plus. En magasin. Note : 4,4 sur 5. 35 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=OOGarden Marquise de porte aluminium 100 x 80 cm. Prix actuel : 89,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 1,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Palram Canopia Aquila Marquise de porte. Prix bas. Prix actuel : 189,84 €. Prix habituel : 229 €. Plus de prix disponibles. Leroy Merlin et plus. Également à proximité. Retours sous 180 jour(s). Note : 4,5 sur 5. 259 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Marquise de porte Iris 174.9 x 125 cm Noir. PROMOTION. Prix actuel : 369,00 €. Avant : 461 €. Plus de prix disponibles. Canopia FR et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,4 sur 5. 159 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de porte d'entrée Larus l.120 x H.28 x P.85 cm. Prix actuel : 159,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 103 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Outsunny Auvent marquise de porte voûté polycarbonate plastique. PROMOTION. Prix actuel : 52,90 €. Avant : 56 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 3,9 sur 5. 137 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=VOUNOT Auvent de Porte Marquise Transparent En Polycarbonate Anti UV. Prix actuel : 44,99 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,2 sur 5. 849 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Marquise tectake. Prix bas. Prix actuel : 61,99 €. Prix habituel : 67 €. Plus de prix disponibles. Bricomarché et plus. Note : 3,8 sur 5. 1,1 k avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de porte d'entrée alu gris ant. Larus l.160 x H.28 x P.85 cm. Prix actuel : 189,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,4 sur 5. 26 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Marquise de porte / auvent de porte 80 x Noir. PROMOTION. Prix actuel : 32,99 €. Avant : 36 €. Plus de prix disponibles. Jardiland et plus. Retours sous 30 jour(s). Note : 3,8 sur 5. 172 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                              AXHeading|title=En magasin à proximité|desc=|value=2
+                                                AXStaticText|title=|desc=|value=En magasin à proximité
+                                                AXPopUpButton|title=À propos de ce résultat|desc=|value=
+                                                  AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXButton|title=|desc=Auvent de porte d'entrée alu gris ant. Larus l.160 x H.28 x P.85 cm. Prix actuel : 189,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,4 sur 5. 26 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Auvent de porte d'entrée alu gris ant. Larus l.160 x H.28 x P.85 cm
+                                                                AXGroup|title=|desc=Prix actuel : 189,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 26 avis. |value=
+                                                      AXButton|title=|desc=Palram Canopia Aquila Marquise de porte. Prix actuel : 229,00 €. Plus de prix disponibles. Lapeyre.fr et plus. En magasin. Retours sous 14 jour(s). Note : 4,5 sur 5. 259 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Palram Canopia Aquila Marquise de porte
+                                                                AXGroup|title=|desc=Prix actuel : 229,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Lapeyre.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                                                AXImage|title=|desc=Note : 4,5 sur 5. 259 avis. |value=
+                                                      AXButton|title=|desc=MCCOVER Auvent Marquise porte d'entrée Valentine stucture. Prix actuel : 89,90 €. Plus de prix disponibles. Bricomarché et plus. En magasin. Note : 4,4 sur 5. 35 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=MCCOVER Auvent Marquise porte d'entrée Valentine stucture
+                                                                AXGroup|title=|desc=Prix actuel : 89,90 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Bricomarché
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 35 avis. |value=
+                                                      AXButton|title=|desc=Auvent de porte d'entrée Larus l.120 x H.28 x P.85 cm. Prix actuel : 189,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 103 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Auvent de porte d'entrée Larus l.120 x H.28 x P.85 cm
+                                                                AXGroup|title=|desc=Prix actuel : 189,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,3 sur 5. 103 avis. |value=
+                                                      AXButton|title=|desc=OOGarden Marquise de porte aluminium 100 x 80 cm. Prix actuel : 89,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 1,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=OOGarden Marquise de porte aluminium 100 x 80 cm
+                                                                AXGroup|title=|desc=Prix actuel : 89,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 1,7 sur 5. 3 avis. |value=
+                                                      AXButton|title=|desc=Auvent de porte d'entrée alu Olor. Prix actuel : 199,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,0 sur 5. 27 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Auvent de porte d'entrée alu Olor
+                                                                AXGroup|title=|desc=Prix actuel : 199,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 27 avis. |value=
+                                                      AXButton|title=|desc=Marquise de porte Iris 174.9 x 125 cm Noir. Prix actuel : 469,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,4 sur 5. 159 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Marquise de porte Iris 174.9 x 125 cm Noir
+                                                                AXGroup|title=|desc=Prix actuel : 469,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 159 avis. |value=
+                                                      AXButton|title=|desc=Auvent de porte d'entrée alu anthracite Détroit l.140xH.31.2xP.92.2 cm *NEUF*. Prix actuel : 399,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,2 sur 5. 35 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Auvent de porte d'entrée alu anthracite Détroit l.140xH.31.2xP.92.2 cm *NEUF*
+                                                                AXGroup|title=|desc=Prix actuel : 399,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,2 sur 5. 35 avis. |value=
+                                                      AXButton|title=|desc=Marquise de porte Sophia 95 x 160 cm. Prix actuel : 350,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,5 sur 5. 257 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Marquise de porte Sophia 95 x 160 cm
+                                                                AXGroup|title=|desc=Prix actuel : 350,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,5 sur 5. 257 avis. |value=
+                                                      AXButton|title=|desc=Auvent de porte d'entrée en sapin basic, l.139 x H.84 x P.66 cm. Prix actuel : 61,90 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 68 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Auvent de porte d'entrée en sapin basic, l.139 x H.84 x P.66 cm
+                                                                AXGroup|title=|desc=Prix actuel : 61,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,3 sur 5. 68 avis. |value=
+                                            AXHeading|title=Moins que 90 € .|desc=|value=3
+                                              AXButton|title=Moins que 90 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=Moins que 90 €
+                                                  AXStaticText|title=|desc=|value=.
+                                            AXHeading|title=90 €–200 € .|desc=|value=3
+                                              AXButton|title=90 €–200 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=90 €–200 €
+                                                  AXStaticText|title=|desc=|value=.
+                                      AXButton|title=Plus de produits|desc=|value=
+                                          AXStaticText|title=|desc=|value=Plus de produits
+                                                            AXButton|title=|desc=Marquise de porte Sophia 95 x 160 cm. PROMOTION. Prix actuel : 284,76 €. Avant : 356 €. Plus de prix disponibles. Carrefour et plus. Note : 4,5 sur 5. 257 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=ProBache Auvent de porte marquise d'accueil 80x120 cm polycarbonate. Prix actuel : 29,99 €. Plus de prix disponibles. Darty et plus. Note : 3,8 sur 5. 839 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de porte d'entrée en sapin basic, l.139 x H.84 x P.66 cm. PROMOTION. Prix actuel : 126,65 €. Avant : 149 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 68 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=VOUNOT Auvent de Porte Marquise 100x80 cm En Polycarbonate Anti Uv Anthracite. Prix actuel : 39,99 €. Amazon.fr. Retours sous 30 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Maison Chic Auvent de porte Marquise de porte 120 x 100 cm pc 51186. PROMOTION. Prix actuel : 59,99 €. Avant : 70 €. ManoMano.fr. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Vente-unique Auvent charme AMBAN en aluminium. Prix bas. Prix actuel : 179,99 €. Prix habituel : 207 €. Plus de prix disponibles. Vente-unique.com et plus. Retours sous 30 jour(s). Note : 4,4 sur 5. 23 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent Porte d'Entree. PROMOTION. Prix actuel : 42,99 €. Avant : 53 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,6 sur 5. 86 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de Porte d'entrée Toit Marquise en Polycarbonate Porte Résistante Toit Abri Protection Contre La Pluie et UV,(60 * 100 cm),Cadre Gris. Prix actuel : 31,20 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Arctom marquise auvent de porte ALU Kamel. Prix actuel : 245,00 €. Leroy Merlin. Retours sous 180 jour(s). Note : 3,5 sur 5. 13 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Idmarket Auvent de porte 80x150 cm marquise d'accueil teintée. Prix actuel : 32,99 €. Plus de prix disponibles. Carrefour et plus. Note : 3,7 sur 5. 307 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Outsunny Auvent Marquise de porte Design Voûté Arrondi Dim 100l X 75l X 23h cm alu polycarbonate fumé plastique. Prix actuel : 47,90 €. Plus de prix disponibles. Jardiland et plus. Retours sous 30 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=VEVOR Auvent de Porte d'entrée marquise de Porte extérieure aluminium abri de Protection contre pluie neige soleil Auvent stable pour. Prix bas. Prix actuel : 92,99 €. Prix habituel : 101 €. Plus de prix disponibles. Gamm vert et plus. Retours sous 14 jour(s). Note : 4,5 sur 5. 27 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Marquise de porte Venus 135.5 x 88 cm Gris. PROMOTION. Prix actuel : 150,36 €. Avant : 188 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 4,2 sur 5. 251 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de Porte d'entrée Toit Marquise en Polycarbonate Résistante Toit Abri Protection Contre La Pluie et UV,chapiteau(60 * 100 cm (Blanc). Prix actuel : 31,45 €. Amazon.fr - Seller. Note : 2,5 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Canopia Marquise de porte Sophia 215 x 95 cm Blanc / Blanc Opale. PROMOTION. Prix actuel : 400,76 €. Avant : 411 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,6 sur 5. 60 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Maison Chic - Auvent de porte Marquise de porte Noir 200 x 100 cm pc 39877. Prix actuel : 85,99 €. ManoMano.fr. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Arctom marquise auvent de porte ALU anthracite Piaf 150x90 Paris. Prix actuel : 200,00 €. Leroy Merlin. Retours sous 180 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Palram Canopia Marquise de porte Altair Gris. PROMOTION. Prix actuel : 168,00 €. Avant : 209 €. Plus de prix disponibles. Canopia FR et plus. Retours sous 14 jour(s). Note : 4,5 sur 5. 67 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de porte 100cm Marquise de porte d¡ ̄entr ̈e en polycarbonate transparent. Prix actuel : 52,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=AXI Lux Marquise de Porte et Véranda. Prix bas. Prix actuel : 64,95 €. Prix habituel : 88 €. Plus de prix disponibles. Toys and Garden FR et plus. Retours gratuits sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de porte d'entrée alu Olor. Prix actuel : 199,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,0 sur 5. 27 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Palram Canopia Marquise de porte Sophia Gris. PROMOTION. Prix actuel : 410,76 €. Avant : 513 €. Plus de prix disponibles. Carrefour et plus. Note : 4,4 sur 5. 151 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de porte entrée marquise porte terrasse toit Outdoor 100 x 60 cm Aluminium Polycarbonate Blanc. Prix actuel : 22,76 €. Cdiscount. Note : 3,9 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Belfoyer Auvent de Porte d’Entrée DIY, Marquise en Polycarbonate Creux avec Cadre PP et Embouts Aluminium, Protection Contre Pluie, Neige et UV pour. Prix actuel : 31,69 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Arctom marquise auvent de porte Kamis 120x83,5. Prix actuel : 242,00 €. Leroy Merlin. Retours sous 180 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Auvent de porte store marquise solaire abri banne entrée ombre Protection 60cmx100cm - OOBEST. Prix actuel : 39,26 €. ManoMano.fr. Retours sous 14 jour(s). Note : 3,9 sur 5. 59 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Helloshop26 Auvent de porte d'entrée Design marquise d'accueil résistante aux intempéries 100 cm. Prix actuel : 115,94 €. Plus de prix disponibles. Destockage Habitat et plus. Note : 2,9 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Canopia Marquise de porte Bremen gris. PROMOTION. Prix actuel : 226,00 €. Avant : 282 €. Plus de prix disponibles. Canopia FR et plus. Retours sous 14 jour(s). Note : 4,7 sur 5. 69 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Outsunny Auvent marquise de porte voûté polycarbonate PP. Prix actuel : 52,90 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 3,7 sur 5. 12 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Marquise de Porte en Fer Cannoise, 150 x 120 cm. Prix actuel : 694,90 €. Toiture-online.com. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                              AXGroup|title=|desc=Annonces|value=
+                                    AXHeading|title=Résultat sponsorisé|desc=|value=2
+                                      AXStaticText|title=|desc=|value=Résultat sponsorisé
+                                        AXLink|title=|desc=Auvent et marquise en aluminium Neo10.com www.neo10.com|value=
+                                          AXHeading|title=Auvent et marquise en aluminium|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Auvent et marquise en aluminium
+                                              AXStaticText|title=|desc=|value=Neo10.com
+                                            AXStaticText|title=|desc=|value=www.neo10.com
+                                          AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                        AXStaticText|title=|desc=|value=Neo10.com fabriquant de menuiserie à prix direct usine depuis 2007 présente ses gammes complètes de auvent et 
+                                          AXStaticText|title=|desc=|value=marquise
+                                        AXStaticText|title=|desc=|value= en aluminium standard ou sur mesure. Livraison Gratuite France. Service Client. Contactez nous.
+                                        AXImage|title=|desc=Note : 4,2 sur 5|value=
+                                          AXStaticText|title=|desc=|value=Note de neo10.com: 4,2 - 2 475 avis
+                                        AXLink|title=|desc=11 Rue Camille Flammarion, Avrainville|value=
+                                          AXStaticText|title=|desc=|value=11 Rue Camille Flammarion, Avrainville
+                                        AXStaticText|title=|desc=|value=‎
+                                        AXStaticText|title=|desc=|value=01 69 80 27 40
+                                        AXStaticText|title=|desc=|value=‎
+                                        AXButton|title=Ouvert aujourd'hui · 09:00 – 18:00|desc=|value=
+                                            AXStaticText|title=|desc=|value=Plus de 100 000 visites le mois dernier
+                                AXButton|title=Masquer le résultat sponsorisé|desc=|value=
+                                    AXStaticText|title=|desc=|value=Masquer le résultat sponsorisé
+                                AXHeading|title=Page Navigation|desc=|value=1
+                                  AXStaticText|title=|desc=|value=Page Navigation
+                                AXButton|title=|desc=Plus de résultats|value=
+                                      AXStaticText|title=|desc=|value=Plus de résultats
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=40
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=40
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=marquise de porte - Google Shopping|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

@@ -1,0 +1,815 @@
+AXWindow|title=lit baldaquin - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=lit baldaquin - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=lit%20baldaquin&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=lit baldaquin - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=lit baldaquin
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Lieux|value=
+                                              AXStaticText|title=|desc=|value=Lieux
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter IKEA|value=
+                                              AXStaticText|title=|desc=|value=IKEA
+                                            AXLink|title=|desc=Ajouter Bois|value=
+                                              AXStaticText|title=|desc=|value=Bois
+                                            AXLink|title=|desc=Ajouter Métal|value=
+                                              AXStaticText|title=|desc=|value=Métal
+                                            AXLink|title=|desc=Ajouter Enfants|value=
+                                              AXStaticText|title=|desc=|value=Enfants
+                                            AXLink|title=|desc=Ajouter Cadre seulement|value=
+                                              AXStaticText|title=|desc=|value=Cadre seulement
+                                            AXLink|title=|desc=Ajouter New|value=
+                                              AXStaticText|title=|desc=|value=New
+                                            AXLink|title=|desc=Ajouter Used|value=
+                                              AXStaticText|title=|desc=|value=Used
+                                            AXLink|title=|desc=Ajouter Rangement|value=
+                                              AXStaticText|title=|desc=|value=Rangement
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=95390 Saint-Prix|desc=|value=2
+                                AXStaticText|title=|desc=|value=95390 Saint-Prix
+                                AXButton|title=Choisir une zone|desc=|value=
+                                AXButton|title=|desc=Comment la position est utilisée|value=
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez Maisons du Monde|value=
+                                              AXLink|title=|desc= à chez Maisons du Monde|value=
+                                              AXStaticText|title=|desc=|value=10 % DE REMISE
+                                            AXHeading|title=Lit à baldaquin en bois d'acacia massif wengé 160x200 style inspirations d'ailleurs Bois Maisons du monde|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin en bois d'acacia massif wengé 160x200 style inspirations d'ailleurs Bois Maisons du monde
+                                            AXStaticText|title=|desc=|value=566,10 €
+                                            AXStaticText|title=|desc=|value=629 €
+                                            AXGroup|title=|desc=Vendu par Maisons du Monde|value=
+                                              AXStaticText|title=|desc=|value=Maisons du Monde
+                                              AXStaticText|title=|desc=|value=Code de réduction
+                                              AXStaticText|title=|desc=|value=+ 59,90 € de frais de port
+                                                AXLink|title=|desc=Par Yteo|value=
+                                                    AXStaticText|title=|desc=|value=Par Yteo
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Lit à Baldaquin Marron Foncé en Bois 180 x 200 cm Meuble de Chambre Style Minimaliste|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à Baldaquin Marron Foncé en Bois 180 x 200 cm Meuble de Chambre Style Minimaliste
+                                            AXStaticText|title=|desc=|value=479,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 365 jours
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Loberon France|value=
+                                              AXLink|title=|desc= à chez Loberon France|value=
+                                            AXHeading|title=Lit Milo, En bois de manguier naturel, Lignes épurées classiques, Très romantique comme lit à baldaquin en marron vieilli|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit Milo, En bois de manguier naturel, Lignes épurées classiques, Très romantique comme lit à baldaquin en marron vieilli
+                                            AXStaticText|title=|desc=|value=1 698,00 €
+                                            AXGroup|title=|desc=Vendu par Loberon France|value=
+                                              AXStaticText|title=|desc=|value=Loberon France
+                                              AXStaticText|title=|desc=|value=+ 106,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.2/5
+                                                AXLink|title=|desc=Par agento24|value=
+                                                    AXStaticText|title=|desc=|value=Par agento24
+                                            AXLink|title=|desc= à chez Ciel de Lin|value=
+                                              AXLink|title=|desc= à chez Ciel de Lin|value=
+                                            AXHeading|title=Ciel de lit baldaquin adulte 4 coins noir, Gris / King|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Ciel de lit baldaquin adulte 4 coins noir, Gris / King
+                                            AXStaticText|title=|desc=|value=184,90 €
+                                            AXGroup|title=|desc=Vendu par Ciel de Lin|value=
+                                              AXStaticText|title=|desc=|value=Ciel de Lin
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez westwing.fr|value=
+                                              AXLink|title=|desc= à chez westwing.fr|value=
+                                            AXHeading|title=Lit à baldaquin en métal doré Belle Doré Métal 160 x 200 cm | Westwing Collection|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin en métal doré Belle Doré Métal 160 x 200 cm | Westwing Collection
+                                            AXStaticText|title=|desc=|value=899,00 €
+                                            AXGroup|title=|desc=Vendu par westwing.fr|value=
+                                              AXStaticText|title=|desc=|value=westwing.fr
+                                              AXStaticText|title=|desc=|value=+ 50,95 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Lit à Baldaquin Beige en Bouclé 180 x 200 cm Cadre Métallique Noir Lattes Bois de Peuplier Style Rétro Minimaliste|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à Baldaquin Beige en Bouclé 180 x 200 cm Cadre Métallique Noir Lattes Bois de Peuplier Style Rétro Minimaliste
+                                            AXStaticText|title=|desc=|value=349,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,0 sur 5 (5) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Maisons du Monde|value=
+                                              AXLink|title=|desc= à chez Maisons du Monde|value=
+                                              AXStaticText|title=|desc=|value=10 % DE REMISE
+                                            AXHeading|title=Lit à baldaquin en bois 160x200 avec sommier à lattes style contemporain Bois Maisons du monde|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin en bois 160x200 avec sommier à lattes style contemporain Bois Maisons du monde
+                                            AXStaticText|title=|desc=|value=764,10 €
+                                            AXStaticText|title=|desc=|value=849 €
+                                            AXGroup|title=|desc=Vendu par Maisons du Monde|value=
+                                              AXStaticText|title=|desc=|value=Maisons du Monde
+                                              AXStaticText|title=|desc=|value=Code de réduction
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Yteo|value=
+                                                    AXStaticText|title=|desc=|value=Par Yteo
+                                            AXLink|title=|desc= à chez premiumxl FR|value=
+                                              AXLink|title=|desc= à chez premiumxl FR|value=
+                                            AXHeading|title=Lit à baldaquin Kristianstad métal 160 x 200 cm noir [en.casa]|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin Kristianstad métal 160 x 200 cm noir [en.casa]
+                                            AXStaticText|title=|desc=|value=172,99 €
+                                            AXGroup|title=|desc=Vendu par premiumxl FR|value=
+                                              AXStaticText|title=|desc=|value=premiumxl FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 3,9 sur 5 (39) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à chez fr.noo.ma|value=
+                                              AXLink|title=|desc= à chez fr.noo.ma|value=
+                                            AXHeading|title=Lit - Marron café glacé - Lit moderne en métal pour la chambre - Lit élégant avec ou sans sommier à lattes et tables de chevet - Design unique -|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit - Marron café glacé - Lit moderne en métal pour la chambre - Lit élégant avec ou sans sommier à lattes et tables de chevet - Design unique -
+                                            AXStaticText|title=|desc=|value=979,00 €
+                                            AXGroup|title=|desc=Vendu par fr.noo.ma|value=
+                                              AXStaticText|title=|desc=|value=fr.noo.ma
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 100 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Lit à Baldaquin Marron Clair en Bois d'Hévéa 180 x 200 cm Lattes Style Moderne Minimaliste|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à Baldaquin Marron Clair en Bois d'Hévéa 180 x 200 cm Lattes Style Moderne Minimaliste
+                                            AXStaticText|title=|desc=|value=569,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 365 jours
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Meuble House|value=
+                                              AXLink|title=|desc= à chez Meuble House|value=
+                                            AXHeading|title=Lit à baldaquins en chêne huilé pour couchage 160x200 cm "Kamaia" Marron|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquins en chêne huilé pour couchage 160x200 cm "Kamaia" Marron
+                                            AXStaticText|title=|desc=|value=1 190,00 €
+                                            AXGroup|title=|desc=Vendu par Meuble House|value=
+                                              AXStaticText|title=|desc=|value=Meuble House
+                                              AXStaticText|title=|desc=|value=+ 59,00 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours gratuits
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Conforama|value=
+                                              AXLink|title=|desc= à chez Conforama|value=
+                                            AXHeading|title=Lit À Baldaquin 180x200 Cm Cadre Métal Tête De Lit Rembourrée Velours Beige Et Noir Design Romantique Et Moderne - Lit Enfant|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit À Baldaquin 180x200 Cm Cadre Métal Tête De Lit Rembourrée Velours Beige Et Noir Design Romantique Et Moderne - Lit Enfant
+                                            AXStaticText|title=|desc=|value=312,99 €
+                                            AXGroup|title=|desc=Vendu par Conforama|value=
+                                              AXStaticText|title=|desc=|value=Conforama
+                                              AXStaticText|title=|desc=|value=+ 79,99 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours gratuits
+                                                AXLink|title=|desc=Par Yteo|value=
+                                                    AXStaticText|title=|desc=|value=Par Yteo
+                                            AXLink|title=|desc= à chez Ciel de Lin|value=
+                                              AXLink|title=|desc= à chez Ciel de Lin|value=
+                                            AXHeading|title=Ciel de lit baldaquin adulte 4 coins noir, Noir / King|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Ciel de lit baldaquin adulte 4 coins noir, Noir / King
+                                            AXStaticText|title=|desc=|value=193,90 €
+                                            AXGroup|title=|desc=Vendu par Ciel de Lin|value=
+                                              AXStaticText|title=|desc=|value=Ciel de Lin
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Lit à Baldaquin Blanc Cassé Bouclé 160 x 200 cm Cadre Métallique Noir Lattes Bois de Peuplier Style Rétro Minimaliste|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à Baldaquin Blanc Cassé Bouclé 160 x 200 cm Cadre Métallique Noir Lattes Bois de Peuplier Style Rétro Minimaliste
+                                            AXStaticText|title=|desc=|value=399,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,0 sur 5 (5) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez ManoMano.fr|value=
+                                              AXLink|title=|desc= à chez ManoMano.fr|value=
+                                            AXHeading|title=Modernluxe - Lit Double Rembourré 180x200 Cm - Lit À Baldaquin - Baldaquin Et Tête De Lit - Beige + Blanc (sans Matelas)|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Modernluxe - Lit Double Rembourré 180x200 Cm - Lit À Baldaquin - Baldaquin Et Tête De Lit - Beige + Blanc (sans Matelas)
+                                            AXStaticText|title=|desc=|value=375,99 €
+                                            AXGroup|title=|desc=Vendu par ManoMano.fr|value=
+                                              AXStaticText|title=|desc=|value=ManoMano.fr
+                                              AXStaticText|title=|desc=|value=+ 40,00 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.5/5
+                                                AXLink|title=|desc=Par Feed Manager|value=
+                                                    AXStaticText|title=|desc=|value=Par Feed Manager
+                                            AXLink|title=|desc= à chez home24.fr|value=
+                                              AXLink|title=|desc= à chez home24.fr|value=
+                                            AXHeading|title=Ars Natura Lit à baldaquin Lisa 180 x 200cm Chêne massif, huilé Marron/Chêne Chêne|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Ars Natura Lit à baldaquin Lisa 180 x 200cm Chêne massif, huilé Marron/Chêne Chêne
+                                            AXStaticText|title=|desc=|value=949,99 €
+                                            AXGroup|title=|desc=Vendu par home24.fr|value=
+                                              AXStaticText|title=|desc=|value=home24.fr
+                                              AXStaticText|title=|desc=|value=+ 59,99 € de frais de port
+                                              AXImage|title=|desc=Note : 4,5 sur 5 (30) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Get Laid Beds FR|value=
+                                              AXLink|title=|desc= à chez Get Laid Beds FR|value=
+                                            AXHeading|title=Lit à baldaquin à quatre colonnes – Classic | Lits En Bois | Get Laid Beds FR | 100 % Bois Massif | Fabrication Artisanale et Européenne | Options su|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin à quatre colonnes – Classic | Lits En Bois | Get Laid Beds FR | 100 % Bois Massif | Fabrication Artisanale et Européenne | Options su
+                                            AXStaticText|title=|desc=|value=1 186,00 €
+                                            AXGroup|title=|desc=Vendu par Get Laid Beds FR|value=
+                                              AXStaticText|title=|desc=|value=Get Laid Beds FR
+                                              AXStaticText|title=|desc=|value=+ 28,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Lit à Baldaquin Marron Clair en Bois d'Hévéa 180 x 200 cm Lattes Style Design Moderne Minimaliste|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à Baldaquin Marron Clair en Bois d'Hévéa 180 x 200 cm Lattes Style Design Moderne Minimaliste
+                                            AXStaticText|title=|desc=|value=559,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 365 jours
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez westwing.fr|value=
+                                              AXLink|title=|desc= à chez westwing.fr|value=
+                                            AXHeading|title=Lit à baldaquin en métal noir Belle Noir Métal larg. 160 x long. 200 cm | Westwing Collection|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin en métal noir Belle Noir Métal larg. 160 x long. 200 cm | Westwing Collection
+                                            AXStaticText|title=|desc=|value=899,00 €
+                                            AXGroup|title=|desc=Vendu par westwing.fr|value=
+                                              AXStaticText|title=|desc=|value=westwing.fr
+                                              AXStaticText|title=|desc=|value=+ 50,95 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez VoilOra|value=
+                                              AXLink|title=|desc= à chez VoilOra|value=
+                                            AXHeading|title=Ciel de Lit Baldaquin | Adulte 180x200x200 / Blanc|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Ciel de Lit Baldaquin | Adulte 180x200x200 / Blanc
+                                            AXStaticText|title=|desc=|value=89,90 €
+                                            AXGroup|title=|desc=Vendu par VoilOra|value=
+                                              AXStaticText|title=|desc=|value=VoilOra
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Maisons du Monde|value=
+                                              AXLink|title=|desc= à chez Maisons du Monde|value=
+                                              AXStaticText|title=|desc=|value=15 % DE REMISE
+                                            AXHeading|title=Lit à baldaquin d'extérieur en bois de teck, voile blanc et coussins blancs style inspirations d'ailleurs Teck Maisons du monde|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin d'extérieur en bois de teck, voile blanc et coussins blancs style inspirations d'ailleurs Teck Maisons du monde
+                                            AXStaticText|title=|desc=|value=1 869,15 €
+                                            AXStaticText|title=|desc=|value=2 199 
+                                            AXGroup|title=|desc=Vendu par Maisons du Monde|value=
+                                              AXStaticText|title=|desc=|value=Maisons du Monde
+                                              AXStaticText|title=|desc=|value=Code de réduction
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Yteo|value=
+                                                    AXStaticText|title=|desc=|value=Par Yteo
+                                            AXLink|title=|desc= à chez vidaXL.fr|value=
+                                              AXLink|title=|desc= à chez vidaXL.fr|value=
+                                            AXHeading|title=Cadre de lit à baldaquin sans matelas gris métal 180x200 cm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Cadre de lit à baldaquin sans matelas gris métal 180x200 cm
+                                            AXStaticText|title=|desc=|value=213,99 €
+                                            AXGroup|title=|desc=Vendu par vidaXL.fr|value=
+                                              AXStaticText|title=|desc=|value=vidaXL.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 3,6 sur 5 (622) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Klarna|value=
+                                                    AXStaticText|title=|desc=|value=Par Klarna
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Lit à Baldaquin Marron Clair en Bois d'Hévéa 160 x 200 cm Lattes Style Design Moderne Minimaliste|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à Baldaquin Marron Clair en Bois d'Hévéa 160 x 200 cm Lattes Style Design Moderne Minimaliste
+                                            AXStaticText|title=|desc=|value=509,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 365 jours
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Kasa-Store.com|value=
+                                              AXLink|title=|desc= à chez Kasa-Store.com|value=
+                                            AXHeading|title=Lit à baldaquin blanc rustique cilek adapté à la chambre de votre fille|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lit à baldaquin blanc rustique cilek adapté à la chambre de votre fille
+                                            AXStaticText|title=|desc=|value=630,00 €
+                                            AXGroup|title=|desc=Vendu par Kasa-Store.com|value=
+                                              AXStaticText|title=|desc=|value=Kasa-Store.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Ciel de Lin|value=
+                                              AXLink|title=|desc= à chez Ciel de Lin|value=
+                                            AXHeading|title=Ciel de lit adulte romantique – Baldaquin moustiquai..., 180cmX200cm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Ciel de lit adulte romantique – Baldaquin moustiquai..., 180cmX200cm
+                                            AXStaticText|title=|desc=|value=125,90 €
+                                            AXGroup|title=|desc=Vendu par Ciel de Lin|value=
+                                              AXStaticText|title=|desc=|value=Ciel de Lin
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Etsy|value=
+                                              AXLink|title=|desc= à chez Etsy|value=
+                                            AXHeading|title=Kalamantan - Madura Lit en bois avec baldaquin | Lit de conteneur | Lit à baldaquin | Lit en bois | Lit colonial|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Kalamantan - Madura Lit en bois avec baldaquin | Lit de conteneur | Lit à baldaquin | Lit en bois | Lit colonial
+                                            AXStaticText|title=|desc=|value=1 260,00 €
+                                            AXGroup|title=|desc=Vendu par Etsy|value=
+                                              AXStaticText|title=|desc=|value=Etsy
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,3 sur 5 (9) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Productcaster|value=
+                                                    AXStaticText|title=|desc=|value=Par Productcaster
+                                            AXLink|title=|desc= à chez La Redoute|value=
+                                              AXLink|title=|desc= à chez La Redoute|value=
+                                            AXHeading|title=Terre De Nuit Lit à baldaquin en bois massif 140x190 cm Noir|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Terre De Nuit Lit à baldaquin en bois massif 140x190 cm Noir
+                                            AXStaticText|title=|desc=|value=449,00 €
+                                            AXGroup|title=|desc=Vendu par La Redoute|value=
+                                              AXStaticText|title=|desc=|value=La Redoute
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Cadre de Lit Baldaquin Noir en Métal 140 x 200 cm Lit Double Structure à Lattes Contreplaqué Style Industriel et Minimaliste|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Cadre de Lit Baldaquin Noir en Métal 140 x 200 cm Lit Double Structure à Lattes Contreplaqué Style Industriel et Minimaliste
+                                            AXStaticText|title=|desc=|value=309,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 3,8 sur 5 (18) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Conforama|value=
+                                              AXLink|title=|desc= à chez Conforama|value=
+                                            AXHeading|title=Sweiko Lit À Baldaquin 140x190 Avec Rangement Baldaquin Fer Montants Amovibles Led Ports Usb Type C Trois Tiroirs Noir - Lit Adulte|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Sweiko Lit À Baldaquin 140x190 Avec Rangement Baldaquin Fer Montants Amovibles Led Ports Usb Type C Trois Tiroirs Noir - Lit Adulte
+                                            AXStaticText|title=|desc=|value=211,99 €
+                                            AXGroup|title=|desc=Vendu par Conforama|value=
+                                              AXStaticText|title=|desc=|value=Conforama
+                                              AXStaticText|title=|desc=|value=+ 59,99 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours gratuits
+                                                AXLink|title=|desc=Par Yteo|value=
+                                                    AXStaticText|title=|desc=|value=Par Yteo
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Yteo|value=
+                                                AXStaticText|title=|desc=|value=Yteo
+                                              AXLink|title=|desc=Smarketer|value=
+                                                AXStaticText|title=|desc=|value=Smarketer
+                                              AXLink|title=|desc=agento24|value=
+                                                AXStaticText|title=|desc=|value=agento24
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Adference Shopping|value=
+                                                AXStaticText|title=|desc=|value=Adference Shopping
+                                              AXLink|title=|desc=Channable|value=
+                                                AXStaticText|title=|desc=|value=Channable
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=SOLDES Achat Lit - Lit à baldaquin pas cher But.fr https://www.but.fr › ... › Meuble chambre › Lit|value=
+                                            AXHeading|title=SOLDES Achat Lit - Lit à baldaquin pas cher|desc=|value=3
+                                              AXStaticText|title=|desc=|value=SOLDES Achat Lit - Lit à baldaquin pas cher
+                                              AXStaticText|title=|desc=|value=But.fr
+                                                AXStaticText|title=|desc=|value=https://www.but.fr
+                                                AXStaticText|title=|desc=|value= › ... › Meuble chambre › Lit
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Pour une chambre de taille standard (12 à 15 m²), 
+                                            AXStaticText|title=|desc=|value=un lit à baldaquin de 140x190 cm
+                                          AXStaticText|title=|desc=|value= représente souvent le compromis idéal entre confort de couchage et occupation ...
+                                          AXLink|title=|desc=lit baldaquin sur www.but.fr|value=
+                                              AXImage|title=|desc=lit baldaquin sur www.but.fr|value=
+                                          AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                                            AXButton|title=|desc=IKEA VITARNA structure lit à baldaquin. Prix actuel : 169,00 €. IKEA. En magasin. Note : 4,4 sur 5. 67 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=ModernLuxe Lit baldaquin 140x200cm en bois. Prix actuel : 246,35 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=PUGSDRLY Lit Baldaquin 140x200 avec 2 Tiroirs de Rangement,Lit Double avec Sommier à Lattes et Tête de lit Moelleux,Lit en Bois pour Enfant,Adolescent. Prix actuel : 252,95 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit baldaquin ROMANCE laqué. Prix actuel : 269,90 €. Plus de prix disponibles. e.leclerc et plus. Note : 4,3 sur 5. 31 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit double à baldaquin ROMANCE. Prix actuel : 249,90 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,4 sur 5. 67 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit à baldaquin en acacia massif 160x200 style inspirations d'ailleurs Maisons du monde. Prix actuel : 629,00 €. Maisons du Monde. Note : 3,9 sur 5. 14 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=IDIMEX Lit à baldaquin NADINE 90 x 200 cm. Prix actuel : 179,95 €. Plus de prix disponibles. idealo France et plus. Note : 3,6 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit avec baldaquin 140x200 cm - Grands tiroirs, dossier doux - Bois, Blanc. Prix actuel : 266,99 €. Leroy Merlin. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Lits à baldaquin : acheter pas cher | Les meilleures offres du comparateur de prix meubles.fr|value=
+                                                AXHeading|title=Lits à baldaquin : acheter pas cher | Les meilleures offres du comparateur de prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Lits à baldaquin : acheter pas cher | Les meilleures offres du comparateur de prix
+                                                    AXStaticText|title=|desc=|value=meubles.fr
+                                                AXLink|title=|desc=Lits à baldaquin design meubles.fr|value=
+                                                AXHeading|title=Lits à baldaquin design|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Lits à baldaquin design
+                                                    AXStaticText|title=|desc=|value=meubles.fr
+                                                AXLink|title=|desc=Lits à baldaquin en bois : acheter pas cher | Les meilleures offres du comparateur de prix meubles.fr|value=
+                                                AXHeading|title=Lits à baldaquin en bois : acheter pas cher | Les meilleures offres du comparateur de prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Lits à baldaquin en bois : acheter pas cher | Les meilleures offres du comparateur de prix
+                                                    AXStaticText|title=|desc=|value=meubles.fr
+                                                AXLink|title=|desc=Lits à baldaquin modernes meubles.fr|value=
+                                                AXHeading|title=Lits à baldaquin modernes|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Lits à baldaquin modernes
+                                                    AXStaticText|title=|desc=|value=meubles.fr
+                                                  AXLink|title=|desc=Lits baldaquins (2026) Meilleures Ventes Lionshome.fr|value=
+                                                  AXHeading|title=Lits baldaquins (2026) Meilleures Ventes|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Lits baldaquins (2026) Meilleures Ventes
+                                                      AXStaticText|title=|desc=|value=Lionshome.fr
+                                                  AXLink|title=|desc=Lits à baldaquin en bois massif meubles.fr|value=
+                                                  AXHeading|title=Lits à baldaquin en bois massif|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Lits à baldaquin en bois massif
+                                                      AXStaticText|title=|desc=|value=meubles.fr
+                                                  AXLink|title=|desc=Lits à baldaquin style classique meubles.fr|value=
+                                                  AXHeading|title=Lits à baldaquin style classique|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Lits à baldaquin style classique
+                                                      AXStaticText|title=|desc=|value=meubles.fr
+                                                  AXLink|title=|desc=Lits à baldaquin pour matelas 160x200 meubles.fr|value=
+                                                  AXHeading|title=Lits à baldaquin pour matelas 160x200|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Lits à baldaquin pour matelas 160x200
+                                                      AXStaticText|title=|desc=|value=meubles.fr
+                                                  AXLink|title=|desc=Lits baldaquin une place (2026) Meilleures Ventes Lionshome.fr|value=
+                                                  AXHeading|title=Lits baldaquin une place (2026) Meilleures Ventes|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Lits baldaquin une place (2026) Meilleures Ventes
+                                                      AXStaticText|title=|desc=|value=Lionshome.fr
+                                                  AXLink|title=|desc=Lits à baldaquin contemporains meubles.fr|value=
+                                                  AXHeading|title=Lits à baldaquin contemporains|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Lits à baldaquin contemporains
+                                                      AXStaticText|title=|desc=|value=meubles.fr
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Lit baldaquin pas cher | Lits adulte Conforama https://www.conforama.fr › ... › Lit adulte|value=
+                                            AXHeading|title=Lit baldaquin pas cher | Lits adulte|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Lit baldaquin pas cher | Lits adulte
+                                              AXStaticText|title=|desc=|value=Conforama
+                                                AXStaticText|title=|desc=|value=https://www.conforama.fr
+                                                AXStaticText|title=|desc=|value= › ... › Lit adulte
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Le Lit baldaquin 140x190 cm SWEIKO coloris noir
+                                          AXStaticText|title=|desc=|value= compte parmi les choix les plus appréciés de la gamme, plébiscité pour son rapport qualité-prix. Que vous le ...
+                                          AXLink|title=|desc=Images concernant lit baldaquin sur www.conforama.fr|value=
+                                          AXLink|title=|desc=VITARNA structure lit à baldaquin, blanc, 140x200 cm IKEA https://www.ikea.com › ... › Lits › Lits doubles|value=
+                                            AXHeading|title=VITARNA structure lit à baldaquin, blanc, 140x200 cm|desc=|value=3
+                                              AXStaticText|title=|desc=|value=VITARNA structure lit à baldaquin, blanc, 140x200 cm
+                                              AXStaticText|title=|desc=|value=IKEA
+                                                AXStaticText|title=|desc=|value=https://www.ikea.com
+                                                AXStaticText|title=|desc=|value= › ... › Lits › Lits doubles
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Lit à baldaquin VITARNA en métal blanc, élégant et moderne
+                                          AXStaticText|title=|desc=|value=, idéal pour les petites. Chambre moderne avec lit VITARNA, literie bleu marine ...
+                                          AXLink|title=|desc=lit baldaquin sur www.ikea.com|value=
+                                              AXImage|title=|desc=lit baldaquin sur www.ikea.com|value=
+                                            AXStaticText|title=|desc=|value=169,00 €
+                                            AXStaticText|title=|desc=|value=En stock
+                                            AXImage|title=|desc=Note : 5,0 sur 5 (5) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=50 € de livraison
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXStaticText|title=|desc=|value=Franconville · Ouvert
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Quels sont les avantages d'un lit baldaquin ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quels sont les avantages d'un lit baldaquin ?
+                                              AXButton|title=Un lit à baldaquin, est-ce une bonne idée ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Un lit à baldaquin, est-ce une bonne idée ?
+                                              AXButton|title=Pourquoi des lits à baldaquin ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Pourquoi des lits à baldaquin ?
+                                              AXButton|title=Quels sont les différents types de baldaquins ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quels sont les différents types de baldaquins ?
+                                        AXHeading|title=Images|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Images
+                                              AXLink|title=|desc=Lit Baldaquin Adulte | Rouge Aventura | Univers Ciel de Lit Univers Ciel de Lit|value=
+                                              AXButton|title=Lit Baldaquin Adulte | Rouge Aventura | Univers Ciel de Lit|desc=|value=
+                                                  AXImage|title=|desc=Lit Baldaquin Adulte | Rouge Aventura | Univers Ciel de Lit|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Lit adulte Contemporain Lit à baldaquin 180x200 cm Bambou 42910 ManoMano|value=
+                                              AXButton|title=Lit adulte Contemporain Lit à baldaquin 180x200 cm Bambou 42910|desc=|value=
+                                                  AXImage|title=|desc=Lit adulte Contemporain Lit à baldaquin 180x200 cm Bambou 42910|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Lit princesse de luxe à baldaquin moustiquaire lit à baldaquin avec dôme suspendu pour lit simple/Double lit princesse filet rideau,Blanc,1.2m : ... Amazon|value=
+                                              AXButton|title=Lit princesse de luxe à baldaquin moustiquaire lit à baldaquin avec dôme suspendu pour lit simple/Double lit princesse filet rideau,Blanc,1.2m : ...|desc=|value=
+                                                  AXImage|title=|desc=Lit princesse de luxe à baldaquin moustiquaire lit à baldaquin avec dôme suspendu pour lit simple/Double lit princesse filet rideau,Blanc,1.2m : ...|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Lit Baldaquin en chêne rustique Antan Meubles Doudard|value=
+                                              AXButton|title=Lit Baldaquin en chêne rustique Antan|desc=|value=
+                                                  AXImage|title=|desc=Lit Baldaquin en chêne rustique Antan|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Lits à Baldaquins - Certifié ECO - Livraison gratuite en France Hoppekids|value=
+                                              AXButton|title=Lits à Baldaquins - Certifié ECO - Livraison gratuite en France|desc=|value=
+                                                  AXImage|title=|desc=Lits à Baldaquins - Certifié ECO - Livraison gratuite en France|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Lit à baldaquins en chêne huilé pour couchage 160x200 cm "Kamaia" Meuble House|value=
+                                              AXButton|title=Lit à baldaquins en chêne huilé pour couchage 160x200 cm "Kamaia"|desc=|value=
+                                                  AXImage|title=|desc=Lit à baldaquins en chêne huilé pour couchage 160x200 cm "Kamaia"|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                      AXButton|title=Afficher plus d'images|desc=|value=
+                                          AXStaticText|title=|desc=|value=Afficher plus d'images
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Lit à baldaquin Wikipedia https://fr.wikipedia.org › wiki › Lit_à_baldaquin|value=
+                                            AXHeading|title=Lit à baldaquin|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Lit à baldaquin
+                                              AXStaticText|title=|desc=|value=Wikipedia
+                                                AXStaticText|title=|desc=|value=https://fr.wikipedia.org
+                                                AXStaticText|title=|desc=|value= › wiki › Lit_à_baldaquin
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Un 
+                                            AXStaticText|title=|desc=|value=lit
+                                          AXStaticText|title=|desc=|value= à 
+                                            AXStaticText|title=|desc=|value=baldaquin
+                                          AXStaticText|title=|desc=|value= est un 
+                                            AXStaticText|title=|desc=|value=lit
+                                          AXStaticText|title=|desc=|value= dont la forme, adoptée vers 1490 dans les maisons riches, consiste en un 
+                                            AXStaticText|title=|desc=|value=baldaquin
+                                          AXStaticText|title=|desc=|value= en bois ou en métal d'où descend un drapé
+                                          AXLink|title=|desc=lit baldaquin sur fr.wikipedia.org|value=
+                                              AXImage|title=|desc=lit baldaquin sur fr.wikipedia.org|value=
+                                                            AXButton|title=|desc=Alfred et Compagnie Lit Baldaquin en Pin. PROMOTION. Prix actuel : 455,71 €. Avant : 506 €. Alfred & Compagnie. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit à baldaquin 90 x 190 cm avec 2 tiroirs et USB/Type-C. Prix actuel : 185,99 €. Leroy Merlin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=UNIQKA Java Lit baldaquin 160x200 cm Teck naturel. Prix actuel : 1 512,00 €. Uniqka Design. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit Double Baldaquin 140x190 cm Avec Rangement,éclairage Led,port Usb-c ,3 Tiroirs Tête de Lit Rembourrée Métal Et Bois. Prix actuel : 257,13 €. Plus de prix disponibles. Leroy Merlin et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pier Import Lit baldaquin cadre en bois – style naturel VERBIER. Prix actuel : 1 801,15 €. Plus de prix disponibles. Pierimport et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit à baldaquin 90x200 Sommier Inclus Vipack Amori. Prix actuel : 389,00 €. Plus de prix disponibles. Crack et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit à baldaquin 140/190 cm noir en métal avec LED USB et rangements. Prix actuel : 295,99 €. Leroy Merlin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit à Baldaquin 140x190 en Métal noir Avec 3 Tiroirs LED et USB Type-c. Prix actuel : 229,99 €. ManoMano.fr. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                        AXHeading|title=Carte|desc=|value=3
+                                          AXStaticText|title=|desc=|value=Carte
+                                              AXButton|title=IKEA Franconville Note : 3,9 sur 5 20 k avis d'utilisateurs · Magasin de meubles Franconville · 09 69 36 20 06 Ouvert · Ferme à 20:00 En stock : lits à baldaquin · Mis à jour aujourd'hui · Site Web|desc=|value=
+                                                AXHeading|title=IKEA Franconville|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=IKEA Franconville
+                                                  AXImage|title=|desc=Note : 3,9 sur 5 20 k avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de meubles
+                                                  AXStaticText|title=|desc=|value=Franconville · 09 69 36 20 06
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 20:00
+                                                  AXStaticText|title=|desc=|value=En stock : 
+                                                  AXStaticText|title=|desc=|value=lits à baldaquin
+                                                  AXStaticText|title=|desc=|value= · Mis à jour aujourd'hui
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Bimodal Armoire Lit par La Maison Convertible Note : 4,5 sur 5 292 avis d'utilisateurs · Magasin de meubles Paris · 01 42 77 66 32 Ouvert · Ferme à 19:00 Achats en magasin· Livraison · Site Web|desc=|value=
+                                                AXHeading|title=Bimodal Armoire Lit par La Maison Convertible|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Bimodal Armoire Lit par La Maison Convertible
+                                                  AXImage|title=|desc=Note : 4,5 sur 5 292 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de meubles
+                                                  AXStaticText|title=|desc=|value=Paris · 01 42 77 66 32
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                AXStaticText|title=|desc=|value=Achats en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Livraison
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                        AXHeading|title=Voir plus de lieux|desc=|value=3
+                                            AXLink|title=|desc=Voir plus de lieux|value=
+                                                AXStaticText|title=|desc=|value=Voir plus de lieux
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=7 merveilleux lits à baldaquin pour transformer une chambre MilK Decoration https://www.milkdecoration.com › tendance-7-merveill...|value=
+                                            AXHeading|title=7 merveilleux lits à baldaquin pour transformer une chambre|desc=|value=3
+                                              AXStaticText|title=|desc=|value=7 merveilleux lits à baldaquin pour transformer une chambre
+                                              AXStaticText|title=|desc=|value=MilK Decoration
+                                                AXStaticText|title=|desc=|value=https://www.milkdecoration.com
+                                                AXStaticText|title=|desc=|value= › tendance-7-merveill...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=10 févr. 2025
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Un temps tombés en désuétude, les 
+                                            AXStaticText|title=|desc=|value=lits
+                                          AXStaticText|title=|desc=|value= à 
+                                            AXStaticText|title=|desc=|value=baldaquin
+                                          AXStaticText|title=|desc=|value= opèrent un grand retour. La preuve avec ces pièces en bois, en métal ou encore en tissu ...
+                                          AXLink|title=|desc=lit baldaquin sur www.milkdecoration.com|value=
+                                              AXImage|title=|desc=lit baldaquin sur www.milkdecoration.com|value=
+                                                            AXButton|title=|desc=ARFARLY Lit à baldaquin, structure double en métal, sommier à lattes, meubles de chambre, couleur noire, 120 x 200 cm. Prix actuel : 126,50 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit balinais en bois beige. Prix actuel : 1 819,00 €. Plus de prix disponibles. Maisons du Monde et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=lit à baldaquin 140x200cm avec lit gigogne 90x190cm lit capitonné avec 3 tiroirs et éclairage LED. Prix actuel : 344,13 €. Leroy Merlin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=lit à baldaquin 140x200 cm avec Rangement et Dossier Confortable - Structure Stable - Blanc. Prix actuel : 309,99 €. Leroy Merlin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lit à baldaquin 140x200 cm en bois gris avec grand rangement, sommier inclus et tête moelleuse CIPACHO. Prix actuel : 198,99 €. Cdiscount. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Okwish Lit à baldaquin 140200 cm avec grands tiroirs et dossier moelleux. Prix actuel : 299,99 €. ManoMano.fr. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=vidaXL Cadre de lit à baldaquin Gris Bois de pin massif 90 x. PROMOTION. Prix actuel : 116,99 €. Avant : 131 €. Plus de prix disponibles. BUT Marketplace et plus. Note : 2,5 sur 5. 37 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Casa Padrino lit à baldaquin de luxe en bois massif marron. Prix actuel : 9 499,90 €. Plus de prix disponibles. Casa Padrino et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Lits à baldaquin : acheter pas cher meubles.fr https://www.meubles.fr › Chambre › Lits|value=
+                                            AXHeading|title=Lits à baldaquin : acheter pas cher|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Lits à baldaquin : acheter pas cher
+                                              AXStaticText|title=|desc=|value=meubles.fr
+                                                AXStaticText|title=|desc=|value=https://www.meubles.fr
+                                                AXStaticText|title=|desc=|value= › Chambre › Lits
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Lits à baldaquin Prix ・ partir de 249,90 €
+                                          AXStaticText|title=|desc=|value= 2 ・ 899,00 €864,00 ・ sera généralement plus cher qu'un modèle double.
+                                          AXLink|title=|desc=lit baldaquin sur www.meubles.fr|value=
+                                              AXImage|title=|desc=lit baldaquin sur www.meubles.fr|value=
+                                          AXLink|title=|desc=Lits à baldaquin en bois massif et fer forgé Le monde du lit https://www.le-monde-du-lit.fr › Lits|value=
+                                            AXHeading|title=Lits à baldaquin en bois massif et fer forgé|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Lits à baldaquin en bois massif et fer forgé
+                                              AXStaticText|title=|desc=|value=Le monde du lit
+                                                AXStaticText|title=|desc=|value=https://www.le-monde-du-lit.fr
+                                                AXStaticText|title=|desc=|value= › Lits
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Vous souhaitez acheter un lit à baldaquin en bois massif ? 
+                                            AXStaticText|title=|desc=|value=Choisissez parmi notre sélection au design modern et épuré
+                                          AXStaticText|title=|desc=|value=. En chêne, en hêtre, en frêne, en bois ...
+                                          AXLink|title=|desc=Images concernant lit baldaquin sur www.le-monde-du-lit.fr|value=
+                                          AXLink|title=|desc=Lits à baldaquin et lits baroque Meuble de Style https://www.meubledestyle.fr › lits-a-baldaquin-et-lits-b...|value=
+                                            AXHeading|title=Lits à baldaquin et lits baroque|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Lits à baldaquin et lits baroque
+                                              AXStaticText|title=|desc=|value=Meuble de Style
+                                                AXStaticText|title=|desc=|value=https://www.meubledestyle.fr
+                                                AXStaticText|title=|desc=|value= › lits-a-baldaquin-et-lits-b...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Lit rococo doré en acajou massif Chambord · 999,00 €
+                                          AXStaticText|title=|desc=|value= ; Lit baldaquin à colonnes style colonial en acajou Belfast · 999,00 € ; Lit à baldaquin Renaissance en acajou ...
+                                          AXLink|title=|desc=Images concernant lit baldaquin sur www.meubledestyle.fr|value=
+                                          AXLink|title=|desc=Choisir un lit baldaquin : ce qu'il faut savoir Emma https://www.emma.fr › Lit|value=
+                                            AXHeading|title=Choisir un lit baldaquin : ce qu'il faut savoir|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Choisir un lit baldaquin : ce qu'il faut savoir
+                                              AXStaticText|title=|desc=|value=Emma
+                                                AXStaticText|title=|desc=|value=https://www.emma.fr
+                                                AXStaticText|title=|desc=|value= › Lit
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=24 févr. 2022
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Quels sont les avantages d'un lit baldaquin ? · 
+                                            AXStaticText|title=|desc=|value=Il rend la chambre à coucher remarquable
+                                          AXStaticText|title=|desc=|value=. · Il fait du lit un cocon intime. · Il offre de ...
+                                          AXLink|title=|desc=lit baldaquin sur www.emma.fr|value=
+                                              AXImage|title=|desc=lit baldaquin sur www.emma.fr|value=
+                                          AXLink|title=|desc=Lits A baldaquin Maisons du Monde https://www.maisonsdumonde.com › Literie › Lits|value=
+                                            AXHeading|title=Lits A baldaquin|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Lits A baldaquin
+                                              AXStaticText|title=|desc=|value=Maisons du Monde
+                                                AXStaticText|title=|desc=|value=https://www.maisonsdumonde.com
+                                                AXStaticText|title=|desc=|value= › Literie › Lits
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Nos lits à baldaquin sont disponibles dans diverses dimensions
+                                          AXStaticText|title=|desc=|value=, allant du lit simple au lit king size. Que vous recherchiez un lit de 160x200 cm pour un couple ...
+                                          AXLink|title=|desc=lit baldaquin sur www.maisonsdumonde.com|value=
+                                              AXImage|title=|desc=lit baldaquin sur www.maisonsdumonde.com|value=
+                                          AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Lit baldaquin 180x200|value=
+                                        AXStaticText|title=|desc=|value=Lit baldaquin 
+                                        AXStaticText|title=|desc=|value=180x200
+                                      AXLink|title=|desc=Lit baldaquin bois|value=
+                                        AXStaticText|title=|desc=|value=Lit baldaquin 
+                                        AXStaticText|title=|desc=|value=bois
+                                      AXLink|title=|desc=Lit baldaquin princesse|value=
+                                        AXStaticText|title=|desc=|value=Lit baldaquin 
+                                        AXStaticText|title=|desc=|value=princesse
+                                      AXLink|title=|desc=Lit baldaquin IKEA|value=
+                                        AXStaticText|title=|desc=|value=Lit baldaquin 
+                                        AXStaticText|title=|desc=|value=IKEA
+                                      AXLink|title=|desc=Lit baldaquin 160x200|value=
+                                        AXStaticText|title=|desc=|value=Lit baldaquin 
+                                        AXStaticText|title=|desc=|value=160x200
+                                      AXLink|title=|desc=Lit baldaquin 140x200|value=
+                                        AXStaticText|title=|desc=|value=Lit baldaquin 
+                                        AXStaticText|title=|desc=|value=140x200
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=lit baldaquin - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

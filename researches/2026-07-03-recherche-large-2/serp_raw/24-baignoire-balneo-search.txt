@@ -1,0 +1,776 @@
+AXWindow|title=baignoire balnéo - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=baignoire balnéo - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=baignoire%20balnéo&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=baignoire balnéo - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=baignoire balnéo
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Lieux|value=
+                                              AXStaticText|title=|desc=|value=Lieux
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter Autoportantes|value=
+                                              AXStaticText|title=|desc=|value=Autoportantes
+                                            AXLink|title=|desc=Ajouter À porte|value=
+                                              AXStaticText|title=|desc=|value=À porte
+                                            AXLink|title=|desc=Ajouter Avec jets|value=
+                                              AXStaticText|title=|desc=|value=Avec jets
+                                            AXLink|title=|desc=Ajouter Rectangulaire|value=
+                                              AXStaticText|title=|desc=|value=Rectangulaire
+                                            AXLink|title=|desc=Ajouter Allibert|value=
+                                              AXStaticText|title=|desc=|value=Allibert
+                                            AXLink|title=|desc=Ajouter Jacuzzi|value=
+                                              AXStaticText|title=|desc=|value=Jacuzzi
+                                            AXLink|title=|desc=Ajouter Beliani|value=
+                                              AXStaticText|title=|desc=|value=Beliani
+                                            AXLink|title=|desc=Ajouter New|value=
+                                              AXStaticText|title=|desc=|value=New
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=95390 Saint-Prix|desc=|value=2
+                                AXStaticText|title=|desc=|value=95390 Saint-Prix
+                                AXButton|title=Choisir une zone|desc=|value=
+                                AXButton|title=|desc=Comment la position est utilisée|value=
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                              AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                            AXHeading|title=Baignoire Balnéo Victoria Blanc 2 Places 192x142 - Gauche|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo Victoria Blanc 2 Places 192x142 - Gauche
+                                            AXStaticText|title=|desc=|value=4 400,00 €
+                                            AXGroup|title=|desc=Vendu par Sauna-hammam.fr|value=
+                                              AXStaticText|title=|desc=|value=Sauna-hammam.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Thalassor|value=
+                                              AXLink|title=|desc= à chez Thalassor|value=
+                                            AXHeading|title=Baignoire balnéo d'angle 150x150 cm MAKEMO de THALASSOR|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balnéo d'angle 150x150 cm MAKEMO de THALASSOR
+                                            AXStaticText|title=|desc=|value=2 052,00 €
+                                            AXGroup|title=|desc=Vendu par Thalassor|value=
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Baignoire Balnéo autoportante de Forme Rectangulaire en Acrylique avec 2 Appui-Têtes une Surface Vitrée et une Capacité de 170 Litres Max Beliani|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo autoportante de Forme Rectangulaire en Acrylique avec 2 Appui-Têtes une Surface Vitrée et une Capacité de 170 Litres Max Beliani
+                                            AXStaticText|title=|desc=|value=1 169,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Caprice - 3 Places - Provilège|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Caprice - 3 Places - Provilège
+                                            AXStaticText|title=|desc=|value=3 912,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez radar-mobilier.fr|value=
+                                              AXLink|title=|desc= à chez radar-mobilier.fr|value=
+                                            AXHeading|title=Baignoire balneo 2 places rectangulaire Caïman S 28 jets Whirlpool|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balneo 2 places rectangulaire Caïman S 28 jets Whirlpool
+                                            AXStaticText|title=|desc=|value=1 190,00 €
+                                            AXStaticText|title=|desc=|value=+ d'autres
+                                            AXGroup|title=|desc=Vendu par radar-mobilier.fr|value=
+                                              AXStaticText|title=|desc=|value=radar-mobilier.fr
+                                                AXStaticText|title=|desc=|value=3 autres offres et +
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Tahiti - 6 Places - Sunazur|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Tahiti - 6 Places - Sunazur
+                                            AXStaticText|title=|desc=|value=4 793,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Eden - 4 Places - Provilège|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Eden - 4 Places - Provilège
+                                            AXStaticText|title=|desc=|value=4 328,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Titania - 6 Places - Spalnéa|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Titania - 6 Places - Spalnéa
+                                            AXStaticText|title=|desc=|value=10 330,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Luevo - 5 Places - Spalnéa|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Luevo - 5 Places - Spalnéa
+                                            AXStaticText|title=|desc=|value=10 830,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Orphys - 6 Places - Provilège|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Orphys - 6 Places - Provilège
+                                            AXStaticText|title=|desc=|value=5 694,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa A310 - 3 Places - Spalnéa|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa A310 - 3 Places - Spalnéa
+                                            AXStaticText|title=|desc=|value=5 850,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                              AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                            AXHeading|title=Baignoire Balnéo Victoria Black 2 Places 192x142 - Droite|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo Victoria Black 2 Places 192x142 - Droite
+                                            AXStaticText|title=|desc=|value=4 480,00 €
+                                            AXGroup|title=|desc=Vendu par Sauna-hammam.fr|value=
+                                              AXStaticText|title=|desc=|value=Sauna-hammam.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Omega - 3 Places - Sunazur|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Omega - 3 Places - Sunazur
+                                            AXStaticText|title=|desc=|value=3 643,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Thalassor|value=
+                                              AXLink|title=|desc= à chez Thalassor|value=
+                                            AXHeading|title=Baignoire balnéo 180 cm rectangulaire STELLA THALASSOR|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balnéo 180 cm rectangulaire STELLA THALASSOR
+                                            AXStaticText|title=|desc=|value=1 996,80 €
+                                            AXGroup|title=|desc=Vendu par Thalassor|value=
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Thalassor|value=
+                                              AXLink|title=|desc= à chez Thalassor|value=
+                                            AXHeading|title=Baignoire balnéo d'angle 150 cm VENISE DROITE THALASSOR|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balnéo d'angle 150 cm VENISE DROITE THALASSOR
+                                            AXStaticText|title=|desc=|value=1 856,40 €
+                                            AXGroup|title=|desc=Vendu par Thalassor|value=
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                              AXLink|title=|desc= à chez Bain et Confort - FR|value=
+                                            AXHeading|title=Spa Duo - 2 Places - Evasion|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Spa Duo - 2 Places - Evasion
+                                            AXStaticText|title=|desc=|value=3 846,00 €
+                                            AXGroup|title=|desc=Vendu par Bain et Confort - FR|value=
+                                              AXStaticText|title=|desc=|value=Bain et Confort - FR
+                                              AXStaticText|title=|desc=|value=+ 350,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                              AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                            AXHeading|title=Baignoire Balnéo Asymétrique Marina Black 2 Places Archipel 181x151 - Droite|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo Asymétrique Marina Black 2 Places Archipel 181x151 - Droite
+                                            AXStaticText|title=|desc=|value=3 760,00 €
+                                            AXGroup|title=|desc=Vendu par Sauna-hammam.fr|value=
+                                              AXStaticText|title=|desc=|value=Sauna-hammam.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Thalassor|value=
+                                              AXLink|title=|desc= à chez Thalassor|value=
+                                            AXHeading|title=Baignoire balnéo rectangulaire 170 cm ANGEL DROITE|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balnéo rectangulaire 170 cm ANGEL DROITE
+                                            AXStaticText|title=|desc=|value=1 692,00 €
+                                            AXGroup|title=|desc=Vendu par Thalassor|value=
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                              AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                            AXHeading|title=Baignoire Balnéo Victoria Black 2 Places 192x142 - Gauche|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo Victoria Black 2 Places 192x142 - Gauche
+                                            AXStaticText|title=|desc=|value=4 480,00 €
+                                            AXGroup|title=|desc=Vendu par Sauna-hammam.fr|value=
+                                              AXStaticText|title=|desc=|value=Sauna-hammam.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Thalassor|value=
+                                              AXLink|title=|desc= à chez Thalassor|value=
+                                            AXHeading|title=Baignoire balnéo d'angle 140x140 cm AQUA GAUCHE IPOWER|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balnéo d'angle 140x140 cm AQUA GAUCHE IPOWER
+                                            AXStaticText|title=|desc=|value=8 388,00 €
+                                            AXGroup|title=|desc=Vendu par Thalassor|value=
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                              AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                            AXHeading|title=Baignoire Balnéo Asymétrique Marina Black 2 Places Archipel 181x151 - Gauche|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo Asymétrique Marina Black 2 Places Archipel 181x151 - Gauche
+                                            AXStaticText|title=|desc=|value=3 760,00 €
+                                            AXGroup|title=|desc=Vendu par Sauna-hammam.fr|value=
+                                              AXStaticText|title=|desc=|value=Sauna-hammam.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Thalassor|value=
+                                              AXLink|title=|desc= à chez Thalassor|value=
+                                            AXHeading|title=Baignoire balnéo 2 places 180 cm BOUNTY de THALASSOR|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balnéo 2 places 180 cm BOUNTY de THALASSOR
+                                            AXStaticText|title=|desc=|value=2 167,20 €
+                                            AXGroup|title=|desc=Vendu par Thalassor|value=
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Thalassor|value=
+                                              AXLink|title=|desc= à chez Thalassor|value=
+                                            AXHeading|title=Baignoire balnéo 170 cm asymétrique IRIS DROITE|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire balnéo 170 cm asymétrique IRIS DROITE
+                                            AXStaticText|title=|desc=|value=1 663,20 €
+                                            AXGroup|title=|desc=Vendu par Thalassor|value=
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Baignoire Balnéo autoportante de Forme Rectangulaire en Acrylique Noir avec 2 Appui-Têtes une Surface Vitrée et une Capacité de 170 Litres Max Beliani|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo autoportante de Forme Rectangulaire en Acrylique Noir avec 2 Appui-Têtes une Surface Vitrée et une Capacité de 170 Litres Max Beliani
+                                            AXStaticText|title=|desc=|value=1 329,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Baignoire Balnéo de Forme Rectangulaire en Acrylique Noir avec 2 Appui-Têtes Robinet Cascade LED et une Capacité de 150 Litres Maximum Beliani|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balnéo de Forme Rectangulaire en Acrylique Noir avec 2 Appui-Têtes Robinet Cascade LED et une Capacité de 150 Litres Maximum Beliani
+                                            AXStaticText|title=|desc=|value=1 339,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                              AXLink|title=|desc= à chez Sauna-hammam.fr|value=
+                                            AXHeading|title=Baignoire Balneo Lord Solo Black 1 Place Archipel 170x75 - Droite|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Baignoire Balneo Lord Solo Black 1 Place Archipel 170x75 - Droite
+                                            AXStaticText|title=|desc=|value=2 460,00 €
+                                            AXGroup|title=|desc=Vendu par Sauna-hammam.fr|value=
+                                              AXStaticText|title=|desc=|value=Sauna-hammam.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Smarketer|value=
+                                                AXStaticText|title=|desc=|value=Smarketer
+                                              AXLink|title=|desc=radar-mobilier.fr|value=
+                                                AXStaticText|title=|desc=|value=radar-mobilier.fr
+                                              AXLink|title=|desc=Channable|value=
+                                                AXStaticText|title=|desc=|value=Channable
+                                              AXLink|title=|desc=Kelkoo|value=
+                                                AXStaticText|title=|desc=|value=Kelkoo
+                                              AXLink|title=|desc=Productcaster|value=
+                                                AXStaticText|title=|desc=|value=Productcaster
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Baignoire balneo haut de gamme Sauna-hammam.fr https://sauna-hammam.fr › 92-baignoire-balneo|value=
+                                            AXHeading|title=Baignoire balneo haut de gamme|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Baignoire balneo haut de gamme
+                                              AXStaticText|title=|desc=|value=Sauna-hammam.fr
+                                                AXStaticText|title=|desc=|value=https://sauna-hammam.fr
+                                                AXStaticText|title=|desc=|value= › 92-baignoire-balneo
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Baignoire balneo
+                                          AXStaticText|title=|desc=|value= HAMILTON 170 1 place ARCHIPEL® 170x75 - DROITE ... Sur commande / En pré-commande : Livré sur RDV dans un délai de 3 à 5 mois.
+                                          AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                          AXLink|title=|desc=Images concernant baignoire balnéo sur sauna-hammam.fr|value=
+                                          AXStaticText|title=|desc=|value=Osny · Ouvert
+                                                            AXButton|title=|desc=Baignoire balnéo droite. Prix actuel : 949,00 €. Brico Dépôt. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire balnéo d'angle 140 x 140 cm. Prix actuel : 1 199,00 €. Brico Dépôt. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire Balnéo d'angle Manhattan 38 jets Whirlpool. Prix actuel : 1 390,00 €. Plus de prix disponibles. Castorama et plus. Note : 4,6 sur 5. 12 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire balnéo Victoria 49 jets. Prix actuel : 2 290,00 €. Plus de prix disponibles. Leroy Merlin et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire Balnéo Tahiti Jets. Prix actuel : 1 289,00 €. Plus de prix disponibles. Amazon et plus. Note : 4,8 sur 5. 50 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Thalassor Baignoire balnéo rectangulaire STELLA Imassage. Prix actuel : 1 996,80 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire balnéo Palamos 32 jets. Prix actuel : 1 590,00 €. Plus de prix disponibles. Darty et plus. Note : 2,3 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire Balnéo Tonsay Duo Jets 180 X120 X68 cm. Prix actuel : 1 899,00 €. Plus de prix disponibles. prix.net et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Baignoires balnéo : acheter pas cher | Les meilleures offres du comparateur de prix meubles.fr|value=
+                                                AXHeading|title=Baignoires balnéo : acheter pas cher | Les meilleures offres du comparateur de prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Baignoires balnéo : acheter pas cher | Les meilleures offres du comparateur de prix
+                                                    AXStaticText|title=|desc=|value=meubles.fr
+                                                AXLink|title=|desc=Baignoire balnéo 2026 en soldes sur idealo.fr Idealo|value=
+                                                AXHeading|title=Baignoire balnéo 2026 en soldes sur idealo.fr|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Baignoire balnéo 2026 en soldes sur idealo.fr
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Baignoires balnéo (2026) Meilleures Ventes Lionshome.fr|value=
+                                                AXHeading|title=Baignoires balnéo (2026) Meilleures Ventes|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Baignoires balnéo (2026) Meilleures Ventes
+                                                    AXStaticText|title=|desc=|value=Lionshome.fr
+                                                AXLink|title=|desc=Baignoires et jacuzzis : acheter pas cher | Les meilleures offres du comparateur de prix meubles.fr|value=
+                                                AXHeading|title=Baignoires et jacuzzis : acheter pas cher | Les meilleures offres du comparateur de prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Baignoires et jacuzzis : acheter pas cher | Les meilleures offres du comparateur de prix
+                                                    AXStaticText|title=|desc=|value=meubles.fr
+                                                  AXLink|title=|desc=Baignoire balneo 150 x 75... MeilleurVendeur.Com|value=
+                                                  AXHeading|title=Baignoire balneo 150 x 75...|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Baignoire balneo 150 x 75...
+                                                      AXStaticText|title=|desc=|value=MeilleurVendeur.Com
+                                                  AXLink|title=|desc=Beliani Baignoire balneo ... MeilleurVendeur.Com|value=
+                                                  AXHeading|title=Beliani Baignoire balneo ...|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Beliani Baignoire balneo ...
+                                                      AXStaticText|title=|desc=|value=MeilleurVendeur.Com
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Quels sont les inconvénients d'une baignoire balnéo ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quels sont les inconvénients d'une baignoire balnéo ?
+                                              AXButton|title=Qu'est-ce qu'une baignoire balnéo ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Qu'est-ce qu'une baignoire balnéo ?
+                                              AXButton|title=Est-il possible de se laver dans une baignoire balnéo ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Est-il possible de se laver dans une baignoire balnéo ?
+                                              AXButton|title=Quelles sont les meilleures baignoires balnéo ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelles sont les meilleures baignoires balnéo ?
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=BALNEO.com : vente de baignoire Balneo haut de gamme ... BALNEO.com https://www.balneo.com|value=
+                                            AXHeading|title=BALNEO.com : vente de baignoire Balneo haut de gamme ...|desc=|value=3
+                                              AXStaticText|title=|desc=|value=BALNEO.com : vente de baignoire Balneo haut de gamme ...
+                                              AXStaticText|title=|desc=|value=BALNEO.com
+                                                AXStaticText|title=|desc=|value=https://www.balneo.com
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Garantie de 10 ans structure. 
+                                            AXStaticText|title=|desc=|value=Balneo
+                                          AXStaticText|title=|desc=|value= Lord Solo. Une relaxation assurée grâce à ses 2 pompes deau de 1x2.0HP + 1x1.2HP et ses 74 jets massants.
+                                          AXLink|title=|desc=baignoire balnéo sur www.balneo.com|value=
+                                              AXImage|title=|desc=baignoire balnéo sur www.balneo.com|value=
+                                                            AXButton|title=|desc=Baignoire balnéo avec porte à gauche 153 x 76 cm – Oleander. Prix actuel : 2 199,00 €. Plus de prix disponibles. Castorama et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire balnéo rectangulaire London 32 jets. Prix actuel : 1 390,03 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,5 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kiamami Valentina Baignoire Balnéo Rectangulaire En Acrylique. Prix actuel : 1 093,99 €. Plus de prix disponibles. Leroy Merlin et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoires balnéo - Spatec Nova 160. Prix actuel : 1 149,00 €. Hydrostore. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire balnéo Corleone 48 jets. Prix actuel : 1 489,58 €. Plus de prix disponibles. meubles.fr et plus. Note : 3,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire Balnéo rectangulaire Océanie Whirlpool 40 jets + massage. Prix actuel : 1 989,60 €. Plus de prix disponibles. radar-mobilier.fr et plus. Note : 2,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire balnéo Santorin 68 jets. Prix actuel : 1 990,00 €. manomano.fr. Note : 3,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire Balnéo Sikinos Jets. Prix actuel : 1 289,00 €. Plus de prix disponibles. Amazon et plus. Note : 4,0 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                        AXHeading|title=Carte|desc=|value=3
+                                          AXStaticText|title=|desc=|value=Carte
+                                              AXButton|title=Aquabains Note : 4,4 sur 5 69 avis d'utilisateurs · Spécialiste de la salle de bains Asnières-sur-Seine · 01 47 92 37 16 Ouvert · Ferme à 19:00 Leur site Web mentionne "baignoire balnéo" · Site Web|desc=|value=
+                                                AXHeading|title=Aquabains|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Aquabains
+                                                  AXImage|title=|desc=Note : 4,4 sur 5 69 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Spécialiste de la salle de bains
+                                                  AXStaticText|title=|desc=|value=Asnières-sur-Seine · 01 47 92 37 16
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                  AXStaticText|title=|desc=|value=Leur site Web mentionne "
+                                                  AXStaticText|title=|desc=|value=baignoire balnéo
+                                                  AXStaticText|title=|desc=|value="
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=FRANCEPOOL-BALNEO Note : 4,7 sur 5 49 avis d'utilisateurs · Magasin d'articles de salle de bains 01 39 31 00 52 Ouvert · Ferme à 18:00 Site Web|desc=|value=
+                                                AXHeading|title=FRANCEPOOL-BALNEO|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=FRANCEPOOL-BALNEO
+                                                  AXImage|title=|desc=Note : 4,7 sur 5 49 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin d'articles de salle de bains
+                                                  AXStaticText|title=|desc=|value=01 39 31 00 52
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 18:00
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Sauna-hammam Note : 4,1 sur 5 56 avis d'utilisateurs · Magasin de spa Osny · 01 34 24 50 90 Ferme bientôt · 17:30 Leur site Web mentionne "baignoire balneo" · Site Web|desc=|value=
+                                                AXHeading|title=Sauna-hammam|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Sauna-hammam
+                                                  AXImage|title=|desc=Note : 4,1 sur 5 56 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de spa
+                                                  AXStaticText|title=|desc=|value=Osny · 01 34 24 50 90
+                                                  AXStaticText|title=|desc=|value=Ferme bientôt
+                                                  AXStaticText|title=|desc=|value= · 17:30
+                                                  AXStaticText|title=|desc=|value=Leur site Web mentionne "
+                                                  AXStaticText|title=|desc=|value=baignoire balneo
+                                                  AXStaticText|title=|desc=|value="
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                        AXHeading|title=Voir plus de lieux|desc=|value=3
+                                            AXLink|title=|desc=Voir plus de lieux|value=
+                                                AXStaticText|title=|desc=|value=Voir plus de lieux
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Baignoire balneo Espace Aubade https://www.espace-aubade.fr › salle-de-bain › baignoire...|value=
+                                            AXHeading|title=Baignoire balneo|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Baignoire balneo
+                                              AXStaticText|title=|desc=|value=Espace Aubade
+                                                AXStaticText|title=|desc=|value=https://www.espace-aubade.fr
+                                                AXStaticText|title=|desc=|value= › salle-de-bain › baignoire...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=La baignoire balnéo est le moyen le plus simple d'accéder au confort de la balnéothérapie
+                                          AXStaticText|title=|desc=|value= depuis votre salle de bains. En version classique ou d'angle, ...
+                                          AXLink|title=|desc=baignoire balnéo sur www.espace-aubade.fr|value=
+                                              AXImage|title=|desc=baignoire balnéo sur www.espace-aubade.fr|value=
+                                          AXStaticText|title=|desc=|value=Livraison gratuite
+                                        AXHeading|title=Images|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Images
+                                              AXLink|title=|desc=Baignoire balnéo jacuzzi NAXOS | Web de l'Hydromassage Web de l'Hydromassage|value=
+                                              AXButton|title=Baignoire balnéo jacuzzi NAXOS | Web de l'Hydromassage|desc=|value=
+                                                  AXImage|title=|desc=Baignoire balnéo jacuzzi NAXOS | Web de l'Hydromassage|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Baignoire balnéo rectangulaire 2 places Panama 51 jets Distribain|value=
+                                              AXButton|title=Baignoire balnéo rectangulaire 2 places Panama 51 jets|desc=|value=
+                                                  AXImage|title=|desc=Baignoire balnéo rectangulaire 2 places Panama 51 jets|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Baignoire balnéo à porte avec douche, robinetterie intégrée ... Homary|value=
+                                              AXButton|title=Baignoire balnéo à porte avec douche, robinetterie intégrée ...|desc=|value=
+                                                  AXImage|title=|desc=Baignoire balnéo à porte avec douche, robinetterie intégrée ...|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Baignoire balneo Lord Solo BLANC 1 place ARCHIPEL® 170x75 - DROITE BALNEO.com|value=
+                                              AXButton|title=Baignoire balneo Lord Solo BLANC 1 place ARCHIPEL® 170x75 - DROITE|desc=|value=
+                                                  AXImage|title=|desc=Baignoire balneo Lord Solo BLANC 1 place ARCHIPEL® 170x75 - DROITE|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Baignoire balnéo rectangulaire | Kilauea S Salledebain Online|value=
+                                              AXButton|title=Baignoire balnéo rectangulaire | Kilauea S|desc=|value=
+                                                  AXImage|title=|desc=Baignoire balnéo rectangulaire | Kilauea S|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Baignoire balnéo SPATEC VITRO 160 Hydrostore|value=
+                                              AXButton|title=Baignoire balnéo SPATEC VITRO 160|desc=|value=
+                                                  AXImage|title=|desc=Baignoire balnéo SPATEC VITRO 160|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                      AXButton|title=Afficher plus d'images|desc=|value=
+                                          AXStaticText|title=|desc=|value=Afficher plus d'images
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                              AXButton|title=Victory SPA France Aucun avis · Magasin de spa Paris · 01 47 92 37 16 Ouvert · Ferme à 19:00 Site Web|desc=|value=
+                                                AXHeading|title=Victory SPA France|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Victory SPA France
+                                                  AXStaticText|title=|desc=|value=Aucun avis
+                                                  AXStaticText|title=|desc=|value= · Magasin de spa
+                                                  AXStaticText|title=|desc=|value=Paris · 01 47 92 37 16
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Espace Aubade Batimantes Cormeilles-En-Parisis Note : 3,9 sur 5 162 avis d'utilisateurs · Spécialiste de la salle de bains Cormeilles-en-Parisis · 01 34 11 73 79 Ouvert · Ferme à 18:30 Aménagement de la salle de bains · Site Web|desc=|value=
+                                                AXHeading|title=Espace Aubade Batimantes Cormeilles-En-Parisis|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Espace Aubade Batimantes Cormeilles-En-Parisis
+                                                  AXImage|title=|desc=Note : 3,9 sur 5 162 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Spécialiste de la salle de bains
+                                                  AXStaticText|title=|desc=|value=Cormeilles-en-Parisis · 01 34 11 73 79
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 18:30
+                                                  AXStaticText|title=|desc=|value=Aménagement de la salle de bains
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=masalledebain.com - Meubles de Salle de Bain & Equipements - Paris Note : 3,9 sur 5 305 avis d'utilisateurs · Spécialiste de la salle de bains Paris · 01 40 70 05 11 Ouvert · Ferme à 18:30 Achats en magasin· Livraison · Site Web|desc=|value=
+                                                AXHeading|title=masalledebain.com - Meubles de Salle de Bain & Equipements - Paris|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=masalledebain.com - Meubles de Salle de Bain & Equipements - Paris
+                                                  AXImage|title=|desc=Note : 3,9 sur 5 305 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Spécialiste de la salle de bains
+                                                  AXStaticText|title=|desc=|value=Paris · 01 40 70 05 11
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 18:30
+                                                AXStaticText|title=|desc=|value=Achats en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Livraison
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                                            AXButton|title=|desc=Baignoire Balnéo Brava Duo Jets 170 X100 X63 cm. Prix actuel : 1 850,00 €. Plus de prix disponibles. Amazon et plus. Note : 2,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire Balnéo D-Cleveland 46 jets Whirlpool. Prix actuel : 1 990,00 €. Plus de prix disponibles. Bricomarché et plus. Note : 4,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire balnéo Hafro Bolla 160. Prix actuel : 4 830,00 €. Gaia Interni. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire balnéo duo système Air + eau + réchauffeur + Jet cascade. Prix actuel : 1 759,60 €. Sauna Bien-Être. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Baignoire balnéo + robinetterie + tablier. Prix actuel : 1 399,00 €. Balnéo Bien-Être. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire Balnéo d'angle Seattle 38 jets Whirlpool. PROMOTION. Prix actuel : 1 390,00 €. Avant : 1 790 €. Plus de prix disponibles. Darty et plus. Note : 4,1 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Paris Baignoire Balnèo Blanche 170 X 90 cm. Prix actuel : 1 679,00 €. Plus de prix disponibles. Amazon et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Distribain Baignoire balnéo Santa-fe 53 jets. Prix actuel : 2 298,59 €. Plus de prix disponibles. meubles-recherche.fr et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Baignoire Balnéo : Jets, Wave, Bulle Spalina https://spalina.com › collections › baignoire-balneo|value=
+                                            AXHeading|title=Baignoire Balnéo : Jets, Wave, Bulle|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Baignoire Balnéo : Jets, Wave, Bulle
+                                              AXStaticText|title=|desc=|value=Spalina
+                                                AXStaticText|title=|desc=|value=https://spalina.com
+                                                AXStaticText|title=|desc=|value= › collections › baignoire-balneo
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Baignoire balnéo Spalina
+                                          AXStaticText|title=|desc=|value= : systèmes Jets, Wave, Bulle. Ses jets hydromassants recréent. Bulle, pour un bouillonnement plus doux et homogène. 175 x l. 75 cm Prix
+                                          AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                          AXLink|title=|desc=Images concernant baignoire balnéo sur spalina.com|value=
+                                          AXLink|title=|desc=Baignoire balnéo rectangulaire de qualité Thalassor https://www.thalassor.fr › Baignoire › Baignoire balneo|value=
+                                            AXHeading|title=Baignoire balnéo rectangulaire de qualité|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Baignoire balnéo rectangulaire de qualité
+                                              AXStaticText|title=|desc=|value=Thalassor
+                                                AXStaticText|title=|desc=|value=https://www.thalassor.fr
+                                                AXStaticText|title=|desc=|value= › Baignoire › Baignoire balneo
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Ces baignoires spacieuses vous offrent un confort optimal
+                                          AXStaticText|title=|desc=|value=, avec leurs jets d'eau massants et leur forme rectangulaire, pour une relaxation totale. Découvrez ...
+                                          AXLink|title=|desc=baignoire balnéo sur www.thalassor.fr|value=
+                                              AXImage|title=|desc=baignoire balnéo sur www.thalassor.fr|value=
+                                            AXImage|title=|desc=Note : 4,6 sur 5 (97) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Livraison gratuite
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXLink|title=|desc=Baignoire Balnéo Rectangulaire Haut de Gamme Preti France https://preti.fr › Baignoires balnéo|value=
+                                            AXHeading|title=Baignoire Balnéo Rectangulaire Haut de Gamme|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Baignoire Balnéo Rectangulaire Haut de Gamme
+                                              AXStaticText|title=|desc=|value=Preti France
+                                                AXStaticText|title=|desc=|value=https://preti.fr
+                                                AXStaticText|title=|desc=|value= › Baignoires balnéo
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Matériaux premium et durabilité professionnelle
+                                          AXStaticText|title=|desc=|value= · Acrylique coulé : offre un toucher soyeux, conserve la chaleur de l'eau plus longtemps et résiste ...
+                                          AXLink|title=|desc=baignoire balnéo sur preti.fr|value=
+                                              AXImage|title=|desc=baignoire balnéo sur preti.fr|value=
+                                          AXLink|title=|desc=Quelle est la différence entre un spa et une baignoire balnéo Kinedo Balnéo https://balneo.kinedo.com › Actualités › En savoir plus|value=
+                                            AXHeading|title=Quelle est la différence entre un spa et une baignoire balnéo|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Quelle est la différence entre un spa et une baignoire balnéo
+                                              AXStaticText|title=|desc=|value=Kinedo Balnéo
+                                                AXStaticText|title=|desc=|value=https://balneo.kinedo.com
+                                                AXStaticText|title=|desc=|value= › Actualités › En savoir plus
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=En moyenne, 
+                                            AXStaticText|title=|desc=|value=une baignoire balnéo est plus petite qu'un spa
+                                          AXStaticText|title=|desc=|value=. Elle est donc plus économique et s'intègre facilement à votre salle de bains. Il existe une ...
+                                          AXLink|title=|desc=baignoire balnéo sur balneo.kinedo.com|value=
+                                              AXImage|title=|desc=baignoire balnéo sur balneo.kinedo.com|value=
+                                          AXLink|title=|desc=Baignoires avec système balnéo Duravit https://www.duravit.fr › Produits › Bain › Baignoires|value=
+                                            AXHeading|title=Baignoires avec système balnéo|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Baignoires avec système balnéo
+                                              AXStaticText|title=|desc=|value=Duravit
+                                                AXStaticText|title=|desc=|value=https://www.duravit.fr
+                                                AXStaticText|title=|desc=|value= › Produits › Bain › Baignoires
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Les baignoires balnéo n'ont pas seulement un effet relaxant
+                                          AXStaticText|title=|desc=|value=. L'agréable pression de l'eau détend les muscles, stimule la régénération musculaire et peut ...
+                                          AXLink|title=|desc=Images concernant baignoire balnéo sur www.duravit.fr|value=
+                                          AXStaticText|title=|desc=|value=Paris
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Baignoire balnéo 2 places|value=
+                                        AXStaticText|title=|desc=|value=Baignoire balnéo 
+                                        AXStaticText|title=|desc=|value=2 places
+                                      AXLink|title=|desc=Baignoire balnéo Leroy Merlin|value=
+                                        AXStaticText|title=|desc=|value=Baignoire balnéo 
+                                        AXStaticText|title=|desc=|value=Leroy Merlin
+                                      AXLink|title=|desc=Baignoire balnéo chauffante|value=
+                                        AXStaticText|title=|desc=|value=Baignoire balnéo 
+                                        AXStaticText|title=|desc=|value=chauffante
+                                      AXLink|title=|desc=Baignoire balnéo angle|value=
+                                        AXStaticText|title=|desc=|value=Baignoire balnéo 
+                                        AXStaticText|title=|desc=|value=angle
+                                      AXLink|title=|desc=Baignoire balnéo 1 place|value=
+                                        AXStaticText|title=|desc=|value=Baignoire balnéo 
+                                        AXStaticText|title=|desc=|value=1 place
+                                      AXLink|title=|desc=Baignoire balnéo brico dépôt|value=
+                                        AXStaticText|title=|desc=|value=Baignoire balnéo 
+                                        AXStaticText|title=|desc=|value=brico dépôt
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=8
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=6
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=8
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=6
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=baignoire balnéo - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

@@ -1,0 +1,177 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_gqUBeY": {
+      "type": "breadcrumbs",
+      "name": "Breadcrumbs",
+      "settings": {
+        "show_home": true,
+        "show_on_homepage": false,
+        "home_text": "Accueil",
+        "font_size": 14,
+        "text_color": "#333333",
+        "current_color": "#4a5ba6",
+        "separator": "/"
+      }
+    },
+    "banner": {
+      "type": "collection-banner",
+      "settings": {
+        "auto_description": true,
+        "manual_title": "aa",
+        "manual_description": "aaa",
+        "show_learn_more": true,
+        "learn_more_text": "En savoir plus",
+        "image_position": "right",
+        "background_color": "#faf8f5",
+        "title_color": "#4a5ba6",
+        "text_color": "#2c2c2c",
+        "link_color": "#4a5ba6",
+        "title_size": 30,
+        "reduce_top_spacing": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_kAUjbK": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [],
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"collection-banner\" style=\"background-color: #FAF8F5;\">\n    <div class=\"collection-content\">\n        <h1 style=\"font-size: 30px; font-weight: bold; color: #4A5BA6;\">{{ collection.title }}</h1>\n        <p>{{ collection.description | split: '</p>' | first | append: ' <a href=\"#full-description\" class=\"learn-more\">En savoir plus</a></p>' }}</p>\n    </div>\n    {% if collection.image %}\n    <div class=\"collection-image\">\n        <img src=\"{{ collection.image.src | img_url: '800x800' }}\" alt=\"{{ collection.title }}\">\n    </div>\n    {% endif %}\n</div>\n<style>\n    .collection-banner {\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        padding: 0px;\n    }\n    .collection-content {\n        flex: 1;\n        padding: 20px;\n        {% unless collection.image %}\n            width: 100%;\n        {% endunless %}\n    }\n    .collection-content h1 {\n        line-height: 1.2; /* Réduit l'espacement entre les lignes du titre */\n        margin-bottom: 20px; /* Ajoute de l'espace après le titre */\n    }\n    .collection-image img {\n        width: 100%;\n        max-width: 600px;\n        object-fit: cover;\n    }\n    .learn-more {\n        display: inline-block;\n        margin-top: 5px;\n        text-decoration: underline;\n        cursor: pointer;\n        color: #4A5BA6;\n    }\n    @media (max-width: 768px) {\n        .collection-banner {\n            flex-direction: column;\n        }\n        .collection-image {\n            order: -1;\n            margin-bottom: 10px;\n        }\n        .collection-content h1 {\n            line-height: 1.1; /* Encore plus serré sur mobile */\n            margin-bottom: 15px; /* Espace après le titre sur mobile */\n        }\n    }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "products_per_page": 50,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "filter_layout": "horizontal",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_first_filter_group": false
+      }
+    },
+    "description_collection_xFJEM9": {
+      "type": "description-collection",
+      "name": "Collection description",
+      "settings": {
+        "auto_description": true,
+        "manual_description": "",
+        "show_toggle_button": true,
+        "button_text_more": "En savoir plus",
+        "button_text_less": "Voir moins",
+        "heading_size": 24,
+        "title_color": "#4a5ba6",
+        "text_color": "#333333",
+        "button_background": "#4a5ba6",
+        "button_hover": "#6b73be",
+        "button_text_color": "#ffffff",
+        "background": "#faf8f5",
+        "background_gradient": ""
+      }
+    },
+    "text_with_icons_PXNtxT": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_QWPRED": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#faf8f5",
+            "icon_color": "#4a5ba6",
+            "title": "Livraison Gratuite",
+            "content": "<p>Nous livrons nos tipis partout en europe gratuitement profitez-en !</p>"
+          }
+        },
+        "item_Y4ETqh": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#faf8f5",
+            "icon_color": "#4a5ba6",
+            "title": "Service client",
+            "content": "<p>Une Question ? Nos équipes d'expert sont là pour répondre à toute vos questions.</p>"
+          }
+        },
+        "item_d9nnt6": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-love",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#faf8f5",
+            "icon_color": "#4a5ba6",
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Vous bénéficiez de 30 jours pour changer d'avis avec un échange ou un remboursement.</p>"
+          }
+        },
+        "item_ft4pjd": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#faf8f5",
+            "icon_color": "#4a5ba6",
+            "title": "Paiement 100% sécurisé",
+            "content": "<p>Tous nos moyens de paiement sont entièrement sécurisés et cryptés.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_QWPRED",
+        "item_Y4ETqh",
+        "item_d9nnt6",
+        "item_ft4pjd"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_gqUBeY",
+    "banner",
+    "custom_liquid_kAUjbK",
+    "main",
+    "description_collection_xFJEM9",
+    "text_with_icons_PXNtxT"
+  ]
+}
+

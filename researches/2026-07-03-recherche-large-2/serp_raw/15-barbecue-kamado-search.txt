@@ -1,0 +1,714 @@
+AXWindow|title=barbecue kamado - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=barbecue kamado - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=barbecue%20kamado&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=barbecue kamado - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=barbecue kamado
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Lieux|value=
+                                              AXStaticText|title=|desc=|value=Lieux
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter Japonais|value=
+                                              AXStaticText|title=|desc=|value=Japonais
+                                            AXLink|title=|desc=Ajouter Kamado Joe|value=
+                                              AXStaticText|title=|desc=|value=Kamado Joe
+                                            AXLink|title=|desc=Ajouter Big Green Egg|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg
+                                            AXLink|title=|desc=Ajouter Monolith|value=
+                                              AXStaticText|title=|desc=|value=Monolith
+                                            AXLink|title=|desc=Ajouter Klarstein|value=
+                                              AXStaticText|title=|desc=|value=Klarstein
+                                            AXLink|title=|desc=Ajouter Charbon de bois|value=
+                                              AXStaticText|title=|desc=|value=Charbon de bois
+                                            AXLink|title=|desc=Ajouter Électrique|value=
+                                              AXStaticText|title=|desc=|value=Électrique
+                                            AXLink|title=|desc=Ajouter Pellet|value=
+                                              AXStaticText|title=|desc=|value=Pellet
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=95390 Saint-Prix|desc=|value=2
+                                AXStaticText|title=|desc=|value=95390 Saint-Prix
+                                AXButton|title=Choisir une zone|desc=|value=
+                                AXButton|title=|desc=Comment la position est utilisée|value=
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=Big Green Egg Large – Barbecue Kamado Céramique Ø46cm + ConvEGGtor & Grille Inox Inclus (8-12 pers.)|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Big Green Egg Large – Barbecue Kamado Céramique Ø46cm + ConvEGGtor & Grille Inox Inclus (8-12 pers.)
+                                            AXStaticText|title=|desc=|value=2 195,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                            AXStaticText|title=|desc=|value=Énergie :
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Maxima|value=
+                                              AXLink|title=|desc= à chez Maxima|value=
+                                            AXHeading|title=Maxima Premium kamado barbecue 26 inch|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Maxima Premium kamado barbecue 26 inch
+                                            AXStaticText|title=|desc=|value=1 511,99 €
+                                            AXGroup|title=|desc=Vendu par Maxima|value=
+                                              AXStaticText|title=|desc=|value=Maxima
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.4/5
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez AliExpress - AliExpress-6004644094|value=
+                                              AXLink|title=|desc= à chez AliExpress - AliExpress-6004644094|value=
+                                              AXStaticText|title=|desc=|value=11 € DE REMISE
+                                            AXHeading|title=Nouveauté 2026 ! Barbecue Kamado en céramique Auplex 13 pouces, design moderne et luxueux en fonte,|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Nouveauté 2026 ! Barbecue Kamado en céramique Auplex 13 pouces, design moderne et luxueux en fonte,
+                                            AXStaticText|title=|desc=|value=110,39 €
+                                            AXStaticText|title=|desc=|value=121 €
+                                            AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6004644094|value=
+                                              AXStaticText|title=|desc=|value=AliExpress - AliExpress-6004644094
+                                              AXStaticText|title=|desc=|value=Prix au règlement
+                                              AXStaticText|title=|desc=|value=+ 324,91 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez norliva.fr|value=
+                                              AXLink|title=|desc= à chez norliva.fr|value=
+                                            AXHeading|title=NORLIVA plancha barbecue Aska, 80 cm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=NORLIVA plancha barbecue Aska, 80 cm
+                                            AXStaticText|title=|desc=|value=679,00 €
+                                            AXGroup|title=|desc=Vendu par norliva.fr|value=
+                                              AXStaticText|title=|desc=|value=norliva.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Kamado BBQ|value=
+                                              AXLink|title=|desc= à chez Kamado BBQ|value=
+                                            AXHeading|title=Kamado Joe Classic I|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Kamado Joe Classic I
+                                            AXStaticText|title=|desc=|value=999,00 €
+                                            AXGroup|title=|desc=Vendu par Kamado BBQ|value=
+                                              AXStaticText|title=|desc=|value=Kamado BBQ
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=PROMO - Big Green Egg LARGE sur chariot + étagères OFFERTES|desc=|value=3
+                                                AXStaticText|title=|desc=|value=PROMO - Big Green Egg LARGE sur chariot + étagères OFFERTES
+                                            AXStaticText|title=|desc=|value=2 690,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=The Onyx Large sur Chariot + 2 demi-grilles fonte offertes|desc=|value=3
+                                                AXStaticText|title=|desc=|value=The Onyx Large sur Chariot + 2 demi-grilles fonte offertes
+                                            AXStaticText|title=|desc=|value=2 690,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=The Onyx XLarge sur Chariot + 2 demi-grilles fonte offertes|desc=|value=3
+                                                AXStaticText|title=|desc=|value=The Onyx XLarge sur Chariot + 2 demi-grilles fonte offertes
+                                            AXStaticText|title=|desc=|value=3 790,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=Pack Big Green Egg LARGE sur chariot|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Pack Big Green Egg LARGE sur chariot
+                                            AXStaticText|title=|desc=|value=2 690,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à (auparavant 1 190 € chez Marcel - Louis Tellier)|value=
+                                              AXLink|title=|desc= à (auparavant 1 190 € chez Marcel - Louis Tellier)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Four à bois extérieur MARCEL – Pizza au feu de bois | Louis Tellier NOIR|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Four à bois extérieur MARCEL – Pizza au feu de bois | Louis Tellier NOIR
+                                            AXStaticText|title=|desc=|value=895,00 €
+                                            AXStaticText|title=|desc=|value=1 190 
+                                            AXGroup|title=|desc=Vendu par Marcel - Louis Tellier|value=
+                                              AXStaticText|title=|desc=|value=Marcel - Louis Tellier
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (47) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=Big Green Egg Medium – Barbecue Kamado Céramique Ø40cm + ConvEGGtor & Grille Inox Inclus (6-8 pers.)|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Big Green Egg Medium – Barbecue Kamado Céramique Ø40cm + ConvEGGtor & Grille Inox Inclus (6-8 pers.)
+                                            AXStaticText|title=|desc=|value=1 595,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à (auparavant 999 € chez Passion Barbecue)|value=
+                                              AXLink|title=|desc= à (auparavant 999 € chez Passion Barbecue)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Barbecue Kamado Kamal 2.0 Extra Large - Noir - Barbecook|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Barbecue Kamado Kamal 2.0 Extra Large - Noir - Barbecook
+                                            AXStaticText|title=|desc=|value=929,00 €
+                                            AXStaticText|title=|desc=|value=999 €
+                                            AXGroup|title=|desc=Vendu par Passion Barbecue|value=
+                                              AXStaticText|title=|desc=|value=Passion Barbecue
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (6) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=Big Green Egg XLarge – Barbecue Kamado Céramique Ø61cm Cuisson Grill, Four & Fumoir (10-20 pers.)|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Big Green Egg XLarge – Barbecue Kamado Céramique Ø61cm Cuisson Grill, Four & Fumoir (10-20 pers.)
+                                            AXStaticText|title=|desc=|value=3 195,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Raviday Barbecue|value=
+                                              AXLink|title=|desc= à chez Raviday Barbecue|value=
+                                            AXHeading|title=Kamado Joe Konnected - Premium Pack|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Kamado Joe Konnected - Premium Pack
+                                            AXStaticText|title=|desc=|value=2 079,01 €
+                                            AXGroup|title=|desc=Vendu par Raviday Barbecue|value=
+                                              AXStaticText|title=|desc=|value=Raviday Barbecue
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (863) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par FeedMax|value=
+                                                    AXStaticText|title=|desc=|value=Par FeedMax
+                                            AXLink|title=|desc= à chez Maison du Kamado|value=
+                                              AXLink|title=|desc= à chez Maison du Kamado|value=
+                                            AXHeading|title=Barbecue Kamado 18" Céramique Premium | Maison du Kamado Vert|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Barbecue Kamado 18" Céramique Premium | Maison du Kamado Vert
+                                            AXStaticText|title=|desc=|value=999,00 €
+                                            AXGroup|title=|desc=Vendu par Maison du Kamado|value=
+                                              AXStaticText|title=|desc=|value=Maison du Kamado
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Create|value=
+                                              AXLink|title=|desc= à chez Create|value=
+                                            AXHeading|title=BBQ KAMADO - Barbecue Fumoir En Céramique Noir|desc=|value=3
+                                                AXStaticText|title=|desc=|value=BBQ KAMADO - Barbecue Fumoir En Céramique Noir
+                                            AXStaticText|title=|desc=|value=699,95 €
+                                            AXGroup|title=|desc=Vendu par Create|value=
+                                              AXStaticText|title=|desc=|value=Create
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.1/5
+                                                AXLink|title=|desc=Par Klarna|value=
+                                                    AXStaticText|title=|desc=|value=Par Klarna
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=Pack Big Green Egg sur table modulaire et son meuble d'extension XLARGE|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Pack Big Green Egg sur table modulaire et son meuble d'extension XLARGE
+                                            AXStaticText|title=|desc=|value=4 990,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Macuisinedexterieur.fr|value=
+                                              AXLink|title=|desc= à chez Macuisinedexterieur.fr|value=
+                                            AXHeading|title=Barbecue kamado / Barbecue en céramique - Sumo Large Gen 2 - Vert|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Barbecue kamado / Barbecue en céramique - Sumo Large Gen 2 - Vert
+                                            AXStaticText|title=|desc=|value=1 009,00 €
+                                            AXGroup|title=|desc=Vendu par Macuisinedexterieur.fr|value=
+                                              AXStaticText|title=|desc=|value=Macuisinedexterieur.fr
+                                              AXStaticText|title=|desc=|value=+ 29,00 € de frais de port
+                                                AXLink|title=|desc=Par Klarna|value=
+                                                    AXStaticText|title=|desc=|value=Par Klarna
+                                            AXLink|title=|desc= à chez Kamado BBQ|value=
+                                              AXLink|title=|desc= à chez Kamado BBQ|value=
+                                            AXHeading|title=Kamado Joe Classic II Stand-Alone|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Kamado Joe Classic II Stand-Alone
+                                            AXStaticText|title=|desc=|value=1 499,00 €
+                                            AXGroup|title=|desc=Vendu par Kamado BBQ|value=
+                                              AXStaticText|title=|desc=|value=Kamado BBQ
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Kamado BBQ|value=
+                                              AXLink|title=|desc= à chez Kamado BBQ|value=
+                                            AXHeading|title=Kamado Joe Big Joe III|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Kamado Joe Big Joe III
+                                            AXStaticText|title=|desc=|value=2 799,00 €
+                                            AXGroup|title=|desc=Vendu par Kamado BBQ|value=
+                                              AXStaticText|title=|desc=|value=Kamado BBQ
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Barbecue en Céramique Noir Style Kamado sur Roues au Charbon de Bois avec Couvercle et Thermomètre Grille de Cuisson|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Barbecue en Céramique Noir Style Kamado sur Roues au Charbon de Bois avec Couvercle et Thermomètre Grille de Cuisson
+                                            AXStaticText|title=|desc=|value=709,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours : 365 jours
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Maxima|value=
+                                              AXLink|title=|desc= à chez Maxima|value=
+                                            AXHeading|title=Maxima Premium kamado barbecue 18 inch|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Maxima Premium kamado barbecue 18 inch
+                                            AXStaticText|title=|desc=|value=788,09 €
+                                            AXGroup|title=|desc=Vendu par Maxima|value=
+                                              AXStaticText|title=|desc=|value=Maxima
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 5,0 sur 5 (3) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez Big Green Egg France|value=
+                                              AXLink|title=|desc= à chez Big Green Egg France|value=
+                                            AXHeading|title=Big Green Egg XL sur chariot|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Big Green Egg XL sur chariot
+                                            AXStaticText|title=|desc=|value=3 790,00 €
+                                            AXGroup|title=|desc=Vendu par Big Green Egg France|value=
+                                              AXStaticText|title=|desc=|value=Big Green Egg France
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez francisbatt.com|value=
+                                              AXLink|title=|desc= à chez francisbatt.com|value=
+                                            AXHeading|title=Barbecue multicuiseur Big Green Egg Large BIG GREEN EGG 117632|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Barbecue multicuiseur Big Green Egg Large BIG GREEN EGG 117632
+                                            AXStaticText|title=|desc=|value=1 995,00 €
+                                            AXGroup|title=|desc=Vendu par francisbatt.com|value=
+                                              AXStaticText|title=|desc=|value=francisbatt.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                            AXStaticText|title=|desc=|value=Énergie :
+                                                AXLink|title=|desc=Par Twenga|value=
+                                                    AXStaticText|title=|desc=|value=Par Twenga
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Producthero|value=
+                                                AXStaticText|title=|desc=|value=Producthero
+                                              AXLink|title=|desc=FeedMax|value=
+                                                AXStaticText|title=|desc=|value=FeedMax
+                                              AXLink|title=|desc=Klarna|value=
+                                                AXStaticText|title=|desc=|value=Klarna
+                                              AXLink|title=|desc=Smarketer|value=
+                                                AXStaticText|title=|desc=|value=Smarketer
+                                              AXLink|title=|desc=Twenga|value=
+                                                AXStaticText|title=|desc=|value=Twenga
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Barbecue Kamado Kokko : le barbecue en céramique garanti ... Kokko https://www.kokko.net|value=
+                                            AXHeading|title=Barbecue Kamado Kokko : le barbecue en céramique garanti ...|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Barbecue Kamado Kokko : le barbecue en céramique garanti ...
+                                              AXStaticText|title=|desc=|value=Kokko
+                                                AXStaticText|title=|desc=|value=https://www.kokko.net
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=le Kokko permet de griller, fumer, rôtir et cuire à basse température avec une précision incomparable.
+                                            AXStaticText|title=|desc=|value=Livraison gratuite
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Quels sont les inconvénients du kamado ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quels sont les inconvénients du kamado ?
+                                              AXButton|title=Quelle est la différence entre un barbecue et un kamado ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelle est la différence entre un barbecue et un kamado ?
+                                              AXButton|title=Quels sont les avantages d'un kamado ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quels sont les avantages d'un kamado ?
+                                              AXButton|title=Quel est le meilleur barbecue kamado ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le meilleur barbecue kamado ?
+                                                            AXButton|title=|desc=Kamado Céramique Charbon NATERIAL Drago Noir 46 cm + housse. Prix actuel : 699,00 €. Leroy Merlin. En magasin. Note : 4,5 sur 5. 28 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=OOGarden Barbecue à charbon kamado XL 56 cm. Prix actuel : 499,90 €. OOGarden.com. En magasin. Note : 4,6 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecue Japonais Kamado à Charbon de bois D55cm sur chariot Osaka Xl Hyba. Prix actuel : 499,99 €. Carrefour - Carrefour.fr. En magasin. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecue à charbon de bois Kamado 48 cm. Prix actuel : 449,90 €. OOGarden.com. En magasin. Note : 4,5 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kamado Céramique Charbon NATERIAL Little Drago Noir 34 cm + housse. Prix actuel : 499,00 €. Leroy Merlin. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecook Barbecue Kamado Kamal 2.0 Large. Prix actuel : 699,00 €. Plus de prix disponibles. Bricomarché et plus. En magasin. Note : 5,0 sur 5. 9 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kamado Joe Barbecue Kamado Classic Joe I. PROMOTION. Prix actuel : 879,12 €. Avant : 999 €. Plus de prix disponibles. Barbecue & Co et plus. Note : 4,8 sur 5. 1,4 k avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Naterial Barbecue au charbon. Prix actuel : 899,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Note : 5,0 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Barbecue Japonais Kamado - Barbecues & planchas Idealo|value=
+                                                AXHeading|title=Barbecue Japonais Kamado - Barbecues & planchas|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Barbecue Japonais Kamado - Barbecues & planchas
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Kamado 2026 en soldes sur idealo.fr Idealo|value=
+                                                AXHeading|title=Kamado 2026 en soldes sur idealo.fr|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Kamado 2026 en soldes sur idealo.fr
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Barbecue kamado au meilleur prix - Mieux comparer avec leDénicheur leDénicheur|value=
+                                                AXHeading|title=Barbecue kamado au meilleur prix - Mieux comparer avec leDénicheur|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Barbecue kamado au meilleur prix - Mieux comparer avec leDénicheur
+                                                    AXStaticText|title=|desc=|value=leDénicheur
+                                                AXLink|title=|desc=Kamado grill – Trouvez le meilleur prix leDénicheur|value=
+                                                AXHeading|title=Kamado grill – Trouvez le meilleur prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Kamado grill – Trouvez le meilleur prix
+                                                    AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Barbecue japonais kamado Prix.net|value=
+                                                  AXHeading|title=Barbecue japonais kamado|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Barbecue japonais kamado
+                                                      AXStaticText|title=|desc=|value=Prix.net
+                                                  AXLink|title=|desc=Barbecue céramique kamado – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Barbecue céramique kamado – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Barbecue céramique kamado – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Kamado bbq – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Kamado bbq – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Kamado bbq – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Barbecues kamado Prix.net|value=
+                                                  AXHeading|title=Barbecues kamado|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Barbecues kamado
+                                                      AXStaticText|title=|desc=|value=Prix.net
+                                                  AXLink|title=|desc=Barbecue kamado Prix.net|value=
+                                                  AXHeading|title=Barbecue kamado|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Barbecue kamado
+                                                      AXStaticText|title=|desc=|value=Prix.net
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Kamado : Barbecue japonais en céramique Barbecue & Co https://barbecue-co.com › Barbecues|value=
+                                            AXHeading|title=Kamado : Barbecue japonais en céramique|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Kamado : Barbecue japonais en céramique
+                                              AXStaticText|title=|desc=|value=Barbecue & Co
+                                                AXStaticText|title=|desc=|value=https://barbecue-co.com
+                                                AXStaticText|title=|desc=|value= › Barbecues
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Découvrez notre gamme complète de Kamados, le 
+                                            AXStaticText|title=|desc=|value=barbecue
+                                          AXStaticText|title=|desc=|value= japonais en céramique, parmi les meilleures marques : 
+                                            AXStaticText|title=|desc=|value=Kamado
+                                          AXStaticText|title=|desc=|value= Joe, Big Green Egg, Monolith, ...
+                                            AXStaticText|title=|desc=|value=Livraison en 3-5 jours
+                                            AXStaticText|title=|desc=|value=Retours sous 45 jour(s)
+                                          AXLink|title=|desc=Le barbecue kamado vaut-il vraiment le coup ? L'avis ... Esprit Barbecue https://www.esprit-barbecue.fr › Accueil › Conseils|value=
+                                            AXHeading|title=Le barbecue kamado vaut-il vraiment le coup ? L'avis ...|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Le barbecue kamado vaut-il vraiment le coup ? L'avis ...
+                                              AXStaticText|title=|desc=|value=Esprit Barbecue
+                                                AXStaticText|title=|desc=|value=https://www.esprit-barbecue.fr
+                                                AXStaticText|title=|desc=|value= › Accueil › Conseils
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=21 nov. 2025
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Les vrais avantages du barbecue kamado · ✓ 
+                                            AXStaticText|title=|desc=|value=Une polyvalence inégalée : 5 modes de cuisson en un seul appareil
+                                          AXStaticText|title=|desc=|value= · ✓ Une rétention de chaleur ...
+                                          AXImage|title=|desc=Note : 4,0 sur 5 (47) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value=   
+                                                            AXButton|title=|desc=Kamado Grill Guru Original Medium. Prix actuel : 729,00 €. Plus de prix disponibles. boulanger.com et plus. Note : 4,7 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Livoo Barbecue fumoir Kamado. Prix actuel : 189,91 €. Plus de prix disponibles. Gamm vert et plus. Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Big Green Egg Medium – Barbecue Kamado Céramique Ø40cm + ConvEGGtor & Grille Inox Inclus (6-8 pers.). Prix actuel : 1 595,00 €. Big Green Egg France. En magasin. Note : 4,8 sur 5. 36 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kamado Grill Guru Original Compact. Prix actuel : 99,99 €. Plus de prix disponibles. idealo France et plus. Note : 4,5 sur 5. 17 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecue Kamado Joe Junior. Prix actuel : 549,00 €. Plus de prix disponibles. prix.net et plus. Note : 4,8 sur 5. 1,3 k avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Grillmeister Barbecue en céramique, Ø 40 cm. PROMOTION. Prix actuel : 234,50 €. Avant : 469 €. Lidl.fr. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecue kamado à poser Patton classic 13. PROMOTION. Prix actuel : 135,20 €. Avant : 169 €. Plus de prix disponibles. Maisons du Monde et plus. Note : 4,6 sur 5. 34 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecue à charbon Kamado « HAIIRO ». Prix actuel : 144,95 €. Plus de prix disponibles. ManoMano.fr et plus. Note : 4,7 sur 5. 31 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Barbecues - Kamado Joe International Kamado Joe International https://international.kamadojoe.com › collections › grills|value=
+                                            AXHeading|title=Barbecues - Kamado Joe International|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Barbecues - Kamado Joe International
+                                              AXStaticText|title=|desc=|value=Kamado Joe International
+                                                AXStaticText|title=|desc=|value=https://international.kamadojoe.com
+                                                AXStaticText|title=|desc=|value= › collections › grills
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Expériencer la polyvalence et la saveur de la cuisson kamado
+                                          AXStaticText|title=|desc=|value= grâce à notre variété de barbecues premium en céramique. Cuiseur kamado : grils de style kamado ...
+                                          AXStaticText|title=|desc=|value=Retours sous 45 jour(s)
+                                                            AXButton|title=|desc=Barbecue Kamado 2-en-1 Céramique 56 cm. Prix actuel : 410,99 €. Leroy Merlin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Big Green Egg 2XL Barbecue. Prix actuel : 4 895,00 €. Plus de prix disponibles. Barbecue & Co et plus. Écocertifié.Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Patton Barbecue kamado à charbon en céramique. Prix actuel : 199,00 €. Plus de prix disponibles. Maisons du Monde et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=kamado Patton en céramique noir. PROMOTION. Prix actuel : 479,20 €. Avant : 599 €. Plus de prix disponibles. Maisons du Monde et plus. Note : 4,5 sur 5. 13 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kamado en céramique GoodHome Sagami 46 cm h.122cm noir. Prix actuel : 599,90 €. castorama.fr. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Big Green Egg MiniMax – Barbecue Kamado Céramique Ø33cm avec Berceau de Transport + ConvEGGtor & Grille Inox. Prix actuel : 995,00 €. Plus de prix disponibles. Big Green Egg France et plus. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecue Bighorn Noir mat Barbecue kamado. Prix actuel : 159,99 €. Cookinglife.fr. Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Barbecue Kamado Joe Konnected Joe. Prix actuel : 2 120,64 €. Plus de prix disponibles. Amazon et plus. Note : 4,9 sur 5. 25 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Kamado Monolith ou Kamado Joe ou Bastard ou Kamal Raviday Barbecue https://www.raviday-barbecue.com › barbecue-charbon-...|value=
+                                            AXHeading|title=Kamado Monolith ou Kamado Joe ou Bastard ou Kamal|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Kamado Monolith ou Kamado Joe ou Bastard ou Kamal
+                                              AXStaticText|title=|desc=|value=Raviday Barbecue
+                                                AXStaticText|title=|desc=|value=https://www.raviday-barbecue.com
+                                                AXStaticText|title=|desc=|value= › barbecue-charbon-...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Les barbecues à charbon en céramique Kamado sont des modèles haut de gamme
+                                          AXStaticText|title=|desc=|value=. Leur prix varie entre 199 € pour le plus petit modèle en acier et 2 999 € pour le ...
+                                            AXStaticText|title=|desc=|value=189,95 € à 3 489,00 €
+                                            AXImage|title=|desc=Note : 4,9 sur 5 (135) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXLink|title=|desc=Comment choisir un barbecue kamado ? Le Repaire du Chef https://lerepaireduchef.fr › comment-choisir-un-barbec...|value=
+                                            AXHeading|title=Comment choisir un barbecue kamado ?|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Comment choisir un barbecue kamado ?
+                                              AXStaticText|title=|desc=|value=Le Repaire du Chef
+                                                AXStaticText|title=|desc=|value=https://lerepaireduchef.fr
+                                                AXStaticText|title=|desc=|value= › comment-choisir-un-barbec...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Les kamados les plus bas de gamme coûtent entre 150 et 400 €
+                                          AXStaticText|title=|desc=|value= tandis que les modèles premium peuvent facilement atteindre les 5000 €. La taille la plus populaire ...
+                                          AXLink|title=|desc=Forest Grill - Barbecues kamado japonais en céramique forest-grill.com https://www.forest-grill.com|value=
+                                            AXHeading|title=Forest Grill - Barbecues kamado japonais en céramique|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Forest Grill - Barbecues kamado japonais en céramique
+                                              AXStaticText|title=|desc=|value=forest-grill.com
+                                                AXStaticText|title=|desc=|value=https://www.forest-grill.com
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Le kamado vient du Japon
+                                          AXStaticText|title=|desc=|value=, où il a été pensé comme un four en céramique capable de retenir la chaleur pour des cuissons parfaites ...
+                                          AXLink|title=|desc=Barbecue Kamado - Barbecook barbecook.fr https://www.barbecook.fr › Barbecue Kamado|value=
+                                            AXHeading|title=Barbecue Kamado - Barbecook|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Barbecue Kamado - Barbecook
+                                              AXStaticText|title=|desc=|value=barbecook.fr
+                                                AXStaticText|title=|desc=|value=https://www.barbecook.fr
+                                                AXStaticText|title=|desc=|value= › Barbecue Kamado
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Kamal se distingue par sa précision, sa polyvalence et son efficacité
+                                          AXStaticText|title=|desc=|value=. Son corps en céramique épais conserve parfaitement la chaleur, garantissant des ...
+                                          AXLink|title=|desc=Comment choisir son kamado ? - Blog Barbecue & Co Barbecue & Co https://barbecue-co.com › blog › comment-choisir-son-...|value=
+                                            AXHeading|title=Comment choisir son kamado ? - Blog Barbecue & Co|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Comment choisir son kamado ? - Blog Barbecue & Co
+                                              AXStaticText|title=|desc=|value=Barbecue & Co
+                                                AXStaticText|title=|desc=|value=https://barbecue-co.com
+                                                AXStaticText|title=|desc=|value= › blog › comment-choisir-son-...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=20 avr. 2026
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Comment choisir son 
+                                            AXStaticText|title=|desc=|value=kamado
+                                          AXStaticText|title=|desc=|value= ? Budget, usage, capacité, marque, qualité et polyvalence, trouvez le 
+                                            AXStaticText|title=|desc=|value=kamado
+                                          AXStaticText|title=|desc=|value= idéal. Découvrez notre comparatif.
+                                        AXHeading|title=Images|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Images
+                                              AXLink|title=|desc=Kamado Forest-Grill L 18" Gardenparty.com|value=
+                                              AXButton|title=Kamado Forest-Grill L 18"|desc=|value=
+                                                  AXImage|title=|desc=Kamado Forest-Grill L 18"|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Kokko Original XL - Kamado 22" (Ø 55 cm) Kokko|value=
+                                              AXButton|title=Kokko Original XL - Kamado 22" (Ø 55 cm)|desc=|value=
+                                                  AXImage|title=|desc=Kokko Original XL - Kamado 22" (Ø 55 cm)|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Barbecue Kamado 13 pouces - Ø27 cm de surface de cuisson | avec support et couvercle anti-pluie VONROC|value=
+                                              AXButton|title=Barbecue Kamado 13 pouces - Ø27 cm de surface de cuisson | avec support et couvercle anti-pluie|desc=|value=
+                                                  AXImage|title=|desc=Barbecue Kamado 13 pouces - Ø27 cm de surface de cuisson | avec support et couvercle anti-pluie|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                      AXButton|title=Afficher plus d'images|desc=|value=
+                                          AXStaticText|title=|desc=|value=Afficher plus d'images
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Qu'est-ce qu'un kamado ? Tout savoir sur le barbecue ... Esprit Barbecue https://www.esprit-barbecue.fr › Accueil › Conseils|value=
+                                            AXHeading|title=Qu'est-ce qu'un kamado ? Tout savoir sur le barbecue ...|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Qu'est-ce qu'un kamado ? Tout savoir sur le barbecue ...
+                                              AXStaticText|title=|desc=|value=Esprit Barbecue
+                                                AXStaticText|title=|desc=|value=https://www.esprit-barbecue.fr
+                                                AXStaticText|title=|desc=|value= › Accueil › Conseils
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=21 nov. 2025
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Un barbecue kamado est 
+                                            AXStaticText|title=|desc=|value=un barbecue fermé en forme d'œuf, souvent construit en céramique
+                                          AXStaticText|title=|desc=|value=. Certains modèles existent en terre cuite, en béton, ou ...
+                                          AXImage|title=|desc=Note : 3,0 sur 5 (31) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value=   
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Barbecue kamado Lidl|value=
+                                        AXStaticText|title=|desc=|value=Barbecue kamado 
+                                        AXStaticText|title=|desc=|value=Lidl
+                                      AXLink|title=|desc=Barbecue kamado prix|value=
+                                        AXStaticText|title=|desc=|value=Barbecue kamado 
+                                        AXStaticText|title=|desc=|value=prix
+                                      AXLink|title=|desc=Barbecue Kamado XXL|value=
+                                        AXStaticText|title=|desc=|value=Barbecue Kamado 
+                                        AXStaticText|title=|desc=|value=XXL
+                                      AXLink|title=|desc=Barbecue Kamado LEROY MERLIN|value=
+                                        AXStaticText|title=|desc=|value=Barbecue Kamado 
+                                        AXStaticText|title=|desc=|value=LEROY MERLIN
+                                      AXLink|title=|desc=Barbecue Kamado Joe|value=
+                                        AXStaticText|title=|desc=|value=Barbecue Kamado 
+                                        AXStaticText|title=|desc=|value=Joe
+                                      AXLink|title=|desc=Barbecue kamado avis|value=
+                                        AXStaticText|title=|desc=|value=Barbecue kamado 
+                                        AXStaticText|title=|desc=|value=avis
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=10
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=10
+                                      AXStaticText|title=|desc=|value=24
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=barbecue kamado - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

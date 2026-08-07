@@ -1,0 +1,728 @@
+[
+  {
+    "product_name": "Statue décorative XXL en résine (animal design 95-130 cm)",
+    "decision": "review",
+    "score": 69,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Volière XXL pour perroquets (2x1x2 m et plus)",
+    "decision": "review",
+    "score": 64,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 6,
+      "source_signal": 16,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Brasero plancha en acier corten (Ø 85-100 cm)",
+    "decision": "review",
+    "score": 61,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 16,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Meuble bar Art Déco noir et doré",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Aire de jeux / cabane enfant en bois XXL (portique + toboggan)",
+    "decision": "review",
+    "score": 58,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Billot de boucher / îlot central en bois massif",
+    "decision": "review",
+    "score": 58,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Borne de recharge murale 7,4 kW (wallbox + câble Type 2)",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Tireuse à bière à fût type kegerator (homebar)",
+    "decision": "review",
+    "score": 56,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 6,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fauteuil releveur électrique 2 moteurs",
+    "decision": "review",
+    "score": 55,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Robot tondeuse sans fil périmétrique GPS/RTK",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Buffet industriel en bois de manguier massif (150 cm)",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Luminaire design premium (lustre LED / lampadaire sculptural)",
+    "decision": "reject",
+    "score": 50,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 6,
+      "source_signal": 16,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Billard convertible table à manger (7ft)",
+    "decision": "reject",
+    "score": 48,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Kit solaire plug & play 800W (balcon/terrasse)",
+    "decision": "reject",
+    "score": 48,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Tente cloche coton 4-6 m spécial glamping (passage de poêle)",
+    "decision": "reject",
+    "score": 48,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 0,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Grande jarre en terre cuite XXL style Anduze",
+    "decision": "reject",
+    "score": 48,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Climatiseur monobloc mural sans unité extérieure",
+    "decision": "reject",
+    "score": 47,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fauteuil de massage électrique complet (milieu de gamme)",
+    "decision": "reject",
+    "score": 47,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Parure de lit en soie de mûrier 19-22 mommes",
+    "decision": "reject",
+    "score": 47,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Bain froid avec groupe de refroidissement (cold plunge à chiller)",
+    "decision": "reject",
+    "score": 47,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Rôtissoire méchoui électrique grande capacité (40-60 kg)",
+    "decision": "reject",
+    "score": 45,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Cuisine d'extérieur modulaire inox (modules plancha/évier/rangement)",
+    "decision": "reject",
+    "score": 44,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 16,
+      "niche_defensibility": 4
+    },
+    "penalties": {
+      "seasonal": 10
+    },
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Enseigne néon LED personnalisée (sur mesure)",
+    "decision": "reject",
+    "score": 44,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 0,
+      "source_signal": 12,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Voiture électrique enfant 24V 2 places sous licence",
+    "decision": "reject",
+    "score": 43,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Kit de filtration complet pour bassin de jardin (pompe + UV)",
+    "decision": "reject",
+    "score": 43,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Machine à granité professionnelle 2 bacs (2x12 L)",
+    "decision": "reject",
+    "score": 43,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Barbecue kamado en céramique (Ø 18-21 pouces)",
+    "decision": "reject",
+    "score": 42,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Serre de jardin en verre trempé et aluminium (5-10 m²)",
+    "decision": "reject",
+    "score": 41,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {
+      "seasonal": 10
+    },
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Kit de brumisation haute pression pour terrasse (60-80 bars)",
+    "decision": "reject",
+    "score": 40,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Sauna infrarouge 2-3 places (cabine bois)",
+    "decision": "reject",
+    "score": 38,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 0,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Papier peint panoramique sur mesure",
+    "decision": "reject",
+    "score": 38,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Catio — enclos extérieur en bois pour chat (XL)",
+    "decision": "reject",
+    "score": 37,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Poêle de sauna électrique 8 kW (inox, contrôleur intégré)",
+    "decision": "reject",
+    "score": 37,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Lit escamotable vertical 140x190 avec sommier relevable",
+    "decision": "reject",
+    "score": 35,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Machine à glace italienne professionnelle (comptoir, 1-3 parfums)",
+    "decision": "reject",
+    "score": 35,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fumoir armoire à froid/chaud pour viande et poisson",
+    "decision": "reject",
+    "score": 32,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Piscine hors-sol rigide en kit (bois/acier ~4-5 m, filtration incluse)",
+    "decision": "reject",
+    "score": 28,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 0,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {
+      "seasonal": 10
+    },
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Bain nordique chauffage bois en kit (2-4 places)",
+    "decision": "reject",
+    "score": 24,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 0,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 0,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Carport aluminium en kit (toit polycarbonate, 1 voiture)",
+    "decision": "reject",
+    "score": 22,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 0,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Tente de toit rigide à coque (2-3 places)",
+    "decision": "reject",
+    "score": 22,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 0,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 6,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  }
+]

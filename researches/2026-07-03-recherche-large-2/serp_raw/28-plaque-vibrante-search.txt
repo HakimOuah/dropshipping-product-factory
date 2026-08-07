@@ -1,0 +1,80 @@
+AXWindow|title=https://www.google.fr/search?q=plaque%20vibrante&hl=fr&gl=fr&pws=0 - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=https://www.google.fr/search?q=plaque%20vibrante&hl=fr&gl=fr&pws=0 - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.com/sorry/index?continue=https://www.google.fr/search%3Fq%3Dplaque%2520vibrante%26hl%3Dfr%26gl%3Dfr%26pws%3D0&hl=fr&q=EhAgAQhhMkdHIKGZNJUlJQQTGJaan9IGIjDJlkY6oveOgjgspaMhADWsRogqJbFeM7N1MkO1Y9skpAVIm1emwKPHytR5BvWQHV8yAnJSWgFD
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=https://www.google.fr/search?q=plaque%20vibrante&hl=fr&gl=fr&pws=0|desc=|value=
+                          AXGroup|title=|desc=reCAPTCHA|value=
+                            AXGroup|title=reCAPTCHA|desc=|value=
+                                          AXCheckBox|title=Je ne suis pas un robot|desc=|value=0
+                    AXStaticText|title=|desc=|value=À propos de cette page
+                    AXStaticText|title=|desc=|value=Nos systèmes ont détecté un trafic exceptionnel sur votre réseau informatique. Cette page permet de vérifier que c'est bien vous qui envoyez des requêtes, et non un robot. 
+                    AXLink|title=|desc=Que s'est-il passé ?|value=
+                      AXStaticText|title=|desc=|value=Que s'est-il passé ?
+                      AXStaticText|title=|desc=|value=Adresse IP : 2001:861:3247:4720:a199:3495:2525:413
+                      AXStaticText|title=|desc=|value=Heure : 2026-07-03T14:54:14Z
+                      AXStaticText|title=|desc=|value=URL : https://www.google.fr/search?q=plaque%20vibrante&hl=fr&gl=fr&pws=0
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=https://www.google.fr/search?q=plaque%20vibrante&hl=fr&gl=fr&pws=0|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

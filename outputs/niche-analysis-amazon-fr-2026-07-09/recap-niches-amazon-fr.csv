@@ -1,0 +1,22 @@
+﻿Niche,Archétype (mono-produit décliné / univers lifestyle),Vol. total,Vol. commercial,% commercial,KD moyen,CPC moyen,Nb mots-clés exploitables,Fit produit (flag),Verdict
+Accessoires tech/audio,Univers accessoires commoditisé,736100,736100,1.0,4.29,0.15,58,ELIM: électronique/CE + SAV + marketplace,Disqualifiée malgré volume
+Plage/camping/jardin saisonnier,Univers lifestyle outdoor,505300,505300,1.0,0.12,0.19,63,PENAL: saisonnier + bulky + outillage/jouet CE,À éviter en mono-marque généraliste
+Outillage/bricolage,Univers équipement,366400,366400,1.0,0.26,0.16,32,ELIM: lourd/motorisé + ManoMano/Leroy,Disqualifiée
+Beauté cheveux/ongles/coiffeuse,Univers beauté accessoire,365800,365800,1.0,0.45,0.15,38,PENAL: cosmétique/électrique/meuble + retours,Trop risquée sans sous-niche stricte
+Papeterie créative & coloriage kawaii,Univers lifestyle créatif,363600,342600,0.9422,1.27,0.16,33,OK: léger/giftable/deep catalog; IP à filtrer,TOP: meilleure balance volume/fit
+Froid/ventilation nomade,Mono-produit décliné,312600,312600,1.0,0.31,0.14,15,"ELIM/PENAL: électrique, lourd, saisonnier",Disqualifiée pour dropship léger
+Anti-insectes maison & été,Mono-problème décliné,285700,285700,1.0,1.45,0.11,25,"OK-: léger, douleur forte; saisonnier + électrique/biocide",TOP mais saisonnalité forte
+Rangement & porte-accessoires maison,Univers maison fonctionnel,285300,285300,1.0,1.96,0.18,39,OK-/PENAL: quelques produits lourds et enseignes maison,À tester seulement sous-angle léger
+Sextoys/adulte intime,Univers mature,271500,271500,1.0,5.29,0.31,9,"PENAL: paiement/ads, body-contact, électronique",Volume fort mais risque opérationnel
+Gadgets cuisine & vaisselle,Univers cuisine fonctionnel,237800,237800,1.0,0.32,0.15,22,PENAL: électrique/food-contact/poids,À éviter sauf accessoires non-électriques
+Accessoires voiture,Univers accessoires auto,233200,233200,1.0,0.75,0.14,30,"ELIM/PENAL: sécurité, électrique, lourd",Disqualifiée
+Déco murale & lumières,Univers déco maison,203700,203700,1.0,2.32,0.15,21,OK-/PENAL: fragile/électrique + enseignes déco,Possible mais pas prioritaire
+"Événementiel, cartes & cadeaux",Univers occasion/giftable,242500,201500,0.8309,1.68,0.16,27,OK: léger/giftable; occasions + concurrence fête,TOP secondaire
+Merchandising licencié enfant,Univers licence/IP,473000,198000,0.4186,0.22,0.11,17,ELIM: licences/IP + jouet CE,Disqualifiée
+Linge de lit & cocooning sommeil,Univers lifestyle maison,170000,170000,1.0,1.74,0.28,17,"OK-/PENAL: textile, bulky modéré, grosses enseignes","Potentiel, mais pénétration difficile"
+Piercing oreille & bijoux fantaisie,Mini-marque bijoux décliné,160300,160300,1.0,1.89,0.32,11,OK: très léger/giftable; body-contact + pure players,TOP mais concurrence dense
+Accessoires chats/chiens,Univers pet lifestyle,145100,145100,1.0,0.17,0.2,28,"OK-/PENAL: profond, mais pure players + santé/électronique",Intéressant sous sous-niche non-santé
+Fidget/squishy/anti-stress toys,Mono-produit décliné tendance,143900,143900,1.0,0.85,0.14,10,"PENAL/ELIM: jouet CE, trend, faible panier",Pas prioritaire
+Drapeaux & supporters,Mono-produit décliné large,137100,137100,1.0,0.94,0.08,20,OK-: très léger/deep SKU; faible AOV,"TOP niche simple, panier à travailler"
+Mode thématique & déguisements,Univers textile occasionnel,94700,94700,1.0,0.38,0.18,15,PENAL: tailles/retours/saisonnier,À éviter en dropship SEO pur
+Cocooning anti-stress non-médical,Univers bien-être maison,93800,93800,1.0,3.2,0.28,7,OK-/PENAL: claims bien-être + quelques électriques,"Watchlist, angle bundle possible"

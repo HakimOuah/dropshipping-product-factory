@@ -1,0 +1,97 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison offerte, sans minimum d'achat",
+            "url": ""
+          }
+        },
+        "message_fb7hmR": {
+          "type": "message",
+          "settings": {
+            "text": "Conseil avant achat : réponse sous 24 h ouvrées",
+            "url": ""
+          }
+        },
+        "message_EQpMXq": {
+          "type": "message",
+          "settings": {
+            "text": "Retours sous 14 jours après réception",
+            "url": ""
+          }
+        },
+        "message_Pmf4Eh": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "message_fb7hmR",
+        "message_EQpMXq",
+        "message_Pmf4Eh"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "navigation_mode": "arrows",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "scrolling_speed": 10,
+        "text_size": "text-xs",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "linear-gradient(90deg, #0E3A5A, #17667B 60%, #35B6AA 100%)",
+        "text_color": "#F7F4EE"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": true,
+        "logo": "shopify://shop_images/logo-bonum-vitae-280x80.png",
+        "logo_max_width": 185,
+        "logo_mobile_max_width": 140,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "hover",
+        "opening_from": "left",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": false,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "show_country_name": false,
+        "transparent_header_text_color": "#ffffff",
+        "reduce_padding": true,
+        "background_opacity": 43,
+        "background_blur_radius": 10,
+        "transparent_logo": "shopify://shop_images/logo-bonum-vitae-blanc-280x80.png"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
+

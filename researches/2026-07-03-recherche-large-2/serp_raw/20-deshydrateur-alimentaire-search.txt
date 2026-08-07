@@ -1,0 +1,620 @@
+AXWindow|title=déshydrateur alimentaire - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=déshydrateur alimentaire - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=déshydrateur%20alimentaire&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=déshydrateur alimentaire - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=déshydrateur alimentaire
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXLink|title=|desc=Actualités|value=
+                                              AXStaticText|title=|desc=|value=Actualités
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter Pour viande séchée|value=
+                                              AXStaticText|title=|desc=|value=Pour viande séchée
+                                            AXLink|title=|desc=Ajouter New|value=
+                                              AXStaticText|title=|desc=|value=New
+                                            AXLink|title=|desc=Ajouter Used|value=
+                                              AXStaticText|title=|desc=|value=Used
+                                            AXLink|title=|desc=Ajouter Klarstein|value=
+                                              AXStaticText|title=|desc=|value=Klarstein
+                                            AXLink|title=|desc=Ajouter Excalibur|value=
+                                              AXStaticText|title=|desc=|value=Excalibur
+                                            AXLink|title=|desc=Ajouter H.Koenig|value=
+                                              AXStaticText|title=|desc=|value=H.Koenig
+                                            AXLink|title=|desc=Ajouter Lacor|value=
+                                              AXStaticText|title=|desc=|value=Lacor
+                                            AXLink|title=|desc=Ajouter Clatronic|value=
+                                              AXStaticText|title=|desc=|value=Clatronic
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à (auparavant 540 € chez FourniResto.com)|value=
+                                              AXLink|title=|desc= à (auparavant 540 € chez FourniResto.com)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Déshydrateur Alimentaire - 24 Niveaux - Dynasteel|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Déshydrateur Alimentaire - 24 Niveaux - Dynasteel
+                                            AXStaticText|title=|desc=|value=404,99 €
+                                            AXStaticText|title=|desc=|value=540 €
+                                            AXGroup|title=|desc=Vendu par FourniResto.com|value=
+                                              AXStaticText|title=|desc=|value=FourniResto.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Productcaster|value=
+                                                    AXStaticText|title=|desc=|value=Par Productcaster
+                                            AXLink|title=|desc= à chez greenweez.com|value=
+                                              AXLink|title=|desc= à chez greenweez.com|value=
+                                            AXHeading|title=H.koenig - Déshydrateur alimentaire|desc=|value=3
+                                                AXStaticText|title=|desc=|value=H.koenig - Déshydrateur alimentaire
+                                            AXStaticText|title=|desc=|value=129,99 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=129,99 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (4) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à chez klarstein.fr|value=
+                                              AXLink|title=|desc= à chez klarstein.fr|value=
+                                              AXStaticText|title=|desc=|value=20 % DE REMISE
+                                            AXHeading|title=Klarstein Arizona Jerky Déshydrateur alimentaire 500 W 35-70 °C affichage numérique tactile|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Klarstein Arizona Jerky Déshydrateur alimentaire 500 W 35-70 °C affichage numérique tactile
+                                            AXStaticText|title=|desc=|value=107,19 €
+                                            AXStaticText|title=|desc=|value=134 €
+                                            AXGroup|title=|desc=Vendu par klarstein.fr|value=
+                                              AXStaticText|title=|desc=|value=klarstein.fr
+                                              AXStaticText|title=|desc=|value=Code de réduction
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (29) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Alpagga|value=
+                                              AXLink|title=|desc= à chez Alpagga|value=
+                                            AXHeading|title=Déshydrateur Matfer 187501|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Déshydrateur Matfer 187501
+                                            AXStaticText|title=|desc=|value=707,84 €
+                                            AXGroup|title=|desc=Vendu par Alpagga|value=
+                                              AXStaticText|title=|desc=|value=Alpagga
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Lusini.com|value=
+                                              AXLink|title=|desc= à chez Lusini.com|value=
+                                            AXHeading|title=Déshydrateur, 10 grilles Stalgast; 43x53.5x42 cm (lxPxH); argenté|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Déshydrateur, 10 grilles Stalgast; 43x53.5x42 cm (lxPxH); argenté
+                                            AXStaticText|title=|desc=|value=406,55 €
+                                            AXGroup|title=|desc=Vendu par Lusini.com|value=
+                                              AXStaticText|title=|desc=|value=Lusini.com
+                                              AXStaticText|title=|desc=|value=Offre spéciale
+                                              AXStaticText|title=|desc=|value=406,55 €/1nb
+                                              AXStaticText|title=|desc=|value=+ 14,28 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à (auparavant 180 € chez FourniResto.com)|value=
+                                              AXLink|title=|desc= à (auparavant 180 € chez FourniResto.com)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Déshydrateur Kitchen Line - 7 Plateaux - HENDI|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Déshydrateur Kitchen Line - 7 Plateaux - HENDI
+                                            AXStaticText|title=|desc=|value=149,39 €
+                                            AXStaticText|title=|desc=|value=180 €
+                                            AXGroup|title=|desc=Vendu par FourniResto.com|value=
+                                              AXStaticText|title=|desc=|value=FourniResto.com
+                                              AXStaticText|title=|desc=|value=+ 15,48 € de frais de port
+                                              AXImage|title=|desc=Note : 5,0 sur 5 (16) avis d'utilisateurs|value=
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Productcaster|value=
+                                                    AXStaticText|title=|desc=|value=Par Productcaster
+                                            AXLink|title=|desc= à (auparavant 300 € chez greenweez.com)|value=
+                                              AXLink|title=|desc= à (auparavant 300 € chez greenweez.com)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=PROMO -20% - Riviera Et Bar - Déshydrateur avec minuterie 10 plateaux inox|desc=|value=3
+                                                AXStaticText|title=|desc=|value=PROMO -20% - Riviera Et Bar - Déshydrateur avec minuterie 10 plateaux inox
+                                            AXStaticText|title=|desc=|value=239,99 €
+                                            AXStaticText|title=|desc=|value=300 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=239,99 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 3,8 sur 5 (7) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à (auparavant 299 € chez greenweez.com)|value=
+                                              AXLink|title=|desc= à (auparavant 299 € chez greenweez.com)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=PROMO -10% - Wartmann - Déshydrateur Wartmann WM-2110 - 10 plateaux inox|desc=|value=3
+                                                AXStaticText|title=|desc=|value=PROMO -10% - Wartmann - Déshydrateur Wartmann WM-2110 - 10 plateaux inox
+                                            AXStaticText|title=|desc=|value=269,00 €
+                                            AXStaticText|title=|desc=|value=299 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=269,00 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (61) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à chez greenweez.com|value=
+                                              AXLink|title=|desc= à chez greenweez.com|value=
+                                            AXHeading|title=Excalibur - Performance 6 plateaux Inox DH06SSSS|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Excalibur - Performance 6 plateaux Inox DH06SSSS
+                                            AXStaticText|title=|desc=|value=359,00 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=359,00 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,6 sur 5 (11) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à chez klarstein.fr|value=
+                                              AXLink|title=|desc= à chez klarstein.fr|value=
+                                              AXStaticText|title=|desc=|value=25 % DE REMISE
+                                            AXHeading|title=Klarstein Captain Jerky 110 déshydrateur 1000 W 30-90 °C minuterie 24h inox|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Klarstein Captain Jerky 110 déshydrateur 1000 W 30-90 °C minuterie 24h inox
+                                            AXStaticText|title=|desc=|value=277,49 €
+                                            AXStaticText|title=|desc=|value=370 €
+                                            AXGroup|title=|desc=Vendu par klarstein.fr|value=
+                                              AXStaticText|title=|desc=|value=klarstein.fr
+                                              AXStaticText|title=|desc=|value=Code de réduction
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,6 sur 5 (22) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Costway.fr|value=
+                                              AXLink|title=|desc= à chez Costway.fr|value=
+                                            AXHeading|title=CostwayDéshydrateur Alimentaire avec 8 Grilles en Acier Inoxydable Séchoir à Fruits 850W avec Minuteur 48H Contrôle de Température 35 -75 Argent|desc=|value=3
+                                                AXStaticText|title=|desc=|value=CostwayDéshydrateur Alimentaire avec 8 Grilles en Acier Inoxydable Séchoir à Fruits 850W avec Minuteur 48H Contrôle de Température 35 -75 Argent
+                                            AXStaticText|title=|desc=|value=142,99 €
+                                            AXGroup|title=|desc=Vendu par Costway.fr|value=
+                                              AXStaticText|title=|desc=|value=Costway.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,7 sur 5 (10) avis d'utilisateurs|value=
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.2/5
+                                                AXLink|title=|desc=Par Ciao|value=
+                                                    AXStaticText|title=|desc=|value=Par Ciao
+                                            AXLink|title=|desc= à chez FourniResto.com|value=
+                                              AXLink|title=|desc= à chez FourniResto.com|value=
+                                            AXHeading|title=Déshydrateur Profi Line - 6 Plateaux - HENDI|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Déshydrateur Profi Line - 6 Plateaux - HENDI
+                                            AXStaticText|title=|desc=|value=196,79 €
+                                            AXGroup|title=|desc=Vendu par FourniResto.com|value=
+                                              AXStaticText|title=|desc=|value=FourniResto.com
+                                              AXStaticText|title=|desc=|value=+ 15,48 € de frais de port
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (13) avis d'utilisateurs|value=
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Productcaster|value=
+                                                    AXStaticText|title=|desc=|value=Par Productcaster
+                                            AXLink|title=|desc= à chez greenweez.com|value=
+                                              AXLink|title=|desc= à chez greenweez.com|value=
+                                            AXHeading|title=PROMO -16% - Biochef - Déshydrateur Arizona Sol 9 plateaux Noir|desc=|value=3
+                                                AXStaticText|title=|desc=|value=PROMO -16% - Biochef - Déshydrateur Arizona Sol 9 plateaux Noir
+                                            AXStaticText|title=|desc=|value=185,00 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=185,00 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (24) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Productcaster|value=
+                                                AXStaticText|title=|desc=|value=Productcaster
+                                              AXLink|title=|desc=Channable|value=
+                                                AXStaticText|title=|desc=|value=Channable
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Ciao|value=
+                                                AXStaticText|title=|desc=|value=Ciao
+                                              AXLink|title=|desc=HORECA Shopping|value=
+                                                AXStaticText|title=|desc=|value=HORECA Shopping
+                                              AXLink|title=|desc=Kelkoo|value=
+                                                AXStaticText|title=|desc=|value=Kelkoo
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Déshydrateurs Alimentaires, déshydrater fruits et légumes 🍏 Boutique Nature et Vitalité https://www.nature-vitalite.com › 17-deshydrateurs-alime...|value=
+                                            AXHeading|title=Déshydrateurs Alimentaires, déshydrater fruits et légumes 🍏|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Déshydrateurs Alimentaires, déshydrater fruits et légumes 🍏
+                                              AXStaticText|title=|desc=|value=Boutique Nature et Vitalité
+                                                AXStaticText|title=|desc=|value=https://www.nature-vitalite.com
+                                                AXStaticText|title=|desc=|value= › 17-deshydrateurs-alime...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Un 
+                                            AXStaticText|title=|desc=|value=déshydrateur alimentaire
+                                          AXStaticText|title=|desc=|value= est un appareil polyvalent utilisé pour éliminer l'humidité des aliments en les chauffant à des températures basses.
+                                            AXImage|title=|desc=Note : 4,9 sur 5 (11 538) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Quel est l'intérêt d'un déshydrateur alimentaire ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est l'intérêt d'un déshydrateur alimentaire ?
+                                              AXButton|title=Quels sont les aliments qu'on peut déshydrater ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quels sont les aliments qu'on peut déshydrater ?
+                                              AXButton|title=Quel est le meilleur déshydrateur alimentaire ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le meilleur déshydrateur alimentaire ?
+                                              AXButton|title=Combien de temps Peut-on garder des aliments déshydratés ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Combien de temps Peut-on garder des aliments déshydratés ?
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Déshydrateurs / Électroménager Spécialisé Amazon https://www.amazon.fr › Deshydrateurs|value=
+                                            AXHeading|title=Déshydrateurs / Électroménager Spécialisé|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Déshydrateurs / Électroménager Spécialisé
+                                              AXStaticText|title=|desc=|value=Amazon
+                                                AXStaticText|title=|desc=|value=https://www.amazon.fr
+                                                AXStaticText|title=|desc=|value= › Deshydrateurs
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Vita5 Nobel Pro6 Deshydrateur Alimentaire avec 6 Plateaux en Inox
+                                          AXStaticText|title=|desc=|value= - Déshydrateur avec Minuterie 24h et Température 35-75 °C - Deshydrateur Viande, Fruits, ...
+                                          AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                                            AXButton|title=|desc=Kitchen Chef Déshydrateur 5 plateaux. Prix actuel : 74,61 €. Plus de prix disponibles. Darty et plus. Également à proximité. Note : 3,8 sur 5. 51 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Silvercrest Kitchen Tools Déshydrateur alimentaire. Prix actuel : 24,99 €. Plus de prix disponibles. Lidl.fr et plus. Note : 4,7 sur 5. 10 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Thomson TH350DA 350 W. Prix actuel : 44,99 €. Plus de prix disponibles. leDénicheur.fr et plus. Également à proximité. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Essentielb Déshydrateur ED2. Prix actuel : 59,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Note : 4,0 sur 5. 26 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Esperanza Déshydrateur EKD003. Prix actuel : 19,99 €. Plus de prix disponibles. Klarna et plus. Note : 4,1 sur 5. 203 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kitchen Chef Déshydrateur 6 plateaux inox. Prix actuel : 147,74 €. Plus de prix disponibles. idealo France et plus. Note : 4,6 sur 5. 115 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Le Parfait Déshydrateur éléctrique 400W. PROMOTION. Prix actuel : 126,65 €. Avant : 149 €. Plus de prix disponibles. leparfait.com et plus. Note : 4,0 sur 5. 9 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Alimentaire DSY700 H.Koenig. Prix actuel : 49,99 €. Plus de prix disponibles. Nature & Découvertes FR et plus. Note : 4,2 sur 5. 75 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Déshydrateur 2026 en soldes sur idealo.fr Idealo|value=
+                                                AXHeading|title=Déshydrateur 2026 en soldes sur idealo.fr|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Déshydrateur 2026 en soldes sur idealo.fr
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Clatronic Déshydrateur DR 2751 idealo|value=
+                                                AXHeading|title=Clatronic Déshydrateur DR 2751|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Clatronic Déshydrateur DR 2751
+                                                    AXStaticText|title=|desc=|value=idealo
+                                                AXLink|title=|desc=Deshydrateur alimentaire – Trouvez le meilleur prix leDénicheur|value=
+                                                AXHeading|title=Deshydrateur alimentaire – Trouvez le meilleur prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Deshydrateur alimentaire – Trouvez le meilleur prix
+                                                    AXStaticText|title=|desc=|value=leDénicheur
+                                                AXLink|title=|desc=Déshydrateurs alimentaires (2026) Meilleures Ventes Lionshome.fr|value=
+                                                AXHeading|title=Déshydrateurs alimentaires (2026) Meilleures Ventes|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Déshydrateurs alimentaires (2026) Meilleures Ventes
+                                                    AXStaticText|title=|desc=|value=Lionshome.fr
+                                                  AXLink|title=|desc=Top déshydrateur alimentaire en 2026 Meilleurs.fr|value=
+                                                  AXHeading|title=Top déshydrateur alimentaire en 2026|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Top déshydrateur alimentaire en 2026
+                                                      AXStaticText|title=|desc=|value=Meilleurs.fr
+                                                  AXLink|title=|desc=Déshydrateur Achat Moins Cher|value=
+                                                  AXHeading|title=Déshydrateur|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Déshydrateur
+                                                      AXStaticText|title=|desc=|value=Achat Moins Cher
+                                                  AXLink|title=|desc=Déshydrateurs au meilleur prix - Mieux comparer avec leDénicheur leDénicheur|value=
+                                                  AXHeading|title=Déshydrateurs au meilleur prix - Mieux comparer avec leDénicheur|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Déshydrateurs au meilleur prix - Mieux comparer avec leDénicheur
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Déshydrateurs alimentaires (2026) Meilleures Ventes Lionshome.fr|value=
+                                                  AXHeading|title=Déshydrateurs alimentaires (2026) Meilleures Ventes|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Déshydrateurs alimentaires (2026) Meilleures Ventes
+                                                      AXStaticText|title=|desc=|value=Lionshome.fr
+                                                  AXLink|title=|desc=Déshydrateurs alimentaires Prix.net|value=
+                                                  AXHeading|title=Déshydrateurs alimentaires|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Déshydrateurs alimentaires
+                                                      AXStaticText|title=|desc=|value=Prix.net
+                                                  AXLink|title=|desc=Vidaxl déshydrateur alimentaire avec 6 plateaux 250 w blanc Cherchons.com|value=
+                                                  AXHeading|title=Vidaxl déshydrateur alimentaire avec 6 plateaux 250 w blanc|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Vidaxl déshydrateur alimentaire avec 6 plateaux 250 w blanc
+                                                      AXStaticText|title=|desc=|value=Cherchons.com
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Déshydrateur alimentaire - Retrait 1h en Magasin Boulanger https://www.boulanger.com › deshydrateur-sterilisateur|value=
+                                            AXHeading|title=Déshydrateur alimentaire - Retrait 1h en Magasin|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Déshydrateur alimentaire - Retrait 1h en Magasin
+                                              AXStaticText|title=|desc=|value=Boulanger
+                                                AXStaticText|title=|desc=|value=https://www.boulanger.com
+                                                AXStaticText|title=|desc=|value= › deshydrateur-sterilisateur
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Son fonctionnement est simple : 
+                                            AXStaticText|title=|desc=|value=il extrait l'eau des aliments tout en conservant leurs nutriments essentiels
+                                          AXStaticText|title=|desc=|value=. Avec le déshydrateur, donnez libre cours à votre ...
+                                            AXStaticText|title=|desc=|value=36,00 € à 699,00 €
+                                            AXImage|title=|desc=Note : 4,1 sur 5 (50) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXStaticText|title=|desc=|value=Osny · Ouvert
+                                        AXHeading|title=Vidéos|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Vidéos
+                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                AXLink|title=|desc=Tout savoir sur les déshydrateurs Cuisine Saine Cuisine Saine 3 mars 2016|value=
+                                                  AXHeading|title=Tout savoir sur les déshydrateurs Cuisine Saine Cuisine Saine 3 mars 2016|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Tout savoir sur les déshydrateurs
+                                                    AXStaticText|title=|desc=|value=Cuisine Saine
+                                                    AXStaticText|title=|desc=|value= Cuisine Saine
+                                                      AXStaticText|title=|desc=|value=3 mars 2016
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Tout savoir sur les déshydrateurs par Cuisine Saine sur Cuisine Saine. Lire sur Cuisine Saine. 7:35|value=
+                                                  AXLink|title=|desc=TOP—5. Meilleurs déshydrateurs. Test & Comparatif 2026 YouTube Le Bon Choix 21 mars 2026|value=
+                                                    AXHeading|title=TOP—5. Meilleurs déshydrateurs. Test & Comparatif 2026 YouTube Le Bon Choix 21 mars 2026|desc=|value=3
+                                                      AXStaticText|title=|desc=|value=TOP—5. Meilleurs déshydrateurs. Test & Comparatif 2026
+                                                      AXStaticText|title=|desc=|value=YouTube
+                                                      AXStaticText|title=|desc=|value= Le Bon Choix
+                                                        AXStaticText|title=|desc=|value=21 mars 2026
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                AXButton|title=|desc=TOP—5. Meilleurs déshydrateurs. Test & Comparatif 2026 par Le Bon Choix sur YouTube. Lire sur Google. 6:01|value=
+                                                AXLink|title=|desc=TOP 3 : Meilleur Déshydrateur Alimentaire 2025 YouTube Chef Armand 4 oct. 2025|value=
+                                                  AXHeading|title=TOP 3 : Meilleur Déshydrateur Alimentaire 2025 YouTube Chef Armand 4 oct. 2025|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=TOP 3 : Meilleur Déshydrateur Alimentaire 2025
+                                                    AXStaticText|title=|desc=|value=YouTube
+                                                    AXStaticText|title=|desc=|value= Chef Armand
+                                                      AXStaticText|title=|desc=|value=4 oct. 2025
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXButton|title=|desc=TOP 3 : Meilleur Déshydrateur Alimentaire 2025 par Chef Armand sur YouTube. Lire sur Google. 6:21|value=
+                                                    AXButton|title=5 moments clés dans cette vidéo|desc=|value=
+                                                          AXStaticText|title=|desc=|value=5 moments clés dans cette vidéo
+                                          AXLink|title=|desc=Afficher toutes les vidéos|value=
+                                              AXStaticText|title=|desc=|value=Voir plus
+                                                            AXButton|title=|desc=Déshydrateur Alimentaire Ariete. Prix actuel : 54,98 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,7 sur 5. 123 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Atacama Pro Deluxe. Prix actuel : 349,00 €. Plus de prix disponibles. boulanger.com et plus. Note : 4,6 sur 5. 30 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Alimentaire 10 Niveaux. PROMOTION. Prix actuel : 166,00 €. Avant : 187 €. Plus de prix disponibles. metro.fr et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Alimentaire 24 Niveaux. PROMOTION. Prix actuel : 404,99 €. Avant : 540 €. Plus de prix disponibles. FourniResto.com et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Kitchenminis WMF. Prix actuel : 118,99 €. meubles.fr. Note : 4,7 sur 5. 434 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur alimentaire rotatif VEVOR 12 plateaux acier inox,séchoir électrique 800 W,température réglable,minuterie 24 h,viande,Fruits,Légumes. Prix actuel : 209,90 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,7 sur 5. 33 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur alimentaire Esperanza EKD002. Prix actuel : 33,93 €. Plus de prix disponibles. Carrefour et plus. Note : 4,2 sur 5. 232 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Riviera & Bar Déshydrateur QDH710 Riviera Et Bar. Prix actuel : 249,00 €. Plus de prix disponibles. idealo France et plus. Note : 3,8 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Comment choisir son deshydrateur - www.mathon.fr Mathon https://www.mathon.fr › Sommaire guides achat|value=
+                                            AXHeading|title=Comment choisir son deshydrateur - www.mathon.fr|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Comment choisir son deshydrateur - www.mathon.fr
+                                              AXStaticText|title=|desc=|value=Mathon
+                                                AXStaticText|title=|desc=|value=https://www.mathon.fr
+                                                AXStaticText|title=|desc=|value= › Sommaire guides achat
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Le principe du déshydrateur est simple : 
+                                            AXStaticText|title=|desc=|value=l'appareil produit en continu une chaleur entre 30°C et 50°C
+                                          AXStaticText|title=|desc=|value= afin d'assécher les aliments en éliminant l'eau qu'ils ...
+                                                            AXButton|title=|desc=Biochef Déshydrateur alimentaire Arizona Sol 6 plateaux Noir. PROMOTION. Prix actuel : 159,00 €. Avant : 179 €. Plus de prix disponibles. boulanger.com et plus. Note : 4,7 sur 5. 56 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=VEVOR Déshydrateur Alimentaire 8 Plateaux en Acier Inox séchoir électrique aliments 400 W température réglable minuterie 24 h fenêtre visible pour. Prix actuel : 99,90 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,6 sur 5. 86 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Kitchen Chef SECCO 6.BLACK. Prix actuel : 109,82 €. Plus de prix disponibles. 123comparer.fr et plus. Note : 4,4 sur 5. 55 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Domoclip Déshydrateur Livoo DOM202. PROMOTION. Prix actuel : 37,76 €. Avant : 42 €. Plus de prix disponibles. Nature & Découvertes FR et plus. Note : 4,1 sur 5. 162 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Rosenstein & Söhne Déshydrateur alimentaire compact DH-25.k. Prix actuel : 44,95 €. Plus de prix disponibles. Darty et plus. Note : 4,1 sur 5. 12 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lacor Déshydrateur 5 plateaux. Prix actuel : 59,99 €. Plus de prix disponibles. Amazon.fr et plus. Note : 4,3 sur 5. 59 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur alimentaire VEVOR 6 plateaux acier inox,séchoir électrique 400 W,température réglable,minuterie 24 h,lyophilisateur viande,fruits. Prix actuel : 90,90 €. Leroy Merlin. Note : 4,5 sur 5. 30 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur alimentaire DSY900 H.Koenig. Prix actuel : 129,99 €. Plus de prix disponibles. Nature & Découvertes FR et plus. Note : 4,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Le Guide de la déshydratation alimentaire Warmcook.com https://www.warmcook.com › Blog › Astuces|value=
+                                            AXHeading|title=Le Guide de la déshydratation alimentaire|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Le Guide de la déshydratation alimentaire
+                                              AXStaticText|title=|desc=|value=Warmcook.com
+                                                AXStaticText|title=|desc=|value=https://www.warmcook.com
+                                                AXStaticText|title=|desc=|value= › Blog › Astuces
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=16 avr. 2020
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Le principe d'un déshydrateur est simple : 
+                                            AXStaticText|title=|desc=|value=Vous avez un cube plus ou moins profond, au bout duquel se trouve un ventilateur
+                                          AXStaticText|title=|desc=|value=. Une résistance va ...
+                                          AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                                            AXButton|title=|desc=Klarstein Déshydrateur alimentaire Flavour Dry. Prix actuel : 149,99 €. Plus de prix disponibles. prix.net et plus. Note : 4,5 sur 5. 46 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Atacama Pro. Prix actuel : 174,90 €. Plus de prix disponibles. prix.net et plus. Note : 4,5 sur 5. 57 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Klarstein Fruit Jerky 14 Déshydrateur alimentaire 14 étages 1000W. Prix actuel : 405,99 €. Plus de prix disponibles. prix.net et plus. Note : 4,8 sur 5. 16 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=VEVOR Déshydrateur alimentaire séchoir électrique 1000 W 10 plateaux pour fruits. Prix actuel : 152,90 €. Leroy Merlin. Note : 4,7 sur 5. 124 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=YASHE GGJ-261B Déshydrateur Alimentaire, Contrôle de Température de 35 à 70°C et Minuterie de 72 Heures, 5 Plateaux Réglables en Hauteur, Déshydrateur. PROMOTION. Prix actuel : 56,98 €. Avant : 60 €. Amazon.fr. Note : 4,5 sur 5. 12 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lehmann Dörrautomat LHOFD-4525 mit 5 Dörrebenen. Prix actuel : 49,99 €. Amazon.fr - Seller. Note : 4,4 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Déshydrateur Simeo DRP500 airflow système. Prix actuel : 109,99 €. Plus de prix disponibles. Boulanger et plus. Note : 3,6 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Kwasyo Deshydrateur Alimentaire en acier inoxydable, 8 Plateaux, régulateur de température de 30 à 90 °C, fonction minuterie de 24 h, sans BPA,. Prix actuel : 159,99 €. Amazon.fr - Seller. Note : 4,8 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Deshydrateurs alimentaires professionnels pour fruits ... - Politec politec-france.com https://www.politec-france.com › Préparation|value=
+                                            AXHeading|title=Deshydrateurs alimentaires professionnels pour fruits ... - Politec|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Deshydrateurs alimentaires professionnels pour fruits ... - Politec
+                                              AXStaticText|title=|desc=|value=politec-france.com
+                                                AXStaticText|title=|desc=|value=https://www.politec-france.com
+                                                AXStaticText|title=|desc=|value= › Préparation
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Déshydrateur alimentaire à 29 plateaux GN 1/1 (530x325 mm
+                                          AXStaticText|title=|desc=|value=) · Jusqu'à 150 heures de séchage possible sans interruption · Peut deshydrater fruits, légumes, herbes, ...
+                                          AXLink|title=|desc=Guide d'achat : déshydrateurs alimentaires Boutique Nature et Vitalité https://www.nature-vitalite.com › content › 13-deshydrat...|value=
+                                            AXHeading|title=Guide d'achat : déshydrateurs alimentaires|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Guide d'achat : déshydrateurs alimentaires
+                                              AXStaticText|title=|desc=|value=Boutique Nature et Vitalité
+                                                AXStaticText|title=|desc=|value=https://www.nature-vitalite.com
+                                                AXStaticText|title=|desc=|value= › content › 13-deshydrat...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=La déshydratation alimentaire est une technique de conservation des aliments ancestrale
+                                          AXStaticText|title=|desc=|value=. Excalibur, Tribest, Biochef ou Wartmann. de 30° à 74°.
+                                          AXLink|title=|desc=Déshydrateur — Wikipédia Wikipédia https://fr.wikipedia.org › wiki › Déshydrateur|value=
+                                            AXHeading|title=Déshydrateur — Wikipédia|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Déshydrateur — Wikipédia
+                                              AXStaticText|title=|desc=|value=Wikipédia
+                                                AXStaticText|title=|desc=|value=https://fr.wikipedia.org
+                                                AXStaticText|title=|desc=|value= › wiki › Déshydrateur
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Un déshydrateur est 
+                                            AXStaticText|title=|desc=|value=un dispositif ou une machine qui permet de déshydrater des aliments
+                                          AXStaticText|title=|desc=|value= sans les cuire (dessiccation). La déshydratation d'aliments est une ...
+                                          AXLink|title=|desc=Déshydrateur alimentaire 2026 en soldes sur idealo.fr idealo https://www.idealo.fr › cat › deshydrateurs-alimentaires|value=
+                                            AXHeading|title=Déshydrateur alimentaire 2026 en soldes sur idealo.fr|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Déshydrateur alimentaire 2026 en soldes sur idealo.fr
+                                              AXStaticText|title=|desc=|value=idealo
+                                                AXStaticText|title=|desc=|value=https://www.idealo.fr
+                                                AXStaticText|title=|desc=|value= › cat › deshydrateurs-alimentaires
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Déshydrateur, 650 W, À tiroirs, Argent, Filtre à air, Protection contre la surchauffe
+                                          AXStaticText|title=|desc=|value=, 31 cm, Largeur 34 cm, Profondeur 45 cm, 6 plateaux, Minuteur, ...
+                                          AXStaticText|title=|desc=|value=Livraison gratuite
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Déshydrateur alimentaire professionnel|value=
+                                        AXStaticText|title=|desc=|value=Déshydrateur alimentaire 
+                                        AXStaticText|title=|desc=|value=professionnel
+                                      AXLink|title=|desc=Déshydrateur alimentaire inox|value=
+                                        AXStaticText|title=|desc=|value=Déshydrateur alimentaire 
+                                        AXStaticText|title=|desc=|value=inox
+                                      AXLink|title=|desc=Déshydrateur alimentaire avis|value=
+                                        AXStaticText|title=|desc=|value=Déshydrateur alimentaire 
+                                        AXStaticText|title=|desc=|value=avis
+                                      AXLink|title=|desc=Déshydrateur alimentaire utilisation|value=
+                                        AXStaticText|title=|desc=|value=Déshydrateur alimentaire 
+                                        AXStaticText|title=|desc=|value=utilisation
+                                      AXLink|title=|desc=Déshydrateur alimentaire silvercrest|value=
+                                        AXStaticText|title=|desc=|value=Déshydrateur alimentaire 
+                                        AXStaticText|title=|desc=|value=silvercrest
+                                      AXLink|title=|desc=Déshydrateur alimentaire Lidl|value=
+                                        AXStaticText|title=|desc=|value=Déshydrateur alimentaire 
+                                        AXStaticText|title=|desc=|value=Lidl
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=9
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=32
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=9
+                                      AXStaticText|title=|desc=|value=32
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=déshydrateur alimentaire - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

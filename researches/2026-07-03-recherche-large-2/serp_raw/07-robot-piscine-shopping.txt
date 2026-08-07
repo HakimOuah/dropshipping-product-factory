@@ -1,0 +1,898 @@
+AXWindow|title=robot piscine - Google Shopping - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=robot piscine - Google Shopping - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=robot%20piscine&hl=fr&gl=fr&pws=0&udm=28
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=robot piscine - Google Shopping|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Désactiver le défilement continu|value=
+                        AXStaticText|title=|desc=|value=Désactiver le défilement continu
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=robot piscine
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                  AXLink|title=|desc=Tous|value=
+                                    AXStaticText|title=|desc=|value=Tous
+                                  AXLink|title=|desc=Images|value=
+                                    AXStaticText|title=|desc=|value=Images
+                                  AXLink|title=|desc=Shopping|value=
+                                      AXStaticText|title=|desc=|value=Shopping
+                                  AXLink|title=|desc=Vidéos|value=
+                                    AXStaticText|title=|desc=|value=Vidéos
+                                  AXLink|title=|desc=Actualités|value=
+                                    AXStaticText|title=|desc=|value=Actualités
+                                  AXLink|title=|desc=Emplois|value=
+                                    AXStaticText|title=|desc=|value=Emplois
+                                  AXLink|title=|desc=Vidéos courtes|value=
+                                    AXStaticText|title=|desc=|value=Vidéos courtes
+                                  AXButton|title=Plus de filtres|desc=|value=
+                                    AXGroup|title=|desc=Plus de filtres|value=
+                                      AXStaticText|title=|desc=|value=Plus
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=Affiner les résultats|desc=|value=2
+                                AXStaticText|title=|desc=|value=Affiner les résultats
+                                        AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Nouveau
+                                        AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Occasion
+                                        AXLink|title=|desc=Filtre Meilleur. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Meilleur. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Meilleur
+                                        AXButton|title=Trier par|desc=|value=
+                                              AXStaticText|title=|desc=|value=Trier par
+                                              AXLink|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                AXGroup|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pertinence
+                                              AXLink|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre croissant
+                                              AXLink|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre décroissant
+                                              AXLink|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Note : ordre décroissant
+                                        AXButton|title=Note du produit|desc=|value=
+                                              AXStaticText|title=|desc=|value=Note du produit
+                                              AXLink|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                  AXImage|title=|desc=Note : 4,0 sur 5|value=
+                                                  AXStaticText|title=|desc=|value= 
+                                                  AXStaticText|title=|desc=|value=4 et plus
+                                        AXButton|title=Prix|desc=|value=
+                                              AXStaticText|title=|desc=|value=Prix
+                                              AXLink|title=|desc=Filtre Moins de 700 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Moins de 700 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Moins de 700 €
+                                              AXLink|title=|desc=Filtre Plus de 700 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 700 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 700 €
+                                                  AXTextField|title=|desc=Prix minimal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Min.
+                                                  AXTextField|title=|desc=Prix maximal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Max.
+                                              AXButton|title=OK|desc=|value=
+                                        AXButton|title=Marque|desc=|value=
+                                              AXStaticText|title=|desc=|value=Marque
+                                              AXLink|title=|desc=Filtre Ubbink. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Ubbink. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Ubbink
+                                              AXLink|title=|desc=Filtre Aqua Sphere. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Aqua Sphere. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Aqua Sphere
+                                              AXLink|title=|desc=Filtre Maytronics. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Maytronics. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Maytronics
+                                              AXLink|title=|desc=Filtre Zodiac. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Zodiac. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Zodiac
+                                          AXButton|title=Voir 26 autre(s)|desc=|value=
+                                        AXButton|title=Source d'alimentation|desc=|value=
+                                              AXStaticText|title=|desc=|value=Source d'alimentation
+                                              AXLink|title=|desc=Filtre À batterie. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre À batterie. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=À batterie
+                                              AXLink|title=|desc=Filtre Électrique. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Électrique. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Électrique
+                                              AXLink|title=|desc=Filtre Tuyau d'arrosage. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Tuyau d'arrosage. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Tuyau d'arrosage
+                                        AXButton|title=Magasins|desc=|value=
+                                              AXStaticText|title=|desc=|value=Magasins
+                                              AXLink|title=|desc=Filtre Cash Piscines. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Cash Piscines. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Cash Piscines
+                                              AXLink|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Leroy Merlin
+                                              AXLink|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=ManoMano.fr
+                                              AXLink|title=|desc=Filtre Leboncoin. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Leboncoin. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Leboncoin
+                                          AXButton|title=Voir 38 autre(s)|desc=|value=
+                          AXGroup|title=|desc=Filtre|value=
+                                    AXCheckBox|title=|desc=Tous les filtres.|value=1
+                                      AXLink|title=|desc=Filtre Moins de 700 €. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Moins de 700 €
+                                      AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Nouveau
+                                      AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Occasion
+                                      AXLink|title=|desc=Filtre Meilleur. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Meilleur
+                                      AXLink|title=|desc=Filtre Aspirateurs de piscine. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Aspirateurs de piscine
+                                      AXLink|title=|desc=Filtre Aspirateurs. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Aspirateurs
+                                AXGroup|title=|desc=Annonces|value=
+                                              AXHeading|title=Produits sponsorisés|desc=|value=2
+                                                  AXStaticText|title=|desc=|value=Produits sponsorisés
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                    AXLink|title=|desc= à chez Beatbot France|value=
+                                                      AXLink|title=|desc= à chez Beatbot France|value=
+                                                    AXHeading|title=Beatbot Sora 70 : Nettoyage 4 zones + plateforme, parking intelligent, aspiration puissante 6 800 GPH, efficacité maximale|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Beatbot Sora 70 : Nettoyage 4 zones + plateforme, parking intelligent, aspiration puissante 6 800 GPH, efficacité maximale
+                                                    AXStaticText|title=|desc=|value=1 049,00 €
+                                                    AXGroup|title=|desc=Vendu par Beatbot France|value=
+                                                      AXStaticText|title=|desc=|value=Beatbot France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Beatbot France|value=
+                                                      AXLink|title=|desc= à chez Beatbot France|value=
+                                                    AXHeading|title=Beatbot Sora 30 Robot de Piscine à Double Brosses et Montée Murs|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Beatbot Sora 30 Robot de Piscine à Double Brosses et Montée Murs
+                                                    AXStaticText|title=|desc=|value=578,00 €
+                                                    AXGroup|title=|desc=Vendu par Beatbot France|value=
+                                                      AXStaticText|title=|desc=|value=Beatbot France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez ecovacs.com/fr|value=
+                                                      AXLink|title=|desc= à chez ecovacs.com/fr|value=
+                                                      AXHeading|title=ULTRAMARINE P1|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=ULTRAMARINE P1
+                                                      AXStaticText|title=|desc=|value=549,00 €
+                                                      AXGroup|title=|desc=Vendu par ecovacs.com/fr|value=
+                                                        AXStaticText|title=|desc=|value=ecovacs.com/fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 3,8 sur 5 (6) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=(Version 2026) Aspirateur robotisé pour piscine Seauto Crab Pro, robot grimpeur de murs, adapté aux|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=(Version 2026) Aspirateur robotisé pour piscine Seauto Crab Pro, robot grimpeur de murs, adapté aux
+                                                    AXStaticText|title=|desc=|value=230,10 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=219 € lors du règlement
+                                                    AXLink|title=|desc= à chez Beatbot France|value=
+                                                      AXLink|title=|desc= à chez Beatbot France|value=
+                                                    AXHeading|title=Robot nettoyeur Beatbot Pro : clarificateurs naturels ClearWater, propulsion sous-marine, couverture totale de la piscine, navigation via application|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur Beatbot Pro : clarificateurs naturels ClearWater, propulsion sous-marine, couverture totale de la piscine, navigation via application
+                                                    AXStaticText|title=|desc=|value=1 799,00 €
+                                                    AXGroup|title=|desc=Vendu par Beatbot France|value=
+                                                      AXStaticText|title=|desc=|value=Beatbot France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 360 € chez ManoMano.fr)|value=
+                                                      AXLink|title=|desc= à (auparavant 360 € chez ManoMano.fr)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Evercross Bot - U8 Robot Piscine Sans Fil, Nettoyage Du Fond, Des Parois Et De La Ligne D' Eau, 120min & 200m² D'Autonomie|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Evercross Bot - U8 Robot Piscine Sans Fil, Nettoyage Du Fond, Des Parois Et De La Ligne D' Eau, 120min & 200m² D'Autonomie
+                                                    AXStaticText|title=|desc=|value=299,99 €
+                                                    AXStaticText|title=|desc=|value=360 €
+                                                    AXGroup|title=|desc=Vendu par ManoMano.fr|value=
+                                                      AXStaticText|title=|desc=|value=ManoMano.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=10 € de remise à partir de 200 € d'achat
+                                                    AXLink|title=|desc= à chez Beatbot France|value=
+                                                      AXLink|title=|desc= à chez Beatbot France|value=
+                                                    AXHeading|title=Beatbot AquaSense 2 : robot de piscine intelligent pour les petites piscines, brossage à double passage, résistant aux UV, construction légère|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Beatbot AquaSense 2 : robot de piscine intelligent pour les petites piscines, brossage à double passage, résistant aux UV, construction légère
+                                                    AXStaticText|title=|desc=|value=1 099,00 €
+                                                    AXGroup|title=|desc=Vendu par Beatbot France|value=
+                                                      AXStaticText|title=|desc=|value=Beatbot France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez compagnonsducoeur|value=
+                                                      AXLink|title=|desc= à chez compagnonsducoeur|value=
+                                                    AXHeading|title=Aiper Scuba S1 2025 — robot piscine sans fil 150 m², 265 L/min, fond parois ligne d'eau, 150 min|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aiper Scuba S1 2025 — robot piscine sans fil 150 m², 265 L/min, fond parois ligne d'eau, 150 min
+                                                    AXStaticText|title=|desc=|value=359,00 €
+                                                    AXGroup|title=|desc=Vendu par compagnonsducoeur|value=
+                                                      AXStaticText|title=|desc=|value=compagnonsducoeur
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 599 € chez Piscineo)|value=
+                                                      AXLink|title=|desc= à (auparavant 599 € chez Piscineo)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Robot Piscine Électrique Fond et Parois 8STREME 7311-M avec batterie|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot Piscine Électrique Fond et Parois 8STREME 7311-M avec batterie
+                                                    AXStaticText|title=|desc=|value=399,00 €
+                                                    AXStaticText|title=|desc=|value=599 €
+                                                    AXGroup|title=|desc=Vendu par Piscineo|value=
+                                                      AXStaticText|title=|desc=|value=Piscineo
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 499 € chez Piscine Zyke)|value=
+                                                      AXLink|title=|desc= à (auparavant 499 € chez Piscine Zyke)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Robot sans fil Wybot - C1-OS800|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot sans fil Wybot - C1-OS800
+                                                      AXStaticText|title=|desc=|value=466,00 €
+                                                      AXStaticText|title=|desc=|value=499 €
+                                                      AXGroup|title=|desc=Vendu par Piscine Zyke|value=
+                                                        AXStaticText|title=|desc=|value=Piscine Zyke
+                                                        AXStaticText|title=|desc=|value=+ 17,54 € de frais de port
+                                                        AXImage|title=|desc=Note : 4,5 sur 5 (65) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Cdiscount|value=
+                                                      AXLink|title=|desc= à chez Cdiscount|value=
+                                                    AXHeading|title=Ultenic Robot de piscine Pooleco P30, nettoyage fond & parois, Intelligent via app, 3 moteurs, 1,5 L, jusqu’à 200 m² Gris|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Ultenic Robot de piscine Pooleco P30, nettoyage fond & parois, Intelligent via app, 3 moteurs, 1,5 L, jusqu’à 200 m² Gris
+                                                    AXStaticText|title=|desc=|value=299,00 €
+                                                    AXGroup|title=|desc=Vendu par Cdiscount|value=
+                                                      AXStaticText|title=|desc=|value=Cdiscount
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=10 € de remise à partir de 50 € d'achat
+                                                    AXLink|title=|desc= à (auparavant 799 € chez Distripool)|value=
+                                                      AXLink|title=|desc= à (auparavant 799 € chez Distripool)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Robot de piscine sans fil Wybot C2 Vision|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de piscine sans fil Wybot C2 Vision
+                                                    AXStaticText|title=|desc=|value=645,00 €
+                                                    AXStaticText|title=|desc=|value=799 €
+                                                    AXGroup|title=|desc=Vendu par Distripool|value=
+                                                      AXStaticText|title=|desc=|value=Distripool
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Bricoandpool|value=
+                                                      AXLink|title=|desc= à chez Bricoandpool|value=
+                                                    AXHeading|title=Mova - Diver R10 robot piscine sans fil|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Mova - Diver R10 robot piscine sans fil
+                                                    AXStaticText|title=|desc=|value=109,00 €
+                                                    AXGroup|title=|desc=Vendu par Bricoandpool|value=
+                                                      AXStaticText|title=|desc=|value=Bricoandpool
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Avant : 149 €
+                                                    AXLink|title=|desc= à chez Maytronics France|value=
+                                                      AXLink|title=|desc= à chez Maytronics France|value=
+                                                    AXHeading|title=Robot de piscine Dolphin Explorer E70|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot de piscine Dolphin Explorer E70
+                                                    AXStaticText|title=|desc=|value=1 799,00 €
+                                                    AXGroup|title=|desc=Vendu par Maytronics France|value=
+                                                      AXStaticText|title=|desc=|value=Maytronics France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Mypiscine.com|value=
+                                                      AXLink|title=|desc= à chez Mypiscine.com|value=
+                                                      AXHeading|title=Robot Piscine Zodiac Vortex Ov3480|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot Piscine Zodiac Vortex Ov3480
+                                                      AXStaticText|title=|desc=|value=749,00 €
+                                                      AXGroup|title=|desc=Vendu par Mypiscine.com|value=
+                                                        AXStaticText|title=|desc=|value=Mypiscine.com
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,2 sur 5 (94) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Aliexpress|value=
+                                                      AXLink|title=|desc= à chez Aliexpress|value=
+                                                      AXHeading|title=Robot nettoyeur de piscine sans fil Seauto SAT 25, équipé du système Trace Drive et de la navigation sonar. Autonomie de 180 minutes, capable de grimp|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot nettoyeur de piscine sans fil Seauto SAT 25, équipé du système Trace Drive et de la navigation sonar. Autonomie de 180 minutes, capable de grimp
+                                                      AXStaticText|title=|desc=|value=233,79 €
+                                                      AXGroup|title=|desc=Vendu par Aliexpress|value=
+                                                        AXStaticText|title=|desc=|value=Aliexpress
+                                                        AXStaticText|title=|desc=|value=+ 2,99 € de frais de port
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (22) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Darty|value=
+                                                      AXLink|title=|desc= à chez Darty|value=
+                                                    AXHeading|title=GENERIQUE Ultenic pooleco P30, robot piscine sans fil sol et parois, trois moteurs, navigation intelligente, pour piscines jusqu'à 200m2, longue|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=GENERIQUE Ultenic pooleco P30, robot piscine sans fil sol et parois, trois moteurs, navigation intelligente, pour piscines jusqu'à 200m2, longue
+                                                    AXStaticText|title=|desc=|value=299,99 €
+                                                    AXGroup|title=|desc=Vendu par Darty|value=
+                                                      AXStaticText|title=|desc=|value=Darty
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 599 € chez Aiper)|value=
+                                                      AXLink|title=|desc= à (auparavant 599 € chez Aiper)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Aiper Scuba S1 nettoyeur de piscine au sol Robot sans fil|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Aiper Scuba S1 nettoyeur de piscine au sol Robot sans fil
+                                                      AXStaticText|title=|desc=|value=521,00 €
+                                                      AXStaticText|title=|desc=|value=599 €
+                                                      AXGroup|title=|desc=Vendu par Aiper|value=
+                                                        AXStaticText|title=|desc=|value=Aiper
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,0 sur 5 (63) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress - AliExpress-2681210425|value=
+                                                      AXLink|title=|desc= à chez AliExpress - AliExpress-2681210425|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Aspirateur de piscine Seauto SAT20, 150 minutes d'autonomie, pour piscines jusqu'à 2000 pieds|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aspirateur de piscine Seauto SAT20, 150 minutes d'autonomie, pour piscines jusqu'à 2000 pieds
+                                                    AXStaticText|title=|desc=|value=224,13 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-2681210425|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-2681210425
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=213 € lors du règlement
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Robot nettoyeur de piscine automatique Seauto Crab 2026, robot grimpant sur les murs pour piscines|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de piscine automatique Seauto Crab 2026, robot grimpant sur les murs pour piscines
+                                                    AXStaticText|title=|desc=|value=267,09 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=256 € lors du règlement
+                                                    AXLink|title=|desc= à chez Amazon.fr|value=
+                                                      AXLink|title=|desc= à chez Amazon.fr|value=
+                                                    AXHeading|title=2026 TALOSBO S2 Robot Piscine à Double Filtration, Nettoyeur de Piscine à Double Moteur, Aspirateur Piscine sans Fil,Autonomie 90 Min,Fonction de|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=2026 TALOSBO S2 Robot Piscine à Double Filtration, Nettoyeur de Piscine à Double Moteur, Aspirateur Piscine sans Fil,Autonomie 90 Min,Fonction de
+                                                    AXStaticText|title=|desc=|value=119,99 €
+                                                    AXGroup|title=|desc=Vendu par Amazon.fr|value=
+                                                      AXStaticText|title=|desc=|value=Amazon.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Robot nettoyeur de piscine sans fil Seauto SAT 25, équipé du système Trace Drive et de la navigation|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de piscine sans fil Seauto SAT 25, équipé du système Trace Drive et de la navigation
+                                                    AXStaticText|title=|desc=|value=250,02 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=239 € lors du règlement
+                                                    AXLink|title=|desc= à chez Bricoandpool|value=
+                                                      AXLink|title=|desc= à chez Bricoandpool|value=
+                                                      AXHeading|title=Mova - Diver A10 robot piscine sans fil|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Mova - Diver A10 robot piscine sans fil
+                                                      AXStaticText|title=|desc=|value=379,00 €
+                                                      AXGroup|title=|desc=Vendu par Bricoandpool|value=
+                                                        AXStaticText|title=|desc=|value=Bricoandpool
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (8) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 499 € chez Piscine Zyke)|value=
+                                                      AXLink|title=|desc= à (auparavant 499 € chez Piscine Zyke)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Robot piscine 8STREME 7310 - nettoie fond et parois|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot piscine 8STREME 7310 - nettoie fond et parois
+                                                      AXStaticText|title=|desc=|value=399,00 €
+                                                      AXStaticText|title=|desc=|value=499 €
+                                                      AXGroup|title=|desc=Vendu par Piscine Zyke|value=
+                                                        AXStaticText|title=|desc=|value=Piscine Zyke
+                                                        AXStaticText|title=|desc=|value=+ 20,26 € de frais de port
+                                                        AXImage|title=|desc=Note : 4,3 sur 5 (165) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 899 € chez Maytronics France)|value=
+                                                      AXLink|title=|desc= à (auparavant 899 € chez Maytronics France)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Robot piscine Dolphin Nautilus Eon 100|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot piscine Dolphin Nautilus Eon 100
+                                                    AXStaticText|title=|desc=|value=849,00 €
+                                                    AXStaticText|title=|desc=|value=899 €
+                                                    AXGroup|title=|desc=Vendu par Maytronics France|value=
+                                                      AXStaticText|title=|desc=|value=Maytronics France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Piscine Discount|value=
+                                                      AXLink|title=|desc= à chez Piscine Discount|value=
+                                                      AXHeading|title=Robot pour piscine Beatbot | Sora P1|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot pour piscine Beatbot | Sora P1
+                                                      AXStaticText|title=|desc=|value=439,00 €
+                                                      AXGroup|title=|desc=Vendu par Piscine Discount|value=
+                                                        AXStaticText|title=|desc=|value=Piscine Discount
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (7) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Nettoyeur de piscine robotisé sans fil Redkey S100, autonomie de 130 minutes, 100 m2 Avec double|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Nettoyeur de piscine robotisé sans fil Redkey S100, autonomie de 130 minutes, 100 m2 Avec double
+                                                    AXStaticText|title=|desc=|value=95,39 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=84,39 € lors du règlement
+                                                    AXLink|title=|desc= à chez Mammotion FR|value=
+                                                      AXLink|title=|desc= à chez Mammotion FR|value=
+                                                      AXHeading|title=SPINO E1 Robot Piscine | Nettoyeur Robotisé le Plus Apprécié | SPINO E1 : Piscine Pure, Joie Pure - MAMMOTION|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=SPINO E1 Robot Piscine | Nettoyeur Robotisé le Plus Apprécié | SPINO E1 : Piscine Pure, Joie Pure - MAMMOTION
+                                                      AXStaticText|title=|desc=|value=499,00 €
+                                                      AXGroup|title=|desc=Vendu par Mammotion FR|value=
+                                                        AXStaticText|title=|desc=|value=Mammotion FR
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,9 sur 5 (39) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez joybuy.fr|value=
+                                                      AXLink|title=|desc= à chez joybuy.fr|value=
+                                                    AXHeading|title=[Mise à jour OTA] WYBOT B1 Robot nettoyeur de piscine, nettoyage du fond et des parois, aspirateur de piscine sans fil avec 120 min d'autonomie pour|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=[Mise à jour OTA] WYBOT B1 Robot nettoyeur de piscine, nettoyage du fond et des parois, aspirateur de piscine sans fil avec 120 min d'autonomie pour
+                                                    AXStaticText|title=|desc=|value=359,00 €
+                                                    AXGroup|title=|desc=Vendu par joybuy.fr|value=
+                                                      AXStaticText|title=|desc=|value=joybuy.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez eRobot-Piscine.fr|value=
+                                                      AXLink|title=|desc= à chez eRobot-Piscine.fr|value=
+                                                      AXHeading|title=Robot Dolphin S200|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot Dolphin S200
+                                                      AXStaticText|title=|desc=|value=899,00 €
+                                                      AXGroup|title=|desc=Vendu par eRobot-Piscine.fr|value=
+                                                        AXStaticText|title=|desc=|value=eRobot-Piscine.fr
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (123) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Robot nettoyeur de piscine intelligent AIRROBO PC10 - Autonomie de 120 minutes, escalade des parois,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot nettoyeur de piscine intelligent AIRROBO PC10 - Autonomie de 120 minutes, escalade des parois,
+                                                    AXStaticText|title=|desc=|value=285,11 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=274 € lors du règlement
+                                                    AXLink|title=|desc= à (auparavant 169 € chez Bestway fr)|value=
+                                                      AXLink|title=|desc= à (auparavant 169 € chez Bestway fr)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Robot piscine sans fil Platine nettoyage fond plat 20 m² max|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Robot piscine sans fil Platine nettoyage fond plat 20 m² max
+                                                    AXStaticText|title=|desc=|value=99,71 €
+                                                    AXStaticText|title=|desc=|value=169 €
+                                                    AXGroup|title=|desc=Vendu par Bestway fr|value=
+                                                      AXStaticText|title=|desc=|value=Bestway fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Fnac|value=
+                                                      AXLink|title=|desc= à chez Fnac|value=
+                                                      AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                        AXLink|title=|desc=Herblay-sur-Seine|value=
+                                                                AXStaticText|title=|desc=|value=Herblay-sur-Seine
+                                                      AXHeading|title=Robot nettoyeur de piscine sans fil Ecovacs Ultramarine P1 Gris - Accessoires piscines spa et jacuzzis|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot nettoyeur de piscine sans fil Ecovacs Ultramarine P1 Gris - Accessoires piscines spa et jacuzzis
+                                                      AXStaticText|title=|desc=|value=399,99 €
+                                                      AXGroup|title=|desc=Vendu par Fnac|value=
+                                                        AXStaticText|title=|desc=|value=Fnac
+                                                      AXStaticText|title=|desc=|value=Retrait : 06/07
+                                                        AXImage|title=|desc=Note : 3,8 sur 5 (6) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc=Cormeilles-en-Parisis|value=
+                                                        AXLink|title=|desc=Cormeilles-en-Parisis|value=
+                                                                AXStaticText|title=|desc=|value=Cormeilles-en-Parisis
+                                                      AXHeading|title=Robot aspirateur de piscine autonome rechargeable Bestway Jade 150 pour piscines jusqu'à 15 m²|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot aspirateur de piscine autonome rechargeable Bestway Jade 150 pour piscines jusqu'à 15 m²
+                                                      AXStaticText|title=|desc=|value=109,90 €
+                                                      AXGroup|title=|desc=Vendu par Castorama|value=
+                                                        AXStaticText|title=|desc=|value=Castorama
+                                                      AXStaticText|title=|desc=|value=Retrait auj
+                                                        AXImage|title=|desc=Note : 4,6 sur 5 (22) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=(Nouveau 2026) Robot aspirateur de piscine Seauto - Navigation intelligente IA, 360° ° Nettoyage|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=(Nouveau 2026) Robot aspirateur de piscine Seauto - Navigation intelligente IA, 360° ° Nettoyage
+                                                    AXStaticText|title=|desc=|value=359,45 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=348 € lors du règlement
+                                                    AXLink|title=|desc= à chez Bricoandpool|value=
+                                                      AXLink|title=|desc= à chez Bricoandpool|value=
+                                                      AXHeading|title=Zodiac - Freedom lite robot piscine sans fil|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Zodiac - Freedom lite robot piscine sans fil
+                                                      AXStaticText|title=|desc=|value=579,00 €
+                                                      AXGroup|title=|desc=Vendu par Bricoandpool|value=
+                                                        AXStaticText|title=|desc=|value=Bricoandpool
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (65) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 799 € chez Piscine Zyke)|value=
+                                                      AXLink|title=|desc= à (auparavant 799 € chez Piscine Zyke)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Robot piscine sans fil Wybot - C2 - Vision|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Robot piscine sans fil Wybot - C2 - Vision
+                                                      AXStaticText|title=|desc=|value=683,00 €
+                                                      AXStaticText|title=|desc=|value=799 €
+                                                      AXGroup|title=|desc=Vendu par Piscine Zyke|value=
+                                                        AXStaticText|title=|desc=|value=Piscine Zyke
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,8 sur 5 (120) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXLink|title=|desc= à chez AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=11 € DE REMISE
+                                                    AXHeading|title=Seauto SAT 40 Robot nettoyeur de piscine sans fil, nettoyage de la ligne d'eau, navigation sonar AI,|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Seauto SAT 40 Robot nettoyeur de piscine sans fil, nettoyage de la ligne d'eau, navigation sonar AI,
+                                                    AXStaticText|title=|desc=|value=431,01 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=420 € lors du règlement
+                                                    AXLink|title=|desc= à chez Wybot Official|value=
+                                                      AXLink|title=|desc= à chez Wybot Official|value=
+                                                      AXHeading|title=Nettoyeur de piscine robotisé intelligent WYBOT B1 – Commandé par appli, nettoyage sol/parois/ligne d’eau, brosse quadruple rouleau pour piscines hors|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Nettoyeur de piscine robotisé intelligent WYBOT B1 – Commandé par appli, nettoyage sol/parois/ligne d’eau, brosse quadruple rouleau pour piscines hors
+                                                      AXStaticText|title=|desc=|value=379,99 €
+                                                      AXGroup|title=|desc=Vendu par Wybot Official|value=
+                                                        AXStaticText|title=|desc=|value=Wybot Official
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,5 sur 5 (4) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 395 € chez AliExpress - AliExpress-6135359962)|value=
+                                                      AXLink|title=|desc= à (auparavant 395 € chez AliExpress - AliExpress-6135359962)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=EVERCROSS BOT U8 Robot Piscine Fond et Parois avec APP, autonomie de 120 minutes, 200 m 2 zones de|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=EVERCROSS BOT U8 Robot Piscine Fond et Parois avec APP, autonomie de 120 minutes, 200 m 2 zones de
+                                                    AXStaticText|title=|desc=|value=349,82 €
+                                                    AXStaticText|title=|desc=|value=395 €
+                                                    AXGroup|title=|desc=Vendu par AliExpress - AliExpress-6135359962|value=
+                                                      AXStaticText|title=|desc=|value=AliExpress - AliExpress-6135359962
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=11 € de remise à partir de 79 € d'achat
+                                                            AXButton|title=|desc=Aiper Robot piscine Scuba SE. Prix actuel : 138,98 €. Plus de prix disponibles. Electro Dépôt et plus. Également à proximité. Retours sous 4 jour(s). Note : 4,2 sur 5. 569 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine hydraulique Zodiac MX6. Prix actuel : 214,50 €. Plus de prix disponibles. Mr Bricolage.fr et plus. En magasin. Note : 4,1 sur 5. 157 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine Ubbink Robotclean 1. Prix actuel : 219,99 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,1 sur 5. 199 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Piscine Saneo Es801. PROMOTION. Prix actuel : 89,98 €. Avant : 100 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 3,4 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Intex Robot de piscine ZX300. Prix actuel : 119,00 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 4,0 sur 5. 525 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine Bestway Quartz. Prix actuel : 79,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 169 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Piscine Saneo P3. Prix actuel : 399,86 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 4,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Maytronics Dolphin Robot piscine Niya Sonar F3 sans fil. Prix actuel : 500,00 €. Plus de prix disponibles. Les Bonnes Affaires Piscines et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,2 sur 5. 54 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot de piscine Intex ZX500R. Prix actuel : 261,25 €. Plus de prix disponibles. Mister Piscine et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,3 sur 5. 102 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Bestway Robot de piscine Frisbee. PRIX EN BAISSE. Prix actuel : 19,99 €. Avant : 25 €. Plus de prix disponibles. AquaPiscine.com et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,0 sur 5. 652 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                              AXHeading|title=En magasin à proximité|desc=|value=2
+                                                AXStaticText|title=|desc=|value=En magasin à proximité
+                                                AXPopUpButton|title=À propos de ce résultat|desc=|value=
+                                                  AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXButton|title=|desc=Robot Piscine Saneo P3. Prix actuel : 399,86 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 4,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot Piscine Saneo P3
+                                                                AXGroup|title=|desc=Prix actuel : 399,86 €. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 4,8 sur 5. 4 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine Bestway Quartz. Prix actuel : 79,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 169 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine Bestway Quartz
+                                                                AXGroup|title=|desc=Prix actuel : 79,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,3 sur 5. 169 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine Bestway Ruby. Prix actuel : 549,90 €. Plus de prix disponibles. Castorama et plus. En magasin. Retours sous 365 jour(s). Note : 4,1 sur 5. 204 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine Bestway Ruby
+                                                                AXGroup|title=|desc=Prix actuel : 549,90 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Castorama
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 204 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine hydraulique Zodiac MX6. Prix actuel : 214,50 €. Plus de prix disponibles. Mr Bricolage.fr et plus. En magasin. Note : 4,1 sur 5. 157 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine hydraulique Zodiac MX6
+                                                                AXGroup|title=|desc=Prix actuel : 214,50 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Mr Bricolage.fr
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 157 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine ER 230 Gre. Prix actuel : 479,99 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine ER 230 Gre
+                                                                AXGroup|title=|desc=Prix actuel : 479,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,8 sur 5. 4 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine Dolphin Cosmos 20. Prix actuel : 899,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,7 sur 5. 48 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine Dolphin Cosmos 20
+                                                                AXGroup|title=|desc=Prix actuel : 899,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,7 sur 5. 48 avis. |value=
+                                                      AXButton|title=|desc=Robot Piscine Saneo Es801. Prix actuel : 89,98 €. Electro Dépôt. En magasin. Retours sous 4 jour(s). Note : 3,4 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot Piscine Saneo Es801
+                                                                AXGroup|title=|desc=Prix actuel : 89,98 €. |value=
+                                                                AXStaticText|title=|desc=|value=Electro Dépôt
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 4 jour(s)
+                                                                AXImage|title=|desc=Note : 3,4 sur 5. 7 avis. |value=
+                                                      AXButton|title=|desc=Robot de piscine électrique Seamaster int MAYTRONICS DOLPHIN. Prix actuel : 1 390,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 141 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot de piscine électrique Seamaster int MAYTRONICS DOLPHIN
+                                                                AXGroup|title=|desc=Prix actuel : 1 390,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,3 sur 5. 141 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine Zodiac MX8. Prix actuel : 479,90 €. Castorama. En magasin. Retours sous 365 jour(s). Note : 4,6 sur 5. 993 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine Zodiac MX8
+                                                                AXGroup|title=|desc=Prix actuel : 479,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=Castorama
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,6 sur 5. 993 avis. |value=
+                                                      AXButton|title=|desc=Robot de piscine électrique Seamaster plus MAYTRONICS DOLPHIN. Prix actuel : 989,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 3,9 sur 5. 99 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot de piscine électrique Seamaster plus MAYTRONICS DOLPHIN
+                                                                AXGroup|title=|desc=Prix actuel : 989,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,9 sur 5. 99 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine Polaris 280. Prix actuel : 499,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 235 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine Polaris 280
+                                                                AXGroup|title=|desc=Prix actuel : 499,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 235 avis. |value=
+                                                      AXButton|title=|desc=Aiper Robot piscine Scuba SE. Prix actuel : 169,00 €. Plus de prix disponibles. Castorama et plus. En magasin. Retours sous 365 jour(s). Note : 4,2 sur 5. 569 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Aiper Robot piscine Scuba SE
+                                                                AXGroup|title=|desc=Prix actuel : 169,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Castorama
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,2 sur 5. 569 avis. |value=
+                                                      AXButton|title=|desc=Maytronics Dolphin Robot piscine Niya Sonar F3 sans fil. Prix actuel : 499,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,2 sur 5. 54 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Maytronics Dolphin Robot piscine Niya Sonar F3 sans fil
+                                                                AXGroup|title=|desc=Prix actuel : 499,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,2 sur 5. 54 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine sans fil Zodiac Freedom Lite. Prix actuel : 589,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 65 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine sans fil Zodiac Freedom Lite
+                                                                AXGroup|title=|desc=Prix actuel : 589,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 65 avis. |value=
+                                                      AXButton|title=|desc=Robot fond et parois Zodiac Tornax GT3220. Prix actuel : 499,90 €. Plus de prix disponibles. Castorama et plus. En magasin. Retours sous 365 jour(s). Note : 3,8 sur 5. 39 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot fond et parois Zodiac Tornax GT3220
+                                                                AXGroup|title=|desc=Prix actuel : 499,90 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Castorama
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 3,8 sur 5. 39 avis. |value=
+                                                      AXButton|title=|desc=Bestway Robot de piscine Frisbee. Prix actuel : 139,90 €. Plus de prix disponibles. Castorama et plus. En magasin. Retours sous 365 jour(s). Note : 4,0 sur 5. 652 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Bestway Robot de piscine Frisbee
+                                                                AXGroup|title=|desc=Prix actuel : 139,90 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Castorama
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 652 avis. |value=
+                                                      AXButton|title=|desc=Intex Robot de piscine ZX300. Prix actuel : 119,00 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 4,0 sur 5. 525 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Intex Robot de piscine ZX300
+                                                                AXGroup|title=|desc=Prix actuel : 119,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 4,0 sur 5. 525 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine sans fil CF200CL. Prix actuel : 499,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine sans fil CF200CL
+                                                                AXGroup|title=|desc=Prix actuel : 499,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 15 avis. |value=
+                                                      AXButton|title=|desc=Robot Sans Fil Delta 100 Kokido. Prix actuel : 79,00 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 3,9 sur 5. 105 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot Sans Fil Delta 100 Kokido
+                                                                AXGroup|title=|desc=Prix actuel : 79,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 3,9 sur 5. 105 avis. |value=
+                                                      AXButton|title=|desc=Robot de piscine Intex ZX500R. Prix actuel : 219,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 102 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot de piscine Intex ZX500R
+                                                                AXGroup|title=|desc=Prix actuel : 219,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,3 sur 5. 102 avis. |value=
+                                                      AXButton|title=|desc=Gre Nettoyeur automatique Small Confort. Prix actuel : 63,90 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 3,0 sur 5. 71 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Gre Nettoyeur automatique Small Confort
+                                                                AXGroup|title=|desc=Prix actuel : 63,90 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 3,0 sur 5. 71 avis. |value=
+                                                      AXButton|title=|desc=WYBOT Robot électrique de piscine sans fil. Prix actuel : 599,00 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 4,1 sur 5. 23 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=WYBOT Robot électrique de piscine sans fil
+                                                                AXGroup|title=|desc=Prix actuel : 599,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 23 avis. |value=
+                                                      AXButton|title=|desc=Robot nettoyeur de piscine Zodiac OT 3290 TILE Tornax pour piscines enterrées et hors sol gre wr000127. PROMOTION. Prix actuel : 459,00 €. Avant : 549 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,2 sur 5. 49 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXImage|title=|desc=PROMOTION. |value=
+                                                                  AXStaticText|title=|desc=|value=Robot nettoyeur de piscine Zodiac OT 3290 TILE Tornax pour piscines enterrées et hors sol gre wr000127
+                                                                AXGroup|title=|desc=Prix actuel : 459,00 €. Avant : 549 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,2 sur 5. 49 avis. |value=
+                                                      AXButton|title=|desc=Robot nettoyeur Zodiac CNX 2590 pour piscines enterrées et hors sol gre wr000497. Prix actuel : 879,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,1 sur 5. 32 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot nettoyeur Zodiac CNX 2590 pour piscines enterrées et hors sol gre wr000497
+                                                                AXGroup|title=|desc=Prix actuel : 879,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 32 avis. |value=
+                                                      AXButton|title=|desc=Robot de fond de piscine Zodiac CNX-Li 5220 iQ sans fil. Prix actuel : 849,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,8 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot de fond de piscine Zodiac CNX-Li 5220 iQ sans fil
+                                                                AXGroup|title=|desc=Prix actuel : 849,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,8 sur 5. 22 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine Ubbink Robotclean 1. Prix actuel : 219,99 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,1 sur 5. 199 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine Ubbink Robotclean 1
+                                                                AXGroup|title=|desc=Prix actuel : 219,99 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,1 sur 5. 199 avis. |value=
+                                                      AXButton|title=|desc=Robot piscine sans fil iGarden K25. Prix actuel : 449,00 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Robot piscine sans fil iGarden K25
+                                                                AXGroup|title=|desc=Prix actuel : 449,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                      AXButton|title=|desc=Aqualux Robot piscine CF100CL sans fil. Prix actuel : 299,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,5 sur 5. 12 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Aqualux Robot piscine CF100CL sans fil
+                                                                AXGroup|title=|desc=Prix actuel : 299,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,5 sur 5. 12 avis. |value=
+                                                      AXButton|title=|desc=Aqualux Robot piscine CF45CL sans fil. Prix actuel : 169,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,5 sur 5. 18 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Aqualux Robot piscine CF45CL sans fil
+                                                                AXGroup|title=|desc=Prix actuel : 169,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 3,5 sur 5. 18 avis. |value=
+                                                      AXButton|title=|desc=Bestway Robot de piscine. Prix actuel : 139,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,6 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Bestway Robot de piscine
+                                                                AXGroup|title=|desc=Prix actuel : 139,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,6 sur 5. 22 avis. |value=
+                                            AXHeading|title=Moins que 300 € .|desc=|value=3
+                                              AXButton|title=Moins que 300 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=Moins que 300 €
+                                                  AXStaticText|title=|desc=|value=.
+                                            AXHeading|title=300 €–600 € .|desc=|value=3
+                                              AXButton|title=300 €–600 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=300 €–600 €
+                                                  AXStaticText|title=|desc=|value=.
+                                      AXButton|title=Plus de produits|desc=|value=
+                                          AXStaticText|title=|desc=|value=Plus de produits
+                                                            AXButton|title=|desc=Robot piscine Polaris 280. Prix actuel : 439,00 €. Plus de prix disponibles. Jardiland et plus. Également à proximité. Retours sous 30 jour(s). Note : 4,7 sur 5. 235 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine ER 230 Gre. Prix actuel : 479,99 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Sans Fil Delta 100 Kokido. Prix bas. Prix actuel : 79,00 €. Prix habituel : 99 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 3,9 sur 5. 105 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Aiper Robot piscine Scuba S1. Prix bas. Prix actuel : 489,98 €. Prix habituel : 498 €. Plus de prix disponibles. Electro Dépôt et plus. Retours sous 4 jour(s). Note : 4,4 sur 5. 504 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine Bestway Ruby. Prix actuel : 549,90 €. Plus de prix disponibles. Castorama et plus. En magasin. Retours sous 365 jour(s). Note : 4,1 sur 5. 204 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine sans fil iGarden K25. Prix bas. Prix actuel : 442,67 €. Prix habituel : 449 €. Plus de prix disponibles. Gamm vert et plus. Également à proximité. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Bestway Robot de piscine. PROMOTION. Prix actuel : 99,36 €. Avant : 140 €. Plus de prix disponibles. Bestway fr et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,6 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot nettoyeur de piscine Zodiac OT 3290 TILE Tornax pour piscines enterrées et hors sol gre wr000127. PROMOTION. Prix actuel : 459,00 €. Avant : 549 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,2 sur 5. 49 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine sans fil Wybot A1. Prix actuel : 179,99 €. Plus de prix disponibles. Carrefour et plus. Note : 4,2 sur 5. 92 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine sans fil CF200CL. PROMOTION. Prix actuel : 471,60 €. Avant : 482 €. Plus de prix disponibles. ManoMano.fr et plus. Également à proximité. Retours sous 14 jour(s). Note : 4,7 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Gre Nettoyeur automatique Small Confort. Prix bas. Prix actuel : 63,90 €. Prix habituel : 70 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 3,0 sur 5. 71 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine Dolphin Cosmos 20. Prix actuel : 899,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,7 sur 5. 48 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=WYBOT Robot piscine sans fil C2 PRO Vision. Prix actuel : 849,00 €. Plus de prix disponibles. Castorama et plus. Également à proximité. Note : 3,4 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine sans fil Zodiac Freedom Lite. Prix bas. Prix actuel : 579,00 €. Prix habituel : 595 €. Plus de prix disponibles. Pisceen.com et plus. Également à proximité. Retours gratuits sous 14 jour(s). Note : 4,7 sur 5. 65 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=ECOVACS Robot de piscine swb11. Prix actuel : 549,00 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 3,8 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot de piscine électrique Seamaster int MAYTRONICS DOLPHIN. Prix actuel : 1 390,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,3 sur 5. 141 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Aqualux Robot piscine CF45CL sans fil. Prix actuel : 159,80 €. Plus de prix disponibles. Edenea et plus. Également à proximité. Note : 3,5 sur 5. 18 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Aqualux Robot piscine CF100CL sans fil. Prix actuel : 299,80 €. Plus de prix disponibles. Jardiland et plus. Également à proximité. Retours sous 30 jour(s). Note : 3,5 sur 5. 12 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine Bestway Platine. PROMOTION. Prix actuel : 99,71 €. Avant : 169 €. Plus de prix disponibles. Bestway fr et plus. Retours sous 14 jour(s). Note : 4,2 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot de piscine électrique Seamaster plus MAYTRONICS DOLPHIN. Prix actuel : 989,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 3,9 sur 5. 99 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=WYBOT Robot électrique de piscine sans fil. Prix actuel : 599,00 €. Plus de prix disponibles. OOGarden.com et plus. En magasin. Retours sous 20 jour(s). Note : 4,1 sur 5. 23 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine Bestway CleanO². Prix bas. Prix actuel : 409,99 €. Prix habituel : 542 €. Plus de prix disponibles. Amazon.fr et plus. Retours sous 30 jour(s). Note : 4,2 sur 5. 191 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hayward Robot de piscine hydraulique Magic Clean. PROMOTION. Prix actuel : 199,00 €. Avant : 259 €. Plus de prix disponibles. Piscineco.fr et plus. Retours gratuits sous 14 jour(s). Note : 4,4 sur 5. 25 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot nettoyeur Zodiac CNX 2590 pour piscines enterrées et hors sol gre wr000497. Prix actuel : 879,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,1 sur 5. 32 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot Electrique Dexton fast. Prix actuel : 159,00 €. Cash Piscines. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine sans fil iGarden k80. PROMOTION. Prix actuel : 719,10 €. Avant : 799 €. Plus de prix disponibles. Mypiscine.com et plus. Retours sous 20 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine sans fil Liberty 400 Dolphin. Prix actuel : 939,00 €. Plus de prix disponibles. EasyPiscine et plus. Retours sous 14 jour(s). Note : 4,4 sur 5. 33 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot de fond de piscine Zodiac CNX-Li 5220 iQ sans fil. Prix actuel : 849,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 3,8 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=2026 TALOSBO S2 Robot Piscine à Double Filtration, Nettoyeur de Piscine à Double Moteur, Aspirateur Piscine sans Fil,Autonomie 90 Min,Fonction de. Prix actuel : 119,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Robot piscine sans fil ORCA 50 CL. Prix actuel : 235,91 €. Plus de prix disponibles. Carrefour et plus. Note : 4,4 sur 5. 153 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                AXHeading|title=Page Navigation|desc=|value=1
+                                  AXStaticText|title=|desc=|value=Page Navigation
+                                AXButton|title=|desc=Plus de résultats|value=
+                                      AXStaticText|title=|desc=|value=Plus de résultats
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXButton|title=Go|desc=|value=
+                                    AXGroup|title=Annonces pour une offre de produit|desc=|value=
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                    AXGroup|title=40|desc=|value=
+                                      AXStaticText|title=|desc=|value=40
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=robot piscine - Google Shopping|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

@@ -1,0 +1,186 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_xaY7Rg": {
+      "type": "breadcrumbs",
+      "name": "Breadcrumbs",
+      "settings": {
+        "show_home": true,
+        "show_on_homepage": false,
+        "home_text": "Accueil",
+        "font_size": 14,
+        "text_color": "#5B6770",
+        "current_color": "#0E3A5A",
+        "separator": "/"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h1"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_DDF79b": {
+          "type": "liquid",
+          "name": "Livraison et suivi",
+          "settings": {
+            "liquid": "<div style=\"display:flex;align-items:center;gap:8px;color:#2E7D5B;font-size:13px\"><svg aria-hidden=\"true\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"1\" y=\"6\" width=\"14\" height=\"11\" rx=\"1\"/><path d=\"M15 10h4l3 3v4h-7\"/><circle cx=\"6\" cy=\"18.5\" r=\"1.6\"/><circle cx=\"18.5\" cy=\"18.5\" r=\"1.6\"/></svg><span><strong>Livraison offerte</strong><span aria-hidden=\"true\"> · </span>expédition suivie</span></div>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": true,
+            "stack_blocks": true,
+            "selector_style": "dropdown",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_DkBR6E": {
+          "type": "liquid",
+          "name": "Réassurance achat",
+          "settings": {
+            "liquid": "<style>.bv-product-trust{overflow:hidden;border:1px solid #DDE5E2;border-radius:14px;background:#fff;color:#43515A}.bv-product-trust__grid{display:grid;grid-template-columns:1fr}.bv-product-trust__item{display:grid;grid-template-columns:24px minmax(0,1fr);gap:10px;padding:12px 14px;border-bottom:1px solid #E8EEEB}.bv-product-trust__item svg{width:20px;height:20px;color:#0E3A5A;margin-top:1px}.bv-product-trust__item strong{display:block;color:#1C313D;font-size:13px;line-height:1.35}.bv-product-trust__item span{display:block;margin-top:2px;font-size:12px;line-height:1.45}.bv-product-trust a{color:#0E3A5A;text-decoration:underline;text-underline-offset:2px}.bv-product-trust__payments{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:11px 14px;background:#F8FAF9}.bv-product-trust__payments>span{flex:0 0 auto;color:#52616A;font-size:11px;font-weight:600}.bv-product-trust__payment-icons{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:5px}.bv-product-trust__payment-icons svg{width:auto;height:21px}.bv-product-trust__transparency{display:flex;gap:9px;padding:11px 14px;border-top:1px solid #E8EEEB;background:#F3F7F5;color:#354A43;font-size:12px;line-height:1.45}.bv-product-trust__transparency svg{flex:0 0 18px;width:18px;height:18px;color:#2E7D5B}@media(min-width:700px){.bv-product-trust__grid{grid-template-columns:repeat(2,minmax(0,1fr))}.bv-product-trust__item:nth-child(odd){border-right:1px solid #E8EEEB}.bv-product-trust__item:nth-last-child(-n+2){border-bottom:0}}@media(max-width:699px){.bv-product-trust__item:last-child{border-bottom:0}.bv-product-trust__payments{align-items:flex-start;flex-direction:column}.bv-product-trust__payment-icons{justify-content:flex-start}}</style><div class=\"bv-product-trust\" role=\"region\" aria-label=\"Informations pour acheter sereinement\"><div class=\"bv-product-trust__grid\"><div class=\"bv-product-trust__item\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"1\" y=\"6\" width=\"14\" height=\"11\" rx=\"1\"/><path d=\"M15 10h4l3 3v4h-7\"/><circle cx=\"6\" cy=\"18.5\" r=\"1.6\"/><circle cx=\"18.5\" cy=\"18.5\" r=\"1.6\"/></svg><div><strong>Livraison suivie</strong><span>Un lien de suivi est envoyé dès l'expédition.</span></div></div><div class=\"bv-product-trust__item\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 12H4M10 6l-6 6 6 6\"/></svg><div><strong>Retours sous 14 jours</strong><span>Droit de rétractation après réception.</span></div></div><div class=\"bv-product-trust__item\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"2\"/><line x1=\"2\" y1=\"10\" x2=\"22\" y2=\"10\"/></svg><div><strong>Paiement sécurisé</strong><span>Transaction protégée via Shopify.</span></div></div><div class=\"bv-product-trust__item\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 11.5a8.4 8.4 0 0 1-8.5 8.3 8.6 8.6 0 0 1-3.9-.9L3 20l1.2-5.2a8.2 8.2 0 0 1-1-4A8.4 8.4 0 0 1 11.7 2.6a8.4 8.4 0 0 1 9.3 8.9z\"/></svg><div><strong>Conseil avant achat</strong><span><a href=\"mailto:contact@bonumvitae.fr\">Réponse sous 24 h ouvrées</a>.</span></div></div></div><div class=\"bv-product-trust__payments\"><span>Moyens de paiement acceptés</span><div class=\"bv-product-trust__payment-icons\" aria-label=\"Moyens de paiement acceptés\">{% for type in shop.enabled_payment_types -%}{{ type | payment_type_svg_tag }}{% endfor %}</div></div><div class=\"bv-product-trust__transparency\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><path d=\"M9 12l2 2 4-4\"/></svg><span><strong>Transparence Bonum Vitae :</strong> caractéristiques documentées et compatibilité vérifiée sur demande.</span></div></div>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": true
+          }
+        },
+        "collapsible_text_QaCwYR": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison et retours",
+            "content": "<p>Un lien de suivi est envoyé dès l'expédition. L'origine d'expédition et le délai estimé sont précisés lorsqu'ils sont communiqués par le fournisseur. Vous disposez du droit légal de rétractation de 14 jours à compter de la réception, conformément à notre politique de retour.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_3zkxBG": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Installation et compatibilité",
+            "content": "<p>L'installation varie selon le produit. Vérifiez les dimensions, le filetage, les raccordements et l'alimentation lorsqu'ils sont nécessaires. Si une donnée manque sur la fiche, écrivez-nous avant de commander à <a href=\"mailto:contact@bonumvitae.fr\">contact@bonumvitae.fr</a> : nous la confirmons auprès du fournisseur.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_bv_transparency": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Notre engagement de transparence",
+            "content": "<p>Nous reprenons uniquement les performances et caractéristiques documentées. Si une donnée de compatibilité ou d'installation n'est pas disponible, notre équipe la vérifie auprès du fournisseur avant votre achat.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "badges",
+        "title",
+        "rating",
+        "price",
+        "liquid_DDF79b",
+        "variant_picker",
+        "buy_buttons",
+        "liquid_DkBR6E",
+        "description",
+        "collapsible_text_QaCwYR",
+        "collapsible_text_3zkxBG",
+        "collapsible_text_bv_transparency"
+      ],
+      "settings": {
+        "reduce_top_spacing": true,
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 50,
+        "desktop_media_layout": "grid_highlight",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 2,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "rgba(0,0,0,0)",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Complétez votre installation",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#0E3A5A",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_xaY7Rg",
+    "main",
+    "related-products"
+  ]
+}

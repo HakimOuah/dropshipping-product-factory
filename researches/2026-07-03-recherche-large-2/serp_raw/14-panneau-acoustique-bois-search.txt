@@ -1,0 +1,688 @@
+AXWindow|title=panneau acoustique bois - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=panneau acoustique bois - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=panneau%20acoustique%20bois&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=panneau acoustique bois - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=panneau acoustique bois
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXLink|title=|desc=Actualités|value=
+                                              AXStaticText|title=|desc=|value=Actualités
+                                            AXLink|title=|desc=Web|value=
+                                              AXStaticText|title=|desc=|value=Web
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter Plafond|value=
+                                              AXStaticText|title=|desc=|value=Plafond
+                                            AXLink|title=|desc=Ajouter Studio|value=
+                                              AXStaticText|title=|desc=|value=Studio
+                                            AXLink|title=|desc=Ajouter Panneaux muraux|value=
+                                              AXStaticText|title=|desc=|value=Panneaux muraux
+                                            AXLink|title=|desc=Ajouter Insonorisation|value=
+                                              AXStaticText|title=|desc=|value=Insonorisation
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez Silamp|value=
+                                              AXLink|title=|desc= à chez Silamp|value=
+                                              AXStaticText|title=|desc=|value=5 % DE REMISE
+                                            AXHeading|title=Lot de 2 Panneaux Acoustiques Muraux Bois 240x60x2,2cm - Chêne Blanc avec Fond Noir - SILAMP|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lot de 2 Panneaux Acoustiques Muraux Bois 240x60x2,2cm - Chêne Blanc avec Fond Noir - SILAMP
+                                            AXStaticText|title=|desc=|value=189,99 €
+                                            AXStaticText|title=|desc=|value=200 €
+                                            AXGroup|title=|desc=Vendu par Silamp|value=
+                                              AXStaticText|title=|desc=|value=Silamp
+                                              AXStaticText|title=|desc=|value=Code de réduction
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez Floor Family|value=
+                                              AXLink|title=|desc= à chez Floor Family|value=
+                                            AXHeading|title=Panneau acoustique Placage bois véritable 240 Chêne Mocca|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau acoustique Placage bois véritable 240 Chêne Mocca
+                                            AXStaticText|title=|desc=|value=89,00 €
+                                            AXGroup|title=|desc=Vendu par Floor Family|value=
+                                              AXStaticText|title=|desc=|value=Floor Family
+                                              AXStaticText|title=|desc=|value=+ 8,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Cazoov|value=
+                                              AXLink|title=|desc= à chez Cazoov|value=
+                                            AXHeading|title=Panneau acoustique reducteur de bruit|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau acoustique reducteur de bruit
+                                            AXStaticText|title=|desc=|value=49,90 €
+                                            AXGroup|title=|desc=Vendu par Cazoov|value=
+                                              AXStaticText|title=|desc=|value=Cazoov
+                                              AXStaticText|title=|desc=|value=+ 9,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours gratuits
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez WallRibbon France|value=
+                                              AXLink|title=|desc= à chez WallRibbon France|value=
+                                            AXHeading|title=Diamond Oak Barcode, noir RecoSilent (feutre acoustique) 2960x600mm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Diamond Oak Barcode, noir RecoSilent (feutre acoustique) 2960x600mm
+                                            AXStaticText|title=|desc=|value=164,25 €
+                                            AXGroup|title=|desc=Vendu par WallRibbon France|value=
+                                              AXStaticText|title=|desc=|value=WallRibbon France
+                                              AXStaticText|title=|desc=|value=+ 117,03 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez greenweez.com|value=
+                                              AXLink|title=|desc= à chez greenweez.com|value=
+                                            AXHeading|title=Homestyle4u - Panneau mural 60x120 bois marron acoustique 1 pièce|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Homestyle4u - Panneau mural 60x120 bois marron acoustique 1 pièce
+                                            AXStaticText|title=|desc=|value=63,99 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=63,99 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à chez Cazoov|value=
+                                              AXLink|title=|desc= à chez Cazoov|value=
+                                            AXHeading|title=Panneau acoustique reducteur de bruit|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau acoustique reducteur de bruit
+                                            AXStaticText|title=|desc=|value=49,90 €
+                                            AXGroup|title=|desc=Vendu par Cazoov|value=
+                                              AXStaticText|title=|desc=|value=Cazoov
+                                              AXStaticText|title=|desc=|value=+ 9,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours gratuits
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez juglana.com|value=
+                                              AXLink|title=|desc= à chez juglana.com|value=
+                                            AXHeading|title=Panneau Acoustique|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau Acoustique
+                                            AXStaticText|title=|desc=|value=35,00 €
+                                            AXGroup|title=|desc=Vendu par juglana.com|value=
+                                              AXStaticText|title=|desc=|value=juglana.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Retours gratuits
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à (auparavant 200 € chez Silamp)|value=
+                                              AXLink|title=|desc= à (auparavant 200 € chez Silamp)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Lot de 2 Panneaux Acoustiques Muraux Bois 240x60x2,2cm - Finition Noyer - Fond Noir - SILAMP|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lot de 2 Panneaux Acoustiques Muraux Bois 240x60x2,2cm - Finition Noyer - Fond Noir - SILAMP
+                                            AXStaticText|title=|desc=|value=169,99 €
+                                            AXStaticText|title=|desc=|value=200 €
+                                            AXGroup|title=|desc=Vendu par Silamp|value=
+                                              AXStaticText|title=|desc=|value=Silamp
+                                              AXStaticText|title=|desc=|value=5 % de remise à partir de 100 € d'achat
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez Aku Woodpanel FR|value=
+                                              AXLink|title=|desc= à chez Aku Woodpanel FR|value=
+                                            AXHeading|title=300 cm - XL - Panneau acoustique en bois - Chêne Rustique - De première qualité|desc=|value=3
+                                                AXStaticText|title=|desc=|value=300 cm - XL - Panneau acoustique en bois - Chêne Rustique - De première qualité
+                                            AXStaticText|title=|desc=|value=120,95 €
+                                            AXGroup|title=|desc=Vendu par Aku Woodpanel FR|value=
+                                              AXStaticText|title=|desc=|value=Aku Woodpanel FR
+                                              AXStaticText|title=|desc=|value=67,19 €/1m²
+                                              AXStaticText|title=|desc=|value=+ 49,95 € de frais de port
+                                                AXLink|title=|desc=Par Bigshopper|value=
+                                                    AXStaticText|title=|desc=|value=Par Bigshopper
+                                            AXLink|title=|desc= à chez MPDiscount|value=
+                                              AXLink|title=|desc= à chez MPDiscount|value=
+                                            AXHeading|title=240 cm - Panneaux Acoustiques en Bois - Chêne Clair – 240x60 cm – 11 mm – Lot de 4 - De Première Qualité|desc=|value=3
+                                                AXStaticText|title=|desc=|value=240 cm - Panneaux Acoustiques en Bois - Chêne Clair – 240x60 cm – 11 mm – Lot de 4 - De Première Qualité
+                                            AXStaticText|title=|desc=|value=199,99 €
+                                            AXGroup|title=|desc=Vendu par MPDiscount|value=
+                                              AXStaticText|title=|desc=|value=MPDiscount
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez HelloWallsFR|value=
+                                              AXLink|title=|desc= à chez HelloWallsFR|value=
+                                            AXHeading|title=Tableau acoustique Serene Terra Bloom - panneau mural 3D en feutre PET, lot de 2|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Tableau acoustique Serene Terra Bloom - panneau mural 3D en feutre PET, lot de 2
+                                            AXStaticText|title=|desc=|value=159,95 €
+                                            AXGroup|title=|desc=Vendu par HelloWallsFR|value=
+                                              AXStaticText|title=|desc=|value=HelloWallsFR
+                                              AXStaticText|title=|desc=|value=79,98 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Floor Family|value=
+                                              AXLink|title=|desc= à chez Floor Family|value=
+                                            AXHeading|title=Panneau acoustique Placage bois véritable 240 Chêne Clair|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau acoustique Placage bois véritable 240 Chêne Clair
+                                            AXStaticText|title=|desc=|value=89,00 €
+                                            AXGroup|title=|desc=Vendu par Floor Family|value=
+                                              AXStaticText|title=|desc=|value=Floor Family
+                                              AXStaticText|title=|desc=|value=+ 8,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Skum Acoustics|value=
+                                              AXLink|title=|desc= à chez Skum Acoustics|value=
+                                            AXHeading|title=Schäck WD - Panneau acoustique fini en bois|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Schäck WD - Panneau acoustique fini en bois
+                                            AXStaticText|title=|desc=|value=362,00 €
+                                            AXGroup|title=|desc=Vendu par Skum Acoustics|value=
+                                              AXStaticText|title=|desc=|value=Skum Acoustics
+                                              AXStaticText|title=|desc=|value=+ 27,90 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez bymydeco|value=
+                                              AXLink|title=|desc= à chez bymydeco|value=
+                                            AXHeading|title=Panneau Acoustique Bois Chêne Naturel 260x60 cm – Akupanel Tasseaux Bois Véritable Mural Décoratif – Phonique Salon Chambre Bureau Pose Facile|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau Acoustique Bois Chêne Naturel 260x60 cm – Akupanel Tasseaux Bois Véritable Mural Décoratif – Phonique Salon Chambre Bureau Pose Facile
+                                            AXStaticText|title=|desc=|value=75,00 €
+                                            AXGroup|title=|desc=Vendu par bymydeco|value=
+                                              AXStaticText|title=|desc=|value=bymydeco
+                                              AXStaticText|title=|desc=|value=+ 49,00 € de frais de port
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (62) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Shoparize|value=
+                                                    AXStaticText|title=|desc=|value=Par Shoparize
+                                            AXLink|title=|desc= à chez WallRibbon France|value=
+                                              AXLink|title=|desc= à chez WallRibbon France|value=
+                                            AXHeading|title=Classic Oak Barcode, noir RecoSilent (feutre acoustique) 2960x600mm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Classic Oak Barcode, noir RecoSilent (feutre acoustique) 2960x600mm
+                                            AXStaticText|title=|desc=|value=126,75 €
+                                            AXGroup|title=|desc=Vendu par WallRibbon France|value=
+                                              AXStaticText|title=|desc=|value=WallRibbon France
+                                              AXStaticText|title=|desc=|value=+ 117,03 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez WallRibbon France|value=
+                                              AXLink|title=|desc= à chez WallRibbon France|value=
+                                            AXHeading|title=Diamond Walnut Barcode, noir RecoSilent (feutre acoustique) 2400x600mm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Diamond Walnut Barcode, noir RecoSilent (feutre acoustique) 2400x600mm
+                                            AXStaticText|title=|desc=|value=134,25 €
+                                            AXGroup|title=|desc=Vendu par WallRibbon France|value=
+                                              AXStaticText|title=|desc=|value=WallRibbon France
+                                              AXStaticText|title=|desc=|value=+ 117,03 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Floor Family|value=
+                                              AXLink|title=|desc= à chez Floor Family|value=
+                                            AXHeading|title=Panneau acoustique Placage bois véritable 240 Chêne Naturel|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau acoustique Placage bois véritable 240 Chêne Naturel
+                                            AXStaticText|title=|desc=|value=75,00 €
+                                            AXGroup|title=|desc=Vendu par Floor Family|value=
+                                              AXStaticText|title=|desc=|value=Floor Family
+                                              AXStaticText|title=|desc=|value=+ 8,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez greenweez.com|value=
+                                              AXLink|title=|desc= à chez greenweez.com|value=
+                                            AXHeading|title=Homestyle4u - 8 Panneaux muraux 62x76 hexagone marron bois|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Homestyle4u - 8 Panneaux muraux 62x76 hexagone marron bois
+                                            AXStaticText|title=|desc=|value=212,94 €
+                                            AXGroup|title=|desc=Vendu par greenweez.com|value=
+                                              AXStaticText|title=|desc=|value=greenweez.com
+                                              AXStaticText|title=|desc=|value=212,94 €/1nb
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Channable|value=
+                                                    AXStaticText|title=|desc=|value=Par Channable
+                                            AXLink|title=|desc= à (auparavant 380 € chez Silamp)|value=
+                                              AXLink|title=|desc= à (auparavant 380 € chez Silamp)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Lot de 4 Panneaux Acoustiques Muraux Bois 240x60x2,2cm - Couleur Noir avec Fond Noir - SILAMP|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lot de 4 Panneaux Acoustiques Muraux Bois 240x60x2,2cm - Couleur Noir avec Fond Noir - SILAMP
+                                            AXStaticText|title=|desc=|value=319,99 €
+                                            AXStaticText|title=|desc=|value=380 €
+                                            AXGroup|title=|desc=Vendu par Silamp|value=
+                                              AXStaticText|title=|desc=|value=Silamp
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,9 sur 5 (12) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez Floor Family|value=
+                                              AXLink|title=|desc= à chez Floor Family|value=
+                                            AXHeading|title=Panneau acoustique SilentDesign 50 Chêne Bronze|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Panneau acoustique SilentDesign 50 Chêne Bronze
+                                            AXStaticText|title=|desc=|value=55,00 €
+                                            AXGroup|title=|desc=Vendu par Floor Family|value=
+                                              AXStaticText|title=|desc=|value=Floor Family
+                                              AXStaticText|title=|desc=|value=+ 8,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez WallRibbon France|value=
+                                              AXLink|title=|desc= à chez WallRibbon France|value=
+                                            AXHeading|title=Diamond Oak Barcode, blanc RecoSilent (feutre acoustique) 2960x600mm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Diamond Oak Barcode, blanc RecoSilent (feutre acoustique) 2960x600mm
+                                            AXStaticText|title=|desc=|value=164,25 €
+                                            AXGroup|title=|desc=Vendu par WallRibbon France|value=
+                                              AXStaticText|title=|desc=|value=WallRibbon France
+                                              AXStaticText|title=|desc=|value=+ 117,03 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Silamp|value=
+                                              AXLink|title=|desc= à chez Silamp|value=
+                                            AXHeading|title=Lot de 4 Panneaux Acoustiques Muraux - Tasseaux Finition Chêne Blanc - Fond Noir - 240x60x2,2cm - SILAMP|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Lot de 4 Panneaux Acoustiques Muraux - Tasseaux Finition Chêne Blanc - Fond Noir - 240x60x2,2cm - SILAMP
+                                            AXStaticText|title=|desc=|value=379,99 €
+                                            AXGroup|title=|desc=Vendu par Silamp|value=
+                                              AXStaticText|title=|desc=|value=Silamp
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,9 sur 5 (12) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Producthero|value=
+                                                AXStaticText|title=|desc=|value=Producthero
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Channable|value=
+                                                AXStaticText|title=|desc=|value=Channable
+                                              AXLink|title=|desc=Bigshopper|value=
+                                                AXStaticText|title=|desc=|value=Bigshopper
+                                              AXLink|title=|desc=Shoparize|value=
+                                                AXStaticText|title=|desc=|value=Shoparize
+                                              AXLink|title=|desc=Adference Shopping|value=
+                                                AXStaticText|title=|desc=|value=Adference Shopping
+                                                            AXButton|title=|desc=Panneaux acoustiques en tasseaux de bois 240 x 60 cm effet chêne clair et noir. Prix actuel : 44,99 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 2,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=2 Panneaux tasseaux Mdf et feutrine acoustique couleur chêne. Prix actuel : 69,97 €. Plus de prix disponibles. Brico Dépôt et plus. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau acoustique en tasseaux de bois. PROMOTION. Prix actuel : 99,00 €. Avant : 120 €. Wood Vibe. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=TONOR Lot de 4 Panneau Mural Decoratif de Bois, 120 x 60 -2.88m2, Panneaux Acoustique en 3D, Tasseau Bois Mural Insonorisants pour Decoration Murale. Prix actuel : 79,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=TecTake Panneaux Acoustiques Décoratifs Bois Chêne. Prix actuel : 77,90 €. Plus de prix disponibles. Klarna et plus. Note : 4,6 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Lot de 2 panneaux tasseaux acoustic lamelles chêne clair sur fond noir 2600 x 300 x 17 mm -1,56 m2 pefc 70 %. PROMOTION. Prix actuel : 49,90 €. Avant : 53 €. Plus de prix disponibles. ManoMano.fr et plus. Note : 4,7 sur 5. 255 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=NZQXJXZ Lot de 12 Panneaux Muraux Acoustiques avec placage de bois, Panneaux Acoustiques Insonorisants Autocollants pour Mur, 40 x 30 x 1 cm,. Prix actuel : 59,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau Acoustique Bois Chêne Feutrine Blanc 260 x 60 cm. Prix actuel : 79,00 €. bymydeco. Note : 4,4 sur 5. 18 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Panneau Acoustique Bois - By My Deco By My Deco https://bymydeco.fr › collections › panneau-acoustique-...|value=
+                                            AXHeading|title=Panneau Acoustique Bois - By My Deco|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Panneau Acoustique Bois - By My Deco
+                                              AXStaticText|title=|desc=|value=By My Deco
+                                                AXStaticText|title=|desc=|value=https://bymydeco.fr
+                                                AXStaticText|title=|desc=|value= › collections › panneau-acoustique-...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Panneaux acoustiques bois ByMyDeco — 
+                                            AXStaticText|title=|desc=|value=tasseaux en bois véritable sur feutrine acoustique 21 mm
+                                          AXStaticText|title=|desc=|value=. 7 finitions, dès 89 €. livraison partout en France.
+                                          AXLink|title=|desc=panneau acoustique bois sur bymydeco.fr|value=
+                                              AXImage|title=|desc=panneau acoustique bois sur bymydeco.fr|value=
+                                          AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                          AXLink|title=|desc=Panneaux acoustiques en bois | 85 % du bruit en moins Aku Woodpanel FR https://akuwoodpanel.fr › collections › panneaux-acous...|value=
+                                            AXHeading|title=Panneaux acoustiques en bois | 85 % du bruit en moins|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Panneaux acoustiques en bois | 85 % du bruit en moins
+                                              AXStaticText|title=|desc=|value=Aku Woodpanel FR
+                                                AXStaticText|title=|desc=|value=https://akuwoodpanel.fr
+                                                AXStaticText|title=|desc=|value= › collections › panneaux-acous...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Panneaux acoustiques en bois
+                                          AXStaticText|title=|desc=|value= ✓Placage bois véritable ✓Qualité premium ✓85 % de réduction du bruit, élégants & efficaces pour chaque intérieur.
+                                          AXLink|title=|desc=panneau acoustique bois sur akuwoodpanel.fr|value=
+                                              AXImage|title=|desc=panneau acoustique bois sur akuwoodpanel.fr|value=
+                                            AXImage|title=|desc=Note : 4,9 sur 5 (884) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=54,95 € de livraison
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                                            AXButton|title=|desc=Lot de 2 panneaux muraux acoustiques décoratifs en bois Mdf 60 cm. Prix actuel : 40,59 €. Leroy Merlin. Note : 4,6 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneaux Muraux Décoratifs Acoustiques Bois MDF Antibruit. Prix actuel : 61,99 €. AICA Sanitaire. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau Mural Acoustique Tasseaux Mdf Placage Chêne Véritable L.267 cm X L.57,25 cm X Ep. 19 mm. PROMOTION. Prix actuel : 97,16 €. Avant : 108 €. Plus de prix disponibles. Castorama et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Silamp Lot Panneaux Acoustiques Muraux. Prix actuel : 199,99 €. Plus de prix disponibles. prix.net et plus. Note : 4,9 sur 5. 12 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Aica Sanitaire Lot Panneaux Muraux Décoratifs Acoustiques Bois MDF AntiBruit. Prix actuel : 76,99 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=TecTake Panneaux acoustiques Sonic Wall Aspect Bois. Prix actuel : 89,90 €. Plus de prix disponibles. maisonsdumonde.com et plus. Note : 4,7 sur 5. 160 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau Mural Acoustique en Bois Chêne. PROMOTION. Prix actuel : 28,70 €. Avant : 48 €. Leroy Merlin. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=planeo Panneau acoustique - MixWall Timber Solid Velen Oak 52 x 104 cm | Placage en bois véritable (PLMW-20411A). Prix actuel : 40,60 €. planeo FR. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Panneau acoustique bois au meilleur prix Leroy merlin https://www.leroymerlin.fr › ... › Panneau tasseau bois|value=
+                                            AXHeading|title=Panneau acoustique bois au meilleur prix|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Panneau acoustique bois au meilleur prix
+                                              AXStaticText|title=|desc=|value=Leroy merlin
+                                                AXStaticText|title=|desc=|value=https://www.leroymerlin.fr
+                                                AXStaticText|title=|desc=|value= › ... › Panneau tasseau bois
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Lot de 3 panneaux muraux acoustiques décoratifs en bois MDF 240 x 60 cm
+                                          AXStaticText|title=|desc=|value=, finition. Lot de 3 panneaux muraux acoustiques décoratifs en ...
+                                            AXStaticText|title=|desc=|value=0,81 € à 1 099,90 €
+                                            AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                          AXLink|title=|desc=Images concernant panneau acoustique bois sur www.leroymerlin.fr|value=
+                                          AXStaticText|title=|desc=|value=Bois-d'Arcy · Ouvert
+                                          AXHeading|title=Résultat sponsorisé|desc=|value=2
+                                            AXStaticText|title=|desc=|value=Résultat sponsorisé
+                                              AXLink|title=|desc=Contacter JOCAVI - Absorbeur acoustique mural - Bass traps JOCAVI AudioPrim https://www.correction-acoustique.fr › traitement › acoustique|value=
+                                                AXHeading|title=Contacter JOCAVI - Absorbeur acoustique mural - Bass traps JOCAVI|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Contacter JOCAVI - Absorbeur acoustique mural - Bass traps JOCAVI
+                                                    AXStaticText|title=|desc=|value=AudioPrim
+                                                  AXStaticText|title=|desc=|value=https://www.correction-acoustique.fr › traitement › acoustique
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                AXStaticText|title=|desc=|value=Panneaux acoustiques
+                                              AXStaticText|title=|desc=|value= : large choix de produits pour tous les environnements. Découvrez nos produits de haute qualité, des 
+                                                AXStaticText|title=|desc=|value=panneaux
+                                              AXStaticText|title=|desc=|value= absorbants aux diffuseurs.
+                                      AXButton|title=Masquer le résultat sponsorisé|desc=|value=
+                                          AXStaticText|title=|desc=|value=Masquer le résultat sponsorisé
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Est-ce que les panneaux acoustiques sont efficaces ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Est-ce que les panneaux acoustiques sont efficaces ?
+                                              AXButton|title=Quel est le meilleur panneau acoustique pour absorber le bruit ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le meilleur panneau acoustique pour absorber le bruit ?
+                                              AXButton|title=Quelle est la différence entre un panneau phonique et un panneau acoustique ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelle est la différence entre un panneau phonique et un panneau acoustique ?
+                                              AXButton|title=Comment fixer les panneaux acoustiques en bois ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Comment fixer les panneaux acoustiques en bois ?
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Mur à lattes en bois, panneaux muraux et panneaux ... woodupp.fr https://woodupp.fr|value=
+                                            AXHeading|title=Mur à lattes en bois, panneaux muraux et panneaux ...|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Mur à lattes en bois, panneaux muraux et panneaux ...
+                                              AXStaticText|title=|desc=|value=woodupp.fr
+                                                AXStaticText|title=|desc=|value=https://woodupp.fr
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=La collection Akupanel est notre système mural 
+                                            AXStaticText|title=|desc=|value=acoustique
+                                          AXStaticText|title=|desc=|value= original — des tasseaux de 
+                                            AXStaticText|title=|desc=|value=bois
+                                          AXStaticText|title=|desc=|value= sur une feutrine qui adoucissent l'
+                                            AXStaticText|title=|desc=|value=acoustique
+                                          AXStaticText|title=|desc=|value= d'une pièce et apportent ...
+                                        AXHeading|title=Images|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Images
+                                              AXLink|title=|desc=Panneau décoratif acoustique lamelles Bois white birch 0.6 x 2.6 m espace reno france|value=
+                                              AXButton|title=Panneau décoratif acoustique lamelles Bois white birch 0.6 x 2.6 m|desc=|value=
+                                                  AXImage|title=|desc=Panneau décoratif acoustique lamelles Bois white birch 0.6 x 2.6 m|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Panneau Acoustique Bois Noyer 270 x 60 cm Feutrine Noir Décoration Mural By My Deco|value=
+                                              AXButton|title=Panneau Acoustique Bois Noyer 270 x 60 cm Feutrine Noir Décoration Mural|desc=|value=
+                                                  AXImage|title=|desc=Panneau Acoustique Bois Noyer 270 x 60 cm Feutrine Noir Décoration Mural|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Panneaux accoustiques tasseaux bois imitation chène de 240 x ... ID Market|value=
+                                              AXButton|title=Panneaux accoustiques tasseaux bois imitation chène de 240 x ...|desc=|value=
+                                                  AXImage|title=|desc=Panneaux accoustiques tasseaux bois imitation chène de 240 x ...|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Panneau acoustique - Contreplaqué chêne non traité 60 x 240 cm Magasindubois|value=
+                                              AXButton|title=Panneau acoustique - Contreplaqué chêne non traité 60 x 240 cm|desc=|value=
+                                                  AXImage|title=|desc=Panneau acoustique - Contreplaqué chêne non traité 60 x 240 cm|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Panneau mural Panneau acoustique mural modulaire Jangal Placage - Chêne Letea Wall-Art.fr|value=
+                                              AXButton|title=Panneau mural Panneau acoustique mural modulaire Jangal Placage - Chêne Letea|desc=|value=
+                                                  AXImage|title=|desc=Panneau mural Panneau acoustique mural modulaire Jangal Placage - Chêne Letea|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Homestyle4u 2410, Panneau acoustique 1er Set 60 x 120 cm en aspect bois chêne naturel 3D Revêtement mural Panneau mural sur feutre Amazon|value=
+                                              AXButton|title=Homestyle4u 2410, Panneau acoustique 1er Set 60 x 120 cm en aspect bois chêne naturel 3D Revêtement mural Panneau mural sur feutre|desc=|value=
+                                                  AXImage|title=|desc=Homestyle4u 2410, Panneau acoustique 1er Set 60 x 120 cm en aspect bois chêne naturel 3D Revêtement mural Panneau mural sur feutre|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                      AXButton|title=Afficher plus d'images|desc=|value=
+                                          AXStaticText|title=|desc=|value=Afficher plus d'images
+                                                            AXButton|title=|desc=Panneau acoustique en bois Chêne massif verni 240 x 40 cm. Prix actuel : 385,00 €. Leroy Merlin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau acoustique Bois Chêne | Akupanel 260 Feutrine Noir. Prix actuel : 75,00 €. bymydeco. Note : 4,8 sur 5. 62 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=HAGEFOL panneaux acoustiques en bois 60 cm Couleur. Prix actuel : 109,90 €. Amazon. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=240 cm - Panneau acoustique en bois - Chêne Naturel - De première qualité. Prix actuel : 90,95 €. Aku Woodpanel FR. Note : 4,8 sur 5. 2,1 k avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau Acoustique Bois Noir Mural 260 x 60 cm – Panneaux Tasseaux Bois Décoratif Intérieur. Prix actuel : 79,00 €. Plus de prix disponibles. bymydeco et plus. Note : 4,8 sur 5. 104 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau Acoustique Bois Chêne Feutrine Blanc 260 Akupanel. Prix actuel : 79,00 €. bymydeco. Note : 4,4 sur 5. 18 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Akupanel Panneau bois. Prix actuel : 94,50 €. Bowa Concept. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneaux acoustiques TONOR placage bois autocollants 2,88 m² 4 pièces Panneaux muraux 3D aspect bois. Prix actuel : 99,99 €. Amazon.fr - Seller. Note : 4,3 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Panneaux acoustiques en bois | Ambiance sonore et style ... Magasindubois https://www.magasindubois.fr › shop › panneaux-acous...|value=
+                                            AXHeading|title=Panneaux acoustiques en bois | Ambiance sonore et style ...|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Panneaux acoustiques en bois | Ambiance sonore et style ...
+                                              AXStaticText|title=|desc=|value=Magasindubois
+                                                AXStaticText|title=|desc=|value=https://www.magasindubois.fr
+                                                AXStaticText|title=|desc=|value= › shop › panneaux-acous...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Il combine des lamelles de bois sur un support en feutre absorbant
+                                          AXStaticText|title=|desc=|value=. Cette structure permet de réduire la réverbération et le bruit, créant ainsi une acoustique ...
+                                            AXStaticText|title=|desc=|value=39,90 € de livraison
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                          AXLink|title=|desc=Images concernant panneau acoustique bois sur www.magasindubois.fr|value=
+                                                            AXButton|title=|desc=Decoon Panneau Mural acoustique tasseaux bois 120 x 30 x 1,9 cm. Prix actuel : 53,99 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,5 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneaux tasseaux acoustique finition bois chêne naturel. Prix actuel : 85,00 €. Magasindubois - FR. Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau acoustique bois chêne feutre gris. Prix actuel : 63,00 €. Mon panneau acoustique. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=House Nordic Lot de 2 panneaux en tasseaux de bois. PROMOTION. Prix actuel : 160,65 €. Avant : 189 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,0 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau Acoustique Bois Daim Textile. Prix actuel : 59,00 €. bymydeco. Note : 4,3 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Magasindubois Panneau Acoustique Chêne Véritable 240x60cm - Mural & Plafond Isolant Phonique. Prix actuel : 89,95 €. Magasindubois - FR. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Panneau acoustique bois - 240 * 60 cm - Ma Boutique - Hêtre. Prix actuel : 49,99 €. galeriedeco.fr. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=240 cm - Panneau acoustique en bois - Chêne Rustique - De première qualité. Prix actuel : 95,95 €. Aku Woodpanel FR. Note : 4,7 sur 5. 212 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Wood Vibe - Panneaux Acoustiques en Bois & Tasseaux Wood Vibe https://woodvibe.fr|value=
+                                            AXHeading|title=Wood Vibe - Panneaux Acoustiques en Bois & Tasseaux|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Wood Vibe - Panneaux Acoustiques en Bois & Tasseaux
+                                              AXStaticText|title=|desc=|value=Wood Vibe
+                                                AXStaticText|title=|desc=|value=https://woodvibe.fr
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=100% durable
+                                          AXStaticText|title=|desc=|value=. Les tasseaux sont constitués de bois 100% naturel, le feutre est fabriqué à partir de bouteilles en plastique recyclées. 100% fabriqué en Europe.
+                                          AXLink|title=|desc=panneau acoustique bois sur woodvibe.fr|value=
+                                              AXImage|title=|desc=panneau acoustique bois sur woodvibe.fr|value=
+                                          AXLink|title=|desc=Panneaux acoustiques Élégance et confort à découvrir planeo.fr https://www.planeo.fr › ... › Revetement mural|value=
+                                            AXHeading|title=Panneaux acoustiques Élégance et confort à découvrir|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Panneaux acoustiques Élégance et confort à découvrir
+                                              AXStaticText|title=|desc=|value=planeo.fr
+                                                AXStaticText|title=|desc=|value=https://www.planeo.fr
+                                                AXStaticText|title=|desc=|value= › ... › Revetement mural
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Designs élégants en de nombreux styles, coloris et finitions bois
+                                          AXStaticText|title=|desc=|value=; Absorption acoustique efficace — pour des pièces plus calmes; Matériaux haut de gamme et ...
+                                          AXImage|title=|desc=Note : 4,6 sur 5 (3 491) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value=   
+                                          AXLink|title=|desc=Images concernant panneau acoustique bois sur www.planeo.fr|value=
+                                        AXHeading|title=Vidéos|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Vidéos
+                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                  AXLink|title=|desc=Pose de panneaux en tasseaux acoustique et thermique wallart YouTube Docteur Peinture 22 nov. 2023|value=
+                                                    AXHeading|title=Pose de panneaux en tasseaux acoustique et thermique wallart YouTube Docteur Peinture 22 nov. 2023|desc=|value=3
+                                                      AXStaticText|title=|desc=|value=Pose de panneaux en tasseaux acoustique et thermique wallart
+                                                      AXStaticText|title=|desc=|value=YouTube
+                                                      AXStaticText|title=|desc=|value= Docteur Peinture
+                                                        AXStaticText|title=|desc=|value=22 nov. 2023
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                AXButton|title=|desc=Pose de panneaux en tasseaux acoustique et thermique wallart par Docteur Peinture sur YouTube. Lire sur Google. 19:31|value=
+                                                AXLink|title=|desc=Panneau Acoustique En Tasseaux De Bois | Isolation ... YouTube Wood Vibe 15 févr. 2022|value=
+                                                  AXHeading|title=Panneau Acoustique En Tasseaux De Bois | Isolation ... YouTube Wood Vibe 15 févr. 2022|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Panneau Acoustique En Tasseaux De Bois | Isolation ...
+                                                    AXStaticText|title=|desc=|value=YouTube
+                                                    AXStaticText|title=|desc=|value= Wood Vibe
+                                                      AXStaticText|title=|desc=|value=15 févr. 2022
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXButton|title=|desc=Panneau Acoustique En Tasseaux De Bois | Isolation ... par Wood Vibe sur YouTube. Lire sur Google. 2:14|value=
+                                                AXLink|title=|desc=Tutoriel pour poser des panneaux acoustiques chez soi! https ... YouTube OBI Schweiz 24 janv. 2025|value=
+                                                  AXHeading|title=Tutoriel pour poser des panneaux acoustiques chez soi! https ... YouTube OBI Schweiz 24 janv. 2025|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Tutoriel pour poser des panneaux acoustiques chez soi! https ...
+                                                    AXStaticText|title=|desc=|value=YouTube
+                                                    AXStaticText|title=|desc=|value= OBI Schweiz
+                                                      AXStaticText|title=|desc=|value=24 janv. 2025
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXButton|title=|desc=Tutoriel pour poser des panneaux acoustiques chez soi! https ... par OBI Schweiz sur YouTube. Lire sur Google. 0:41|value=
+                                          AXLink|title=|desc=Afficher toutes les vidéos|value=
+                                              AXStaticText|title=|desc=|value=Voir plus
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Panneau acoustique en tasseaux de bois Atmosphera https://www.atmosphera.com › panneau-mural-decoratif|value=
+                                            AXHeading|title=Panneau acoustique en tasseaux de bois|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Panneau acoustique en tasseaux de bois
+                                              AXStaticText|title=|desc=|value=Atmosphera
+                                                AXStaticText|title=|desc=|value=https://www.atmosphera.com
+                                                AXStaticText|title=|desc=|value= › panneau-mural-decoratif
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Composé de tasseaux de bois et de feutre acoustique
+                                          AXStaticText|title=|desc=|value=, il se décline en plusieurs dimensions et finitions (effet noyer ou chêne clair). Il est aussi facilement ...
+                                          AXLink|title=|desc=panneau acoustique bois sur www.atmosphera.com|value=
+                                              AXImage|title=|desc=panneau acoustique bois sur www.atmosphera.com|value=
+                                            AXImage|title=|desc=Note : 5,0 sur 5 (52) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Panneau acoustique bois 250|value=
+                                        AXStaticText|title=|desc=|value=Panneau acoustique bois 
+                                        AXStaticText|title=|desc=|value=250
+                                      AXLink|title=|desc=Panneau acoustique bois IKEA|value=
+                                        AXStaticText|title=|desc=|value=Panneau acoustique bois 
+                                        AXStaticText|title=|desc=|value=IKEA
+                                      AXLink|title=|desc=Panneau acoustique bois 240|value=
+                                        AXStaticText|title=|desc=|value=Panneau acoustique bois 
+                                        AXStaticText|title=|desc=|value=240
+                                      AXLink|title=|desc=Panneau acoustique bois Brico Dépôt|value=
+                                        AXStaticText|title=|desc=|value=Panneau acoustique bois 
+                                        AXStaticText|title=|desc=|value=Brico Dépôt
+                                      AXLink|title=|desc=Panneau acoustique bois Leroy Merlin|value=
+                                        AXStaticText|title=|desc=|value=Panneau acoustique bois 
+                                        AXStaticText|title=|desc=|value=Leroy Merlin
+                                      AXLink|title=|desc=Panneau acoustique bois noir|value=
+                                        AXStaticText|title=|desc=|value=Panneau acoustique bois 
+                                        AXStaticText|title=|desc=|value=noir
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=8
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=32
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=8
+                                      AXStaticText|title=|desc=|value=32
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=panneau acoustique bois - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

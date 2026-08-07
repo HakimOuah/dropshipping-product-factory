@@ -1,0 +1,910 @@
+[
+  {
+    "product_name": "Vitrine cabinet de curiosites laiton et verre",
+    "decision": "review",
+    "score": 66,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Bar cart laiton et verre style antique",
+    "decision": "review",
+    "score": 63,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Paravent decoratif a arches et rayures circuscore",
+    "decision": "review",
+    "score": 62,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Tapisserie murale Adire Afrohemian grand format",
+    "decision": "review",
+    "score": 62,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Panneaux muraux opalescents holographiques Extra Celestial",
+    "decision": "review",
+    "score": 62,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Tableau mural fine art grand format personnalisable",
+    "decision": "review",
+    "score": 61,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 20,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Cloison acoustique mobile design pour bureau maison",
+    "decision": "review",
+    "score": 60,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Niche chien isolee XXL design quatre saisons",
+    "decision": "review",
+    "score": 60,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Jardiniere acier corten XXL modulable",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Banc exterieur beton bois design pour terrasse",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Groupe de recuperation fluides frigorigenes HVAC 1 HP",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Escalier meunier gain de place bois et metal",
+    "decision": "review",
+    "score": 59,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Composteur electrique de cuisine 3 a 5 L anti-odeur",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Rideaux velours theatre et kit draperie plafond",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fauteuil accent rattan Afrohemian",
+    "decision": "review",
+    "score": 57,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Panneaux acoustiques tasseaux bois pour mur complet",
+    "decision": "review",
+    "score": 56,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 13,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Garde-corps aluminium ou inox en kit pour terrasse",
+    "decision": "review",
+    "score": 55,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 10,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Plaque vibrante compacteur thermique 15 kN",
+    "decision": "review",
+    "score": 55,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fontaine de jardin murale pierre reconstituee",
+    "decision": "review",
+    "score": 55,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Station electrique portable LiFePO4 1024 Wh",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Abri poubelle design metal double ou triple",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Recuperateur eau de pluie mural design 800 L",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Scelleuse sous vide a chambre 320 mm",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Camera d'inspection canalisation 30 m avec ecran",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Presse a chaud textile 40 x 50 cm auto-open",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Coupe-carreaux electrique sur table avec eau",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Coffre-fort biometrique 60 L anti-effraction",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Auvent marquise aluminium polycarbonate 6 m",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Tapis laine tufte XXL motif geometrique Neo Deco",
+    "decision": "reject",
+    "score": 54,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Station meteo WiFi pro avec anemometre et pluviometre",
+    "decision": "reject",
+    "score": 52,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Projecteur LED chantier telescopique sur batterie",
+    "decision": "reject",
+    "score": 52,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Abri velo securise metal 4 a 6 velos",
+    "decision": "reject",
+    "score": 52,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Porte de garage sectionnelle motorisee 254 x 218 cm",
+    "decision": "reject",
+    "score": 52,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Planche d'equilibre surf indoor bois premium",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 6,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Banquette cuir capitonnee Art Deco",
+    "decision": "reject",
+    "score": 51,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Table d'examen veterinaire electrique compacte",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 12,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Deshydrateur alimentaire inox 10 a 12 plateaux",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Machine a denuder electrique cables cuivre 1,5-32 mm",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Store banne motorise demi-coffre 4 x 3 m",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 20,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {
+      "seasonal": 10
+    },
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Motorisation portail coulissant solaire 600 kg",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Cache climatisation exterieure aluminium design",
+    "decision": "reject",
+    "score": 49,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Detecteur radon connecte domestique longue duree",
+    "decision": "reject",
+    "score": 48,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 6,
+      "margin_ratio": 0,
+      "competition": 10,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Porte d'entree aluminium triple vitrage sur mesure",
+    "decision": "reject",
+    "score": 48,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 8
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Fauteuil oeuf suspendu double en osier synthetique",
+    "decision": "reject",
+    "score": 46,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 15,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Robot lave-vitre avec pulverisation 4 directions",
+    "decision": "reject",
+    "score": 45,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 6,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Salon de jardin aluminium et corde 6 places DKD",
+    "decision": "reject",
+    "score": 44,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 13,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 4
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Hamac suspendu XL avec barre et support premium",
+    "decision": "reject",
+    "score": 41,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 6,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 6,
+      "niche_defensibility": 0
+    },
+    "penalties": {},
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Ventilateur de plafond DC silencieux avec luminaire 132 cm",
+    "decision": "reject",
+    "score": 38,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 6,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {
+      "seasonal": 10
+    },
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Table de cuisine camping pliante aluminium avec rangement",
+    "decision": "reject",
+    "score": 38,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 6,
+      "margin_ratio": 0,
+      "competition": 14,
+      "channel": 15,
+      "source_signal": 9,
+      "niche_defensibility": 4
+    },
+    "penalties": {
+      "seasonal": 10
+    },
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  },
+  {
+    "product_name": "Sac de couchage quilt ultralight duvet 0 C",
+    "decision": "reject",
+    "score": 37,
+    "rejected_by": null,
+    "breakdown": {
+      "ticket": 10,
+      "margin_ratio": 0,
+      "competition": 6,
+      "channel": 15,
+      "source_signal": 12,
+      "niche_defensibility": 4
+    },
+    "penalties": {
+      "seasonal": 10
+    },
+    "flags": [
+      "margin_ratio_missing"
+    ]
+  }
+]

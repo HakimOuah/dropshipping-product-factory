@@ -1,0 +1,23 @@
+{
+  "N01": {
+    "nom": "Bijoux esoteriques / Lithotherapie",
+    "archetype": "Mono-produit",
+    "domaine": "lithotherapie-bijoux.fr",
+    "main_kw": "lithotherapie",
+    "note": "Le seed 'bijoux esoterique' = 510 vol (mort). Reframe en lithotherapie/bijoux pierre. Volume surtout informationnel.",
+    "kw": [
+      {"k": "pierre de lune", "v": 18100, "i": "I", "kd": 31, "cpc": 0.11},
+      {"k": "fleur de vie", "v": 9900, "i": "I", "kd": 19, "cpc": 0.10},
+      {"k": "main de fatma", "v": 8100, "i": "I", "kd": 24, "cpc": 0.13},
+      {"k": "bracelet pierre naturelle", "v": 4400, "i": "C", "kd": 18, "cpc": 0.46},
+      {"k": "collier arbre de vie", "v": 1900, "i": "I", "kd": 16, "cpc": 0.43},
+      {"k": "bracelet oeil de tigre", "v": 1900, "i": "T", "kd": 13, "cpc": 0.36},
+      {"k": "collier lune", "v": 1300, "i": "T", "kd": 17, "cpc": 0.39},
+      {"k": "bracelet 7 chakras", "v": 1000, "i": "I", "kd": 11, "cpc": 0.22},
+      {"k": "bracelet chakra", "v": 480, "i": "I", "kd": 10, "cpc": 0.34},
+      {"k": "bijoux lune", "v": 260, "i": "I", "kd": 17, "cpc": 0.74},
+      {"k": "bracelet oeil turc", "v": 70, "i": "I", "kd": 11, "cpc": 0.33},
+      {"k": "collier pentagramme", "v": 20, "i": "n/a", "kd": null, "cpc": 0.00}
+    ]
+  }
+}

@@ -1,0 +1,765 @@
+AXWindow|title=pergola bioclimatique - Google Shopping - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=pergola bioclimatique - Google Shopping - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=pergola%20bioclimatique&hl=fr&gl=fr&pws=0&udm=28
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=pergola bioclimatique - Google Shopping|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Désactiver le défilement continu|value=
+                        AXStaticText|title=|desc=|value=Désactiver le défilement continu
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=pergola bioclimatique
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                  AXLink|title=|desc=Tous|value=
+                                    AXStaticText|title=|desc=|value=Tous
+                                  AXLink|title=|desc=Images|value=
+                                    AXStaticText|title=|desc=|value=Images
+                                  AXLink|title=|desc=Shopping|value=
+                                      AXStaticText|title=|desc=|value=Shopping
+                                  AXLink|title=|desc=Vidéos|value=
+                                    AXStaticText|title=|desc=|value=Vidéos
+                                  AXLink|title=|desc=Actualités|value=
+                                    AXStaticText|title=|desc=|value=Actualités
+                                  AXLink|title=|desc=Vidéos courtes|value=
+                                    AXStaticText|title=|desc=|value=Vidéos courtes
+                                  AXLink|title=|desc=Web|value=
+                                    AXStaticText|title=|desc=|value=Web
+                                  AXButton|title=Plus de filtres|desc=|value=
+                                    AXGroup|title=|desc=Plus de filtres|value=
+                                      AXStaticText|title=|desc=|value=Plus
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=Affiner les résultats|desc=|value=2
+                                AXStaticText|title=|desc=|value=Affiner les résultats
+                                        AXLink|title=|desc=Filtre À proximité. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre À proximité. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=À proximité
+                                        AXButton|title=Trier par|desc=|value=
+                                              AXStaticText|title=|desc=|value=Trier par
+                                              AXLink|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                AXGroup|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pertinence
+                                              AXLink|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre croissant
+                                              AXLink|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre décroissant
+                                              AXLink|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Note : ordre décroissant
+                                        AXButton|title=Prix|desc=|value=
+                                              AXStaticText|title=|desc=|value=Prix
+                                              AXLink|title=|desc=Filtre Moins de 1 500 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Moins de 1 500 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Moins de 1 500 €
+                                              AXLink|title=|desc=Filtre 1 500 € - 3 500 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 1 500 € - 3 500 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=1 500 € – 3 500 €
+                                              AXLink|title=|desc=Filtre 3 500 € - 7 000 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre 3 500 € - 7 000 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=3 500 € – 7 000 €
+                                              AXLink|title=|desc=Filtre Plus de 7 000 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 7 000 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 7 000 €
+                                                  AXTextField|title=|desc=Prix minimal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Min.
+                                                  AXTextField|title=|desc=Prix maximal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Max.
+                                              AXButton|title=OK|desc=|value=
+                                        AXButton|title=Note du produit|desc=|value=
+                                              AXStaticText|title=|desc=|value=Note du produit
+                                              AXLink|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Quatre étoiles et plus. Non sélectionné.|value=
+                                                  AXImage|title=|desc=Note : 4,0 sur 5|value=
+                                                  AXStaticText|title=|desc=|value= 
+                                                  AXStaticText|title=|desc=|value=4 et plus
+                                        AXButton|title=Marque|desc=|value=
+                                              AXStaticText|title=|desc=|value=Marque
+                                              AXLink|title=|desc=Filtre Somfy. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Somfy. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Somfy
+                                              AXLink|title=|desc=Filtre Sweeek. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Sweeek. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Sweeek
+                                              AXLink|title=|desc=Filtre Prix Usine. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix Usine. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix Usine
+                                              AXLink|title=|desc=Filtre Hespéride. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Hespéride. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Hespéride
+                                          AXButton|title=Voir 26 autre(s)|desc=|value=
+                                        AXButton|title=Magasins|desc=|value=
+                                              AXStaticText|title=|desc=|value=Magasins
+                                              AXLink|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Leroy Merlin
+                                              AXLink|title=|desc=Filtre Jardiland. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Jardiland. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Jardiland
+                                              AXLink|title=|desc=Filtre Castorama. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Castorama. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Castorama
+                                              AXLink|title=|desc=Filtre Maisons du Monde. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Maisons du Monde. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Maisons du Monde
+                                          AXButton|title=Voir 29 autre(s)|desc=|value=
+                          AXGroup|title=|desc=Filtre|value=
+                                    AXCheckBox|title=|desc=Tous les filtres.|value=1
+                                      AXLink|title=|desc=Filtre Moins de 1 500 €. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Moins de 1 500 €
+                                      AXLink|title=|desc=Filtre Bois. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Bois
+                                      AXLink|title=|desc=Filtre À proximité. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=À proximité
+                                AXGroup|title=|desc=Annonces|value=
+                                              AXHeading|title=Produits sponsorisés|desc=|value=2
+                                                  AXStaticText|title=|desc=|value=Produits sponsorisés
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Smart Pergola 3x5m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4 Pro|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Smart Pergola 3x5m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4 Pro
+                                                    AXStaticText|title=|desc=|value=6 190,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à (auparavant 2 990 € chez Hespéride)|value=
+                                                      AXLink|title=|desc= à (auparavant 2 990 € chez Hespéride)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Pergola bioclimatique autoportante ECOZIA Honey 4 x 3 m - Structure en aluminium Hespéride|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante ECOZIA Honey 4 x 3 m - Structure en aluminium Hespéride
+                                                    AXStaticText|title=|desc=|value=897,00 €
+                                                    AXStaticText|title=|desc=|value=2 990 
+                                                    AXGroup|title=|desc=Vendu par Hespéride|value=
+                                                      AXStaticText|title=|desc=|value=Hespéride
+                                                      AXStaticText|title=|desc=|value=+ 159,00 € de frais de port
+                                                    AXLink|title=|desc= à chez Azura Home Design|value=
+                                                      AXLink|title=|desc= à chez Azura Home Design|value=
+                                                    AXHeading|title=Pergola Patrice motorisée - 4x4m en aluminium avec 2 stores|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola Patrice motorisée - 4x4m en aluminium avec 2 stores
+                                                    AXStaticText|title=|desc=|value=5 602,80 €
+                                                    AXGroup|title=|desc=Vendu par Azura Home Design|value=
+                                                      AXStaticText|title=|desc=|value=Azura Home Design
+                                                      AXStaticText|title=|desc=|value=+ 162,00 € de frais de port
+                                                    AXLink|title=|desc= à (auparavant 1 000 € chez sweeek)|value=
+                                                      AXLink|title=|desc= à (auparavant 1 000 € chez sweeek)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Pergola bioclimatique aluminium et acier lames orientables 3x3m Palace Anthracite - sweeek|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique aluminium et acier lames orientables 3x3m Palace Anthracite - sweeek
+                                                      AXStaticText|title=|desc=|value=799,99 €
+                                                      AXStaticText|title=|desc=|value=1 000 
+                                                      AXGroup|title=|desc=Vendu par sweeek|value=
+                                                        AXStaticText|title=|desc=|value=sweeek
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (775) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Sklum|value=
+                                                      AXLink|title=|desc= à chez Sklum|value=
+                                                      AXStaticText|title=|desc=|value=15 % DE REMISE
+                                                    AXHeading|title=Pergola Bioclimatique En Aluminium Avec Lames Et Panneaux Latéraux Druvia Gris Graphite & 3 X 3 M - Sklum|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola Bioclimatique En Aluminium Avec Lames Et Panneaux Latéraux Druvia Gris Graphite & 3 X 3 M - Sklum
+                                                    AXStaticText|title=|desc=|value=3 199,95 €
+                                                    AXGroup|title=|desc=Vendu par Sklum|value=
+                                                      AXStaticText|title=|desc=|value=Sklum
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=2 720 € après application du code
+                                                    AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                      AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                    AXHeading|title=Pergola tonnelle de jardin bioclimatique San Pablo Steel S80, 3x4m, Blanc - Dancover|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola tonnelle de jardin bioclimatique San Pablo Steel S80, 3x4m, Blanc - Dancover
+                                                    AXStaticText|title=|desc=|value=1 235,24 €
+                                                    AXGroup|title=|desc=Vendu par Dancovershop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Dancovershop.fr
+                                                      AXStaticText|title=|desc=|value=+ 241,52 € de frais de port
+                                                    AXLink|title=|desc= à chez Abrisud|value=
+                                                      AXLink|title=|desc= à chez Abrisud|value=
+                                                    AXHeading|title=Pergola à toiture fixe by Abrisud|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola à toiture fixe by Abrisud
+                                                    AXStaticText|title=|desc=|value=5 867,00 €
+                                                    AXGroup|title=|desc=Vendu par Abrisud|value=
+                                                      AXStaticText|title=|desc=|value=Abrisud
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Carrefour|value=
+                                                      AXLink|title=|desc= à chez Carrefour|value=
+                                                      AXHeading|title=Pergola Bioclimatique Autoportante 3x3m à Lame Orientable Gris Anthracite Toscana|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola Bioclimatique Autoportante 3x3m à Lame Orientable Gris Anthracite Toscana
+                                                      AXStaticText|title=|desc=|value=599,99 €
+                                                      AXGroup|title=|desc=Vendu par Carrefour|value=
+                                                        AXStaticText|title=|desc=|value=Carrefour
+                                                        AXStaticText|title=|desc=|value=+ 19,00 € de frais de port
+                                                        AXImage|title=|desc=Note : 4,8 sur 5 (4) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Premium Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches,Autoportée, PERGOLUX Pergola 4 Pro Max|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Premium Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches,Autoportée, PERGOLUX Pergola 4 Pro Max
+                                                    AXStaticText|title=|desc=|value=6 590,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Cazeboo.fr|value=
+                                                      AXLink|title=|desc= à chez Cazeboo.fr|value=
+                                                      AXStaticText|title=|desc=|value=10 % DE REMISE
+                                                    AXHeading|title=Pergola bioclimatique autoportée Piana 4x3m aluminium gris|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola bioclimatique autoportée Piana 4x3m aluminium gris
+                                                    AXStaticText|title=|desc=|value=999,00 €
+                                                    AXGroup|title=|desc=Vendu par Cazeboo.fr|value=
+                                                      AXStaticText|title=|desc=|value=Cazeboo.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=899 € après application du code
+                                                    AXLink|title=|desc= à (auparavant 1 250 € chez sweeek)|value=
+                                                      AXLink|title=|desc= à (auparavant 1 250 € chez sweeek)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Pergola bioclimatique aluminium et acier lames orientables 4x3m Palace Anthracite - sweeek|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique aluminium et acier lames orientables 4x3m Palace Anthracite - sweeek
+                                                      AXStaticText|title=|desc=|value=999,99 €
+                                                      AXStaticText|title=|desc=|value=1 250 
+                                                      AXGroup|title=|desc=Vendu par sweeek|value=
+                                                        AXStaticText|title=|desc=|value=sweeek
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (380) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc= à chez Leroy Merlin|value=
+                                                      AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                        AXLink|title=|desc=Montigny-lès-Cormeilles|value=
+                                                                AXStaticText|title=|desc=|value=Montigny-lès-Cormeilles
+                                                      AXHeading|title=Pergola bioclimatique autoportante NATERIAL Clima alu gris anthracite, 9.69 m²|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante NATERIAL Clima alu gris anthracite, 9.69 m²
+                                                      AXStaticText|title=|desc=|value=1 490,00 €
+                                                      AXGroup|title=|desc=Vendu par Leroy Merlin|value=
+                                                        AXStaticText|title=|desc=|value=Leroy Merlin
+                                                      AXStaticText|title=|desc=|value=Retrait : 05/07
+                                                        AXImage|title=|desc=Note : 4,7 sur 5 (135) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Aluminium Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aluminium Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4
+                                                    AXStaticText|title=|desc=|value=3 590,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Habitat et jardin|value=
+                                                      AXLink|title=|desc= à chez Habitat et jardin|value=
+                                                    AXHeading|title=Pergola bioclimatique avec rideau et moustiquaire "Howard" - 3 x 4 m - Gris|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola bioclimatique avec rideau et moustiquaire "Howard" - 3 x 4 m - Gris
+                                                    AXStaticText|title=|desc=|value=1 299,00 €
+                                                    AXGroup|title=|desc=Vendu par Habitat et jardin|value=
+                                                      AXStaticText|title=|desc=|value=Habitat et jardin
+                                                      AXStaticText|title=|desc=|value=+ 99,00 € de frais de port
+                                                    AXLink|title=|desc= à chez MonAmenagementJardin|value=
+                                                      AXLink|title=|desc= à chez MonAmenagementJardin|value=
+                                                    AXHeading|title=Pergola Bioclimatique Lames Orientables en Aluminium 7,2 m² Anthracit|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola Bioclimatique Lames Orientables en Aluminium 7,2 m² Anthracit
+                                                    AXStaticText|title=|desc=|value=839,00 €
+                                                    AXGroup|title=|desc=Vendu par MonAmenagementJardin|value=
+                                                      AXStaticText|title=|desc=|value=MonAmenagementJardin
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Avant : 1 210 €
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Aluminium Pergola 3x5m, Bioclimatique, Anthracite avec lames blanches, Autoportée, PERGOLUX Pergola 4|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aluminium Pergola 3x5m, Bioclimatique, Anthracite avec lames blanches, Autoportée, PERGOLUX Pergola 4
+                                                    AXStaticText|title=|desc=|value=4 390,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                      AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                    AXHeading|title=Tonnelle de jardin Santa Ana Steel+ avec rideaux et moustiquaire, 3x4m, Noir - Dancover|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Tonnelle de jardin Santa Ana Steel+ avec rideaux et moustiquaire, 3x4m, Noir - Dancover
+                                                    AXStaticText|title=|desc=|value=1 029,29 €
+                                                    AXGroup|title=|desc=Vendu par Dancovershop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Dancovershop.fr
+                                                      AXStaticText|title=|desc=|value=+ 125,92 € de frais de port
+                                                    AXLink|title=|desc= à chez Pergola Ombréa|value=
+                                                      AXLink|title=|desc= à chez Pergola Ombréa|value=
+                                                    AXHeading|title=Pergola Bioclimatique Adossée 4x4m - V2 Anthracite|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola Bioclimatique Adossée 4x4m - V2 Anthracite
+                                                    AXStaticText|title=|desc=|value=3 849,00 €
+                                                    AXGroup|title=|desc=Vendu par Pergola Ombréa|value=
+                                                      AXStaticText|title=|desc=|value=Pergola Ombréa
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc= à chez Castorama|value=
+                                                      AXLink|title=|desc=Pierrelaye|value=
+                                                        AXLink|title=|desc=Pierrelaye|value=
+                                                                AXStaticText|title=|desc=|value=Pierrelaye
+                                                    AXHeading|title=Pergola bioclimatique autoportée aluminium et acier gris Fred 4 x 3 m|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola bioclimatique autoportée aluminium et acier gris Fred 4 x 3 m
+                                                    AXStaticText|title=|desc=|value=1 389,90 €
+                                                    AXGroup|title=|desc=Vendu par Castorama|value=
+                                                      AXStaticText|title=|desc=|value=Castorama
+                                                    AXStaticText|title=|desc=|value=Retrait auj
+                                                      AXStaticText|title=|desc=|value=7,0 km · Ouvert
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Smart Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4 Pro|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Smart Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4 Pro
+                                                    AXStaticText|title=|desc=|value=4 990,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Abrisud|value=
+                                                      AXLink|title=|desc= à chez Abrisud|value=
+                                                    AXHeading|title=Pergola à toiture ouvrante by Abrisud|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola à toiture ouvrante by Abrisud
+                                                    AXStaticText|title=|desc=|value=8 188,00 €
+                                                    AXGroup|title=|desc=Vendu par Abrisud|value=
+                                                      AXStaticText|title=|desc=|value=Abrisud
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Tous Chalets|value=
+                                                      AXLink|title=|desc= à chez Tous Chalets|value=
+                                                    AXHeading|title=Pergola manuelle bioclimatique alu Soléa 6x3m 36N anthracite- 2 stores inclus|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola manuelle bioclimatique alu Soléa 6x3m 36N anthracite- 2 stores inclus
+                                                    AXStaticText|title=|desc=|value=2 799,30 €
+                                                    AXGroup|title=|desc=Vendu par Tous Chalets|value=
+                                                      AXStaticText|title=|desc=|value=Tous Chalets
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez IDmarket|value=
+                                                      AXLink|title=|desc= à chez IDmarket|value=
+                                                      AXHeading|title=Pergola bioclimatique 3x4M lames orientables et stores gris anthracite- IDMarket|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique 3x4M lames orientables et stores gris anthracite- IDMarket
+                                                      AXStaticText|title=|desc=|value=999,99 €
+                                                      AXGroup|title=|desc=Vendu par IDmarket|value=
+                                                        AXStaticText|title=|desc=|value=IDmarket
+                                                        AXStaticText|title=|desc=|value=+ 92,99 € de frais de port
+                                                        AXImage|title=|desc=Note : 3,8 sur 5 (29) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 2 200 € chez sweeek)|value=
+                                                      AXLink|title=|desc= à (auparavant 2 200 € chez sweeek)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Pergola bioclimatique aluminium et acier 4x3m + 1 store 3m + 1 store 4m Palace Anthracite - sweeek|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique aluminium et acier 4x3m + 1 store 3m + 1 store 4m Palace Anthracite - sweeek
+                                                      AXStaticText|title=|desc=|value=1 759,98 €
+                                                      AXStaticText|title=|desc=|value=2 200 
+                                                      AXGroup|title=|desc=Vendu par sweeek|value=
+                                                        AXStaticText|title=|desc=|value=sweeek
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 3,9 sur 5 (39) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Aluminium Pergola 3x4m, Bioclimatique, Blanc, Autoportée, PERGOLUX Pergola 4|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aluminium Pergola 3x4m, Bioclimatique, Blanc, Autoportée, PERGOLUX Pergola 4
+                                                    AXStaticText|title=|desc=|value=3 590,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez ManoMano.fr|value=
+                                                      AXLink|title=|desc= à chez ManoMano.fr|value=
+                                                      AXStaticText|title=|desc=|value=10 € DE REMISE
+                                                    AXHeading|title=Habitat Et Jardin – Pergola Bioclimatique Autoportante 3 X 4 M – Lames Orientables En Acier Galvanisé – Résistance Au Vent 15 M/s – Design Moderne|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Habitat Et Jardin – Pergola Bioclimatique Autoportante 3 X 4 M – Lames Orientables En Acier Galvanisé – Résistance Au Vent 15 M/s – Design Moderne
+                                                    AXStaticText|title=|desc=|value=761,00 €
+                                                    AXGroup|title=|desc=Vendu par ManoMano.fr|value=
+                                                      AXStaticText|title=|desc=|value=ManoMano.fr
+                                                      AXStaticText|title=|desc=|value=+ 99,00 € de frais de port
+                                                      AXStaticText|title=|desc=|value=751 € après application du code
+                                                    AXLink|title=|desc= à chez Hespéride|value=
+                                                      AXLink|title=|desc= à chez Hespéride|value=
+                                                      AXHeading|title=Pergola bioclimatique autoportante EVORA Graphite 6 x 3 m - Structure et lames doubles en aluminium Hespéride|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante EVORA Graphite 6 x 3 m - Structure et lames doubles en aluminium Hespéride
+                                                      AXStaticText|title=|desc=|value=3 490,00 €
+                                                      AXGroup|title=|desc=Vendu par Hespéride|value=
+                                                        AXStaticText|title=|desc=|value=Hespéride
+                                                        AXStaticText|title=|desc=|value=+ 159,00 € de frais de port
+                                                        AXImage|title=|desc=Note : 4,9 sur 5 (8) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 2 300 € chez sweeek)|value=
+                                                      AXLink|title=|desc= à (auparavant 2 300 € chez sweeek)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Pergola bioclimatique aluminium et acier lames orientables 6x3m Palace Anthracite - sweeek|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique aluminium et acier lames orientables 6x3m Palace Anthracite - sweeek
+                                                      AXStaticText|title=|desc=|value=1 839,99 €
+                                                      AXStaticText|title=|desc=|value=2 300 
+                                                      AXGroup|title=|desc=Vendu par sweeek|value=
+                                                        AXStaticText|title=|desc=|value=sweeek
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (775) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à (auparavant 2 990 € chez Botanic)|value=
+                                                      AXLink|title=|desc= à (auparavant 2 990 € chez Botanic)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=BOTANIC -Pergola bioclimatique manuelle STAR LED 3x4m Grey/Blanc - PROLOISIRS|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=BOTANIC -Pergola bioclimatique manuelle STAR LED 3x4m Grey/Blanc - PROLOISIRS
+                                                    AXStaticText|title=|desc=|value=897,00 €
+                                                    AXStaticText|title=|desc=|value=2 990 
+                                                    AXGroup|title=|desc=Vendu par Botanic|value=
+                                                      AXStaticText|title=|desc=|value=Botanic
+                                                      AXStaticText|title=|desc=|value=+ 7,90 € de frais de port
+                                                    AXLink|title=|desc= à chez Sklum|value=
+                                                      AXLink|title=|desc= à chez Sklum|value=
+                                                      AXStaticText|title=|desc=|value=15 % DE REMISE
+                                                    AXHeading|title=Pergola Bioclimatique En Aluminium Avec Lames Et Store Latéral Druvia Tapioca Beige & Pergola De 3x4 M Avec 1 Auvent De 3 M - Sklum|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola Bioclimatique En Aluminium Avec Lames Et Store Latéral Druvia Tapioca Beige & Pergola De 3x4 M Avec 1 Auvent De 3 M - Sklum
+                                                    AXStaticText|title=|desc=|value=2 329,95 €
+                                                    AXGroup|title=|desc=Vendu par Sklum|value=
+                                                      AXStaticText|title=|desc=|value=Sklum
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=1 980 € après application du code
+                                                    AXLink|title=|desc= à chez OOGarden.com|value=
+                                                      AXLink|title=|desc= à chez OOGarden.com|value=
+                                                      AXLink|title=|desc=Meaux|value=
+                                                        AXLink|title=|desc=Meaux|value=
+                                                                AXStaticText|title=|desc=|value=Meaux
+                                                      AXHeading|title=Pergola bioclimatique autoportante alu acier 4x3m coloris anthracite|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante alu acier 4x3m coloris anthracite
+                                                      AXStaticText|title=|desc=|value=949,00 €
+                                                      AXGroup|title=|desc=Vendu par OOGarden.com|value=
+                                                        AXStaticText|title=|desc=|value=OOGarden.com
+                                                      AXStaticText|title=|desc=|value=Retrait auj
+                                                        AXImage|title=|desc=Note : 4,4 sur 5 (11) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                      AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                    AXHeading|title=Tonnelle de jardin Santa Fe Steel+ avec rideaux et moustiquaire, 3,65x6m, Marron - Dancover|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Tonnelle de jardin Santa Fe Steel+ avec rideaux et moustiquaire, 3,65x6m, Marron - Dancover
+                                                    AXStaticText|title=|desc=|value=2 284,39 €
+                                                    AXGroup|title=|desc=Vendu par Dancovershop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Dancovershop.fr
+                                                      AXStaticText|title=|desc=|value=+ 267,40 € de frais de port
+                                                    AXLink|title=|desc= à (auparavant 2 650 € chez sweeek)|value=
+                                                      AXLink|title=|desc= à (auparavant 2 650 € chez sweeek)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                      AXHeading|title=Pergola bioclimatique aluminium et acier 4x3m + 2 stores 3m + 1 store 4m Palace Noir - sweeek|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Pergola bioclimatique aluminium et acier 4x3m + 2 stores 3m + 1 store 4m Palace Noir - sweeek
+                                                      AXStaticText|title=|desc=|value=2 119,97 €
+                                                      AXStaticText|title=|desc=|value=2 650 
+                                                      AXGroup|title=|desc=Vendu par sweeek|value=
+                                                        AXStaticText|title=|desc=|value=sweeek
+                                                      AXStaticText|title=|desc=|value=Gratuite
+                                                        AXImage|title=|desc=Note : 3,6 sur 5 (39) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Aluminium Pergola 4x5m, Bioclimatique, Anthracite, Adossée, PERGOLUX Pergola 4|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aluminium Pergola 4x5m, Bioclimatique, Anthracite, Adossée, PERGOLUX Pergola 4
+                                                    AXStaticText|title=|desc=|value=5 790,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Smart Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches, Autoportée, PERGOLUX Pergola 4 Pro|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Smart Pergola 3x4m, Bioclimatique, Anthracite avec lames blanches, Autoportée, PERGOLUX Pergola 4 Pro
+                                                    AXStaticText|title=|desc=|value=4 990,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Aluminium Pergola 4x4m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aluminium Pergola 4x4m, Bioclimatique, Anthracite avec lames blanches, Adossée, PERGOLUX Pergola 4
+                                                    AXStaticText|title=|desc=|value=4 990,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Abrisud|value=
+                                                      AXLink|title=|desc= à chez Abrisud|value=
+                                                    AXHeading|title=Pergola à lames orientables by Abrisud|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola à lames orientables by Abrisud
+                                                    AXStaticText|title=|desc=|value=9 708,00 €
+                                                    AXGroup|title=|desc=Vendu par Abrisud|value=
+                                                      AXStaticText|title=|desc=|value=Abrisud
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                      AXLink|title=|desc= à chez Dancovershop.fr|value=
+                                                    AXHeading|title=Pergola bioclimatique San Pablo Alu+, 3x4m, Noir - Dancover|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola bioclimatique San Pablo Alu+, 3x4m, Noir - Dancover
+                                                    AXStaticText|title=|desc=|value=2 749,82 €
+                                                    AXGroup|title=|desc=Vendu par Dancovershop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Dancovershop.fr
+                                                      AXStaticText|title=|desc=|value=+ 297,46 € de frais de port
+                                                    AXLink|title=|desc= à chez pergolux.fr|value=
+                                                      AXLink|title=|desc= à chez pergolux.fr|value=
+                                                    AXHeading|title=Aluminium Pergola 4x5m, Bioclimatique, Blanc, Autoportée, PERGOLUX Pergola 4|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Aluminium Pergola 4x5m, Bioclimatique, Blanc, Autoportée, PERGOLUX Pergola 4
+                                                    AXStaticText|title=|desc=|value=5 790,00 €
+                                                    AXGroup|title=|desc=Vendu par pergolux.fr|value=
+                                                      AXStaticText|title=|desc=|value=pergolux.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Sklum|value=
+                                                      AXLink|title=|desc= à chez Sklum|value=
+                                                      AXStaticText|title=|desc=|value=15 % DE REMISE
+                                                    AXHeading|title=Pergola Bioclimatique En Aluminium Avec Lames Et Stores Latéraux Druvia Gris Graphite & 3 X 4 M - Sklum|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Pergola Bioclimatique En Aluminium Avec Lames Et Stores Latéraux Druvia Gris Graphite & 3 X 4 M - Sklum
+                                                    AXStaticText|title=|desc=|value=2 899,95 €
+                                                    AXGroup|title=|desc=Vendu par Sklum|value=
+                                                      AXStaticText|title=|desc=|value=Sklum
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=2 465 € après application du code
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante alu acier coloris anthracite. Prix actuel : 949,00 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 4,4 sur 5. 11 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante NATERIAL Clima alu gris anthracite. PROMOTION. Prix actuel : 1 490,00 €. Avant : 1 599 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 135 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante 100 acier 3x3m coloris anthracite. Prix actuel : 599,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique 3x3,6m aluminium anthracite ECLOZ. PROMOTION. Prix actuel : 1 539,30 €. Avant : 2 199 €. Gamm vert. Également à proximité. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola autoportante Caleta aluminium. Prix actuel : 3 449,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,4 sur 5. 82 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante aluminium et acier. Prix actuel : 1 299,00 €. Castorama. En magasin. Retours sous 365 jour(s). Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante alu acier 6x3m coloris anthracite. Prix actuel : 1 799,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 4,4 sur 5. 11 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante motorisée Salto Alumin'home aluminium. Prix actuel : 3 891,00 €. Plus de prix disponibles. Jardin et Saisons et plus. Également à proximité. Retours gratuits sous 30 jour(s). Note : 3,9 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante anthracite. Prix actuel : 1 989,00 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 4,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique avec led "Windsor" en aluminium 3 x 4. Prix actuel : 1 149,00 €. Plus de prix disponibles. Habitat et jardin et plus. Retours sous 14 jour(s). Note : 4,0 sur 5. 57 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                              AXHeading|title=En magasin à proximité|desc=|value=2
+                                                AXStaticText|title=|desc=|value=En magasin à proximité
+                                                AXPopUpButton|title=À propos de ce résultat|desc=|value=
+                                                  AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante NATERIAL Clima alu gris anthracite. Prix actuel : 1 490,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 135 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante NATERIAL Clima alu gris anthracite
+                                                                AXGroup|title=|desc=Prix actuel : 1 490,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 135 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique 3x3,6m aluminium anthracite ECLOZ. Prix actuel : 1 599,00 €. Jardiland. En magasin. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique 3x3,6m aluminium anthracite ECLOZ
+                                                                AXGroup|title=|desc=Prix actuel : 1 599,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Jardiland
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante aluminium et acier. Prix actuel : 1 299,00 €. Castorama. En magasin. Retours sous 365 jour(s). Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante aluminium et acier
+                                                                AXGroup|title=|desc=Prix actuel : 1 299,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Castorama
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 5,0 sur 5. 2 avis. |value=
+                                                      AXButton|title=|desc=Pergola autoportante Caleta aluminium. Prix actuel : 3 449,00 €. Plus de prix disponibles. Leroy Merlin et plus. En magasin. Retours sous 180 jour(s). Note : 4,4 sur 5. 82 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola autoportante Caleta aluminium
+                                                                AXGroup|title=|desc=Prix actuel : 3 449,00 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 82 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante motorisée Salto Alumin'home aluminium. Prix actuel : 3 889,90 €. Plus de prix disponibles. Castorama et plus. En magasin. Retours sous 365 jour(s). Note : 3,9 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante motorisée Salto Alumin'home aluminium
+                                                                AXGroup|title=|desc=Prix actuel : 3 889,90 €. Plus de prix disponibles. |value=
+                                                                AXStaticText|title=|desc=|value=Castorama
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                                                AXImage|title=|desc=Note : 3,9 sur 5. 15 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante Clima NATERIAL aluminium Blanc. Prix actuel : 1 490,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 72 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante Clima NATERIAL aluminium Blanc
+                                                                AXGroup|title=|desc=Prix actuel : 1 490,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 72 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique adossée motorisée Salto Alumin'home aluminium. Prix actuel : 3 790,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique adossée motorisée Salto Alumin'home aluminium
+                                                                AXGroup|title=|desc=Prix actuel : 3 790,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                AXStaticText|title=|desc=|value= et plus
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 6 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique adossée Odyssea NATERIAL. Prix actuel : 1 079,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,4 sur 5. 407 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique adossée Odyssea NATERIAL
+                                                                AXGroup|title=|desc=Prix actuel : 1 079,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 407 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique adossée NATERIAL Astra aluminium. Prix actuel : 1 990,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique adossée NATERIAL Astra aluminium
+                                                                AXGroup|title=|desc=Prix actuel : 1 990,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 5,0 sur 5. 1 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante alu acier coloris anthracite. Prix actuel : 949,00 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 4,4 sur 5. 11 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante alu acier coloris anthracite
+                                                                AXGroup|title=|desc=Prix actuel : 949,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 11 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique d'angle aluminium gris anthracite 7.2x7.2 Modus NATERIAL. Prix actuel : 5 709,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique d'angle aluminium gris anthracite 7.2x7.2 Modus NATERIAL
+                                                                AXGroup|title=|desc=Prix actuel : 5 709,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante Clima NATERIAL. Prix actuel : 2 690,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 363 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante Clima NATERIAL
+                                                                AXGroup|title=|desc=Prix actuel : 2 690,00 €. |value=
+                                                                AXStaticText|title=|desc=|value=Leroy Merlin
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 180 jour(s)
+                                                                AXImage|title=|desc=Note : 4,7 sur 5. 363 avis. |value=
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante 100 acier 3x3m coloris anthracite. Prix actuel : 599,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante 100 acier 3x3m coloris anthracite
+                                                                AXGroup|title=|desc=Prix actuel : 599,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                      AXButton|title=|desc=Pergola bioclimatique autoportante alu acier 6x3m coloris anthracite. Prix actuel : 1 799,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 4,4 sur 5. 11 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique autoportante alu acier 6x3m coloris anthracite
+                                                                AXGroup|title=|desc=Prix actuel : 1 799,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 4,4 sur 5. 11 avis. |value=
+                                                      AXButton|title=|desc=Pergola Bioclimatique motorisée avec éclairage LED. Prix actuel : 1 999,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Pergola Bioclimatique motorisée avec éclairage LED
+                                                                AXGroup|title=|desc=Prix actuel : 1 999,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                                                AXImage|title=|desc=Note : 5,0 sur 5. 2 avis. |value=
+                                                      AXButton|title=|desc=Kit Pergola bioclimatique 3x6m anthracite avec son set moustiquaire. Prix actuel : 2 249,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                                  AXStaticText|title=|desc=|value=Kit Pergola bioclimatique 3x6m anthracite avec son set moustiquaire
+                                                                AXGroup|title=|desc=Prix actuel : 2 249,90 €. |value=
+                                                                AXStaticText|title=|desc=|value=OOGarden.com
+                                                                  AXStaticText|title=|desc=|value=En magasin
+                                                                  AXStaticText|title=|desc=|value=Retours sous 20 jour(s)
+                                            AXHeading|title=Moins que 1 500 € .|desc=|value=3
+                                              AXButton|title=Moins que 1 500 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=Moins que 1 500 €
+                                                  AXStaticText|title=|desc=|value=.
+                                            AXHeading|title=1 500 €–3 500 € .|desc=|value=3
+                                              AXButton|title=1 500 €–3 500 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=1 500 €–3 500 €
+                                                  AXStaticText|title=|desc=|value=.
+                                      AXButton|title=Plus de produits|desc=|value=
+                                          AXStaticText|title=|desc=|value=Plus de produits
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante Clima NATERIAL aluminium Blanc. PROMOTION. Prix actuel : 1 490,00 €. Avant : 1 599 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 72 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola Bioclimatique motorisée avec éclairage LED. Prix actuel : 1 999,90 €. OOGarden.com. En magasin. Retours sous 20 jour(s). Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola Bioclimatique Aluminium Autoportee 32m2 - 4x8m- Anthracite - Traité et Certifié Resistant UV - Etanche - Lames Inclinables - ECLIPSE 32. Prix actuel : 6 799,00 €. Plus de prix disponibles. Gamm vert et plus. Retours sous 14 jour(s). Note : 4,4 sur 5. 18 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Sweeek Pergola bioclimatique. aluminium et acier. 3x4m avec store 3m + store 4m. Prix actuel : 2 199,97 €. Plus de prix disponibles. Maisons du Monde et plus. Retours sous 2 jour(s). Note : 3,9 sur 5. 40 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique adossée motorisée Salto Alumin'home aluminium. Prix actuel : 3 790,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,7 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique en aluminium Windsor. Prix actuel : 1 049,00 €. Plus de prix disponibles. Habitat et jardin et plus. Retours sous 14 jour(s). Note : 3,9 sur 5. 29 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=PURPLE LEAF Pergola Bioclimatique Pergola Aluminium Lames Orientables Tonnelle de Jardin Imperméable pour Terrasse Extérieur Carport. Prix bas. Prix actuel : 3 799,00 €. Prix habituel : 4 499 €. Purpleleaf France. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique adossée Odyssea NATERIAL. Prix actuel : 1 079,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 4,4 sur 5. 407 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Idmarket Pergola Bioclimatique lames orientables acier 3x4 M. Prix actuel : 969,99 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,3 sur 5. 14 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hespéride Pergola bioclimatique EVORA grand modèle. Prix actuel : 3 990,00 €. Plus de prix disponibles. Hespéride et plus. Retours sous 30 jour(s). Note : 4,6 sur 5. 66 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatiques rétractable H5. Prix actuel : 6 004,93 €. Fermeture Online. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique adossée NATERIAL Astra aluminium. Prix actuel : 1 990,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola Bioclimatique Adossée Lames Parallèles. Prix actuel : 13 058,53 €. Prix Usine. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Sweeek Pergola bioclimatique aluminium et acier lames orientables 3x3m Flash. Prix actuel : 799,99 €. sweeek. Retours sous 15 jour(s). Note : 3,6 sur 5. 16 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique aluminium. PROMOTION. Prix actuel : 989,00 €. Avant : 1 199 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,1 sur 5. 78 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique d'angle aluminium gris anthracite 7.2x7.2 Modus NATERIAL. Prix actuel : 5 709,00 €. Leroy Merlin. En magasin. Retours sous 180 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante en aluminium. Prix actuel : 2 099,00 €. Mon Abri de Jardin. Retours sous 14 jour(s). Note : 4,8 sur 5. 10 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportée 3x3m Stores 2,66 X 2,34 m. PROMOTION. Prix actuel : 3 039,20 €. Avant : 3 799 €. Plus de prix disponibles. Maisons du Monde Marketplace et plus. Retours sous 2 jour(s). Note : 4,3 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique Bloomcabin | Pergola Bloomcabin. Prix actuel : 2 925,45 €. Bloomcabin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola Bioclimatique Adossée Motorisée 12m² 3x4m. Prix actuel : 3 799,00 €. Plus de prix disponibles. Gamm vert et plus. Retours sous 14 jour(s). Note : 4,5 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Ombréa Pergola bioclimatique autoportante. Prix actuel : 4 799,00 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 4,2 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Sweeek Pergola Bioclimatique Triomphe aluminium. à lames orientables. PROMOTION. Prix actuel : 1 679,99 €. Avant : 2 100 €. Plus de prix disponibles. sweeek et plus. Retours sous 15 jour(s). Note : 4,6 sur 5. 700 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=CERLAND Pergola en aluminium bioclimatique. Prix bas. Prix actuel : 1 859,00 €. Prix habituel : 2 008 €. Plus de prix disponibles. Piscineo et plus. Retours sous 14 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola Bioclimatique Avec Rideau Et Moustiquaire "howard. Prix actuel : 1 299,00 €. Habitat et jardin. Retours sous 14 jour(s). Note : 3,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Concept Usine Pergola bioclimatique 4x3m structure et lames en aluminium gris anthracite Naxos. PROMOTION. Prix actuel : 1 699,90 €. Avant : 1 800 €. Plus de prix disponibles. Maisons du Monde Marketplace et plus. Retours sous 2 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique Aluminium motorisée 12m² Actual Gris Sable Ral. PROMOTION. Prix actuel : 2 990,00 €. Avant : 3 690 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 3,8 sur 5. 24 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Sweeek Pergola bioclimatique anthracite. aluminium et acier. 3x4m. lames orientables. PROMOTION. Prix actuel : 1 239,99 €. Avant : 1 250 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,4 sur 5. 380 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hespéride Pergola bioclimatique autoportante ECOZIA Beige Lin. PROMOTION. Prix actuel : 897,00 €. Avant : 2 990 €. Hespéride. Retours sous 30 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergomax Pergola Bioclimatique 3x3m Blanche Lames Orientables et Rétractables 100°. Prix actuel : 7 390,00 €. Pergomax. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola Bioclimatique Aluminium Adossée 19m2 3,6x5,3 Deux Stores Inclus. PROMOTION. Prix actuel : 4 899,00 €. Avant : 5 199 €. Plus de prix disponibles. Gamm vert et plus. Retours sous 14 jour(s). Note : 4,9 sur 5. 19 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                              AXGroup|title=|desc=Annonces|value=
+                                    AXHeading|title=Résultat sponsorisé|desc=|value=2
+                                      AXStaticText|title=|desc=|value=Résultat sponsorisé
+                                        AXLink|title=|desc=La Pergola En Kit n°1 | Produit de l’Année 2025 PERGOLUX France www.pergolux.fr|value=
+                                          AXHeading|title=La Pergola En Kit n°1 | Produit de l’Année 2025|desc=|value=3
+                                            AXStaticText|title=|desc=|value=La Pergola En Kit n°1 | Produit de l’Année 2025
+                                              AXStaticText|title=|desc=|value=PERGOLUX France
+                                            AXStaticText|title=|desc=|value=www.pergolux.fr
+                                          AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                        AXStaticText|title=|desc=|value=PERGOLUX, la 
+                                          AXStaticText|title=|desc=|value=pergola
+                                        AXStaticText|title=|desc=|value= N#1 mondiale. Créez une nouvelle pièce à vivre protégée des éléments. Profitez de votre jardin toute l'année. Résiste vent, pluie et neige. Qualité certifiée. Résistant aux intempéries. Design 100% sans vis.
+                                        AXImage|title=|desc=Note : 4,9 sur 5|value=
+                                          AXStaticText|title=|desc=|value=Note de pergolux.fr: 4,9 - 16 avis
+                                        AXButton|title=|desc=Nous appeler|value=
+                                              AXStaticText|title=|desc=|value=Nous appeler
+                                            AXStaticText|title=|desc=|value=Plus de 10 000 visites le mois dernier
+                                AXButton|title=Masquer le résultat sponsorisé|desc=|value=
+                                    AXStaticText|title=|desc=|value=Masquer le résultat sponsorisé
+                                AXHeading|title=Page Navigation|desc=|value=1
+                                  AXStaticText|title=|desc=|value=Page Navigation
+                                AXButton|title=|desc=Plus de résultats|value=
+                                      AXStaticText|title=|desc=|value=Plus de résultats
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=40
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=40
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=pergola bioclimatique - Google Shopping|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

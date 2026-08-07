@@ -1,0 +1,779 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bv-hero-osmoseur-desktop-2400x900.png",
+            "mobile_image": "shopify://shop_images/bv-hero-osmoseur.jpg",
+            "content_max_width": 560,
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "subheading": "Bonum Vitae — L'eau pure, chaque jour",
+            "title": "Une eau meilleure, sans travaux ni plombier",
+            "heading_tag": "h0",
+            "button_text": "Découvrir les osmoseurs",
+            "button_link": "shopify://collections/osmoseurs",
+            "button_text_secondary": "Filtres de douche",
+            "button_link_secondary": "shopify://collections/filtres-de-douche",
+            "text_color": "#FFFFFF",
+            "button_background": "#0E3A5A",
+            "button_text_color": "#F7F4EE",
+            "button_background_secondary": "#F7F4EE",
+            "button_text_color_secondary": "#0E3A5A",
+            "overlay_color": "#0B2B42",
+            "overlay_opacity": 24,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "outline_arrows",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 7,
+        "background": "#F7F4EE",
+        "background_gradient": ""
+      }
+    },
+    "text_with_icons_d7Hbq9": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_VbrE4F": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#EAF3F1",
+            "icon_color": "#0E3A5A",
+            "title": "Des solutions à chaque usage",
+            "content": "<p>Douche, cuisine ou eau de boisson : équipez uniquement le point d'usage qui vous concerne.</p>"
+          }
+        },
+        "item_irr6xF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-love",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#EAF3F1",
+            "icon_color": "#0E3A5A",
+            "title": "Des limites expliquées",
+            "content": "<p>Performances, compatibilité et données manquantes sont indiquées sans promesse ajoutée.</p>"
+          }
+        },
+        "item_9yVXqR": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#EAF3F1",
+            "icon_color": "#0E3A5A",
+            "title": "Le bon équipement, pas le plus cher",
+            "content": "<p>Carafe, filtre robinet ou osmoseur ? On vous oriente vers la solution adaptée à votre eau et à votre logement.</p>"
+          }
+        },
+        "item_MQ7zRH": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#EAF3F1",
+            "icon_color": "#0E3A5A",
+            "title": "Achetez l'esprit tranquille",
+            "content": "<p>Retours 14 jours, paiement sécurisé et conseil disponible avant l'achat.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_VbrE4F",
+        "item_irr6xF",
+        "item_9yVXqR",
+        "item_MQ7zRH"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "impact_text_bv": {
+      "type": "impact-text",
+      "blocks": {
+        "it1": {
+          "type": "item",
+          "settings": {
+            "title": "4 étapes",
+            "subheading": "de filtration sur notre osmoseur vedette",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "it2": {
+          "type": "item",
+          "settings": {
+            "title": "6 usages",
+            "subheading": "de la douche à l'eau de boisson",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "it3": {
+          "type": "item",
+          "settings": {
+            "title": "14 jours",
+            "subheading": "pour changer d'avis après réception",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "it1",
+        "it2",
+        "it3"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.8,
+        "background": "#0E3A5A",
+        "background_gradient": "",
+        "heading_text_color": "#F7F4EE",
+        "heading_gradient": "",
+        "text_color": "#BFD5D1",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_link_blocks_bv": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "card1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bv-hero-osmoseur.jpg",
+            "stretch_image": true,
+            "link_text": "Osmoseurs",
+            "link_url": "shopify://collections/osmoseurs",
+            "background": "",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#0B2B42",
+            "overlay_opacity": 28
+          }
+        },
+        "card2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bv-douche.jpg",
+            "stretch_image": true,
+            "link_text": "Filtres de douche",
+            "link_url": "shopify://collections/filtres-de-douche",
+            "background": "",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#0B2B42",
+            "overlay_opacity": 28
+          }
+        },
+        "card3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bv-carafe.jpg",
+            "stretch_image": true,
+            "link_text": "Carafes filtrantes",
+            "link_url": "shopify://collections/carafes-filtrantes",
+            "background": "",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#0B2B42",
+            "overlay_opacity": 28
+          }
+        },
+        "card4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bv-robinet.jpg",
+            "stretch_image": true,
+            "link_text": "Filtres robinet",
+            "link_url": "shopify://collections/filtres-robinet",
+            "background": "",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#0B2B42",
+            "overlay_opacity": 28
+          }
+        },
+        "card5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bv-nomade.jpg",
+            "stretch_image": true,
+            "link_text": "Purificateurs nomades",
+            "link_url": "shopify://collections/purificateurs-nomades",
+            "background": "",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#0B2B42",
+            "overlay_opacity": 28
+          }
+        },
+        "card6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bv-anticalcaire.jpg",
+            "stretch_image": true,
+            "link_text": "Anti-calcaire sans sel",
+            "link_url": "shopify://collections/anti-calcaire-sans-sel",
+            "background": "",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#0B2B42",
+            "overlay_opacity": 28
+          }
+        }
+      },
+      "block_order": [
+        "card1",
+        "card2",
+        "card3",
+        "card4",
+        "card5",
+        "card6"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": true,
+        "block_size": "medium",
+        "subheading": "Par besoin",
+        "title": "Explorez nos collections",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#0E3A5A",
+        "heading_gradient": ""
+      }
+    },
+    "featured_product_bv": {
+      "type": "featured-product",
+      "blocks": {
+        "fp_title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "fp_badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "fp_price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "fp_rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "fp_offer": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-truck",
+            "custom_icon": "",
+            "icon_width": 20,
+            "title": "Expédié depuis la France",
+            "content": "<p>Stock français : livraison rapide, TVA incluse, aucun frais de douane.</p>",
+            "background": "#EAF3F1",
+            "text_color": "#0E3A5A"
+          }
+        },
+        "fp_desc": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "custom_icon": "",
+            "icon_width": 20,
+            "collapse_content": true
+          }
+        },
+        "fp_qty": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "fp_buy": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "fp_title",
+        "fp_badges",
+        "fp_price",
+        "fp_rating",
+        "fp_offer",
+        "fp_desc",
+        "fp_qty",
+        "fp_buy"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "osmoseur-ro-600g-sans-reservoir-eau-filtree-a-la-demande",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 2,
+        "background": "#FFFFFF",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "media_with_text_NDBff7": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_hGdYVB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bv-transparence-macro.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "La promesse Bonum Vitae",
+            "title": "Des données vérifiées, des limites visibles",
+            "heading_tag": "h2",
+            "content": "<p>Chaque fiche distingue ce que le fournisseur communique de ce qui reste à confirmer. Nous n'ajoutons ni taux de filtration, ni certification, ni durée de consommable sans document.</p><p>Vous pouvez ainsi comparer l'installation, les performances annoncées et l'entretien avec les mêmes critères, du filtre de douche à l'osmoseur.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#3A4750",
+            "heading_color": "#0E3A5A",
+            "heading_gradient": "",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hGdYVB"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "featured_collection_C7TAjC": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "filtres-de-douche",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Filtres de douche : le confort peau et cheveux",
+        "content": "<p>Des équipements au point d'usage, simples à retirer. Débit, média filtrant et durée de cartouche sont précisés uniquement lorsqu'ils sont documentés.</p>",
+        "link_url": "shopify://collections/filtres-de-douche",
+        "link_text": "Voir les filtres de douche",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#0E3A5A",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "comparison_table_bv": {
+      "type": "comparison-table",
+      "blocks": {
+        "ct_head": {
+          "type": "headings",
+          "settings": {
+            "heading_1": "Installation",
+            "heading_2": "Idéal pour",
+            "heading_3": "Budget",
+            "heading_4": "Entretien",
+            "heading_5": "",
+            "heading_6": "",
+            "heading_7": "",
+            "heading_8": "",
+            "heading_9": "",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_20": ""
+          }
+        },
+        "ct_carafe": {
+          "type": "values",
+          "settings": {
+            "product": "carafe-filtrante-3-6-l-stock-ue-filtration-cuisine",
+            "value_1": "<p>Aucune : on remplit, on sert</p>",
+            "value_2": "<p>Usage simple, sans raccordement</p>",
+            "value_3": "<p>€</p>",
+            "value_4": "<p>Référence de recharge à confirmer selon le modèle</p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "ct_robinet": {
+          "type": "values",
+          "settings": {
+            "product": "filtre-a-eau-pour-robinet-de-cuisine-modele-glq11",
+            "value_1": "<p>Pose au point d'usage, compatibilité à vérifier</p>",
+            "value_2": "<p>La cuisine, à petit prix</p>",
+            "value_3": "<p>€</p>",
+            "value_4": "<p>Capacité et recharge selon le modèle</p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "ct_osmoseur": {
+          "type": "values",
+          "settings": {
+            "product": "osmoseur-ro-600g-sans-reservoir-eau-filtree-a-la-demande",
+            "value_1": "<p>Installation sous évier à vérifier</p>",
+            "value_2": "<p>L'eau de boisson de tout le foyer</p>",
+            "value_3": "<p>€€€</p>",
+            "value_4": "<p>Références et durée selon le modèle</p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "ct_head",
+        "ct_carafe",
+        "ct_robinet",
+        "ct_osmoseur"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "full_width": true,
+        "subheading": "Guide de choix",
+        "title": "Quelle solution pour vous ?",
+        "content": "<p>Trois façons d'améliorer l'eau du robinet, du plus simple au plus complet. Un doute ? Écrivez-nous, nous répondons avant l'achat.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "max_rows": 5,
+        "view_all_text": "Tout voir",
+        "view_less_text": "Réduire",
+        "view_product": "Voir le produit",
+        "show_product_info": true,
+        "show_product_image": true,
+        "show_product_swatch": false,
+        "viewing_product": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#0E3A5A",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "#FFFFFF",
+        "chart_text_color": "",
+        "chart_true_false_color": "#35B6AA"
+      }
+    },
+    "featured_collection_rUgXND": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "carafes-filtrantes",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Carafes filtrantes : zéro installation",
+        "content": "<p>On remplit, on filtre, on sert. Le moyen le plus simple d'améliorer l'eau du robinet au quotidien, du format compact 2,5 L au format familial 3,6 L, avec des modèles expédiés depuis l'Allemagne.</p>",
+        "link_url": "shopify://collections/carafes-filtrantes",
+        "link_text": "Voir les carafes",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#0E3A5A",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "rich_text_rArawU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bWNYHm": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi Bonum Vitae ?",
+            "heading_tag": "h2",
+            "heading_style": "h1",
+            "text_color": "#0E3A5A",
+            "gradient": ""
+          }
+        },
+        "richtext_hyL7a4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Bonum Vitae réunit des solutions pour la douche, la cuisine et l'eau de boisson, avec un même principe : choisir l'équipement proportionné au besoin plutôt que le plus coûteux.</p><p>Chaque référence est présentée à partir de données concrètes. Les caractéristiques absentes, les limites de compatibilité et les performances non démontrées restent visibles afin que vous puissiez décider en connaissance de cause.</p><p><strong>Bonum Vitae — l'eau pure, chaque jour.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bWNYHm",
+        "richtext_hyL7a4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#EFEAE0",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq_c9jwW9": {
+      "type": "faq",
+      "blocks": {
+        "item_WCkc8M": {
+          "type": "item",
+          "settings": {
+            "title": "Comment choisir entre carafe, filtre robinet et osmoseur ?",
+            "content": "<p>Pour un usage sans raccordement, comparez d'abord les carafes. Pour équiper un seul robinet, vérifiez le filetage et le média du filtre. Pour une installation sous évier, comparez les osmoseurs, leurs raccordements et leurs consommables. En cas de doute, écrivez-nous avant de commander.</p>"
+          }
+        },
+        "item_dFHqMj": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>L'origine d'expédition et l'estimation propres à chaque produit figurent sur sa fiche lorsqu'elles sont communiquées. Lorsqu'une donnée manque, notre service client la confirme avant expédition.</p>"
+          }
+        },
+        "item_htteCE": {
+          "type": "item",
+          "settings": {
+            "title": "Les dispositifs anti-calcaire adoucissent-ils vraiment l'eau ?",
+            "content": "<p>Non. Aucune baisse mesurée de la dureté n'est documentée pour ces références. Ce sont des dispositifs d'appoint qui ne remplacent pas un adoucisseur à résine, et nous ne présentons pas leur efficacité comme démontrée.</p>"
+          }
+        },
+        "item_QieKni": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je retourner un produit ?",
+            "content": "<p>Oui. Vous disposez du droit de rétractation légal de 14 jours après réception, sans justification. Contactez notre service client pour organiser le retour ; le remboursement intervient après réception du produit.</p>"
+          }
+        },
+        "item_rDigfG": {
+          "type": "item",
+          "settings": {
+            "title": "Où trouver les cartouches de rechange ?",
+            "content": "<p>La référence, la disponibilité et le prix des consommables varient selon le produit. Lorsqu'ils ne sont pas documentés, notre service client les confirme avant la commande.</p>"
+          }
+        },
+        "item_7JMMgG": {
+          "type": "item",
+          "settings": {
+            "title": "Les paiements sont-ils sécurisés ?",
+            "content": "<p>Oui. Les transactions passent par les systèmes de paiement chiffrés de Shopify (cartes bancaires et portefeuilles électroniques). Aucune donnée bancaire n'est stockée par la boutique.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_WCkc8M",
+        "item_dFHqMj",
+        "item_htteCE",
+        "item_QieKni",
+        "item_rDigfG",
+        "item_7JMMgG"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vos questions, nos réponses franches",
+        "heading_tag": "h2",
+        "content": "<p>Les réponses aux questions que l'on nous pose le plus souvent avant une première commande. Il en manque une ? Écrivez-nous, nous répondons avant l'achat.</p>",
+        "team_avatar": "",
+        "team_avatar_width": 160,
+        "support_hours": "Service client disponible du lundi au vendredi, de 9 h à 18 h.",
+        "answer_time": "Réponse sous 24 h ouvrées",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#0E3A5A",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "#FFFFFF",
+        "accordion_text_color": "#3A4750"
+      }
+    },
+    "newsletter_L6qAN6": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "10 % de remise sur votre première commande",
+        "heading_tag": "p",
+        "content": "<p>Recevez nos conseils pour bien choisir et entretenir vos équipements, et nos offres en avant-première.</p>",
+        "button_text": "Je m'inscris",
+        "subtext": "Un e-mail utile de temps en temps, rien de plus.",
+        "background": "",
+        "background_gradient": "linear-gradient(180deg, #EAF3F1, #F7F4EE 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "text_with_icons_d7Hbq9",
+    "impact_text_bv",
+    "image_link_blocks_bv",
+    "featured_product_bv",
+    "media_with_text_NDBff7",
+    "featured_collection_C7TAjC",
+    "comparison_table_bv",
+    "featured_collection_rUgXND",
+    "rich_text_rArawU",
+    "faq_c9jwW9",
+    "newsletter_L6qAN6"
+  ]
+}

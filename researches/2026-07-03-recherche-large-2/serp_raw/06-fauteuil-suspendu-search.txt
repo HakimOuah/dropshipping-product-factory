@@ -1,0 +1,935 @@
+AXWindow|title=fauteuil suspendu - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=fauteuil suspendu - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=fauteuil%20suspendu&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=fauteuil suspendu - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=fauteuil suspendu
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Lieux|value=
+                                              AXStaticText|title=|desc=|value=Lieux
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter Oeuf|value=
+                                              AXStaticText|title=|desc=|value=Oeuf
+                                            AXLink|title=|desc=Ajouter Support|value=
+                                              AXStaticText|title=|desc=|value=Support
+                                            AXLink|title=|desc=Ajouter Fauteuils de jardin|value=
+                                              AXStaticText|title=|desc=|value=Fauteuils de jardin
+                                            AXLink|title=|desc=Ajouter Chaises pour enfants|value=
+                                              AXStaticText|title=|desc=|value=Chaises pour enfants
+                                            AXLink|title=|desc=Ajouter Méridiennes|value=
+                                              AXStaticText|title=|desc=|value=Méridiennes
+                                            AXLink|title=|desc=Ajouter Beliani|value=
+                                              AXStaticText|title=|desc=|value=Beliani
+                                            AXLink|title=|desc=Ajouter TecTake|value=
+                                              AXStaticText|title=|desc=|value=TecTake
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=95390 Saint-Prix|desc=|value=2
+                                AXStaticText|title=|desc=|value=95390 Saint-Prix
+                                AXButton|title=Choisir une zone|desc=|value=
+                                AXButton|title=|desc=Comment la position est utilisée|value=
+                                    AXHeading|title=Produits sponsorisés|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Produits sponsorisés
+                                      AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                            AXLink|title=|desc= à chez lasiesta.com|value=
+                                              AXLink|title=|desc= à chez lasiesta.com|value=
+                                            AXHeading|title=Udine Organic Zebra - Fauteuil suspendu en coton bio avec support en eucalyptus certifié FSC|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Udine Organic Zebra - Fauteuil suspendu en coton bio avec support en eucalyptus certifié FSC
+                                            AXStaticText|title=|desc=|value=449,00 €
+                                            AXGroup|title=|desc=Vendu par lasiesta.com|value=
+                                              AXStaticText|title=|desc=|value=lasiesta.com
+                                              AXStaticText|title=|desc=|value=+ 6,50 € de frais de port
+                                              AXImage|title=|desc=Note : 4,7 sur 5 (45) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez Miliboo.com|value=
+                                              AXLink|title=|desc= à chez Miliboo.com|value=
+                                            AXHeading|title=Miliboo - Fauteuil suspendu rotin sur pied en résine et métal noir MOJO|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Miliboo - Fauteuil suspendu rotin sur pied en résine et métal noir MOJO
+                                            AXStaticText|title=|desc=|value=405,99 €
+                                            AXGroup|title=|desc=Vendu par Miliboo.com|value=
+                                              AXStaticText|title=|desc=|value=Miliboo.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.5/5
+                                                AXLink|title=|desc=Par Feed Manager|value=
+                                                    AXStaticText|title=|desc=|value=Par Feed Manager
+                                            AXLink|title=|desc= à chez Loberon France|value=
+                                              AXLink|title=|desc= à chez Loberon France|value=
+                                            AXHeading|title=Fauteuil suspendu Nirevox, Structure en rotin, Coussin avec dossier inclus, Housse en oléfine lavable et à séchage rapide en marron|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu Nirevox, Structure en rotin, Coussin avec dossier inclus, Housse en oléfine lavable et à séchage rapide en marron
+                                            AXStaticText|title=|desc=|value=698,00 €
+                                            AXGroup|title=|desc=Vendu par Loberon France|value=
+                                              AXStaticText|title=|desc=|value=Loberon France
+                                              AXStaticText|title=|desc=|value=+ 106,90 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.2/5
+                                                AXLink|title=|desc=Par agento24|value=
+                                                    AXStaticText|title=|desc=|value=Par agento24
+                                            AXLink|title=|desc= à chez Kave Home|value=
+                                              AXLink|title=|desc= à chez Kave Home|value=
+                                            AXHeading|title=Fauteuil suspendu de jardin en rotin, noir Ekaterina Kave Home|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu de jardin en rotin, noir Ekaterina Kave Home
+                                            AXStaticText|title=|desc=|value=529,00 €
+                                            AXGroup|title=|desc=Vendu par Kave Home|value=
+                                              AXStaticText|title=|desc=|value=Kave Home
+                                              AXStaticText|title=|desc=|value=+ 19,99 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez RoyalHomeDesign|value=
+                                              AXLink|title=|desc= à chez RoyalHomeDesign|value=
+                                            AXHeading|title=Viga – Fauteuil suspendu – Noir, Naturel, Blanc – 160 x 186 x 105 cm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Viga – Fauteuil suspendu – Noir, Naturel, Blanc – 160 x 186 x 105 cm
+                                            AXStaticText|title=|desc=|value=679,00 €
+                                            AXGroup|title=|desc=Vendu par RoyalHomeDesign|value=
+                                              AXStaticText|title=|desc=|value=RoyalHomeDesign
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Lazena|value=
+                                              AXLink|title=|desc= à chez Lazena|value=
+                                            AXHeading|title=Fauteuil suspendu sur pied | Medellin, Chilli|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu sur pied | Medellin, Chilli
+                                            AXStaticText|title=|desc=|value=289,90 €
+                                            AXGroup|title=|desc=Vendu par Lazena|value=
+                                              AXStaticText|title=|desc=|value=Lazena
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Eminza|value=
+                                              AXLink|title=|desc= à chez Eminza|value=
+                                            AXHeading|title=Loveuse suspendue en résine tressée Coral Gris anthracite|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Loveuse suspendue en résine tressée Coral Gris anthracite
+                                            AXStaticText|title=|desc=|value=399,00 €
+                                            AXGroup|title=|desc=Vendu par Eminza|value=
+                                              AXStaticText|title=|desc=|value=Eminza
+                                              AXStaticText|title=|desc=|value=+ 39,99 € de frais de port
+                                              AXImage|title=|desc=Note : 4,4 sur 5 (69) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Ikom Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Ikom Shopping
+                                            AXLink|title=|desc= à chez Hespéride|value=
+                                              AXLink|title=|desc= à chez Hespéride|value=
+                                            AXHeading|title=Fauteuil oeuf suspendu ORBIANA Taupe Blanc + 1 pied réglable PANAO Acier traité époxy, Polyester Hespéride|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil oeuf suspendu ORBIANA Taupe Blanc + 1 pied réglable PANAO Acier traité époxy, Polyester Hespéride
+                                            AXStaticText|title=|desc=|value=498,99 €
+                                            AXGroup|title=|desc=Vendu par Hespéride|value=
+                                              AXStaticText|title=|desc=|value=Hespéride
+                                              AXStaticText|title=|desc=|value=+ 49,99 € de frais de port
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (6) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Kelkoo|value=
+                                                    AXStaticText|title=|desc=|value=Par Kelkoo
+                                            AXLink|title=|desc= à chez Uniqka Design|value=
+                                              AXLink|title=|desc= à chez Uniqka Design|value=
+                                            AXHeading|title=MARBELLA - Fauteuil oeuf suspendu en rotin tressé|desc=|value=3
+                                                AXStaticText|title=|desc=|value=MARBELLA - Fauteuil oeuf suspendu en rotin tressé
+                                            AXStaticText|title=|desc=|value=312,00 €
+                                            AXGroup|title=|desc=Vendu par Uniqka Design|value=
+                                              AXStaticText|title=|desc=|value=Uniqka Design
+                                              AXStaticText|title=|desc=|value=+ 39,00 € de frais de port
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Pierimport|value=
+                                              AXLink|title=|desc= à chez Pierimport|value=
+                                            AXHeading|title=Fauteuil Suspendu - Pier Import - Chaise Suspendue Ronde - résine tressée noire - extérieur - base métal - 105x129x186 cm - Fauteuil de Jardin|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil Suspendu - Pier Import - Chaise Suspendue Ronde - résine tressée noire - extérieur - base métal - 105x129x186 cm - Fauteuil de Jardin
+                                            AXStaticText|title=|desc=|value=226,85 €
+                                            AXGroup|title=|desc=Vendu par Pierimport|value=
+                                              AXStaticText|title=|desc=|value=Pierimport
+                                              AXStaticText|title=|desc=|value=+ 15,00 € de frais de port
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (98) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez lasiesta.com|value=
+                                              AXLink|title=|desc= à chez lasiesta.com|value=
+                                            AXHeading|title=Udine Organic Latte - Fauteuil suspendu en coton bio avec support en eucalyptus certifié FSC|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Udine Organic Latte - Fauteuil suspendu en coton bio avec support en eucalyptus certifié FSC
+                                            AXStaticText|title=|desc=|value=439,00 €
+                                            AXGroup|title=|desc=Vendu par lasiesta.com|value=
+                                              AXStaticText|title=|desc=|value=lasiesta.com
+                                              AXStaticText|title=|desc=|value=+ 6,50 € de frais de port
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (95) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez Kave Home|value=
+                                              AXLink|title=|desc= à chez Kave Home|value=
+                                            AXHeading|title=Fauteuil suspendu de jardin en plastique, gris Florina Kave Home|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu de jardin en plastique, gris Florina Kave Home
+                                            AXStaticText|title=|desc=|value=589,00 €
+                                            AXGroup|title=|desc=Vendu par Kave Home|value=
+                                              AXStaticText|title=|desc=|value=Kave Home
+                                              AXStaticText|title=|desc=|value=+ 19,99 € de frais de port
+                                              AXImage|title=|desc=Note : 4,0 sur 5 (6) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Beliani FR|value=
+                                              AXLink|title=|desc= à chez Beliani FR|value=
+                                            AXHeading|title=Fauteuil Suspendu en Rotin Beige avec Coussin et Support en Acier Noir pour Usage à l'Intérieur et Extérieur au Design Bohème Très Tendance Beliani|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil Suspendu en Rotin Beige avec Coussin et Support en Acier Noir pour Usage à l'Intérieur et Extérieur au Design Bohème Très Tendance Beliani
+                                            AXStaticText|title=|desc=|value=389,99 €
+                                            AXGroup|title=|desc=Vendu par Beliani FR|value=
+                                              AXStaticText|title=|desc=|value=Beliani FR
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,0 sur 5 (32) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à (auparavant 399 € chez Kave Home)|value=
+                                              AXLink|title=|desc= à (auparavant 399 € chez Kave Home)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Fauteuil suspendu de jardin en plastique, marron Florina Kave Home|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu de jardin en plastique, marron Florina Kave Home
+                                            AXStaticText|title=|desc=|value=279,30 €
+                                            AXStaticText|title=|desc=|value=399 €
+                                            AXGroup|title=|desc=Vendu par Kave Home|value=
+                                              AXStaticText|title=|desc=|value=Kave Home
+                                              AXStaticText|title=|desc=|value=+ 9,98 € de frais de port
+                                              AXImage|title=|desc=Note : 3,8 sur 5 (5) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez NatureHamac|value=
+                                              AXLink|title=|desc= à chez NatureHamac|value=
+                                            AXHeading|title=Fauteuil hamac suspendu | NatureHamac GAZELA Beige / GAZELA caramel|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil hamac suspendu | NatureHamac GAZELA Beige / GAZELA caramel
+                                            AXStaticText|title=|desc=|value=579,00 €
+                                            AXGroup|title=|desc=Vendu par NatureHamac|value=
+                                              AXStaticText|title=|desc=|value=NatureHamac
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Kave Home|value=
+                                              AXLink|title=|desc= à chez Kave Home|value=
+                                            AXHeading|title=Fauteuil suspendu de jardin en plastique, noir Cira Kave Home|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu de jardin en plastique, noir Cira Kave Home
+                                            AXStaticText|title=|desc=|value=629,00 €
+                                            AXGroup|title=|desc=Vendu par Kave Home|value=
+                                              AXStaticText|title=|desc=|value=Kave Home
+                                              AXStaticText|title=|desc=|value=+ 19,99 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez lasiesta.com|value=
+                                              AXLink|title=|desc= à chez lasiesta.com|value=
+                                            AXHeading|title=Udine Outdoor Toucan - Fauteuil suspendu outdoor avec support en eucalyptus certifié FSC|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Udine Outdoor Toucan - Fauteuil suspendu outdoor avec support en eucalyptus certifié FSC
+                                            AXStaticText|title=|desc=|value=439,00 €
+                                            AXGroup|title=|desc=Vendu par lasiesta.com|value=
+                                              AXStaticText|title=|desc=|value=lasiesta.com
+                                              AXStaticText|title=|desc=|value=+ 6,50 € de frais de port
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (14) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez RoyalHomeDesign|value=
+                                              AXLink|title=|desc= à chez RoyalHomeDesign|value=
+                                            AXHeading|title=Viga – Fauteuil suspendu – Gris, Blanc – 95 x 196 x 95 cm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Viga – Fauteuil suspendu – Gris, Blanc – 95 x 196 x 95 cm
+                                            AXStaticText|title=|desc=|value=629,00 €
+                                            AXGroup|title=|desc=Vendu par RoyalHomeDesign|value=
+                                              AXStaticText|title=|desc=|value=RoyalHomeDesign
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Kave Home|value=
+                                              AXLink|title=|desc= à chez Kave Home|value=
+                                            AXHeading|title=Fauteuil suspendu de jardin en plastique, gris Florina Kave Home|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu de jardin en plastique, gris Florina Kave Home
+                                            AXStaticText|title=|desc=|value=589,00 €
+                                            AXGroup|title=|desc=Vendu par Kave Home|value=
+                                              AXStaticText|title=|desc=|value=Kave Home
+                                              AXStaticText|title=|desc=|value=+ 19,99 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez RoyalHomeDesign|value=
+                                              AXLink|title=|desc= à chez RoyalHomeDesign|value=
+                                            AXHeading|title=Pulau – Fauteuil suspendu – Naturel, Beige – 70 x 120 x 77 cm|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Pulau – Fauteuil suspendu – Naturel, Beige – 70 x 120 x 77 cm
+                                            AXStaticText|title=|desc=|value=539,00 €
+                                            AXGroup|title=|desc=Vendu par RoyalHomeDesign|value=
+                                              AXStaticText|title=|desc=|value=RoyalHomeDesign
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Lazena|value=
+                                              AXLink|title=|desc= à chez Lazena|value=
+                                            AXHeading|title=Fauteuil suspendu sur pied | Medellin, crème|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu sur pied | Medellin, crème
+                                            AXStaticText|title=|desc=|value=289,90 €
+                                            AXGroup|title=|desc=Vendu par Lazena|value=
+                                              AXStaticText|title=|desc=|value=Lazena
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Kave Home|value=
+                                              AXLink|title=|desc= à chez Kave Home|value=
+                                            AXHeading|title=Fauteuil suspendu de jardin en plastique, marron Florina Kave Home|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu de jardin en plastique, marron Florina Kave Home
+                                            AXStaticText|title=|desc=|value=589,00 €
+                                            AXGroup|title=|desc=Vendu par Kave Home|value=
+                                              AXStaticText|title=|desc=|value=Kave Home
+                                              AXStaticText|title=|desc=|value=+ 19,99 € de frais de port
+                                              AXImage|title=|desc=Note : 4,0 sur 5 (6) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez Homary.com|value=
+                                              AXLink|title=|desc= à chez Homary.com|value=
+                                              AXStaticText|title=|desc=|value=12 % DE REMISE
+                                            AXHeading|title=Fauteuil Suspendu de Patio Costra en Aluminium et Corde Tressée à la Main, une place|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil Suspendu de Patio Costra en Aluminium et Corde Tressée à la Main, une place
+                                            AXStaticText|title=|desc=|value=527,99 €
+                                            AXStaticText|title=|desc=|value=600 €
+                                            AXGroup|title=|desc=Vendu par Homary.com|value=
+                                              AXStaticText|title=|desc=|value=Homary.com
+                                              AXStaticText|title=|desc=|value=Code de réduction
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à (auparavant 499 € chez La Redoute)|value=
+                                              AXLink|title=|desc= à (auparavant 499 € chez La Redoute)|value=
+                                                AXStaticText|title=|desc=|value=PROMOTION
+                                            AXHeading|title=Am.pm Fauteuil à suspendre, Bosseda Beige|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Am.pm Fauteuil à suspendre, Bosseda Beige
+                                            AXStaticText|title=|desc=|value=375,60 €
+                                            AXStaticText|title=|desc=|value=499 €
+                                            AXGroup|title=|desc=Vendu par La Redoute|value=
+                                              AXStaticText|title=|desc=|value=La Redoute
+                                              AXStaticText|title=|desc=|value=+ 39,00 € de frais de port
+                                              AXImage|title=|desc=Note : 4,0 sur 5 (36) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Producthero|value=
+                                                    AXStaticText|title=|desc=|value=Par Producthero
+                                            AXLink|title=|desc= à chez lasiesta.com|value=
+                                              AXLink|title=|desc= à chez lasiesta.com|value=
+                                            AXHeading|title=Habana Latte - Fauteuil suspendu comfort en coton bio|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Habana Latte - Fauteuil suspendu comfort en coton bio
+                                            AXStaticText|title=|desc=|value=149,90 €
+                                            AXGroup|title=|desc=Vendu par lasiesta.com|value=
+                                              AXStaticText|title=|desc=|value=lasiesta.com
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 4,8 sur 5 (153) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                            AXLink|title=|desc= à chez Kave Home|value=
+                                              AXLink|title=|desc= à chez Kave Home|value=
+                                            AXHeading|title=Fauteuil suspendu de jardin en fibres naturelles, gris Ekaterina Kave Home|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fauteuil suspendu de jardin en fibres naturelles, gris Ekaterina Kave Home
+                                            AXStaticText|title=|desc=|value=529,00 €
+                                            AXGroup|title=|desc=Vendu par Kave Home|value=
+                                              AXStaticText|title=|desc=|value=Kave Home
+                                              AXStaticText|title=|desc=|value=+ 19,99 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.7/5
+                                                AXLink|title=|desc=Par Google|value=
+                                                    AXStaticText|title=|desc=|value=Par Google
+                                            AXLink|title=|desc= à chez HamacDuMonde.fr|value=
+                                              AXLink|title=|desc= à chez HamacDuMonde.fr|value=
+                                            AXHeading|title='Macramé' White Hamac Chaise - 120 kg - Blanc / Écru - Mexicain - Tropilex|desc=|value=3
+                                                AXStaticText|title=|desc=|value='Macramé' White Hamac Chaise - 120 kg - Blanc / Écru - Mexicain - Tropilex
+                                            AXStaticText|title=|desc=|value=119,00 €
+                                            AXGroup|title=|desc=Vendu par HamacDuMonde.fr|value=
+                                              AXStaticText|title=|desc=|value=HamacDuMonde.fr
+                                            AXStaticText|title=|desc=|value=Gratuite
+                                              AXImage|title=|desc=Note : 5,0 sur 5 (4) avis d'utilisateurs|value=
+                                                AXLink|title=|desc=Par Smarketer|value=
+                                                    AXStaticText|title=|desc=|value=Par Smarketer
+                                            AXLink|title=|desc= à chez Hespéride|value=
+                                              AXLink|title=|desc= à chez Hespéride|value=
+                                            AXHeading|title=Ensemble fauteuil œuf suspendu DILMAU + pied PANAO Blanc Acier traité époxy, Traitement anti-rouille renforcé, Oléfine Hespéride|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Ensemble fauteuil œuf suspendu DILMAU + pied PANAO Blanc Acier traité époxy, Traitement anti-rouille renforcé, Oléfine Hespéride
+                                            AXStaticText|title=|desc=|value=248,99 €
+                                            AXGroup|title=|desc=Vendu par Hespéride|value=
+                                              AXStaticText|title=|desc=|value=Hespéride
+                                              AXStaticText|title=|desc=|value=+ 29,00 € de frais de port
+                                              AXStaticText|title=|desc=|value=Retours : 30 jours
+                                                AXLink|title=|desc=Par Kelkoo|value=
+                                                    AXStaticText|title=|desc=|value=Par Kelkoo
+                                            AXLink|title=|desc= à chez lasiesta.com|value=
+                                              AXLink|title=|desc= à chez lasiesta.com|value=
+                                            AXHeading|title=Fiji Organic Latte – Fauteuil suspendu taille basic en coton bio avec support en acier galvanisé|desc=|value=3
+                                                AXStaticText|title=|desc=|value=Fiji Organic Latte – Fauteuil suspendu taille basic en coton bio avec support en acier galvanisé
+                                            AXStaticText|title=|desc=|value=199,00 €
+                                            AXGroup|title=|desc=Vendu par lasiesta.com|value=
+                                              AXStaticText|title=|desc=|value=lasiesta.com
+                                              AXStaticText|title=|desc=|value=+ 6,50 € de frais de port
+                                              AXStaticText|title=|desc=|value=Note magasin : 4.9/5
+                                                AXLink|title=|desc=Par Adference Shopping|value=
+                                                    AXStaticText|title=|desc=|value=Par Adference Shopping
+                                                AXStaticText|title=|desc=|value=Voir plus pour :
+                                              AXLink|title=|desc=Adference Shopping|value=
+                                                AXStaticText|title=|desc=|value=Adference Shopping
+                                              AXLink|title=|desc=Feed Manager|value=
+                                                AXStaticText|title=|desc=|value=Feed Manager
+                                              AXLink|title=|desc=agento24|value=
+                                                AXStaticText|title=|desc=|value=agento24
+                                              AXLink|title=|desc=Google|value=
+                                                AXStaticText|title=|desc=|value=Google
+                                              AXLink|title=|desc=Ikom Shopping|value=
+                                                AXStaticText|title=|desc=|value=Ikom Shopping
+                                              AXLink|title=|desc=Kelkoo|value=
+                                                AXStaticText|title=|desc=|value=Kelkoo
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Balancelle de jardin, fauteuil suspendu hesperide https://www.hesperide.com › transat-hamac-balancelle|value=
+                                            AXHeading|title=Balancelle de jardin, fauteuil suspendu|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Balancelle de jardin, fauteuil suspendu
+                                              AXStaticText|title=|desc=|value=hesperide
+                                                AXStaticText|title=|desc=|value=https://www.hesperide.com
+                                                AXStaticText|title=|desc=|value= › transat-hamac-balancelle
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Découvrez une large gamme de balancelles de Jardin et fauteuil suspendu
+                                          AXStaticText|title=|desc=|value=. Sublimez votre extérieur et relaxez-vous. Paiement 3x disponible!
+                                          AXLink|title=|desc=fauteuil suspendu sur www.hesperide.com|value=
+                                              AXImage|title=|desc=fauteuil suspendu sur www.hesperide.com|value=
+                                            AXImage|title=|desc=Note : 4,6 sur 5 (267) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                                            AXButton|title=|desc=Fauteuil suspendu hanoi beige. Prix actuel : 89,99 €. B&M. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Nature & Découvertes Grand Fauteuil suspendu Longchi. Prix actuel : 299,00 €. Nature & Découvertes FR. En magasin. Note : 4,7 sur 5. 109 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hespéride Fauteuil suspendu GIBRALTAR Ardoise Acier traité époxy. Prix actuel : 199,00 €. Plus de prix disponibles. Hespéride et plus. Note : 4,8 sur 5. 17 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Concept Usine CUZCO Fauteuil suspendu effet rotin. PROMOTION. Prix actuel : 149,90 €. Avant : 200 €. Plus de prix disponibles. Maisons du Monde Marketplace et plus. Note : 4,5 sur 5. 64 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil Oeuf Suspendu En Rotin cosi. Prix actuel : 119,00 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Drawer Sully Fauteuil suspendu de jardin en corde. PROMOTION. Prix actuel : 97,49 €. Avant : 150 €. Plus de prix disponibles. Maisons du Monde Marketplace et plus. Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Idmarket Fauteuil Oeuf Suspendu Ajouré Avec Coussin Gris. PROMOTION. Prix actuel : 139,99 €. Avant : 155 €. Plus de prix disponibles. castorama.fr et plus. Note : 4,2 sur 5. 55 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil suspendu en acier anthracite l.124 x P.112 x H.201 cm. Prix actuel : 399,00 €. Leroy Merlin. En magasin. Note : 4,1 sur 5. 17 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Fauteuil suspendu idealo|value=
+                                                AXHeading|title=Fauteuil suspendu|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Fauteuil suspendu
+                                                    AXStaticText|title=|desc=|value=idealo
+                                                AXLink|title=|desc=Fauteuils suspendus : acheter pas cher | Les meilleures offres du comparateur de prix meubles.fr|value=
+                                                AXHeading|title=Fauteuils suspendus : acheter pas cher | Les meilleures offres du comparateur de prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Fauteuils suspendus : acheter pas cher | Les meilleures offres du comparateur de prix
+                                                    AXStaticText|title=|desc=|value=meubles.fr
+                                                AXLink|title=|desc=Chaise Suspendue Jardin - Chaises & fauteuils suspendus idealo|value=
+                                                AXHeading|title=Chaise Suspendue Jardin - Chaises & fauteuils suspendus|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Chaise Suspendue Jardin - Chaises & fauteuils suspendus
+                                                    AXStaticText|title=|desc=|value=idealo
+                                                AXLink|title=|desc=Fauteuil suspendu Achat Moins Cher|value=
+                                                AXHeading|title=Fauteuil suspendu|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Fauteuil suspendu
+                                                    AXStaticText|title=|desc=|value=Achat Moins Cher
+                                                  AXLink|title=|desc=Fauteuil suspendue exterieur – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Fauteuil suspendue exterieur – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Fauteuil suspendue exterieur – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Chaises & fauteuils suspendus Idealo|value=
+                                                  AXHeading|title=Chaises & fauteuils suspendus|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Chaises & fauteuils suspendus
+                                                      AXStaticText|title=|desc=|value=Idealo
+                                                  AXLink|title=|desc=Fauteuil suspendu – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Fauteuil suspendu – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Fauteuil suspendu – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Siege suspendu exterieur – Trouvez le meilleur prix leDénicheur|value=
+                                                  AXHeading|title=Siege suspendu exterieur – Trouvez le meilleur prix|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Siege suspendu exterieur – Trouvez le meilleur prix
+                                                      AXStaticText|title=|desc=|value=leDénicheur
+                                                  AXLink|title=|desc=Fauteuils suspendus design (2026) Meilleures Ventes Lionshome.fr|value=
+                                                  AXHeading|title=Fauteuils suspendus design (2026) Meilleures Ventes|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Fauteuils suspendus design (2026) Meilleures Ventes
+                                                      AXStaticText|title=|desc=|value=Lionshome.fr
+                                                  AXLink|title=|desc=meublez-vous au meilleur prix ! Meubles & déco à petit prix: comparez en ligne sur meubles.fr meubles.fr|value=
+                                                  AXHeading|title=meublez-vous au meilleur prix ! Meubles & déco à petit prix: comparez en ligne sur meubles.fr|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=meublez-vous au meilleur prix ! Meubles & déco à petit prix: comparez en ligne sur meubles.fr
+                                                      AXStaticText|title=|desc=|value=meubles.fr
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Fauteuils suspendus | AMAZONAS Hamacs amazonas-online.com https://www.amazonas-online.com › fauteuils-suspendus|value=
+                                            AXHeading|title=Fauteuils suspendus | AMAZONAS Hamacs|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Fauteuils suspendus | AMAZONAS Hamacs
+                                              AXStaticText|title=|desc=|value=amazonas-online.com
+                                                AXStaticText|title=|desc=|value=https://www.amazonas-online.com
+                                                AXStaticText|title=|desc=|value= › fauteuils-suspendus
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Fauteuil suspendu XXXL Brasil Gigante
+                                          AXStaticText|title=|desc=|value= · lava · esmeralda · café · Fauteuil suspendu XXXL Brasil Gigante · 124,00 € * ; Fauteuil suspendu XL Artista · sand. blue.
+                                          AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                          AXLink|title=|desc=Images concernant fauteuil suspendu sur www.amazonas-online.com|value=
+                                        AXHeading|title=Images|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Images
+                                              AXLink|title=|desc=Fauteuil suspendu effet rotin Cuzco | Maisons du Monde Maisons du Monde|value=
+                                              AXButton|title=Fauteuil suspendu effet rotin Cuzco | Maisons du Monde|desc=|value=
+                                                  AXImage|title=|desc=Fauteuil suspendu effet rotin Cuzco | Maisons du Monde|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Fauteuil oeuf suspendu ORBIANA Taupe & Blanc + 1 pied réglable PANAO Hespéride|value=
+                                              AXButton|title=Fauteuil oeuf suspendu ORBIANA Taupe & Blanc + 1 pied réglable PANAO|desc=|value=
+                                                  AXImage|title=|desc=Fauteuil oeuf suspendu ORBIANA Taupe & Blanc + 1 pied réglable PANAO|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Bathonly Fauteuil Suspendu Macramé Beige 150kg avec Coussin Amazon|value=
+                                              AXButton|title=Bathonly Fauteuil Suspendu Macramé Beige 150kg avec Coussin|desc=|value=
+                                                  AXImage|title=|desc=Bathonly Fauteuil Suspendu Macramé Beige 150kg avec Coussin|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=SANTA CRUZ FAUTEUIL SUSPENDU GRIS Maxi Bazar|value=
+                                              AXButton|title=SANTA CRUZ FAUTEUIL SUSPENDU GRIS|desc=|value=
+                                                  AXImage|title=|desc=SANTA CRUZ FAUTEUIL SUSPENDU GRIS|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Fauteuil suspendu Globo CHAIR Amazonas taupe en bois Aqua Piscine|value=
+                                              AXButton|title=Fauteuil suspendu Globo CHAIR Amazonas taupe en bois|desc=|value=
+                                                  AXImage|title=|desc=Fauteuil suspendu Globo CHAIR Amazonas taupe en bois|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Fauteuil suspendu bohème 2 coussins écru design macramé IDMarket.com|value=
+                                              AXButton|title=Fauteuil suspendu bohème 2 coussins écru design macramé|desc=|value=
+                                                  AXImage|title=|desc=Fauteuil suspendu bohème 2 coussins écru design macramé|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                      AXButton|title=Afficher plus d'images|desc=|value=
+                                          AXStaticText|title=|desc=|value=Afficher plus d'images
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                        AXHeading|title=Carte|desc=|value=3
+                                          AXStaticText|title=|desc=|value=Carte
+                                              AXButton|title=H&H Herblay - Meubles - Canapés Note : 4,2 sur 5 165 avis d'utilisateurs · Magasin de meubles Pierrelaye · 01 39 78 91 30 Ouvert · Ferme à 19:00 Achats en magasin· Retrait en magasin· Livraison · Site Web|desc=|value=
+                                                AXHeading|title=H&H Herblay - Meubles - Canapés|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=H&H Herblay - Meubles - Canapés
+                                                  AXImage|title=|desc=Note : 4,2 sur 5 165 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de meubles
+                                                  AXStaticText|title=|desc=|value=Pierrelaye · 01 39 78 91 30
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                AXStaticText|title=|desc=|value=Achats en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Retrait en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Livraison
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Fauteuil suspendu Aucun avis · Magasin de meubles Paris · 07 56 89 42 82 Ouvert · Ferme à 18:00|desc=|value=
+                                                AXHeading|title=Fauteuil suspendu|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Fauteuil suspendu
+                                                  AXStaticText|title=|desc=|value=Aucun avis
+                                                  AXStaticText|title=|desc=|value= · Magasin de meubles
+                                                  AXStaticText|title=|desc=|value=Paris · 07 56 89 42 82
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 18:00
+                                              AXButton|title=Magasin de meubles - Canapé - Matelas | TRUST INDUSTRIE Note : 4,7 sur 5 633 avis d'utilisateurs · Magasin de meubles Herblay-sur-Seine · 01 34 18 01 03 Ouvert · Ferme à 19:00 Retrait : Finit bientôt · 17:00 · Site Web|desc=|value=
+                                                AXHeading|title=Magasin de meubles - Canapé - Matelas | TRUST INDUSTRIE|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Magasin de meubles - Canapé - Matelas | TRUST INDUSTRIE
+                                                  AXImage|title=|desc=Note : 4,7 sur 5 633 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de meubles
+                                                  AXStaticText|title=|desc=|value=Herblay-sur-Seine · 01 34 18 01 03
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                  AXStaticText|title=|desc=|value=Retrait
+                                                  AXStaticText|title=|desc=|value= : 
+                                                  AXStaticText|title=|desc=|value=Finit bientôt
+                                                  AXStaticText|title=|desc=|value= · 17:00
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                        AXHeading|title=Voir plus de lieux|desc=|value=3
+                                            AXLink|title=|desc=Voir plus de lieux|value=
+                                                AXStaticText|title=|desc=|value=Voir plus de lieux
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                              AXButton|title=4 PIEDS Herblay - Paris Note : 4,2 sur 5 174 avis d'utilisateurs · Magasin de meubles Herblay-sur-Seine · 01 30 26 02 51 Ouvert · Ferme à 19:00 Achats en magasin· Retrait en magasin· Livraison · Site Web|desc=|value=
+                                                AXHeading|title=4 PIEDS Herblay - Paris|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=4 PIEDS Herblay - Paris
+                                                  AXImage|title=|desc=Note : 4,2 sur 5 174 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de meubles
+                                                  AXStaticText|title=|desc=|value=Herblay-sur-Seine · 01 30 26 02 51
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                                AXStaticText|title=|desc=|value=Achats en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Retrait en magasin
+                                                AXStaticText|title=|desc=|value=·
+                                                AXStaticText|title=|desc=|value=Livraison
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Maisons du Monde Note : 4,0 sur 5 2,5 k avis d'utilisateurs · Magasin de meubles Herblay-sur-Seine · 01 39 31 46 36 Ouvert · Ferme à 19:30 Leur site Web mentionne "fauteuil suspendu" · Site Web|desc=|value=
+                                                AXHeading|title=Maisons du Monde|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Maisons du Monde
+                                                  AXImage|title=|desc=Note : 4,0 sur 5 2,5 k avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin de meubles
+                                                  AXStaticText|title=|desc=|value=Herblay-sur-Seine · 01 39 31 46 36
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:30
+                                                  AXStaticText|title=|desc=|value=Leur site Web mentionne "
+                                                  AXStaticText|title=|desc=|value=fauteuil suspendu
+                                                  AXStaticText|title=|desc=|value="
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Médicis France Note : 4,4 sur 5 13 avis d'utilisateurs · Magasin d'ameublement d'extérieur Saint-Ouen-l'Aumône · 01 39 09 09 90 Ferme bientôt · 17:00 Livraison · Site Web|desc=|value=
+                                                AXHeading|title=Médicis France|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Médicis France
+                                                  AXImage|title=|desc=Note : 4,4 sur 5 13 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Magasin d'ameublement d'extérieur
+                                                  AXStaticText|title=|desc=|value=Saint-Ouen-l'Aumône · 01 39 09 09 90
+                                                  AXStaticText|title=|desc=|value=Ferme bientôt
+                                                  AXStaticText|title=|desc=|value= · 17:00
+                                                AXStaticText|title=|desc=|value=Livraison
+                                                AXStaticText|title=|desc=|value=·
+                                                AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                                            AXButton|title=|desc=Concept Usine Lima noir fauteuil suspendu résine. PROMOTION. Prix actuel : 179,90 €. Avant : 220 €. Plus de prix disponibles. Nature & Découvertes FR et plus. Note : 4,6 sur 5. 108 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Juskys Fauteuil suspendu double en poly rotin Aria. Prix actuel : 229,99 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,4 sur 5. 80 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=CONCEPT USINE | Fauteuil Suspendu avec Support en Résine Tressée | Design CUZCO Rotin Naturel | Structure Acier Robuste | Coussins Déperlants &. Prix actuel : 179,90 €. Amazon.fr - Seller. Note : 4,5 sur 5. 64 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Garvee Fauteuil Suspendu Aria en Rotin Synthétique – Chaise Balancelle Élégante avec Coussin Épais, Hauteur Réglable et Structure Stable, pour. Prix actuel : 145,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil Suspendu Relax Ajouré Effet Rotin Avec Coussin. PROMOTION. Prix actuel : 99,99 €. Avant : 140 €. Plus de prix disponibles. Gamm vert et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de jardin suspendu acier corde anthracite Fernande ECLOZ. Prix actuel : 299,00 €. Jardiland. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Double Fauteuil oeuf suspendu acier PANGI. PROMOTION. Prix actuel : 583,89 €. Avant : 730 €. OOGarden.com. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hespéride Fauteuil oeuf suspendu ORBIANA Taupe Blanc Acier traité époxy. Prix actuel : 399,00 €. Plus de prix disponibles. La Foir'Fouille 44 et plus. Note : 5,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Quel est le prix d'un fauteuil suspendu Action ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le prix d'un fauteuil suspendu Action ?
+                                              AXButton|title=Comment s'appelle un fauteuil suspendu ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Comment s'appelle un fauteuil suspendu ?
+                                              AXButton|title=Quel est le fauteuil le plus confortable au monde ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le fauteuil le plus confortable au monde ?
+                                              AXButton|title=Quelle est la hauteur minimale d'un fauteuil suspendu ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quelle est la hauteur minimale d'un fauteuil suspendu ?
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Fauteuil suspendu Leroy Merlin https://www.leroymerlin.fr › ... › Fauteuil de jardin|value=
+                                            AXHeading|title=Fauteuil suspendu|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Fauteuil suspendu
+                                              AXStaticText|title=|desc=|value=Leroy Merlin
+                                                AXStaticText|title=|desc=|value=https://www.leroymerlin.fr
+                                                AXStaticText|title=|desc=|value= › ... › Fauteuil de jardin
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Un 
+                                            AXStaticText|title=|desc=|value=fauteuil suspendu
+                                          AXStaticText|title=|desc=|value= est un fauteuil sans pied qui peut être accroché par un ou deux pitons à une branche d'arbre ou autre. Il existe également des fauteuils ...
+                                          AXLink|title=|desc=fauteuil suspendu sur www.leroymerlin.fr|value=
+                                              AXImage|title=|desc=fauteuil suspendu sur www.leroymerlin.fr|value=
+                                                            AXButton|title=|desc=Idmarket Fauteuil Lune suspendu Ajouré avec Coussin. Prix actuel : 159,99 €. Plus de prix disponibles. meubles.fr et plus. Note : 4,4 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil suspendu macramé Terre inconnue 120 x 80 cm. Prix actuel : 34,99 €. Plus de prix disponibles. Gamm vert et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Laneetal Fauteuil Oeuf Suspendu, Chaise Balançoire, avec Support en Métal, Coussin de Siège et Appui-tête, Charge 150kg, Rotin PE, pour Jardin, Balcon. PROMOTION. Prix actuel : 109,22 €. Avant : 115 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Decoris Chaise hamac suspendu avec franges. Prix actuel : 20,40 €. Plus de prix disponibles. Jardiland et plus. En magasin. Note : 4,0 sur 5. 2 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Idmarket Fauteuil rond suspendu ajouré effet rotin gris Avec Coussin. Prix actuel : 154,99 €. Plus de prix disponibles. LionsHome et plus. Note : 3,8 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=tectake Fauteuil suspendu Samira. Prix actuel : 45,90 €. Plus de prix disponibles. Klarna et plus. Note : 4,5 sur 5. 43 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Outsunny Fauteuil oeuf suspendu panier pliable. Prix actuel : 131,90 €. Plus de prix disponibles. meubles.fr et plus. Note : 4,6 sur 5. 28 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=La Siesta Balancelle Comfort Cumbia Outdoor. Prix actuel : 99,90 €. Plus de prix disponibles. Nature & Découvertes FR et plus. En magasin. Note : 4,8 sur 5. 6 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Fauteuils suspendus jusqu'à 50 % de réduction Beliani https://www.beliani.fr › fauteuils-sieges › fauteuils-susp...|value=
+                                            AXHeading|title=Fauteuils suspendus jusqu'à 50 % de réduction|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Fauteuils suspendus jusqu'à 50 % de réduction
+                                              AXStaticText|title=|desc=|value=Beliani
+                                                AXStaticText|title=|desc=|value=https://www.beliani.fr
+                                                AXStaticText|title=|desc=|value= › fauteuils-sieges › fauteuils-susp...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Fauteuil suspendu avec support
+                                          AXStaticText|title=|desc=|value=. Ces fauteuils offrent une polyvalence exceptionnelle. Grâce à leur pied robuste, ils s'installent facilement aussi bien à l' ...
+                                            AXStaticText|title=|desc=|value=Livraison gratuite
+                                            AXStaticText|title=|desc=|value=Retours sous 365 jour(s)
+                                          AXLink|title=|desc=Images concernant fauteuil suspendu sur www.beliani.fr|value=
+                                          AXLink|title=|desc=Fauteuil suspendu : comment bien le choisir ? Jardiland https://www.jardiland.com › Conseil & idées › Jardin|value=
+                                            AXHeading|title=Fauteuil suspendu : comment bien le choisir ?|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Fauteuil suspendu : comment bien le choisir ?
+                                              AXStaticText|title=|desc=|value=Jardiland
+                                                AXStaticText|title=|desc=|value=https://www.jardiland.com
+                                                AXStaticText|title=|desc=|value= › Conseil & idées › Jardin
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=9 déc. 2025
+                                          AXStaticText|title=|desc=|value= — 
+                                          AXStaticText|title=|desc=|value=Les fauteuils suspendus destinés à l'extérieur doivent être capables de résister à la pluie, au vent et aux rayons UV. Les matériaux comme l' ...
+                                          AXLink|title=|desc=fauteuil suspendu sur www.jardiland.com|value=
+                                              AXImage|title=|desc=fauteuil suspendu sur www.jardiland.com|value=
+                                          AXStaticText|title=|desc=|value=Paris
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Fauteuil suspendu pas cher | Transat, hamac et balancelle Conforama https://www.conforama.fr › fauteuil-suspendu|value=
+                                            AXHeading|title=Fauteuil suspendu pas cher | Transat, hamac et balancelle|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Fauteuil suspendu pas cher | Transat, hamac et balancelle
+                                              AXStaticText|title=|desc=|value=Conforama
+                                                AXStaticText|title=|desc=|value=https://www.conforama.fr
+                                                AXStaticText|title=|desc=|value= › fauteuil-suspendu
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Découvrez la sélection 
+                                            AXStaticText|title=|desc=|value=fauteuil suspendu pas cher de Conforama
+                                          AXStaticText|title=|desc=|value= et sa large gamme de modèles Transat, hamac et balancelle. Qualité au meilleur prix.
+                                          AXLink|title=|desc=Images concernant fauteuil suspendu sur www.conforama.fr|value=
+                                          AXLink|title=|desc=Fauteuil suspendu en macramé – 78 x 120 cm, Beige Action.com https://www.action.com › Jardin › Meubles de jardin|value=
+                                            AXHeading|title=Fauteuil suspendu en macramé – 78 x 120 cm, Beige|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Fauteuil suspendu en macramé – 78 x 120 cm, Beige
+                                              AXStaticText|title=|desc=|value=Action.com
+                                                AXStaticText|title=|desc=|value=https://www.action.com
+                                                AXStaticText|title=|desc=|value= › Jardin › Meubles de jardin
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Description · 
+                                            AXStaticText|title=|desc=|value=Avec crochets de suspension
+                                          AXStaticText|title=|desc=|value= · Capacité de charge maximale de 110 kg · Corde fabriquée à partir de polyester 100 % recyclé. Détendez-vous sur votre ...
+                                          AXLink|title=|desc=fauteuil suspendu sur www.action.com|value=
+                                              AXImage|title=|desc=fauteuil suspendu sur www.action.com|value=
+                                            AXStaticText|title=|desc=|value=14,95 €
+                                            AXStaticText|title=|desc=|value=En stock
+                                            AXStaticText|title=|desc=|value=Retours sous 3 jour(s)
+                                        AXHeading|title=Vidéos courtes|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Vidéos courtes
+                                                    AXLink|title=|desc=✨ NOUVEAUTÉ CONFORT ✨ Craquez pour notre fauteuil œuf ... par Centrakor Feurs sur Facebook. Lire sur Facebook. 0:04|value=
+                                                    AXLink|title=|desc=✨ NOUVEAUTÉ CONFORT ✨ Craquez pour notre fauteuil œuf ... Facebook · Centrakor Feurs|value=
+                                                        AXHeading|title=✨ NOUVEAUTÉ CONFORT ✨ Craquez pour notre fauteuil œuf ...|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=✨ NOUVEAUTÉ CONFORT ✨ Craquez pour notre fauteuil œuf ...
+                                                        AXStaticText|title=|desc=|value=Facebook
+                                                        AXStaticText|title=|desc=|value= · 
+                                                        AXStaticText|title=|desc=|value=Centrakor Feurs
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                                    AXLink|title=|desc=Lâchez prise Sur la terrasse, dans votre jardin d'hiver ou ... par LOBERON.fr sur Facebook. Lire sur Facebook. 0:10|value=
+                                                    AXLink|title=|desc=Lâchez prise Sur la terrasse, dans votre jardin d'hiver ou ... Facebook · LOBERON.fr|value=
+                                                        AXHeading|title=Lâchez prise Sur la terrasse, dans votre jardin d'hiver ou ...|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Lâchez prise Sur la terrasse, dans votre jardin d'hiver ou ...
+                                                        AXStaticText|title=|desc=|value=Facebook
+                                                        AXStaticText|title=|desc=|value= · 
+                                                        AXStaticText|title=|desc=|value=LOBERON.fr
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                                    AXButton|title=|desc=Coin déco bohème : fauteuil suspendu macramé, petit salon ... par Jardideco.fr sur YouTube. Lire sur Google. 0:21|value=
+                                                      AXLink|title=|desc=Coin déco bohème : fauteuil suspendu macramé, petit salon ... YouTube · Jardideco.fr|value=
+                                                          AXHeading|title=Coin déco bohème : fauteuil suspendu macramé, petit salon ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Coin déco bohème : fauteuil suspendu macramé, petit salon ...
+                                                          AXStaticText|title=|desc=|value=YouTube
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Jardideco.fr
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                    AXLink|title=|desc=Craquez pour ce fauteuil suspendu à seulement 109,99 ... par Stokomani sur Facebook. Lire sur Facebook. 0:16|value=
+                                                    AXLink|title=|desc=Craquez pour ce fauteuil suspendu à seulement 109,99 ... Facebook · Stokomani|value=
+                                                        AXHeading|title=Craquez pour ce fauteuil suspendu à seulement 109,99 ...|desc=|value=3
+                                                          AXStaticText|title=|desc=|value=Craquez pour ce fauteuil suspendu à seulement 109,99 ...
+                                                        AXStaticText|title=|desc=|value=Facebook
+                                                        AXStaticText|title=|desc=|value= · 
+                                                        AXStaticText|title=|desc=|value=Stokomani
+                                                        AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=Fauteuil suspendu à 20€ sur TikTok Shop : offre cocooning par woltuhomefr sur TikTok. Lire sur TikTok. 0:18|value=
+                                                      AXLink|title=|desc=Fauteuil suspendu à 20€ sur TikTok Shop : offre cocooning TikTok · woltuhomefr|value=
+                                                          AXHeading|title=Fauteuil suspendu à 20€ sur TikTok Shop : offre cocooning|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Fauteuil suspendu à 20€ sur TikTok Shop : offre cocooning
+                                                          AXStaticText|title=|desc=|value=TikTok
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=woltuhomefr
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=Mobilier de jardin Hespéride on Instagram: "Ils offrent tous ... par Mobilier de jardin Hespéride sur Instagram. Lire sur Instagram. 0:13|value=
+                                                      AXLink|title=|desc=Mobilier de jardin Hespéride on Instagram: "Ils offrent tous ... Instagram · Mobilier de jardin Hespéride|value=
+                                                          AXHeading|title=Mobilier de jardin Hespéride on Instagram: "Ils offrent tous ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Mobilier de jardin Hespéride on Instagram: "Ils offrent tous ...
+                                                          AXStaticText|title=|desc=|value=Instagram
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Mobilier de jardin Hespéride
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=Fauteuil suspendu déco: mon coin préféré pour se détendre par coiffeusevibes sur TikTok. Lire sur TikTok. 0:45|value=
+                                                      AXLink|title=|desc=Fauteuil suspendu déco: mon coin préféré pour se détendre TikTok · coiffeusevibes|value=
+                                                          AXHeading|title=Fauteuil suspendu déco: mon coin préféré pour se détendre|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Fauteuil suspendu déco: mon coin préféré pour se détendre
+                                                          AXStaticText|title=|desc=|value=TikTok
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=coiffeusevibes
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=Arrivage de cinq fauteuil suspendu 119.99€ idéal pour ... par Noz Creuzier le vieux sur Facebook. Lire sur Facebook. 0:05|value=
+                                                      AXLink|title=|desc=Arrivage de cinq fauteuil suspendu 119.99€ idéal pour ... Facebook · Noz Creuzier le vieux|value=
+                                                          AXHeading|title=Arrivage de cinq fauteuil suspendu 119.99€ idéal pour ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Arrivage de cinq fauteuil suspendu 119.99€ idéal pour ...
+                                                          AXStaticText|title=|desc=|value=Facebook
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Noz Creuzier le vieux
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                    AXButton|title=|desc=Faire soit meme un fauteuil suspendu en tissage macramé ... par VKPASSIONDECO sur YouTube. Lire sur Google. 0:53|value=
+                                                      AXLink|title=|desc=Faire soit meme un fauteuil suspendu en tissage macramé ... YouTube · VKPASSIONDECO|value=
+                                                          AXHeading|title=Faire soit meme un fauteuil suspendu en tissage macramé ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Faire soit meme un fauteuil suspendu en tissage macramé ...
+                                                          AXStaticText|title=|desc=|value=YouTube
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=VKPASSIONDECO
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                                      AXLink|title=|desc=Vous allez adorer profiter de votre jardin ou de votre balcon ... par Mr.Bricolage sur Facebook. Lire sur Facebook. 1:39|value=
+                                                      AXLink|title=|desc=Vous allez adorer profiter de votre jardin ou de votre balcon ... Facebook · Mr.Bricolage|value=
+                                                          AXHeading|title=Vous allez adorer profiter de votre jardin ou de votre balcon ...|desc=|value=3
+                                                            AXStaticText|title=|desc=|value=Vous allez adorer profiter de votre jardin ou de votre balcon ...
+                                                          AXStaticText|title=|desc=|value=Facebook
+                                                          AXStaticText|title=|desc=|value= · 
+                                                          AXStaticText|title=|desc=|value=Mr.Bricolage
+                                                          AXButton|title=|desc=À propos de ce résultat|value=
+                                        AXLink|title=|desc=Plus de vidéos courtes|value=
+                                            AXStaticText|title=|desc=|value=Plus de vidéos courtes
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Fauteuil suspendu sur pied|value=
+                                        AXStaticText|title=|desc=|value=Fauteuil suspendu 
+                                        AXStaticText|title=|desc=|value=sur pied
+                                      AXLink|title=|desc=Fauteuil suspendu IKEA|value=
+                                        AXStaticText|title=|desc=|value=Fauteuil suspendu 
+                                        AXStaticText|title=|desc=|value=IKEA
+                                      AXLink|title=|desc=Fauteuil suspendu GiFi|value=
+                                        AXStaticText|title=|desc=|value=Fauteuil suspendu 
+                                        AXStaticText|title=|desc=|value=GiFi
+                                      AXLink|title=|desc=Fauteuil suspendu intérieur|value=
+                                        AXStaticText|title=|desc=|value=Fauteuil suspendu 
+                                        AXStaticText|title=|desc=|value=intérieur
+                                      AXLink|title=|desc=Fauteuil suspendu 2 places|value=
+                                        AXStaticText|title=|desc=|value=Fauteuil suspendu 
+                                        AXStaticText|title=|desc=|value=2 places
+                                      AXLink|title=|desc=Fauteuil suspendu plafond|value=
+                                        AXStaticText|title=|desc=|value=Fauteuil suspendu 
+                                        AXStaticText|title=|desc=|value=plafond
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=7
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=6
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=7
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=6
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=fauteuil suspendu - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

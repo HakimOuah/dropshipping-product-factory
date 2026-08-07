@@ -1,0 +1,549 @@
+AXWindow|title=pergola bioclimatique - Recherche Google - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=pergola bioclimatique - Recherche Google - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=pergola%20bioclimatique&hl=fr&gl=fr&pws=0
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=pergola bioclimatique - Recherche Google|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=pergola bioclimatique
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                        AXButton|title=|desc=Partager|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                            AXLink|title=|desc=Tous|value=
+                                                AXStaticText|title=|desc=|value=Tous
+                                            AXLink|title=|desc=Produits|value=
+                                              AXStaticText|title=|desc=|value=Produits
+                                            AXLink|title=|desc=Sites de produits|value=
+                                              AXStaticText|title=|desc=|value=Sites de produits
+                                            AXLink|title=|desc=Images|value=
+                                              AXStaticText|title=|desc=|value=Images
+                                            AXLink|title=|desc=Vidéos|value=
+                                              AXStaticText|title=|desc=|value=Vidéos
+                                            AXLink|title=|desc=Lieux|value=
+                                              AXStaticText|title=|desc=|value=Lieux
+                                            AXLink|title=|desc=Vidéos courtes|value=
+                                              AXStaticText|title=|desc=|value=Vidéos courtes
+                                            AXButton|title=Plus de filtres|desc=|value=
+                                              AXGroup|title=|desc=Plus de filtres|value=
+                                                AXStaticText|title=|desc=|value=Plus
+                                          AXButton|title=Outils|desc=|value=
+                                            AXLink|title=|desc=Ajouter Acier|value=
+                                              AXStaticText|title=|desc=|value=Acier
+                                            AXLink|title=|desc=Ajouter Rétractable|value=
+                                              AXStaticText|title=|desc=|value=Rétractable
+                                            AXLink|title=|desc=Ajouter Somfy|value=
+                                              AXStaticText|title=|desc=|value=Somfy
+                                            AXLink|title=|desc=Ajouter Bois|value=
+                                              AXStaticText|title=|desc=|value=Bois
+                                            AXLink|title=|desc=Ajouter Métal|value=
+                                              AXStaticText|title=|desc=|value=Métal
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                                  AXHeading|title=95390 Saint-Prix|desc=|value=2
+                                    AXStaticText|title=|desc=|value=95390 Saint-Prix
+                                    AXButton|title=Choisir une zone|desc=|value=
+                                    AXButton|title=|desc=Comment la position est utilisée|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Pergola bioclimatique - Hespéride hesperide https://www.hesperide.com › ... › Pergola|value=
+                                            AXHeading|title=Pergola bioclimatique - Hespéride|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Pergola bioclimatique - Hespéride
+                                              AXStaticText|title=|desc=|value=hesperide
+                                                AXStaticText|title=|desc=|value=https://www.hesperide.com
+                                                AXStaticText|title=|desc=|value= › ... › Pergola
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Profitez des soldes sur nos 
+                                            AXStaticText|title=|desc=|value=pergolas bioclimatiques
+                                          AXStaticText|title=|desc=|value=. Modèles à lames orientables, manuels ou électriques en aluminium. 449 €,30 PROMO
+                                          AXLink|title=|desc=pergola bioclimatique sur www.hesperide.com|value=
+                                              AXImage|title=|desc=pergola bioclimatique sur www.hesperide.com|value=
+                                            AXImage|title=|desc=Note : 4,6 sur 5 (152) avis d'utilisateurs|value=
+                                            AXStaticText|title=|desc=|value=Retours sous 30 jour(s)
+                                            AXStaticText|title=|desc=|value=   
+                                          AXLink|title=|desc=Pergola Bioclimatique en Aluminium Gustave Rideau https://www.gustaverideau.com › style-bioclimatik|value=
+                                            AXHeading|title=Pergola Bioclimatique en Aluminium|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Pergola Bioclimatique en Aluminium
+                                              AXStaticText|title=|desc=|value=Gustave Rideau
+                                                AXStaticText|title=|desc=|value=https://www.gustaverideau.com
+                                                AXStaticText|title=|desc=|value= › style-bioclimatik
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Fabriquée en France, 
+                                            AXStaticText|title=|desc=|value=À partir de 8 750€TTC 4x3,5 m
+                                          AXStaticText|title=|desc=|value=, Fabriquée en France dans nos ateliers vendéens, la pergola Bioclimatique est réalisée en aluminium labellis ...
+                                          AXLink|title=|desc=pergola bioclimatique sur www.gustaverideau.com|value=
+                                              AXImage|title=|desc=pergola bioclimatique sur www.gustaverideau.com|value=
+                                          AXLink|title=|desc=Pergola bioclimatique pour votre terrasse et votre extérieur Leroy Merlin https://www.leroymerlin.fr › ... › Pergola|value=
+                                            AXHeading|title=Pergola bioclimatique pour votre terrasse et votre extérieur|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Pergola bioclimatique pour votre terrasse et votre extérieur
+                                              AXStaticText|title=|desc=|value=Leroy Merlin
+                                                AXStaticText|title=|desc=|value=https://www.leroymerlin.fr
+                                                AXStaticText|title=|desc=|value= › ... › Pergola
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=La pergola bioclimatique permet de profiter pleinement de votre espace extérieur
+                                          AXStaticText|title=|desc=|value= tout en vous protégeant des caprices de la météo grâce à ses lames orientables, ...
+                                          AXLink|title=|desc=Images concernant pergola bioclimatique sur www.leroymerlin.fr|value=
+                                          AXStaticText|title=|desc=|value=Montigny-lès-Cormeilles · Ouvert
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante Clima NATERIAL. Prix actuel : 1 190,00 €. Leroy Merlin. En magasin. Note : 4,7 sur 5. 194 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante NATERIAL Clima alu gris anthracite. PROMOTION. Prix actuel : 1 490,00 €. Avant : 1 599 €. Leroy Merlin. En magasin. Note : 4,7 sur 5. 135 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante 100 acier 3x3m coloris anthracite. Prix actuel : 599,90 €. OOGarden.com. En magasin. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique aluminium. PROMOTION. Prix actuel : 1 149,90 €. Avant : 1 650 €. Plus de prix disponibles. castorama.fr et plus. Note : 4,1 sur 5. 78 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hespéride Pergola bioclimatique Evora. Prix actuel : 2 290,00 €. Plus de prix disponibles. prix.net et plus. Note : 4,9 sur 5. 18 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique gaya structure en aluminium et en acier. Prix actuel : 769,99 €. Plus de prix disponibles. Klarna et plus. Note : 3,8 sur 5. 34 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante NATERIAL Astra alu gris anthracite. Prix actuel : 1 990,00 €. Leroy Merlin. En magasin. Note : 4,7 sur 5. 73 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante alu acier coloris anthracite. Prix actuel : 949,00 €. OOGarden.com. En magasin. Note : 4,4 sur 5. 11 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                            AXLink|title=|desc=Afficher plus de produits|value=
+                                                AXStaticText|title=|desc=|value=Afficher plus de produits
+                                        AXHeading|title=Sites de produits|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de produits
+                                                AXLink|title=|desc=Pergolas Idealo|value=
+                                                AXHeading|title=Pergolas|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergolas
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Pergola bioclimatique – Trouvez le meilleur prix leDénicheur|value=
+                                                AXHeading|title=Pergola bioclimatique – Trouvez le meilleur prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique – Trouvez le meilleur prix
+                                                    AXStaticText|title=|desc=|value=leDénicheur
+                                                AXLink|title=|desc=Pergola bioclimatique 3x3m avec volets, anthracite Cherchons.com|value=
+                                                AXHeading|title=Pergola bioclimatique 3x3m avec volets, anthracite|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique 3x3m avec volets, anthracite
+                                                    AXStaticText|title=|desc=|value=Cherchons.com
+                                                AXLink|title=|desc=Pergola 2026 en soldes sur idealo.fr idealo|value=
+                                                AXHeading|title=Pergola 2026 en soldes sur idealo.fr|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergola 2026 en soldes sur idealo.fr
+                                                    AXStaticText|title=|desc=|value=idealo
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                        AXHeading|title=Autres questions|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Autres questions
+                                              AXButton|title=Est-ce qu'on paye des impôts sur une pergola ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Est-ce qu'on paye des impôts sur une pergola ?
+                                              AXButton|title=Il fait chaud sous une pergola bioclimatique ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Il fait chaud sous une pergola bioclimatique ?
+                                              AXButton|title=Quel est le coût moyen d'une pergola bioclimatique ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Quel est le coût moyen d'une pergola bioclimatique ?
+                                              AXButton|title=Est-ce qu'une pergola de moins de 20 m2 est imposable ?|desc=|value=
+                                                AXStaticText|title=|desc=|value=Est-ce qu'une pergola de moins de 20 m2 est imposable ?
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Pergola bioclimatique en aluminium - Livraison gratuite ombrea https://pergola-ombrea.com › Accueil › Nos produits|value=
+                                            AXHeading|title=Pergola bioclimatique en aluminium - Livraison gratuite|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Pergola bioclimatique en aluminium - Livraison gratuite
+                                              AXStaticText|title=|desc=|value=ombrea
+                                                AXStaticText|title=|desc=|value=https://pergola-ombrea.com
+                                                AXStaticText|title=|desc=|value= › Accueil › Nos produits
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Plus performante qu'une pergola classique, la 
+                                            AXStaticText|title=|desc=|value=pergola bioclimatique est équipée de lames orientables
+                                          AXStaticText|title=|desc=|value=. Cela permet de contrôler l'ensoleillement et la ...
+                                            AXStaticText|title=|desc=|value=Livraison gratuite
+                                            AXStaticText|title=|desc=|value=Retours sous 14 jour(s)
+                                          AXLink|title=|desc=Images concernant pergola bioclimatique sur pergola-ombrea.com|value=
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                        AXHeading|title=Carte|desc=|value=3
+                                          AXStaticText|title=|desc=|value=Carte
+                                              AXGroup|title=|desc=Carte|value=
+                                                AXButton|title=|desc=Développer la carte|value=
+                                                      AXStaticText|title=|desc=|value=Données cartographiques © 2026 Google
+                                                      AXLink|title=|desc=Conditions d'utilisation|value=
+                                                        AXStaticText|title=|desc=|value=Conditions d'utilisation
+                                              AXButton|title=AKENA véranda, extension de maison, pergola bioclimatique, carport et pool house Taverny Note : 5,0 sur 5 3 avis d'utilisateurs · Fabricant d'abris voiture et de pergolas Taverny · 01 30 37 08 58 Ferme bientôt · 17:30|desc=|value=
+                                                AXHeading|title=AKENA véranda, extension de maison, pergola bioclimatique, carport et pool house Taverny|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=AKENA véranda, extension de maison, pergola bioclimatique, carport et pool house Taverny
+                                                  AXImage|title=|desc=Note : 5,0 sur 5 3 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Fabricant d'abris voiture et de pergolas
+                                                  AXStaticText|title=|desc=|value=Taverny · 01 30 37 08 58
+                                                  AXStaticText|title=|desc=|value=Ferme bientôt
+                                                  AXStaticText|title=|desc=|value= · 17:30
+                                              AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXLink|title=|desc=Itinéraire|value=
+                                                    AXStaticText|title=|desc=|value=Itinéraire
+                                              AXButton|title=Espacepergola - Spécialiste Pergolas et Abris en Île-de-France Note : 5,0 sur 5 3 avis d'utilisateurs · Fabricant d'abris voiture et de pergolas Éragny Ouvert · Ferme à 18:30|desc=|value=
+                                                AXHeading|title=Espacepergola - Spécialiste Pergolas et Abris en Île-de-France|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Espacepergola - Spécialiste Pergolas et Abris en Île-de-France
+                                                  AXImage|title=|desc=Note : 5,0 sur 5 3 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Fabricant d'abris voiture et de pergolas
+                                                  AXStaticText|title=|desc=|value=Éragny
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 18:30
+                                              AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXLink|title=|desc=Itinéraire|value=
+                                                    AXStaticText|title=|desc=|value=Itinéraire
+                                              AXButton|title=Vie & Véranda Note : 4,6 sur 5 61 avis d'utilisateurs · Entreprise de construction Pierrelaye · 01 39 09 12 13 Ouvert · Ferme à 19:00|desc=|value=
+                                                AXHeading|title=Vie & Véranda|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Vie & Véranda
+                                                  AXImage|title=|desc=Note : 4,6 sur 5 61 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Entreprise de construction
+                                                  AXStaticText|title=|desc=|value=Pierrelaye · 01 39 09 12 13
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 19:00
+                                              AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXLink|title=|desc=Itinéraire|value=
+                                                    AXStaticText|title=|desc=|value=Itinéraire
+                                        AXHeading|title=Voir plus de lieux|desc=|value=3
+                                            AXLink|title=|desc=Voir plus de lieux|value=
+                                                AXStaticText|title=|desc=|value=Voir plus de lieux
+                                        AXHeading|title=Sites de lieux|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Sites de lieux
+                                                AXLink|title=|desc=Pergolas Idealo|value=
+                                                AXHeading|title=Pergolas|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergolas
+                                                    AXStaticText|title=|desc=|value=Idealo
+                                                AXLink|title=|desc=Pergola Bioclimatique, Achat Pergolas au Meilleur Prix Carrefour|value=
+                                                AXHeading|title=Pergola Bioclimatique, Achat Pergolas au Meilleur Prix|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergola Bioclimatique, Achat Pergolas au Meilleur Prix
+                                                    AXStaticText|title=|desc=|value=Carrefour
+                                                AXLink|title=|desc=Pergola bioclimatique : les points à vérifier avant de transformer sa terrasse SeLoger|value=
+                                                AXHeading|title=Pergola bioclimatique : les points à vérifier avant de transformer sa terrasse|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergola bioclimatique : les points à vérifier avant de transformer sa terrasse
+                                                    AXStaticText|title=|desc=|value=SeLoger
+                                                AXLink|title=|desc=Quelle est la meilleure pergola bioclimatique ? Ootravaux|value=
+                                                AXHeading|title=Quelle est la meilleure pergola bioclimatique ?|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Quelle est la meilleure pergola bioclimatique ?
+                                                    AXStaticText|title=|desc=|value=Ootravaux
+                                                  AXLink|title=|desc=Adossée, autoportée, bioclimatique ou rétractable… Chaque pergola a ses avantages. 🤔 Besoin d’un coup de pouce pour trouver le match parfait ? Nos experts en magasin sont là pour vous guider 🌿🏡 Facebook|value=
+                                                  AXHeading|title=Adossée, autoportée, bioclimatique ou rétractable… Chaque pergola a ses avantages. 🤔 Besoin d’un coup de pouce pour trouver le match parfait ? Nos experts en magasin sont là pour vous guider 🌿🏡|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Adossée, autoportée, bioclimatique ou rétractable… Chaque pergola a ses avantages. 🤔 Besoin d’un coup de pouce pour trouver le match parfait ? Nos experts en magasin sont là pour vous guider 🌿🏡
+                                                      AXStaticText|title=|desc=|value=Facebook
+                                                  AXLink|title=|desc=Pergolas bioclimatiques – Découvrez les produits Europages|value=
+                                                  AXHeading|title=Pergolas bioclimatiques – Découvrez les produits|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Pergolas bioclimatiques – Découvrez les produits
+                                                      AXStaticText|title=|desc=|value=Europages
+                                        AXLink|title=|desc=Plus de sites|value=
+                                            AXStaticText|title=|desc=|value=Plus de sites
+                                        AXHeading|title=Images|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Images
+                                              AXLink|title=|desc=Les pergolas bioclimatiques sont-elles imposables ... Concept Alu|value=
+                                              AXButton|title=Les pergolas bioclimatiques sont-elles imposables ...|desc=|value=
+                                                  AXImage|title=|desc=Les pergolas bioclimatiques sont-elles imposables ...|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Pergola bioclimatique électrique EVORA Graphite Hespéride|value=
+                                              AXButton|title=Pergola bioclimatique électrique EVORA Graphite|desc=|value=
+                                                  AXImage|title=|desc=Pergola bioclimatique électrique EVORA Graphite|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Pergola bioclimatique simple module Akena|value=
+                                              AXButton|title=Pergola bioclimatique simple module|desc=|value=
+                                                  AXImage|title=|desc=Pergola bioclimatique simple module|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Pergola bioclimatique 10,8 m² paroi orientable effet bois ... Mon Aménagement Jardin|value=
+                                              AXButton|title=Pergola bioclimatique 10,8 m² paroi orientable effet bois ...|desc=|value=
+                                                  AXImage|title=|desc=Pergola bioclimatique 10,8 m² paroi orientable effet bois ...|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Pergola ALU bioclimatique | GOPLAST GoPlast|value=
+                                              AXButton|title=Pergola ALU bioclimatique | GOPLAST|desc=|value=
+                                                  AXImage|title=|desc=Pergola ALU bioclimatique | GOPLAST|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                              AXLink|title=|desc=Pergola bioclimatique aluminium Chausson|value=
+                                              AXButton|title=Pergola bioclimatique aluminium|desc=|value=
+                                                  AXImage|title=|desc=Pergola bioclimatique aluminium|value=
+                                                    AXButton|title=|desc=À propos de ce résultat|value=
+                                      AXButton|title=Afficher plus d'images|desc=|value=
+                                          AXStaticText|title=|desc=|value=Afficher plus d'images
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante motorisée aluminium Breva coloris. Prix actuel : 2 499,90 €. castorama.fr. Note : 4,8 sur 5. 15 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Cazeboo Pergola bioclimatique autoportée PIANA Aluminium. Prix actuel : 1 049,00 €. Plus de prix disponibles. Bigshopper et plus. Note : 4,0 sur 5. 86 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola Bioclimatique Autoportante 3x3m À Lame Orientable Gris Anth. Prix actuel : 599,99 €. Carrefour. Note : 4,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante Clima NATERIAL aluminium Blanc. PROMOTION. Prix actuel : 1 490,00 €. Avant : 1 599 €. Leroy Merlin. En magasin. Note : 4,7 sur 5. 72 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportée motorisée éclairée 3x4m stores. PROMOTION. Prix actuel : 2 399,20 €. Avant : 2 999 €. Plus de prix disponibles. Amazon et plus. Note : 4,4 sur 5. 13 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique autoportante anthracite. Prix actuel : 1 979,00 €. Plus de prix disponibles. idealo France et plus. Note : 4,8 sur 5. 4 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique Avec Store en Acier Galvanisé "howard. Prix actuel : 1 199,00 €. Plus de prix disponibles. meubles.fr et plus. Note : 3,7 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique adossée Odyssea NATERIAL. Prix actuel : 1 159,00 €. Leroy Merlin. En magasin. Note : 4,4 sur 5. 407 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats de recherche à proximité|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats de recherche à proximité
+                                        AXHeading|title=Adresses|desc=|value=2
+                                          AXStaticText|title=|desc=|value=Adresses
+                                            AXButton|title=|desc=Plus d'infos|value=
+                                              AXButton|title=Pergola Ombréa – Pergolas et carports bioclimatiques conçus en France Note : 4,2 sur 5 73 avis d'utilisateurs · Fabricant d'abris voiture et de pergolas 01 34 07 99 06 Fermé · Ouvre à 09:30 lun.|desc=|value=
+                                                AXHeading|title=Pergola Ombréa – Pergolas et carports bioclimatiques conçus en France|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Pergola Ombréa – Pergolas et carports bioclimatiques conçus en France
+                                                  AXImage|title=|desc=Note : 4,2 sur 5 73 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Fabricant d'abris voiture et de pergolas
+                                                  AXStaticText|title=|desc=|value=01 34 07 99 06
+                                                  AXStaticText|title=|desc=|value=Fermé
+                                                  AXStaticText|title=|desc=|value= · Ouvre à 09:30 lun.
+                                              AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXButton|title=Komilfo Agence Storat à Franconville - Pergolas, Stores, Fenêtres, Menuiseries Note : 4,9 sur 5 339 avis d'utilisateurs · Menuisier Franconville · 01 34 13 11 11 Ferme bientôt · 17:30 Livraison|desc=|value=
+                                                AXHeading|title=Komilfo Agence Storat à Franconville - Pergolas, Stores, Fenêtres, Menuiseries|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Komilfo Agence Storat à Franconville - Pergolas, Stores, Fenêtres, Menuiseries
+                                                  AXImage|title=|desc=Note : 4,9 sur 5 339 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Menuisier
+                                                  AXStaticText|title=|desc=|value=Franconville · 01 34 13 11 11
+                                                  AXStaticText|title=|desc=|value=Ferme bientôt
+                                                  AXStaticText|title=|desc=|value= · 17:30
+                                                AXStaticText|title=|desc=|value=Livraison
+                                              AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXLink|title=|desc=Itinéraire|value=
+                                                    AXStaticText|title=|desc=|value=Itinéraire
+                                              AXButton|title=Keg System Note : 5,0 sur 5 3 avis d'utilisateurs · Fabricant d'abris voiture et de pergolas Paris · 01 53 24 00 72 Ouvert · Ferme à 18:00|desc=|value=
+                                                AXHeading|title=Keg System|desc=|value=3
+                                                  AXStaticText|title=|desc=|value=Keg System
+                                                  AXImage|title=|desc=Note : 5,0 sur 5 3 avis d'utilisateurs|value=
+                                                  AXStaticText|title=|desc=|value= · Fabricant d'abris voiture et de pergolas
+                                                  AXStaticText|title=|desc=|value=Paris · 01 53 24 00 72
+                                                  AXStaticText|title=|desc=|value=Ouvert
+                                                  AXStaticText|title=|desc=|value= · Ferme à 18:00
+                                              AXLink|title=|desc=Site Web|value=
+                                                  AXStaticText|title=|desc=|value=Site Web
+                                              AXLink|title=|desc=Itinéraire|value=
+                                                    AXStaticText|title=|desc=|value=Itinéraire
+                                                            AXButton|title=|desc=Pergola Bioclimatique Aluminium H3 Adossée Lames Orientables Perpendiculaires Électrique (Moteurs Double Vérins) Sur Mesure À Chaque Poteau (Recomman. Prix actuel : 4 408,15 €. Usine Online. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique adossée Piana Aluminium. Prix actuel : 989,00 €. Plus de prix disponibles. idealo France et plus. Note : 4,0 sur 5. 16 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Pergola bioclimatique acier 4x3m avec lames orientables. Prix actuel : 1 499,00 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 4,9 sur 5. 24 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Gecko Jardin Pergola bioclimatique Zeus. Prix actuel : 1 263,90 €. Plus de prix disponibles. Leroy Merlin et plus. Note : 2,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Idmarket Pergola bioclimatique lames orientables Acier 3x4 M Et 4 Stores gris. Prix actuel : 999,99 €. Plus de prix disponibles. e.leclerc et plus. Note : 3,8 sur 5. 29 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Idmarket Pergola Bioclimatique lames orientables acier 3x4 M. Prix actuel : 969,99 €. Plus de prix disponibles. LionsHome et plus. Note : 4,3 sur 5. 14 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Concept Usine Pergola bioclimatique structure aluminium lames orientables Corfu. PROMOTION. Prix actuel : 849,90 €. Avant : 1 100 €. Plus de prix disponibles. Nature & Découvertes FR et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Hespéride Pergola bioclimatique autoportante EVORA 6x3m. Prix actuel : 2 990,00 €. Plus de prix disponibles. Hespéride et plus. Note : 4,9 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                      AXHeading|title=Résultats Web|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Résultats Web
+                                          AXLink|title=|desc=Tout savoir sur la pergola bioclimatique Quelle Energie https://www.quelleenergie.fr › pergola-bioclimatique|value=
+                                            AXHeading|title=Tout savoir sur la pergola bioclimatique|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Tout savoir sur la pergola bioclimatique
+                                              AXStaticText|title=|desc=|value=Quelle Energie
+                                                AXStaticText|title=|desc=|value=https://www.quelleenergie.fr
+                                                AXStaticText|title=|desc=|value= › pergola-bioclimatique
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=La pergola bioclimatique est un module comprenant une structure en alu, en bois ou en acier
+                                          AXStaticText|title=|desc=|value= (poteaux et chéneaux), et un toit composé de lattes orientables.
+                                          AXLink|title=|desc=pergola bioclimatique sur www.quelleenergie.fr|value=
+                                              AXImage|title=|desc=pergola bioclimatique sur www.quelleenergie.fr|value=
+                                          AXImage|title=|desc=Note : 4,4 sur 5 (7 545) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value= · 
+                                          AXStaticText|title=|desc=|value=Gratuit
+                                          AXStaticText|title=|desc=|value=   
+                                          AXLink|title=|desc=Pergola bioclimatique en aluminium Akena https://www.akena.com › Pergolas|value=
+                                            AXHeading|title=Pergola bioclimatique en aluminium|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Pergola bioclimatique en aluminium
+                                              AXStaticText|title=|desc=|value=Akena
+                                                AXStaticText|title=|desc=|value=https://www.akena.com
+                                                AXStaticText|title=|desc=|value= › Pergolas
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXStaticText|title=|desc=|value=Pergola bioclimatique
+                                          AXStaticText|title=|desc=|value= : des lames orientables pour s'adapter à toutes les conditions météo ; Pergola bioclimatique poteaux déportés. 11689€ ; Pergola ...
+                                          AXLink|title=|desc=Images concernant pergola bioclimatique sur www.akena.com|value=
+                                          AXLink|title=|desc=PERGOLA BIOCLIMATIQUE : un abri tonnelle adaptable ... France Abris https://www.franceabris.com › 398-pergola-bioclimatique|value=
+                                            AXHeading|title=PERGOLA BIOCLIMATIQUE : un abri tonnelle adaptable ...|desc=|value=3
+                                              AXStaticText|title=|desc=|value=PERGOLA BIOCLIMATIQUE : un abri tonnelle adaptable ...
+                                              AXStaticText|title=|desc=|value=France Abris
+                                                AXStaticText|title=|desc=|value=https://www.franceabris.com
+                                                AXStaticText|title=|desc=|value= › 398-pergola-bioclimatique
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=Une pergola bioclimatique adossée 
+                                            AXStaticText|title=|desc=|value=prolonge naturellement le séjour ou la cuisine vers l'extérieur
+                                          AXStaticText|title=|desc=|value=, créant un espace tampon très apprécié. À l'inverse, une ...
+                                          AXLink|title=|desc=Images concernant pergola bioclimatique sur www.franceabris.com|value=
+                                          AXLink|title=|desc=Pergola bioclimatique : principe, avantages et prix LaPrimeEnergie.fr https://www.laprimeenergie.fr › les-travaux › bioclimati...|value=
+                                            AXHeading|title=Pergola bioclimatique : principe, avantages et prix|desc=|value=3
+                                              AXStaticText|title=|desc=|value=Pergola bioclimatique : principe, avantages et prix
+                                              AXStaticText|title=|desc=|value=LaPrimeEnergie.fr
+                                                AXStaticText|title=|desc=|value=https://www.laprimeenergie.fr
+                                                AXStaticText|title=|desc=|value= › les-travaux › bioclimati...
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                          AXStaticText|title=|desc=|value=La pergola bioclimatique est un 
+                                            AXStaticText|title=|desc=|value=abri équipé d'un toit à lames orientables
+                                          AXStaticText|title=|desc=|value=, qui régulent la température, la luminosité et la ventilation de votre espace ...
+                                          AXLink|title=|desc=pergola bioclimatique sur www.laprimeenergie.fr|value=
+                                              AXImage|title=|desc=pergola bioclimatique sur www.laprimeenergie.fr|value=
+                                          AXImage|title=|desc=Note : 4,4 sur 5 (7 517) avis d'utilisateurs|value=
+                                          AXStaticText|title=|desc=|value= · 
+                                          AXStaticText|title=|desc=|value=Gratuit
+                                          AXStaticText|title=|desc=|value=   
+                                      AXGroup|title=|desc=Annonces|value=
+                                            AXHeading|title=Résultats sponsorisés|desc=|value=2
+                                              AXStaticText|title=|desc=|value=Résultats sponsorisés
+                                                AXLink|title=|desc=Pergola Expert - Agréé & Garantie 10 Ans - Clients 100% Satisfaits contact-homso-confort.fr https://www.contact-homso-confort.fr › pergola › &|value=
+                                                  AXHeading|title=Pergola Expert - Agréé & Garantie 10 Ans - Clients 100% Satisfaits|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Pergola Expert - Agréé & Garantie 10 Ans - Clients 100% Satisfaits
+                                                      AXStaticText|title=|desc=|value=contact-homso-confort.fr
+                                                    AXStaticText|title=|desc=|value=https://www.contact-homso-confort.fr › pergola › &
+                                                  AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                AXStaticText|title=|desc=|value=Vous Recherchez: 
+                                                  AXStaticText|title=|desc=|value=Pergola
+                                                AXStaticText|title=|desc=|value= ? Entreprise Certifié & de Votre Ville. Plus de 10 000 Clients, Expert...
+                                                AXLink|title=|desc=Pergola en Soldes - Prix Usine - Déstockage -50% - Fin de Série cleanjardin-fr.com https://www.cleanjardin-fr.com|value=
+                                                  AXHeading|title=Pergola en Soldes - Prix Usine - Déstockage -50% - Fin de Série|desc=|value=3
+                                                    AXStaticText|title=|desc=|value=Pergola en Soldes - Prix Usine - Déstockage -50% - Fin de Série
+                                                      AXStaticText|title=|desc=|value=cleanjardin-fr.com
+                                                    AXStaticText|title=|desc=|value=https://www.cleanjardin-fr.com
+                                                  AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                AXStaticText|title=|desc=|value=Spécialiste Maison & Jardin. Satisfait ou Remboursé. Livraison Rapide avec Suivi Offerte.
+                                                    AXStaticText|title=|desc=|value=Plus de 10 000 visites le mois dernier
+                                        AXButton|title=Masquer les résultats sponsorisés|desc=|value=
+                                            AXStaticText|title=|desc=|value=Masquer les résultats sponsorisés
+                                      AXHeading|title=Recherches associées|desc=|value=2
+                                        AXStaticText|title=|desc=|value=Recherches associées
+                                      AXLink|title=|desc=Pergola bioclimatique 4x3|value=
+                                        AXStaticText|title=|desc=|value=Pergola bioclimatique 
+                                        AXStaticText|title=|desc=|value=4x3
+                                      AXLink|title=|desc=Pergola bioclimatique prix|value=
+                                        AXStaticText|title=|desc=|value=Pergola bioclimatique 
+                                        AXStaticText|title=|desc=|value=prix
+                                      AXLink|title=|desc=Pergola bioclimatique Leroy Merlin|value=
+                                        AXStaticText|title=|desc=|value=Pergola bioclimatique 
+                                        AXStaticText|title=|desc=|value=Leroy Merlin
+                                      AXLink|title=|desc=Pergola bioclimatique 6x4|value=
+                                        AXStaticText|title=|desc=|value=Pergola bioclimatique 
+                                        AXStaticText|title=|desc=|value=6x4
+                                      AXLink|title=|desc=Pergola bioclimatique 6x3|value=
+                                        AXStaticText|title=|desc=|value=Pergola bioclimatique 
+                                        AXStaticText|title=|desc=|value=6x3
+                                      AXLink|title=|desc=Pergola bioclimatique 3x3|value=
+                                        AXStaticText|title=|desc=|value=Pergola bioclimatique 
+                                        AXStaticText|title=|desc=|value=3x3
+                                  AXHeading|title=Navigation par pages|desc=|value=1
+                                    AXStaticText|title=|desc=|value=Navigation par pages
+                                  AXStaticText|title=|desc=|value=1
+                                  AXLink|title=|desc=Page 2|value=
+                                    AXStaticText|title=|desc=|value=2
+                                  AXLink|title=|desc=Page 3|value=
+                                    AXStaticText|title=|desc=|value=3
+                                  AXLink|title=|desc=Page 4|value=
+                                    AXStaticText|title=|desc=|value=4
+                                  AXLink|title=|desc=Page 5|value=
+                                    AXStaticText|title=|desc=|value=5
+                                  AXLink|title=|desc=Page 6|value=
+                                    AXStaticText|title=|desc=|value=6
+                                  AXLink|title=|desc=Page 7|value=
+                                    AXStaticText|title=|desc=|value=7
+                                  AXLink|title=|desc=Page 8|value=
+                                    AXStaticText|title=|desc=|value=8
+                                  AXLink|title=|desc=Page 9|value=
+                                    AXStaticText|title=|desc=|value=9
+                                  AXLink|title=|desc=Page 10|value=
+                                    AXStaticText|title=|desc=|value=10
+                                  AXHeading|title=Suivant|desc=|value=2
+                                    AXLink|title=|desc=Suivant|value=
+                                      AXStaticText|title=|desc=|value=Suivant
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXPopUpButton|title=|desc=|value=Tous les résultats organiques
+                                  AXMenuItem|title=|desc=|value=Tous les résultats organiques
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=8
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=2
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=6
+                                      AXStaticText|title=|desc=|value=Résultats organiques
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=Inscriptions locales
+                                      AXStaticText|title=|desc=|value=8
+                                      AXStaticText|title=|desc=|value=2
+                                      AXStaticText|title=|desc=|value=24
+                                      AXStaticText|title=|desc=|value=6
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                          AXHeading|title=Liens de pied de page|desc=|value=1
+                            AXStaticText|title=|desc=|value=Liens de pied de page
+                                AXStaticText|title=|desc=|value=Les résultats ne sont pas personnalisés
+                                  AXStaticText|title=|desc=|value=France
+                                        AXButton|title=95390, Saint-Prix  - D'après votre adresse IP|desc=|value=
+                                            AXStaticText|title=|desc=|value=95390, Saint-Prix
+                                            AXStaticText|title=|desc=|value= - 
+                                            AXStaticText|title=|desc=|value=D'après votre adresse IP
+                                      AXStaticText|title=|desc=|value= - 
+                                        AXButton|title=Mettre à jour ma position|desc=|value=
+                                          AXStaticText|title=|desc=|value=Mettre à jour ma position
+                                    AXLink|title=|desc=Aide|value=
+                                      AXStaticText|title=|desc=|value=Aide
+                                    AXLink|title=|desc=Envoyer des commentaires|value=
+                                      AXStaticText|title=|desc=|value=Envoyer des commentaires
+                                    AXLink|title=|desc=Confidentialité|value=
+                                      AXStaticText|title=|desc=|value=Confidentialité
+                                    AXLink|title=|desc=Conditions|value=
+                                      AXStaticText|title=|desc=|value=Conditions
+                                    AXLink|title=|desc=Info consommateurs|value=
+                                      AXStaticText|title=|desc=|value=Info consommateurs
+                                    AXLink|title=|desc=Signaler un contenu inapproprié|value=
+                                      AXStaticText|title=|desc=|value=Signaler un contenu inapproprié
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=pergola bioclimatique - Recherche Google|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=

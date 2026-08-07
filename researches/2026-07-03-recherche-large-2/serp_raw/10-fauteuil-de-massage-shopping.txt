@@ -1,0 +1,763 @@
+AXWindow|title=fauteuil de massage - Google Shopping - Google Chrome – Hakim|desc=|value=
+  AXGroup|title=fauteuil de massage - Google Shopping - Google Chrome – Hakim|desc=|value=
+              AXButton|title=|desc=Retour|value=
+              AXButton|title=|desc=Avancer|value=
+              AXButton|title=|desc=Actualiser|value=
+                AXPopUpButton|title=|desc=Afficher des informations à propos du site|value=
+                AXTextField|title=|desc=Barre d'adresse et de recherche|value=https://www.google.fr/search?q=fauteuil%20de%20massage&hl=fr&gl=fr&pws=0&udm=28
+                  AXButton|title=|desc=Ajouter cet onglet aux favoris|value=
+                AXPopUpButton|title=|desc=Adblock Plus
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=DSers-Dropship Helper+AliExpress Importer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=ColorZilla
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Wappalyzer
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Activer la vue mobile sur cet onglet
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Quelle police - trouveur de police
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Video Download Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Image Downloader
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=GoFullPage - Full Page Screen Capture
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Detailed SEO Extension
+Souhaite accéder à ce site|value=
+                AXPopUpButton|title=|desc=Meta Pixel Helper
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Claude
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Open Koala Inspector
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=AliExpress Capture|value=
+                AXPopUpButton|title=|desc=Codex
+A accès à ce site|value=
+                AXPopUpButton|title=|desc=Extensions|value=
+                AXCheckBox|title=|desc=Téléchargements|value=0
+              AXButton|title=|desc=Hakim|value=
+              AXPopUpButton|title=|desc=Terminer la mise à jour|value=
+            AXToolbar|title=|desc=Favoris|value=
+              AXToolbar|title=|desc=Groupes d'onglets enregistrés|value=
+                AXButton|title=|desc= groupe ✅GitHub repo visibility check – Ouvert|value=
+                AXButton|title=|desc= groupe Flippa dropshipping niches research – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe sans nom – Fermé|value=
+                AXButton|title=|desc= groupe Claude – Fermé|value=
+                AXButton|title=|desc=Groupes d'onglets|value=
+              AXSplitter|title=|desc=Séparateur|value=
+              AXButton|title=|desc=Bookmarks|value=
+              AXPopUpButton|title=|desc=Google|value=
+              AXPopUpButton|title=|desc=Facebook|value=
+              AXPopUpButton|title=|desc=Formations|value=
+              AXPopUpButton|title=|desc=SEO|value=
+              AXPopUpButton|title=|desc=Playse|value=
+              AXPopUpButton|title=|desc=MDS|value=
+              AXButton|title=|desc=Second Brain|value=
+              AXButton|title=|desc=Google Gemini|value=
+              AXPopUpButton|title=|desc=Dropshipping|value=
+              AXPopUpButton|title=|desc=Menu contenant des favoris masqués|value=
+              AXPopUpButton|title=|desc=Tous les favoris|value=
+              AXSplitter|title=|desc=Séparateur|value=
+                AXWebArea|title=fauteuil de massage - Google Shopping|desc=|value=
+                      AXLink|title=|desc=Passer directement au contenu principal|value=
+                        AXStaticText|title=|desc=|value=Passer directement au contenu principal
+                      AXLink|title=|desc=Désactiver le défilement continu|value=
+                        AXStaticText|title=|desc=|value=Désactiver le défilement continu
+                      AXLink|title=|desc=Aide sur l'accessibilité|value=
+                        AXStaticText|title=|desc=|value=Aide sur l'accessibilité
+                              AXLink|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                                AXImage|title=|desc=Coupe du Monde 2026 : l'art du petit pont|value=
+                              AXTextArea|title=|desc=Rech.|value=fauteuil de massage
+                              AXButton|title=|desc=Effacer|value=
+                              AXButton|title=|desc=Utiliser la recherche vocale|value=
+                              AXButton|title=|desc=Rechercher par image|value=
+                              AXButton|title=|desc=Rechercher|value=
+                            AXButton|title=|desc=Applications Google|value=
+                          AXPopUpButton|title=|desc=Compte Google Hakim Ouahabi (ouahabi.hakim@gmail.com)|value=
+                                  AXLink|title=|desc=Tous|value=
+                                    AXStaticText|title=|desc=|value=Tous
+                                  AXLink|title=|desc=Shopping|value=
+                                      AXStaticText|title=|desc=|value=Shopping
+                                  AXLink|title=|desc=Images|value=
+                                    AXStaticText|title=|desc=|value=Images
+                                  AXLink|title=|desc=Vidéos|value=
+                                    AXStaticText|title=|desc=|value=Vidéos
+                                  AXLink|title=|desc=Actualités|value=
+                                    AXStaticText|title=|desc=|value=Actualités
+                                  AXLink|title=|desc=Vidéos courtes|value=
+                                    AXStaticText|title=|desc=|value=Vidéos courtes
+                                  AXLink|title=|desc=Web|value=
+                                    AXStaticText|title=|desc=|value=Web
+                                  AXButton|title=Plus de filtres|desc=|value=
+                                    AXGroup|title=|desc=Plus de filtres|value=
+                                      AXStaticText|title=|desc=|value=Plus
+                        AXHeading|title=Résultats de recherche|desc=|value=1
+                          AXStaticText|title=|desc=|value=Résultats de recherche
+                              AXHeading|title=Affiner les résultats|desc=|value=2
+                                AXStaticText|title=|desc=|value=Affiner les résultats
+                                        AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Nouveau
+                                        AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=Occasion
+                                        AXLink|title=|desc=Filtre À proximité. Non sélectionné.|value=
+                                          AXGroup|title=|desc=Filtre À proximité. Non sélectionné.|value=
+                                            AXStaticText|title=|desc=|value=À proximité
+                                        AXButton|title=Trier par|desc=|value=
+                                              AXStaticText|title=|desc=|value=Trier par
+                                              AXLink|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                AXGroup|title=|desc=Supprimer le filtre Pertinence. Sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Pertinence
+                                              AXLink|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre croissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre croissant
+                                              AXLink|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Prix : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Prix : ordre décroissant
+                                              AXLink|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Note : ordre décroissant. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Note : ordre décroissant
+                                        AXButton|title=Prix|desc=|value=
+                                              AXStaticText|title=|desc=|value=Prix
+                                              AXLink|title=|desc=Filtre Moins de 2 000 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Moins de 2 000 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Moins de 2 000 €
+                                              AXLink|title=|desc=Filtre Plus de 2 000 €. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Plus de 2 000 €. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Plus de 2 000 €
+                                                  AXTextField|title=|desc=Prix minimal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Min.
+                                                  AXTextField|title=|desc=Prix maximal ( €)|value=
+                                                  AXStaticText|title=|desc=|value=Max.
+                                              AXButton|title=OK|desc=|value=
+                                        AXButton|title=Catégorie|desc=|value=
+                                              AXStaticText|title=|desc=|value=Catégorie
+                                              AXLink|title=|desc=Filtre Fauteuils de bureau. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Fauteuils de bureau. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Fauteuils de bureau
+                                              AXLink|title=|desc=Filtre Fauteuils de jeux. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Fauteuils de jeux. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Fauteuils de jeux
+                                              AXLink|title=|desc=Filtre Chaises de salon-séjour. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Chaises de salon-séjour. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Chaises de salon-séjour
+                                              AXLink|title=|desc=Filtre Sièges ergonomiques de bureau. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Sièges ergonomiques de bureau. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Sièges ergonomiques de bureau
+                                          AXButton|title=Voir 3 autre(s)|desc=|value=
+                                        AXButton|title=Marque|desc=|value=
+                                              AXStaticText|title=|desc=|value=Marque
+                                              AXLink|title=|desc=Filtre vidaXL. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre vidaXL. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=vidaXL
+                                              AXLink|title=|desc=Filtre Alpha Techno. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Alpha Techno. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Alpha Techno
+                                              AXLink|title=|desc=Filtre SUPRA France. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre SUPRA France. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=SUPRA France
+                                              AXLink|title=|desc=Filtre ATX. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre ATX. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=ATX
+                                          AXButton|title=Voir 26 autre(s)|desc=|value=
+                                        AXButton|title=Matériau du cadre|desc=|value=
+                                              AXStaticText|title=|desc=|value=Matériau du cadre
+                                              AXLink|title=|desc=Filtre Bois. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Bois. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Bois
+                                              AXLink|title=|desc=Filtre Bois manufacturé. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Bois manufacturé. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Bois manufacturé
+                                        AXButton|title=Magasins|desc=|value=
+                                              AXStaticText|title=|desc=|value=Magasins
+                                              AXLink|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre ManoMano.fr. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=ManoMano.fr
+                                              AXLink|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Leroy Merlin. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Leroy Merlin
+                                              AXLink|title=|desc=Filtre Carrefour. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Carrefour. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Carrefour
+                                              AXLink|title=|desc=Filtre Nature & Découvertes FR. Non sélectionné.|value=
+                                                AXGroup|title=|desc=Filtre Nature & Découvertes FR. Non sélectionné.|value=
+                                                  AXStaticText|title=|desc=|value=Nature & Découvertes FR
+                                          AXButton|title=Voir 20 autre(s)|desc=|value=
+                          AXGroup|title=|desc=Filtre|value=
+                                    AXCheckBox|title=|desc=Tous les filtres.|value=1
+                                      AXLink|title=|desc=Filtre Nouveau. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Nouveau
+                                      AXLink|title=|desc=Filtre Occasion. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Occasion
+                                      AXLink|title=|desc=Filtre Moins de 2 000 €. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Moins de 2 000 €
+                                      AXLink|title=|desc=Filtre Fauteuils de bureau. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Fauteuils de bureau
+                                      AXLink|title=|desc=Filtre À proximité. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=À proximité
+                                      AXLink|title=|desc=Filtre Chaises longues. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Chaises longues
+                                      AXLink|title=|desc=Filtre Fauteuils de jeux. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Fauteuils de jeux
+                                      AXLink|title=|desc=Filtre Chaises de salon-séjour. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Chaises de salon-séjour
+                                      AXLink|title=|desc=Filtre Sièges ergonomiques de bureau. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Sièges ergonomiques de bureau
+                                      AXLink|title=|desc=Filtre Chaises pour enfants. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Chaises pour enfants
+                                      AXLink|title=|desc=Filtre Fauteuils œuf. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Fauteuils œuf
+                                      AXLink|title=|desc=Filtre Canapés simples et modulables. Non sélectionné.|value=
+                                          AXStaticText|title=|desc=|value=Canapés simples et modulables
+                                AXGroup|title=|desc=Annonces|value=
+                                              AXHeading|title=Produits sponsorisés|desc=|value=2
+                                                  AXStaticText|title=|desc=|value=Produits sponsorisés
+                                                AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil de pédicure SPA avec hydromassage et massage de dos | Blanc cassé | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de pédicure SPA avec hydromassage et massage de dos | Blanc cassé | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 564,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 487 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil de pédicure spa et hydromassage avec accoudoirs | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de pédicure spa et hydromassage avec accoudoirs | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 509,95 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 434 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil de pédicure avec système hydro-massage | Blanc | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de pédicure avec système hydro-massage | Blanc | Quirumed
+                                                    AXStaticText|title=|desc=|value=2 119,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 124,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=2 014 € après application du code
+                                                    AXLink|title=|desc= à (auparavant 2 112 € chez Quirumed Fournitures Médicales)|value=
+                                                      AXLink|title=|desc= à (auparavant 2 112 € chez Quirumed Fournitures Médicales)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Fauteuil de shampoing spa avec massage et LED | Beige | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de shampoing spa avec massage et LED | Beige | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 799,99 €
+                                                    AXStaticText|title=|desc=|value=2 112 
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                    AXLink|title=|desc= à chez Salonplus.fr|value=
+                                                      AXLink|title=|desc= à chez Salonplus.fr|value=
+                                                    AXHeading|title=Fauteuil de Massage Électrique | Sakura Prime 101, Beige, Crème, Similicuir, Chauffant, Gravité Zéro | Fauteuil Massant Professionnel | Salonplus.fr|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de Massage Électrique | Sakura Prime 101, Beige, Crème, Similicuir, Chauffant, Gravité Zéro | Fauteuil Massant Professionnel | Salonplus.fr
+                                                    AXStaticText|title=|desc=|value=889,00 €
+                                                    AXGroup|title=|desc=Vendu par Salonplus.fr|value=
+                                                      AXStaticText|title=|desc=|value=Salonplus.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Beige, Crème
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil électrique multifonctionnel avec 4 moteurs | Noir | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil électrique multifonctionnel avec 4 moteurs | Noir | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 234,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 72,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 173 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil esthétique électrique 3 sections 1 moteur – soins professionnels – blanc|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil esthétique électrique 3 sections 1 moteur – soins professionnels – blanc
+                                                    AXStaticText|title=|desc=|value=624,95 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 56,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=594 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil esthétique électrique 3 sections 1 moteur – soins professionnels – bleu|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil esthétique électrique 3 sections 1 moteur – soins professionnels – bleu
+                                                    AXStaticText|title=|desc=|value=684,95 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 56,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=651 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Table SPA avec LED, fonction chaleur, massage et inclinaison | Blanc | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Table SPA avec LED, fonction chaleur, massage et inclinaison | Blanc | Quirumed
+                                                    AXStaticText|title=|desc=|value=2 099,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 103,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 995 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Lit de spa électrique à 2 moteurs, dossier réglable et meuble avec base en ébène | Blanc cassé | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Lit de spa électrique à 2 moteurs, dossier réglable et meuble avec base en ébène | Blanc cassé | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 274,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 114,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 211 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Table Divan SPA avec chromothérapie LED et caisson | Blanc cassé | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Table Divan SPA avec chromothérapie LED et caisson | Blanc cassé | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 749,95 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 662 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Divan SPA chauffant 3 panneaux et 4 moteurs | Vison | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Divan SPA chauffant 3 panneaux et 4 moteurs | Vison | Quirumed
+                                                    AXStaticText|title=|desc=|value=2 049,95 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 103,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 947 € après application du code
+                                                    AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXLink|title=|desc= à chez vevor.fr|value=
+                                                    AXHeading|title=VEVOR Fauteuil de Massage avec Piste Sl Flexible Masseur Shiatsu 3D Complet du Corps Zéro Gravité 10 à 18 Modes Automatiques Chauffage Haut-parleur|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=VEVOR Fauteuil de Massage avec Piste Sl Flexible Masseur Shiatsu 3D Complet du Corps Zéro Gravité 10 à 18 Modes Automatiques Chauffage Haut-parleur
+                                                    AXStaticText|title=|desc=|value=1 060,90 €
+                                                    AXGroup|title=|desc=Vendu par vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=vevor.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,7 sur 5 (68) avis d'utilisateurs|value=
+                                                      AXStaticText|title=|desc=|value=Relax
+                                                      AXStaticText|title=|desc=|value= · 
+                                                      AXStaticText|title=|desc=|value=Cuir synthétique
+                                                    AXLink|title=|desc= à chez ZenGrowth.fr|value=
+                                                      AXLink|title=|desc= à chez ZenGrowth.fr|value=
+                                                    AXHeading|title=ZENGROWTH Chaise de massage Legian pliante Bleu|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=ZENGROWTH Chaise de massage Legian pliante Bleu
+                                                    AXStaticText|title=|desc=|value=379,00 €
+                                                    AXGroup|title=|desc=Vendu par ZenGrowth.fr|value=
+                                                      AXStaticText|title=|desc=|value=ZenGrowth.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,9 sur 5 (8) avis d'utilisateurs|value=
+                                                      AXStaticText|title=|desc=|value=Chaise de massage
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil de pédicure spa avec accoudoirs | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de pédicure spa avec accoudoirs | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 369,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 301 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Table SPA avec hydrothérapie, LED et fonction chaleur | Blanc | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Table SPA avec hydrothérapie, LED et fonction chaleur | Blanc | Quirumed
+                                                    AXStaticText|title=|desc=|value=2 999,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 114,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=2 850 € après application du code
+                                                      AXStaticText|title=|desc=|value=Table de massage
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Table Divan SPA avec chromothérapie LED et caisson | Marron | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Table Divan SPA avec chromothérapie LED et caisson | Marron | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 599,95 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 520 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil de pédicure avec système hydro-massage | Noir | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de pédicure avec système hydro-massage | Noir | Quirumed
+                                                    AXStaticText|title=|desc=|value=2 119,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 124,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=2 014 € après application du code
+                                                    AXLink|title=|desc= à chez Global Relax|value=
+                                                      AXLink|title=|desc= à chez Global Relax|value=
+                                                    AXHeading|title=Fauteuil de massage 5D Kronos ((Édition Limitée) - Global Relax|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de massage 5D Kronos ((Édition Limitée) - Global Relax
+                                                    AXStaticText|title=|desc=|value=4 999,99 €
+                                                    AXGroup|title=|desc=Vendu par Global Relax|value=
+                                                      AXStaticText|title=|desc=|value=Global Relax
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,8 sur 5 (9) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil de pédicure SPA avec hydromassage | Marron | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de pédicure SPA avec hydromassage | Marron | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 424,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 354 € après application du code
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil esthétique électrique 3 moteurs – multifonction avec jambières – bleu|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil esthétique électrique 3 moteurs – multifonction avec jambières – bleu
+                                                    AXStaticText|title=|desc=|value=1 189,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 56,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 130 € après application du code
+                                                    AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=8 % DE REMISE
+                                                    AXHeading|title=VEVOR Fauteuil de massage avec rail Sl fauteuil relaxation massage 3D inclinable zéro gravité 18 modes automatiques chauffant avec pédale|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=VEVOR Fauteuil de massage avec rail Sl fauteuil relaxation massage 3D inclinable zéro gravité 18 modes automatiques chauffant avec pédale
+                                                    AXStaticText|title=|desc=|value=1 229,90 €
+                                                    AXGroup|title=|desc=Vendu par vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=vevor.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=1 132 € après application du code
+                                                      AXStaticText|title=|desc=|value=Relax
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Table de massage électrique à trois moteurs pour Spa | Vison | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Table de massage électrique à trois moteurs pour Spa | Vison | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 399,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 103,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 330 € après application du code
+                                                      AXStaticText|title=|desc=|value=Table de massage
+                                                    AXLink|title=|desc= à chez Kaufland.fr|value=
+                                                      AXLink|title=|desc= à chez Kaufland.fr|value=
+                                                    AXHeading|title=fauteuil de massage intégral 4D, avec fonction chauffage, massage en profondeur, adapté à tout le corps, rails Bluetooth SL Blanc L155xL76xH116c...|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=fauteuil de massage intégral 4D, avec fonction chauffage, massage en profondeur, adapté à tout le corps, rails Bluetooth SL Blanc L155xL76xH116c...
+                                                    AXStaticText|title=|desc=|value=1 799,00 €
+                                                    AXGroup|title=|desc=Vendu par Kaufland.fr|value=
+                                                      AXStaticText|title=|desc=|value=Kaufland.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Chaise de massage
+                                                    AXLink|title=|desc= à chez Fitshop.fr|value=
+                                                      AXLink|title=|desc= à chez Fitshop.fr|value=
+                                                    AXHeading|title=Fauteuil de massage Taurus XL Noir & gris|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de massage Taurus XL Noir & gris
+                                                    AXStaticText|title=|desc=|value=1 999,00 €
+                                                    AXGroup|title=|desc=Vendu par Fitshop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Fitshop.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Avant : 2 499 €
+                                                    AXLink|title=|desc= à chez Gorilla Sports France|value=
+                                                      AXLink|title=|desc= à chez Gorilla Sports France|value=
+                                                    AXHeading|title=Fauteuil de massage MX 10.0z Maxxus|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de massage MX 10.0z Maxxus
+                                                    AXStaticText|title=|desc=|value=1 599,99 €
+                                                    AXGroup|title=|desc=Vendu par Gorilla Sports France|value=
+                                                      AXStaticText|title=|desc=|value=Gorilla Sports France
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,8 sur 5 (12) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Global Relax|value=
+                                                      AXLink|title=|desc= à chez Global Relax|value=
+                                                    AXHeading|title=Fauteuil De Massage Compact 2d – Produit Officiel Du Real Madrid - Real Madrid|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil De Massage Compact 2d – Produit Officiel Du Real Madrid - Real Madrid
+                                                    AXStaticText|title=|desc=|value=999,99 €
+                                                    AXGroup|title=|desc=Vendu par Global Relax|value=
+                                                      AXStaticText|title=|desc=|value=Global Relax
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,8 sur 5 (72) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez vevor.fr|value=
+                                                      AXLink|title=|desc= à chez vevor.fr|value=
+                                                    AXHeading|title=VEVOR Fauteuil de massage avec rail Sl fauteuil relaxation massage 3D/4D inclinable zéro gravité mode étirement yoga avec voix Ia chauffage 36|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=VEVOR Fauteuil de massage avec rail Sl fauteuil relaxation massage 3D/4D inclinable zéro gravité mode étirement yoga avec voix Ia chauffage 36
+                                                    AXStaticText|title=|desc=|value=1 959,90 €
+                                                    AXGroup|title=|desc=Vendu par vevor.fr|value=
+                                                      AXStaticText|title=|desc=|value=vevor.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,2 sur 5 (31) avis d'utilisateurs|value=
+                                                      AXStaticText|title=|desc=|value=Relax
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil électrique à 2 moteurs et 3 places | Noir | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil électrique à 2 moteurs et 3 places | Noir | Quirumed
+                                                    AXStaticText|title=|desc=|value=949,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 62,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=902 € après application du code
+                                                    AXLink|title=|desc= à chez Aosom.fr|value=
+                                                      AXLink|title=|desc= à chez Aosom.fr|value=
+                                                    AXHeading|title=HOMCOM Fauteuil de massage avec fonction de chaleur et d'inclinaison, pivotant, jusqu'à 150 kg, structure en métal, 98x90x98cm, Beige|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=HOMCOM Fauteuil de massage avec fonction de chaleur et d'inclinaison, pivotant, jusqu'à 150 kg, structure en métal, 98x90x98cm, Beige
+                                                    AXStaticText|title=|desc=|value=427,90 €
+                                                    AXGroup|title=|desc=Vendu par Aosom.fr|value=
+                                                      AXStaticText|title=|desc=|value=Aosom.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,1 sur 5 (15) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Salonplus.fr|value=
+                                                      AXLink|title=|desc= à chez Salonplus.fr|value=
+                                                    AXHeading|title=Fauteuil de massage électrique Sakura Prime 108 | Beige, Éco-cuir, Fonction chauffante, Mode gravité zéro, Ergonomique | Fauteuil relaxant, Massage|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de massage électrique Sakura Prime 108 | Beige, Éco-cuir, Fonction chauffante, Mode gravité zéro, Ergonomique | Fauteuil relaxant, Massage
+                                                    AXStaticText|title=|desc=|value=889,00 €
+                                                    AXGroup|title=|desc=Vendu par Salonplus.fr|value=
+                                                      AXStaticText|title=|desc=|value=Salonplus.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Blanc
+                                                    AXLink|title=|desc= à chez Juskys Frankreich|value=
+                                                      AXLink|title=|desc= à chez Juskys Frankreich|value=
+                                                    AXHeading|title=Fauteuil de massage Naxos | Juskys | Avec fonction de massage de tout le corps pour une détente bienfaisante|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de massage Naxos | Juskys | Avec fonction de massage de tout le corps pour une détente bienfaisante
+                                                    AXStaticText|title=|desc=|value=719,99 €
+                                                    AXGroup|title=|desc=Vendu par Juskys Frankreich|value=
+                                                      AXStaticText|title=|desc=|value=Juskys Frankreich
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Lunzofrance.fr|value=
+                                                      AXLink|title=|desc= à chez Lunzofrance.fr|value=
+                                                    AXHeading|title=Fauteuil de massage électrique 4D corps entier Bluetooth LCD contrôle 142 × 75 × 104 cm 220 V 90 W massage par airbags blanc|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de massage électrique 4D corps entier Bluetooth LCD contrôle 142 × 75 × 104 cm 220 V 90 W massage par airbags blanc
+                                                    AXStaticText|title=|desc=|value=2 480,31 €
+                                                    AXGroup|title=|desc=Vendu par Lunzofrance.fr|value=
+                                                      AXStaticText|title=|desc=|value=Lunzofrance.fr
+                                                      AXStaticText|title=|desc=|value=+ 1,19 € de frais de port
+                                                    AXLink|title=|desc= à chez ZenGrowth.fr|value=
+                                                      AXLink|title=|desc= à chez ZenGrowth.fr|value=
+                                                    AXHeading|title=Chaise de massage - Valo - Bleu-foncé, 7kg, Aluminium, Cuir PU|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Chaise de massage - Valo - Bleu-foncé, 7kg, Aluminium, Cuir PU
+                                                    AXStaticText|title=|desc=|value=299,00 €
+                                                    AXGroup|title=|desc=Vendu par ZenGrowth.fr|value=
+                                                      AXStaticText|title=|desc=|value=ZenGrowth.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,6 sur 5 (30) avis d'utilisateurs|value=
+                                                      AXStaticText|title=|desc=|value=Chaise de massage
+                                                    AXLink|title=|desc= à chez Vente-unique.com|value=
+                                                      AXLink|title=|desc= à chez Vente-unique.com|value=
+                                                    AXHeading|title=Fauteuil massant en simili -Système zero gravité - Beige - MOWATA|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil massant en simili -Système zero gravité - Beige - MOWATA
+                                                    AXStaticText|title=|desc=|value=1 299,99 €
+                                                    AXGroup|title=|desc=Vendu par Vente-unique.com|value=
+                                                      AXStaticText|title=|desc=|value=Vente-unique.com
+                                                      AXStaticText|title=|desc=|value=+ 133,99 € de frais de port
+                                                      AXStaticText|title=|desc=|value=Offre spéciale
+                                                    AXLink|title=|desc= à chez Global Relax|value=
+                                                      AXLink|title=|desc= à chez Global Relax|value=
+                                                    AXHeading|title=Fauteuil de Massage 7D - Da Vinci Medic|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de Massage 7D - Da Vinci Medic
+                                                    AXStaticText|title=|desc=|value=9 499,99 €
+                                                    AXGroup|title=|desc=Vendu par Global Relax|value=
+                                                      AXStaticText|title=|desc=|value=Global Relax
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                    AXLink|title=|desc= à chez Salonplus.fr|value=
+                                                      AXLink|title=|desc= à chez Salonplus.fr|value=
+                                                    AXHeading|title=Fauteuil de Massage Électrique | Sakura Prime 101, Noir, Similicuir, Chauffant, Gravité Zéro | Fauteuil Massant Professionnel | Salonplus.fr|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de Massage Électrique | Sakura Prime 101, Noir, Similicuir, Chauffant, Gravité Zéro | Fauteuil Massant Professionnel | Salonplus.fr
+                                                    AXStaticText|title=|desc=|value=889,00 €
+                                                    AXGroup|title=|desc=Vendu par Salonplus.fr|value=
+                                                      AXStaticText|title=|desc=|value=Salonplus.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Noir
+                                                    AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXLink|title=|desc= à chez Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=5 % DE REMISE
+                                                    AXHeading|title=Fauteuil de Pédicure SPA Hydromassage, Plusieurs Couleurs | Quirumed|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de Pédicure SPA Hydromassage, Plusieurs Couleurs | Quirumed
+                                                    AXStaticText|title=|desc=|value=1 564,99 €
+                                                    AXGroup|title=|desc=Vendu par Quirumed Fournitures Médicales|value=
+                                                      AXStaticText|title=|desc=|value=Quirumed Fournitures Médicales
+                                                      AXStaticText|title=|desc=|value=+ 93,90 € de frais de port
+                                                      AXStaticText|title=|desc=|value=1 487 € après application du code
+                                                    AXLink|title=|desc= à (auparavant 5 000 € chez Global Relax)|value=
+                                                      AXLink|title=|desc= à (auparavant 5 000 € chez Global Relax)|value=
+                                                        AXStaticText|title=|desc=|value=PROMOTION
+                                                    AXHeading|title=Samsara (3d) - Système De Massage 3d|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Samsara (3d) - Système De Massage 3d
+                                                    AXStaticText|title=|desc=|value=3 499,99 €
+                                                    AXStaticText|title=|desc=|value=5 000 
+                                                    AXGroup|title=|desc=Vendu par Global Relax|value=
+                                                      AXStaticText|title=|desc=|value=Global Relax
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXImage|title=|desc=Note : 4,6 sur 5 (24) avis d'utilisateurs|value=
+                                                    AXLink|title=|desc= à chez Fitshop.fr|value=
+                                                      AXLink|title=|desc= à chez Fitshop.fr|value=
+                                                    AXHeading|title=Fauteuil de massage Taurus M gris|desc=|value=3
+                                                        AXStaticText|title=|desc=|value=Fauteuil de massage Taurus M gris
+                                                    AXStaticText|title=|desc=|value=699,00 €
+                                                    AXGroup|title=|desc=Vendu par Fitshop.fr|value=
+                                                      AXStaticText|title=|desc=|value=Fitshop.fr
+                                                    AXStaticText|title=|desc=|value=Gratuite
+                                                      AXStaticText|title=|desc=|value=Avant : 899 €
+                                                      AXStaticText|title=|desc=|value=Gris
+                                                            AXButton|title=|desc=Medisana Siège massant de massage et relaxation RC 450. Prix actuel : 499,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Nature & Découvertes Siège de massage shiatsu chauffant dos complet 4 têtes rotatives détente ciblée. Prix actuel : 149,00 €. Nature & Découvertes FR. En magasin. Retours gratuits sous 30 jour(s). Note : 4,6 sur 5. 13 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=HealthRelife Fauteuil de massage complet du corps avec balayage corporel 4D mains robotiques Shiatsu intelligente avec fonction vocale Chauffage. Prix actuel : 2 299,00 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Zen de massage 4 mains. Prix actuel : 260,93 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=JYSK Fauteuil de massage VONSILD tissu. Prix actuel : 499,00 €. JYSK. Retours à vie. Note : 4,3 sur 5. 48 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Homcom Fauteuil de Massage releveur électrique Réglable tissu gris. Prix bas. Prix actuel : 384,90 €. Prix habituel : 400 €. Plus de prix disponibles. Carrefour et plus. Note : 4,6 sur 5. 7 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Beurer Fauteuil de massage shiatsu MC 3800. PROMOTION. Prix actuel : 1 439,99 €. Avant : 1 600 €. Plus de prix disponibles. Fnac et plus. Note : 4,5 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=HealthRelife Fauteuil de Massage pour Tout Le Corps Chaise de Massage Intelligente Zero Gravity. PROMOTION. Prix actuel : 1 999,00 €. Avant : 2 299 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Costway Fauteuil de Massage Électrique Fauteuil Inclinable SL avec 12 Modes Chauffage Massage. Prix actuel : 1 599,99 €. Plus de prix disponibles. Leroy Merlin et plus. Retours sous 180 jour(s). Note : 4,6 sur 5. 115 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de massage rail SL VEVOR,relaxation 3D inclinable zéro gravité. PROMOTION. Prix actuel : 1 158,04 €. Avant : 1 230 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,2 sur 5. 14 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                          AXHeading|title=Rechercher par prix|desc=|value=2
+                                            AXStaticText|title=|desc=|value=Rechercher par prix
+                                            AXPopUpButton|title=À propos de ce résultat|desc=|value=
+                                              AXButton|title=|desc=À propos de ce résultat|value=
+                                            AXHeading|title=Moins que 600 € .|desc=|value=3
+                                              AXButton|title=Moins que 600 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=Moins que 600 €
+                                                  AXStaticText|title=|desc=|value=.
+                                                      AXList|title=|desc=Moins que 600 €|value=
+                                                            AXButton|title=|desc=Medisana Siège massant de massage et relaxation RC 450. Prix actuel : 499,99 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                        AXStaticText|title=|desc=|value=Medisana Siège massant de massage et relaxation RC 450
+                                                                      AXGroup|title=|desc=Prix actuel : 499,99 €. Plus de prix disponibles. |value=
+                                                                      AXStaticText|title=|desc=|value=Boulanger
+                                                                      AXStaticText|title=|desc=|value= et plus
+                                                                        AXStaticText|title=|desc=|value=En magasin
+                                                                        AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                      AXImage|title=|desc=Note : 4,0 sur 5. 1 avis. |value=
+                                                            AXButton|title=|desc=Nature & Découvertes Siège de massage shiatsu chauffant dos complet 4 têtes rotatives détente ciblée. Prix actuel : 149,00 €. Nature & Découvertes FR. En magasin. Retours gratuits sous 30 jour(s). Note : 4,6 sur 5. 13 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                        AXStaticText|title=|desc=|value=Nature & Découvertes Siège de massage shiatsu chauffant dos complet 4 têtes rotatives détente ciblée
+                                                                      AXGroup|title=|desc=Prix actuel : 149,00 €. |value=
+                                                                      AXStaticText|title=|desc=|value=Nature & Découvertes FR
+                                                                        AXStaticText|title=|desc=|value=En magasin
+                                                                        AXStaticText|title=|desc=|value=Retours gratuits sous 30 jour(s)
+                                                                      AXImage|title=|desc=Note : 4,6 sur 5. 13 avis. |value=
+                                                            AXButton|title=|desc=JYSK Fauteuil de massage VONSILD tissu. Prix actuel : 499,00 €. JYSK. Retours à vie. Note : 4,3 sur 5. 48 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                        AXStaticText|title=|desc=|value=JYSK Fauteuil de massage VONSILD tissu
+                                                                      AXGroup|title=|desc=Prix actuel : 499,00 €. |value=
+                                                                      AXStaticText|title=|desc=|value=JYSK
+                                                                        AXStaticText|title=|desc=|value=Retours à vie
+                                                                      AXImage|title=|desc=Note : 4,3 sur 5. 48 avis. |value=
+                                                            AXButton|title=|desc=Zen de massage 4 mains. Prix actuel : 260,93 €. Plus de prix disponibles. Boulanger et plus. En magasin. Retours sous 15 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                        AXStaticText|title=|desc=|value=Zen de massage 4 mains
+                                                                      AXGroup|title=|desc=Prix actuel : 260,93 €. Plus de prix disponibles. |value=
+                                                                      AXStaticText|title=|desc=|value=Boulanger
+                                                                      AXStaticText|title=|desc=|value= et plus
+                                                                        AXStaticText|title=|desc=|value=En magasin
+                                                                        AXStaticText|title=|desc=|value=Retours sous 15 jour(s)
+                                                                      AXImage|title=|desc=Note : 4,0 sur 5. 1 avis. |value=
+                                                            AXButton|title=|desc=HomCom Fauteuil de Massage Chauffant Inclinable Réglable. PROMOTION. Prix actuel : 286,90 €. Avant : 320 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,8 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                                        AXImage|title=|desc=PROMOTION. |value=
+                                                                        AXStaticText|title=|desc=|value=HomCom Fauteuil de Massage Chauffant Inclinable Réglable
+                                                                      AXGroup|title=|desc=Prix actuel : 286,90 €. Avant : 320 €. Plus de prix disponibles. |value=
+                                                                      AXStaticText|title=|desc=|value=Amazon.fr - Seller
+                                                                      AXStaticText|title=|desc=|value= et plus
+                                                                      AXImage|title=|desc=Note : 4,8 sur 5. 5 avis. |value=
+                                            AXHeading|title=600 €–1 500 € .|desc=|value=3
+                                              AXButton|title=600 €–1 500 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=600 €–1 500 €
+                                                  AXStaticText|title=|desc=|value=.
+                                            AXHeading|title=1 500 €–3 500 € .|desc=|value=3
+                                              AXButton|title=1 500 €–3 500 € .|desc=|value=
+                                                        AXStaticText|title=|desc=|value=1 500 €–3 500 €
+                                                  AXStaticText|title=|desc=|value=.
+                                      AXButton|title=Plus de produits|desc=|value=
+                                          AXStaticText|title=|desc=|value=Plus de produits
+                                                            AXButton|title=|desc=Fauteuil Relax Fauteuil De Massage Chaise De Massage Inclinable Noir Similicuir - Fauteuil Relax. Prix actuel : 230,98 €. Conforama. Retours gratuits sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Alpha Techno Fauteuil de massage at2200. Prix actuel : 2 029,00 €. Plus de prix disponibles. Nature & Découvertes FR et plus. Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Woltu Fauteuil de Massage Électrique Avec Repose-pied. PROMOTION. Prix actuel : 256,49 €. Avant : 270 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Zen de massage Etna spécialiste Shiatsu. Prix actuel : 61,99 €. Occasion.Plus de prix disponibles. Darty et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=JYSK Fauteuil de massage HADRUP. Prix actuel : 200,00 €. Avant : 249 €. JYSK. Retours à vie. Note : 4,3 sur 5. 128 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=HOME DELUXE Fauteuil de massage avec fonction zéro gravité HYLOS. Prix actuel : 3 059,00 €. Plus de prix disponibles. ManoMano.fr et plus. Retours sous 14 jour(s). Note : 5,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=HomCom Fauteuil de Massage Chauffant Inclinable Réglable. PROMOTION. Prix actuel : 286,90 €. Avant : 320 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,8 sur 5. 5 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=vidaXL Fauteuil de massage inclinable. Prix bas. Prix actuel : 170,99 €. Prix habituel : 190 €. Plus de prix disponibles. home24.fr et plus. Retours gratuits sous 30 jour(s). Note : 3,4 sur 5. 78 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de massage Easy Mass. Prix actuel : 4 690,00 €. Nature & Découvertes FR. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de Massage En Pu Beige Avec Repose-pieds. Prix actuel : 215,99 €. Conforama. Retours gratuits sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=HealthRelife Fauteuil de Massage pour Tout Le Corps - Chaise de Massage Intelligente Zero Gravity - Mains robotiques 3D avec Rail SL - Fauteuil de. PROMOTION. Prix actuel : 1 199,00 €. Avant : 1 349 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil massant relaxant Inada hcp-d6 Robostic. Prix actuel : 4 190,00 €. Sens Original. Retours gratuits sous 15 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de massage Taurus. PRIX EN BAISSE. Prix actuel : 1 199,00 €. Avant : 1 499 €. Fitshop.fr. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de massage rail SL,VEVOR relaxation 4D inclinable zéro gravité. Prix actuel : 1 673,99 €. Plus de prix disponibles. Darty et plus. Note : 3,0 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=ROTAI Fauteuil de massage massage complet du corps avec pétrissage et apesanteur. Prix bas. Prix actuel : 1 199,99 €. Prix habituel : 1 300 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de Massage Fauteuil Relax Chaise de Relax Inclinable Électrique Tissu. Prix actuel : 245,99 €. Plus de prix disponibles. Carrefour et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Torana Fauteuil de massage inclinable. Prix actuel : 312,57 €. Leroy Merlin. Retours sous 180 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de massage 4D avec 40 airbags, fonction chauffante, cuir marron, relaxation complète. Prix actuel : 2 899,00 €. Powergym. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Eco-de Fauteuil releveur. PROMOTION. Prix actuel : 404,10 €. Avant : 449 €. Plus de prix disponibles. ECO-DE et plus. Retours sous 14 jour(s). Note : 4,3 sur 5. 3 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=M Mcombo Fauteuil Relax électrique Fauteuil de Massage Fauteuil Tv Fonction inclinable Vibration Chauffage 7061De. PROMOTION. Prix actuel : 350,99 €. Avant : 390 €. Plus de prix disponibles. Amazon.fr - Seller et plus. Note : 4,8 sur 5. 8 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil massant Zen Olympus Gris. Prix actuel : 185,99 €. Occasion.Plus de prix disponibles. Darty et plus. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=HOME DELUXE Fauteuil de massage avec fonction zéro gravité KELSO. PROMOTION. Prix actuel : 1 119,00 €. Avant : 1 129 €. Plus de prix disponibles. Cdiscount et plus. Note : 4,8 sur 5. 38 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Human Touch Fauteuil de massage inclinable ht620. Prix actuel : 1 990,00 €. Sens Original. Retours gratuits sous 15 jour(s). Note : 4,0 sur 5. 1 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil inclinable de massage électrique Marron Tissu. Prix actuel : 518,99 €. Leroy Merlin. Retours sous 180 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de Massage pour Tout Le Corps. Prix actuel : 1 614,99 €. Amazon.fr - Seller. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de Massage Inclinable Fauteuil de Relaxation Avec Repose-pied Noir Tissu. Prix actuel : 180,99 €. Carrefour. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil Inclinable Avec Fonction Massage, Inclinable, Pivotant Et Massant, 4 Poches Latérales Et Télécommande, Gris Foncé. Prix actuel : 351,77 €. ManoMano.fr. Retours sous 14 jour(s). Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Global Relax Fauteuil de massage guru marron. Prix actuel : 1 034,99 €. Nature & Découvertes FR. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=Fauteuil de massage éco 40W. Prix actuel : 590,00 €. Poweride. Accéder à la visionneuse de produits pour cet article.|value=
+                                                            AXButton|title=|desc=M Mcombo Fauteuil relax électrique Fauteuil de massage Fauteuil Tv. Prix actuel : 389,99 €. Amazon.fr - Seller. Note : 4,9 sur 5. 22 avis. Accéder à la visionneuse de produits pour cet article.|value=
+                              AXGroup|title=|desc=Annonces|value=
+                                    AXHeading|title=Résultat sponsorisé|desc=|value=2
+                                      AXStaticText|title=|desc=|value=Résultat sponsorisé
+                                        AXLink|title=|desc=Le meilleur fauteuil massant | Fauteuil massant thérapeutique Komoder FR www.komoder.fr|value=
+                                          AXHeading|title=Le meilleur fauteuil massant | Fauteuil massant thérapeutique|desc=|value=3
+                                            AXStaticText|title=|desc=|value=Le meilleur fauteuil massant | Fauteuil massant thérapeutique
+                                              AXStaticText|title=|desc=|value=Komoder FR
+                                            AXStaticText|title=|desc=|value=www.komoder.fr
+                                          AXButton|title=|desc=Pourquoi cette annonce ?|value=
+                                        AXStaticText|title=|desc=|value=Relaxation et 
+                                          AXStaticText|title=|desc=|value=massage
+                                        AXStaticText|title=|desc=|value= à domicile. Un 
+                                          AXStaticText|title=|desc=|value=fauteuil de massage
+                                        AXStaticText|title=|desc=|value= adapté à toute la famille. Komoder Premium Store à Paris et Lyon - découvrez nos 
+                                          AXStaticText|title=|desc=|value=fauteuils de massage
+                                        AXStaticText|title=|desc=|value=. Promotion de la Semaine. 
+                                          AXStaticText|title=|desc=|value=Fauteuil
+                                        AXStaticText|title=|desc=|value= Haut de gamme.
+                                        AXLink|title=|desc=66 Rue de la Chaussée d'Antin, Paris|value=
+                                          AXStaticText|title=|desc=|value=66 Rue de la Chaussée d'Antin, Paris
+                                        AXStaticText|title=|desc=|value=‎
+                                        AXStaticText|title=|desc=|value=06 01 24 28 95
+                                        AXStaticText|title=|desc=|value=‎
+                                        AXButton|title=Ouvert aujourd'hui · 09:00 – 19:00|desc=|value=
+                                        AXButton|title=|desc=Nous appeler|value=
+                                              AXStaticText|title=|desc=|value=Nous appeler
+                                            AXStaticText|title=|desc=|value=Plus de 10 000 visites le mois dernier
+                                AXButton|title=Masquer le résultat sponsorisé|desc=|value=
+                                    AXStaticText|title=|desc=|value=Masquer le résultat sponsorisé
+                                AXHeading|title=Page Navigation|desc=|value=1
+                                  AXStaticText|title=|desc=|value=Page Navigation
+                                AXButton|title=|desc=Plus de résultats|value=
+                                      AXStaticText|title=|desc=|value=Plus de résultats
+                                AXStaticText|title=|desc=|value=✖
+                                AXImage|title=|desc=Pour obtenir les descriptions d'image manquantes, ouvrez le menu contextuel.|value=
+                                AXPopUpButton|title=|desc=|value=Télécharger
+                                  AXMenuItem|title=|desc=|value=Télécharger
+                                AXButton|title=Go|desc=|value=
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=40
+                                      AXStaticText|title=|desc=|value=Résultats de publicité
+                                      AXStaticText|title=|desc=|value=Annonces pour une offre de produit
+                                      AXStaticText|title=|desc=|value=1
+                                      AXStaticText|title=|desc=|value=40
+                                  AXButton|title=Téléchargez ces données|desc=|value=
+                                  AXWebArea|title=SEO Minion|desc=|value=
+                                          AXGroup|title=Audit. Optimize. Rank. All Free with our SEO Checker.|desc=|value=
+                                            AXStaticText|title=|desc=|value=Audit. Optimize. Rank. All Free with our 
+                                            AXLink|title=|desc=SEO Checker|value=
+                                              AXStaticText|title=|desc=|value=SEO Checker
+                                            AXStaticText|title=|desc=|value=.
+                        AXGroup|title=|desc=Notifications (F8)|value=
+              AXPopUpButton|title=|desc=Recherche dans les onglets|value=
+                AXRadioButton|title=|desc=fauteuil de massage - Google Shopping|value=true
+                  AXButton|title=|desc=Fermer|value=
+            AXButton|title=|desc=Nouvel onglet|value=
